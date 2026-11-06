@@ -1,6 +1,6 @@
 ---
-title: "Getting steel"
-description: "Steel is made using a Metal Refinery."
+title: "获取钢"
+description: "钢是用金属精炼器炼出来的。"
 source_url: https://www.guidesnotincluded.com/getting-steel
 archived: 2025-08-19
 archive_snapshot: https://web.archive.org/web/20250819122246id_/https://www.guidesnotincluded.com/getting-steel
@@ -8,101 +8,101 @@ archive_snapshot: https://web.archive.org/web/20250819122246id_/https://www.guid
 
 ![Building_Metal_Refinery.webp](assets/Building_Metal_Refinery-e14c7f2ed1.png)
 
-Metal refinery
+金属精炼器
 
 ![Building_Kiln.webp](assets/Building_Kiln-28437d3c78.png)
 
-Kiln
+窑炉
 
-Steel is made using a Metal Refinery.
+钢是用金属精炼器炼出来的。
 
-Metal refinery basics:
+金属精炼器基础：
 
-* It is unlocked through research (Smelting)
-* Once unlocked it is found under Refinement
-* It has liquid input and output slots
-* It requires a whopping 1,2Kw of power
+* 它通过研究解锁（熔炼）
+* 解锁之后可以在精炼分类下找到
+* 它有液体输入口和输出口
+* 它需要高达 1,2Kw 的电力
 
-For reference, 1,2Kw is the amount of power produced by two coal generators or three hamster wheels. Remember that regular wire can only handle 1Kw, so you'll need conductive or heavi-watt wire
+供参考：1,2Kw 相当于两台煤炭发电机或三台人力发电机发出的功率。记住普通电线只能承受 1Kw，所以你得用导线或高负荷电线
 
-Making steel requires Iron, Refined Carbon, and Lime
+炼钢需要铁、精炼碳和石灰
 
-* Iron can be refined from iron ore using a metal refinery or a rock crusher (iron can also be found on some maps)
-* Refined carbon is made from coal using a Kiln (found under refinement).
-* Lime is made with a rock crusher. Different materials can produce lime: fossil, egg shells, and pokeshell molts. (Fossil can be found in the [oil biome](getting-oil-petroleum-and-plastic.md).)
+* 铁可以用金属精炼器或碎石机从铁矿中提炼（有些地图上也能直接找到铁）
+* 精炼碳是用窑炉把煤加工出来的（在精炼分类下）。
+* 石灰是用碎石机做的。好几种材料都能产出石灰：化石、蛋壳和蟹壳。（化石可以在[油质生态](getting-oil-petroleum-and-plastic.md)里找到。）
 
-The metal refinery needs a steady supply of liquid for it to function. This liquid is used as coolant - it comes out hotter than it went in. (How much hotter depends on what metal you are refining.)
+金属精炼器要正常运转，就得有稳定的液体供给。这些液体是当冷却剂用的——出来的时候比进去的时候更热。（热多少取决于你在精炼哪种金属。）
 
-Dealing with coolant is the main challenge with running a metal refinery. There are different ways you can solve it. One standard approach (and what I usually do) is to reuse the same liquid, but cool it down in-between uses. We'll cover that soon. But first an easier approach: cool liquid geysers.
+处理冷却剂是运行金属精炼器的主要难题。解决办法有好几种。一种标准做法（也是我常用的）是重复使用同一种液体，但在两次使用之间把它降温。这个我们很快就讲。不过先讲个更简单的办法：低温液体间歇泉。
 
-Cool liquid geysers
+低温液体间歇泉
 
-If you have either a cool slush geyser or a cool salt slush geyser then you can use that liquid as coolant. The first asteroid in Spaced Out should have them. (The small asteroid, not "classic.")
+如果你有低温泥浆泉或低温盐泥泉，就可以拿那种液体当冷却剂。《眼冒金星！》的第一颗小行星上应该就有。（是那颗小行星，不是“经典”那颗。）
 
-(Note: this does not work with a normal salt geyser - it outputs very hot liquid.)
+（注意：普通的盐水泉不行——它喷出来的是很热的液体。）
 
 ![ONI-guide-CoolSaltSlush.png](assets/ONI-guide-CoolSaltSlush-761512e798.png)
 
-Cool Salt Slush Geyser
+低温盐泥泉
 
 ![ONI-guide-CoolSlush.png](assets/ONI-guide-CoolSlush-43bb9cefdf.png)
 
-Cool Slush Geyser
+低温泥浆泉
 
-The liquid from these geysers is so cold (-10C) that even after being run through a metal refinery it will still be cool enough to add to your water supply.
+这些间歇泉喷出的液体冷到（-10C）就算在金属精炼器里走了一趟，出来还是凉得可以直接补进你的供水里。
 
-(If it is a cool slush geyser, run it through a water sieve on its way to your water tank. If it is a cool salt slush geyser run it through a desalinator.)
+（如果是低温泥浆泉，就让它在进储水罐之前先过一遍净水器。如果是低温盐泥泉，就过一遍脱盐器。）
 
 ![ONI-guide-SteelTemporary.png](assets/ONI-guide-SteelTemporary-e2dcabe980.png)
 
-A temporary setup. Don't overthink it. A couple of coal generators and a battery. Heavi-watt wire all the way. Make your batch of steel and be done with it.
+临时方案。别想太多。两台煤炭发电机加一块蓄电池。全程高负荷电线。炼完你那一批钢就收工。
 
-Temporary setup
+临时方案
 
-A temporary setup can be done with any somewhat large body of water. (Try to avoid your fresh water, though - check other biomes instead.)
+随便找一片稍大的水体就能搭个临时方案。（不过尽量别用你的淡水——去别的生态找。）
 
-Simply build a liquid pump in a body of water, pump it to your metal refinery, and then have it output back into the same body of water. It will start heating up the pool of water, but you will be able to make some steel before heat becomes a serious problem.
+做法很简单：在水里放一台液泵，把液体泵进金属精炼器，再让它排回同一片水里。水会开始升温，但在热量变成严重问题之前，你已经能炼出一些钢了。
 
-If you are planning on making a lot of steel, go straight for a permanenet setup. (There is rarely a need for a temporary setup.)
+如果你打算炼很多钢，那就直接上永久方案。（其实很少真需要临时方案。）
 
-A permanent setup
+永久方案
 
-You can reuse the same coolant by cooling it down between uses.
+只要在两次使用之间把冷却剂降温，就能重复使用同一种冷却剂。
 
-This can be done by having the coolant run through a body of water - through radiant liquid pipes to help the heat transfer. As it runs through the water, it transfers heat to the water and cools itself down in the process.
+做法是让冷却剂穿过一片水——走导热液体管道以便更好地传热。冷却剂在水里流过时把热量传给水，自己也顺便降了温。
 
-The body of water it runs through will heat up and eventually boil, turning to steam. This is where a steam turbine comes in. You can place a steam turbine over the body of water. It will then turn some of the heat into energy. In the process some of the steam will be turned back into (hot) water. This can be dumped back into the body of water.
+它穿过的那片水会升温，最后沸腾变成蒸汽。这时候就该蒸汽涡轮机登场了。你可以在水面上放一台蒸汽涡轮机，它会把这部分热量转化成电力。在这个过程中，一部分蒸汽又变回（热）水。这些水可以直接排回那片水里。
 
-(To make a steam turbine you will need some [plastic](getting-oil-petroleum-and-plastic.md).)
+（造蒸汽涡轮机需要一些[塑料](getting-oil-petroleum-and-plastic.md)。）
 
-This setup is probably a lot easier to grasp as a picture than my confusing explanations. Here:
+这套东西看图大概比我那一堆绕人的解释好懂得多。就这样：
 
 ![ONI-guide-SteelPermanent-1.png](assets/ONI-guide-SteelPermanent-1-e0e0f5f6fb.png)
 
 ![ONI-guide-SteelPermanent-2.png](assets/ONI-guide-SteelPermanent-2-dc19eeec41.png)
 
-The water tank doesn't need to be as large as in the picture above, but make it too small - and use your metal refinery too frequently - and you can get pipe damage from overheating. So too big is better than too small.
+储水罐不用像上图那么大，但要是做得太小——又用得那么勤——管道就会因为过热而损坏。所以宁可大一点，也别太小。
 
-This design can be paired with a cooling loop, in which case you would also put a thermo aquatuner in the pool of water. I will cover that later in the guide, but you can see pics of it in the [builds section](aquatuner-steam-turbine-cooling-loo.md). A cooling loop is also included in the [mini industry](mini-industry.md) section of the guide (a layout for cramming in a lot of machines in a small space.)
+这个设计可以和冷却回路搭配，那样的话你还要往水池里放一台液温调节器。这个我后面会讲，你也可以在[建造方案部分](aquatuner-steam-turbine-cooling-loo.md)看到图。指南的[迷你工业](mini-industry.md)部分里也有一套冷却回路（在很小的空间里塞进一堆机器的布局。）
 
-Regarding coolant
+关于冷却剂
 
-Whatever you use as coolant will get hot. So for your coolant you need a liquid that can handle getting hot. Water would boil. Use oil (petroleum works as well.) You can find oil in the [oil biome](getting-oil-petroleum-and-plastic.md).
+不管用什么当冷却剂，它都会变热。所以冷却剂得用一种耐得住高温的液体。水会沸腾。用原油（石油也行）。原油可以在[油质生态](getting-oil-petroleum-and-plastic.md)里找到。
 
-The metal refinery needs 400kg of coolant. However, it has a tank that can hold additional coolant. To enable the metal refinery to run non-stop and not have to wait for coolant to fill up, you should fill it with at least twice that amont (800-1200kg).
+金属精炼器需要 400kg 冷却剂。不过它本身还有个储罐，可以多装一些冷却剂。想让金属精炼器不停地跑、不用等冷却剂重新灌满，那你至少得灌进两倍的量（800-1200kg）。
 
-To fill the metal refinery with coolant you can simply build a temporary setup with a liquid pump and a bottle emptier, and have the pump connect to the metal refinery's piping.
+给金属精炼器灌冷却剂很简单：临时搭一套液泵加液桶排倒器，把泵接到金属精炼器的管道上就行。
 
 ![ONI-guide-SteelPermanent-3.png](assets/ONI-guide-SteelPermanent-3-3247ad1b09.png)
 
 ![ONI-guide-SteelPermanent-4.png](assets/ONI-guide-SteelPermanent-4-6545e15d36.png)
 
-Planning on including a cooling loop?
+打算加冷却回路？
 
-If you are planning on including a cooling loop in this design (which is a very common idea and something I do myself) then you will need 1200kg of steel for the thermo aquatuner.
+如果你打算在这个设计里加一条冷却回路（很常见的想法，我自己也这么干），那就得为液温调节器准备 1200kg 钢。
 
-Unless your water tank is very small, you will be able to make 1200kg of steel without the water getting to boiling point (or even scalding). Meaning you can refine your steel before enclosing your water tank completely, then add the thermo aquatuner and close up the design once you have your steel.
+除非你的储水罐特别小，否则炼这 1200kg 钢的过程中水都到不了沸点（甚至连烫都算不上）。也就是说，你可以先在完全封住储水罐之前把钢炼出来，然后装上液温调节器，拿到钢之后再把设计封口。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/getting-steel](https://www.guidesnotincluded.com/getting-steel) ([Wayback Machine snapshot](https://web.archive.org/web/20250819122246id_/https://www.guidesnotincluded.com/getting-steel)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/getting-steel](https://www.guidesnotincluded.com/getting-steel)（[Wayback Machine 快照](https://web.archive.org/web/20250819122246id_/https://www.guidesnotincluded.com/getting-steel)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

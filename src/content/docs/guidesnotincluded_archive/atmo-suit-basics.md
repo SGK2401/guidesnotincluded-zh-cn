@@ -1,73 +1,73 @@
 ---
-title: "Atmo Suits"
-description: "Atmo Suits allow your dupes to breath regardless of the atmosphere, as well as protect them from germs, debuffs from gases, and extreme temperatures."
+title: "气压服"
+description: "气压服让复制人不管周围是什么气体都能呼吸，还能保护他们免受病菌、气体带来的减益和极端温度的伤害。"
 source_url: https://www.guidesnotincluded.com/atmo-suit-basics
 archived: 2025-05-27
 archive_snapshot: https://web.archive.org/web/20250527195424id_/https://www.guidesnotincluded.com/atmo-suit-basics
 ---
 
-Atmo Suits allow your dupes to breath regardless of the atmosphere, as well as protect them from germs, debuffs from gases, and extreme temperatures.
+气压服让复制人不管周围是什么气体都能呼吸，还能保护他们免受病菌、气体带来的减益和极端温度的伤害。
 
-Before you head into the oil biome, you will want to suit up. Most, if not all, of the oil biome will be so hot that it will scald your dupes.
+进油质生态之前，你最好穿上装备。油质生态的大部分——甚至全部——都热到会把复制人烫伤。
 
-If you are going to spend any meaningful amount of time on the surface of the asteroid, you will want to suit up. In the base game an atmo suit works well for areas with space exposure. Spaced Out adds radiation, so there a Lead Suit is a better option when heading to the surface.
+如果你打算在小行星表面待上相当一段时间，也最好穿上装备。本体里，气压服在暴露于太空的区域很好用。《眼冒金星！》加了辐射，所以在那边去地表时铅服是更好的选择。
 
-Atmo suits are unlocked through research (in the Exosuits research branch).
+气压服靠研究解锁（在太空服研究分支）。
 
-Atmo suits are crafted using the Exosuit Forge (found under Stations).
+气压服要用太空服锻造台制作（在站台下面）。
 
 ![Building_Exosuit_Forge.webp](assets/Building_Exosuit_Forge-38dffe336c.avif)
 
-Exosuit Forge
+太空服锻造台
 
 ![Building_Atmo_Suit_Dock.webp](assets/Building_Atmo_Suit_Dock-33ec0829cf.avif)
 
-Atmo Suit Dock
+气压服存放柜
 
-Crafting an atmo suit requires Refined Metal and Reed Fiber.
+制作一件气压服需要精炼金属和芦苇纤维。
 
-* You can refine metal using the Rock Crusher.
-* Reed Fiber is harvested from Thimble Reed (found in the slime biome) or by shearing a (white) Drecko. (The blue Dreckos, aka Glossy Dreckos, give plastic instead of Reed Fiber when sheared.)
+* 你可以用碎石机精炼金属。
+* 芦苇纤维从顶针芦苇（在菌泥生态里）收获，或者给（白色）毛鳞壁虎剪毛得到。（蓝色的毛鳞壁虎，也就是滑鳞壁虎，剪毛时给的是塑料而不是芦苇纤维。）
 
-In addition to an atmo suit, you will need two buildings: an Atmo Suit Dock and an Atmo Suit Checkpoint (both found under Stations).
+除了气压服，你还需要两种建筑：气压服存放柜和气压服检查站（都在站台下面）。
 
 ![Building_Atmo_Suit_Checkpoint.webp](assets/Building_Atmo_Suit_Checkpoint-94b62b350d.avif)
 
-Atmo Suit Checkpoint
+气压服检查站
 
-Without an atmo suit checkpoint, dupes won't stop to put on (or take off) an atmo suit when they pass an atmo suit dock.
+没有气压服检查站，复制人经过气压服存放柜时不会停下来穿上（或脱下）气压服。
 
-To get a dupe to deliver a suit to a dock, click on the dock and select Deliver Suit.
+想让复制人把气压服送到存放柜，就点存放柜，选“运送气压服”。
 
-The atmo suit dock is where the atmo suit is stored and where it fills its oxygen tank. The atmo suit dock needs to be supplied with both power and oxygen.
+气压服存放柜是用来存气压服的地方，也是给气压服氧气瓶充氧的地方。气压服存放柜需要供电和供氧。
 
-(As an aside, Lead Suits function like atmo suits. They use docks and checkpoints. They need power and oxygen. They are unlocked through research and built in the exosuit forge. Lead suits require lead and glass to build.)
+（顺便说一句，铅服的用法跟气压服一样。它们也用存放柜和检查站。也需要电和氧气。它们靠研究解锁、在太空服锻造台制作。铅服制作需要铅和玻璃。）
 
-Let's take a look at a very simple setup.
+我们来看看一套非常简单的装置。
 
 ![ONI-guide-AtmoSuits-1.png](assets/ONI-guide-AtmoSuits-1-ae97b93a6d.avif)
 
-This example has only one atmo suit dock, but you can have as many as you want. Place them all next to one another, with no spaces in-between.
+这个例子里只有一个气压服存放柜，但你想放多少个都行。把它们并排紧挨着放，中间不留空格。
 
-The green bar in the lower part of the dock shows how much oxygen it has stored.
+存放柜下部的绿色条显示它存了多少氧气。
 
 ![ONI-guide-AtmoSuits-Gas.png](assets/ONI-guide-AtmoSuits-Gas-5c47ddf2fa.avif)
 
-Atmo suit docks will take damage from being pumped the wrong gas, so consider using a gas filter.
+气压服存放柜被泵入错误的气体会受损，所以考虑用个气体筛选器。
 
 ![ONI-guide-AtmoSuits-Power.png](assets/ONI-guide-AtmoSuits-Power-bbe403741d.avif)
 
-The atmo suit dock needs power or it won't fill the suit (or itself) with oxygen.
+气压服存放柜需要供电，否则不会给气压服（或它自己）充氧。
 
-Atmo suit checkpoints have a "Clearance" setting. (Click on the atmo suit checkpoint to see it.) It has two options: "Vacancy" and "Always."
+气压服检查站有个“通行许可”设置。（点气压服检查站就能看到。）有两个选项：“仅限空位”和“始终允许”。
 
-* When set to Vacancy a dupe will only be allowed out if there is a free atmo suit dock for them to store the suit in.
-* When set to Always they will always be allowed to exit. If there are no free atmo suit docks, they will drop the atmo suit on the gound as they exit.
+* 设成“仅限空位”时，只有当有空闲的气压服存放柜可以存气压服时，复制人才会被放行。
+* 设成“始终允许”时就总是放行。如果没有空闲的气压服存放柜，他们出去时会把气压服丢在地上。
 
-If a dupe has an accident while in a suit, the polluted water will stay in the suit until they take it off. When they take off the suit, the polluted water will pour out on the tile with the  atmo suit checkpoint.
+如果复制人穿着气压服出了“意外”，污染水会留在服里，直到他们脱下。脱下时，污染水会洒在气压服检查站所在的那一格上。
 
-Atmo suits will wear out over time and become unusable. You can fix them up again in the exosuit forge. This will require reed fiber. (Click on the exosuit forge and you can set worn atmo suits to always be turned into atmo suits.)
+气压服会随时间磨损、变得不能用。你可以在太空服锻造台把它们修好。修理需要芦苇纤维。（点开太空服锻造台，可以把磨损的气压服设成始终自动转换成气压服。）
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/atmo-suit-basics](https://www.guidesnotincluded.com/atmo-suit-basics) ([Wayback Machine snapshot](https://web.archive.org/web/20250527195424id_/https://www.guidesnotincluded.com/atmo-suit-basics)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/atmo-suit-basics](https://www.guidesnotincluded.com/atmo-suit-basics)（[Wayback Machine 快照](https://web.archive.org/web/20250527195424id_/https://www.guidesnotincluded.com/atmo-suit-basics)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

@@ -1,6 +1,6 @@
 ---
-title: "Base game compared with Spaced Out DLC"
-description: "How do they differ? Which one should you choose?"
+title: "本体与《眼冒金星！》DLC 对比"
+description: "它们有什么不同？你该选哪个？"
 source_url: https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806075330id_/https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc
@@ -8,52 +8,52 @@ archive_snapshot: https://web.archive.org/web/20250806075330id_/https://www.guid
 
 ![SpacedOut.jpg](assets/SpacedOut-9e70df6731.avif)
 
-How do they differ? Which one should you choose?
+它们有什么不同？你该选哪个？
 
-The short answer:
+简短的回答：
 
-In Spaced Out, research is a bit trickier, power is a lot easier \*on asteroids without comets\* (once you get hold of glass), and you can travel to other asteroids.
+在《眼冒金星！》里，研究要稍微麻烦一点，电力则轻松得多——\*在没有彗星的小行星上\*（前提是你搞到了玻璃），而且你能前往其他小行星。
 
-The long answer:
+详细的回答：
 
-As a general point: you can activate and deactivate the DLC whenever you want.
+先说个通用的点：DLC 你随时可以开启和关闭。
 
-In Spaced Out you can choose between "Classic" and "Spaced Out" when starting the game. If you choose classic you start on a large asteroid, like in the base game (but with DLC stuff unlocked). This alternative lessens the need for space travel.
+在《眼冒金星！》里，开始游戏时你可以在“经典”和“眼冒金星”之间选一个。如果选经典，你会像本体那样从一颗大型小行星起步（但 DLC 的内容是解锁的）。这个选项会降低太空旅行的必要性。
 
-And now on to some differences between the base game and the DLC.
+下面说说本体和 DLC 之间的一些差别。
 
-Space and other planets
+太空与其他行星
 
-In the base game you can send rockets off to other planets to gather materials but you can't actually visit those planets yourself.
+在本体里，你可以把火箭发射到其他行星去收集材料，但你自己没法真的去那些行星。
 
-With Spaced Out active you can visit a bunch of different planets. Your dupes can travel back and forth between them, build on them, ship resources between them, etc. Your starting asteroid is truly just your starting asteroid, and other asteroids (and new kinds of geysers) await.
+开启《眼冒金星！》之后，你可以造访一堆不同的小行星。你的复制人能在它们之间来回跑、在上面建造、在它们之间运送资源等等。你的起始小行星就真的只是你的起始小行星，其他小行星（还有新种类的间歇泉）都在等着你。
 
-However, (particularly if you choose the "Classic" start) space is also largely avoidable if you aren't hugely interested in that aspect of the game.
+不过（尤其是你选了“经典”开局的话），如果你对游戏的这一面没多大兴趣，太空基本上也是可以绕开的。
 
-Research
+研究
 
-In the base game you can research everything except some rocketry stuff using just water and dirt. (Research in Oxygen Not Included is done to unlock new buildings.) To unlock the whole research tree you will have to send up a few rockets to space (to gather data packets for research).
+在本体里，除了某些火箭相关的东西，你用点水和泥土就能研究出一切。（《缺氧》里的研究是用来解锁新建筑的。）要解锁整棵研究树，你还是得往太空发射几枚火箭（去收集研究用的数据包）。
 
-With Spaced Out, in addition to water and dirt you will have to do some radiation-based research to get to the mid-game. A fourth kind of research, needed to complete the research tree, uses Data Banks. Some Data Banks can be found on your starting asteroid. To unlock the whole research tree you will need to get more, for which you will need to send some rockets to space.
+在《眼冒金星！》里，除了水和泥土，你还得做一些基于辐射的研究才能进到中期。要完成研究树还需要第四种研究，它消耗数据磁盘。有些数据磁盘能在你的起始小行星上找到。想解锁整棵研究树，你就得搞到更多，而那意味着你得往太空发射几枚火箭。
 
-Solar power (or: the wonders of life without meteor showers)
+太阳能（或者：没有流星雨的生活多么美好）
 
-In the base game the challenge with getting to solar power isn't just being able to manufacture glass. The main issue is the frequent onslaught of meteors crashing down on the asteroid's surface. This is a problem that is entirely possible (though both laborious and tedious) to solve, but requires a little bit of engineering and a huge amount of steel, a late(ish)-game material.
+在本体里，搞太阳能发电的难点不只是能不能造出玻璃。主要问题在于小行星表面频繁遭流星猛砸。这个问题完全可以解决（虽然又费工又烦人），但需要一点工程设计和大量的钢——一种偏后期的材料。
 
-In Spaced Out, it used to be that there was only one asteroid with meteors. As of the Whatta Blast update (March, 2023), there are now meteor showers on several asteroids. However, you can change the frequency of meteor showers (or disable them completely) in the setting. (Also, my understanding is that previous saves from before the update remain meteor shower free.)
+在《眼冒金星！》里，以前只有一颗小行星有流星。到了 Whatta Blast 更新（2023 年 3 月），现在有好几颗小行星都有流星雨了。不过你可以在设置里改流星雨的频率（或者干脆关掉）。（另外据我所知，更新之前的老存档依旧没有流星雨。）
 
-Without meteor showers, mid-game power becomes much easier: as soon as you can get your hands on glass you can start tapping into solar power.
+没有流星雨，中期电力就轻松多了：只要你搞到玻璃，就能开始利用太阳能。
 
-(There are new buildings to help defend against meteor showers. I haven't pleyed around with them enough to have an opinion.)
+（有一些新建筑可以帮忙防流星雨。我还没怎么玩过它们，所以没什么看法。）
 
-My personal opinion
+我的个人意见
 
-Getting a break from meteor showers was one of my favourite things about the DLC. I'm not sure I'll learn to love their being part of my game again, but I'll give it a go.
+能从流星雨里喘口气，是我最喜欢这个 DLC 的地方之一。我不确定自己能不能重新爱上游戏里又有流星雨这回事，但我会试试看。
 
-But my personal hangups aside, I absolutely recommend getting the DLC. For the new geysers. For space travel. For a (potential) break from meteor showers. Or just to support Klei so they can keep developing new content.
+不过撇开我个人的心结不谈，我绝对推荐入手这个 DLC。为了新间歇泉。为了太空旅行。为了（可能）摆脱流星雨。或者单纯为了支持 Klei，让他们能继续开发新内容。
 
-Now let's dive into the actual game!
+好了，现在咱们潜入真正的游戏吧！
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc](https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc) ([Wayback Machine snapshot](https://web.archive.org/web/20250806075330id_/https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc](https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc)（[Wayback Machine 快照](https://web.archive.org/web/20250806075330id_/https://www.guidesnotincluded.com/base-game-versus-spaced-out-dlc)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

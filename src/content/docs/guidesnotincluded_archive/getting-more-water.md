@@ -1,80 +1,80 @@
 ---
-title: "Getting (more) water"
-description: "Sooner or later you will run low on water. Maybe you're reading this because your base is already critically low on water. So maybe I should hurry up and get\u2026"
+title: "获取（更多）水"
+description: "迟早你会缺水。也许你读这篇就是因为你的基地已经严重缺水了。那我或许该赶紧进入正题…"
 source_url: https://www.guidesnotincluded.com/getting-more-water
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806092524id_/https://www.guidesnotincluded.com/getting-more-water
 ---
 
-Sooner or later you will run low on water. Maybe you're reading this because your base is already critically low on water. So maybe I should hurry up and get to it.
+迟早你会缺水。也许你读这篇就是因为你的基地已经严重缺水了。那我或许该赶紧进入正题。
 
-We'll start with liquid you will have lying around the map, and how to turn that into water. Then cover vents and geysers with various liquids and how to make them the right temperature, either heating or cooling them.
+我们先从地图上现成的那些液体讲起，以及怎么把它们变成水。然后再讲各种液体的喷孔和间歇泉，还有怎么把它们弄到合适的温度——要么加热，要么降温。
 
-(A note on my general ignorance: there are both vents and geysers in Oxygen Not Included. I tend to forget this and often use "geyser" even when I'm talking about a vent. Don't let that confuse you, it's just me being sloppy.)
+（顺便坦白一下我的无知：《缺氧》里既有喷孔也有间歇泉。我老忘这茬，经常明明在说喷孔，嘴里却蹦出“间歇泉”。别被这个绕晕了，纯粹是我马虎。）
 
-## Turning not-water into water
+## 把不是水的东西变成水
 
-Your starting map will probably have pools of different kinds of liquids. In addition to water, look for polluted water, salt water and brine. These can all be turned into water by sending them through the correct machines.
+你的开局地图上大概会有好几种液体池子。除了水，还要留意污染水、盐水和浓盐水。它们都能送进对应的机器变成水。
 
-* Polluted water is turned into water by sending it through a water sieve (found under Refinement)
+* 污染水送进净水器就变成水（在精炼分类下）
 
-* Salt water and brine are turned into water by sending them through a desalinator (found under Refinement)
+* 盐水和浓盐水送进脱盐器就变成水（在精炼分类下）
 
-The "wrong" kinds of liquids won't damage the machines. Water and polluted water will both pass straight through a desalinator without damaging it. Salt water, brine and water will pass straight through a water sieve without damaging it.
+“不对”的那几种液体不会损坏机器。水和污染水直接穿过脱盐器都毫发无伤。盐水、浓盐水和清水直接穿过净水器也不会损坏它。
 
-So if you have a mixture of liquids pooled together, you can chain a water sieve and desalinator one after the other and pump all liquids through the same pipes. A mixture of stuff will go in, but only water will come out.
+所以如果你有一滩混在一起的液体，可以把净水器和脱盐器一前一后串起来，让所有液体走同一套管道。进去的是一堆混合物，出来的只有水。
 
 ![ONI-guide-desalinatorsieve.png](assets/ONI-guide-desalinatorsieve-55c9835106.avif)
 
-A desalinator and a water sieve. You can pump water, polluted water, salt water and brine in through the left and get only water out the right, without damaging the machines.
+一台脱盐器和一台净水器。你可以把水、污染水、盐水和浓盐水都从左边泵进去，右边出来的只有水，而且机器不会损坏。
 
-There are two things to keep in mind when turning non-water into water: germs and temperature
+把非水变成水的时候，有两点要记着：病菌和温度
 
-Regarding germs. In general, all liquids you find "lying around" will be germ-free. Also, most vents output germ-free liquids; the exception being the polluted water vent (the normal temperature one, not the cool one).
+关于病菌。一般来说，你“捡到的”那些液体都是不带菌的。而且大多数喷孔喷出的液体也不带菌；例外是污水泉（常温那个，不是低温那个）。
 
-If you have any polluted water that is the result of a dupe "accident" or vomiting, then that will have germs in it. Those germs will also spread to nearby liquids. (Dealing with germy water is a separate thing, covered in the section on [recycling toilet water](recycling-toilet-water.md).)
+如果哪摊污染水是复制人“事故”或者呕吐的产物，那它就是带菌的。这些病菌还会扩散到附近的液体里。（处理带菌水是另一码事，放在[循环利用厕所水](recycling-toilet-water.md)那一节讲。）
 
-Regarding temperature. The freezing point of polluted water and salt water is lower than the freezing point of water. If you pump freezing (below +-0C) salt water or polluted water through a desalinator or water sieve, you can end up breaking your pipes in the refining process.
+关于温度。污染水和盐水的冰点比水低。如果你把冰冻的（低于 +-0C）盐水或污染水泵进脱盐器或净水器，处理过程中管道可能会被冻裂。
 
-At the other extreme are really hot liquids. You want to be careful with pumping any near-boiling liquids around your base as they will heat up the place.
+另一个极端是很热的液体。在基地里到处泵接近沸点的液体要小心，它们会把周围烤热。
 
-Let's cover heating and cooling separately, and throw in some sub-headings to give it all a bit of gravitas.
+我们把加热和降温分开讲，顺便加几个小标题，好让整篇显得严肃一点。
 
-## Cool geysers and heating liquids
+## 低温间歇泉与加热液体
 
 ![ONI-guide-coolsaltslush2.png](assets/ONI-guide-coolsaltslush2-1c203cf4ec.avif)
 
-A cool salt slush geyser. It produces -10C germ-free salt water
+低温盐泥泉。它喷出 -10C、不带菌的盐水
 
 ![ONI-guide-coolslush2.png](assets/ONI-guide-coolslush2-e2bee1d333.avif)
 
-A cool slush geyser. It produces -10C polluted (but germ-free) water
+低温泥浆泉。它喷出 -10C 的污染（但不带菌）水
 
 ![Building_Liquid_Tepidizer.webp](assets/Building_Liquid_Tepidizer-3d659e2dac.avif)
 
-The Liquid Tepidizer (found under Utilities)
+液体加热器（在“实用”分类下）
 
-In general, heating things up is easier than cooling them down. So if your problem is liquid that is too cold then you have the nicer kind of problem.
+一般来说，加热比降温容易。所以如果你的问题是液体太冷，那你遇到的算是比较好的那种问题。
 
-A common time you would face this is if you have a cool slush geyser or a cool salt slush geyser. They output liquids that are -10C. (Both output germ-free liquid.)
+常见的场景是你有低温泥浆泉或低温盐泥泉。它们喷出的液体是 -10C。（两者都不带菌。）
 
-Before turning them into water you will want to heat up the liquids at least enough that they won't break the pipes once they become water.
+在把它们变成水之前，你至少得把这些液体加热到变成水之后不会冻裂管道的程度。
 
-The freezing point of water is -0.6C. Avoid sending any liquids that are below that through any refining machines, as once they turn into water they can instead turn into ice and break pipes.
+水的冰点是 -0.6C。别把低于这个温度的液体送进任何精炼机器，因为它们变成水之后可能直接变成冰，把管道撑裂。
 
-(My understanding is that the game actually adds a couple of degrees to all state change temperatures, in order to keep things from flashing back and forth between water and ice. Which would mean you're safe until -2.6C.)
+（据我理解，游戏其实会给所有相变温度加上几度，免得水在冰之间来回闪。也就是说，到 -2.6C 之前你都是安全的。）
 
-The good news is that if you have liquid that is too cold, that means you have free cooling available. So you can for instance snake cold water from a cool geyser around your base and cool down your base while heating up the water. The bad news is that it isn't easy to control that process - how cold an area will get or how hot the water will get.
+好消息是：如果你有太冷的液体，那就等于有免费的制冷可用。比如你可以把低温间歇泉的冷水在基地里绕来绕去，一边给基地降温，一边把水加热。坏消息是这个过程不好控制——某片区域会冷到什么程度、水会热到什么程度，都说不准。
 
-Over time you might pump enough freezing water through your base that it becomes freezing cold, too. But this is an easy early-game solution to cooling down your base, and something you can replace with a more controlled cooling loop later. ([Cooling loops](thermo-aquatuner-steam-turbine-cooling-loop.md) are covered later in the guide.)
+时间一长，你可能往基地里泵了太多冰冻的水，结果基地也跟着冻起来了。但这是早期游戏给基地降温的省事办法，之后你可以换成更可控的冷却回路。（[冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)在指南后面讲。）
 
-You can also use liquid from a cool slush geyser or cool salt slush geyser to feed a metal refinery, as they require cooling liquid for each use. If you send in liquid from a cool geyser, the liquid the metal refinery outputs will be pretty close to suitable temperature when it comes out, so you can probably just turn it to water and pump it into your water supply. (How much the metal refinery heats up its cooling liquid depends on what metal you refine.)
+你也可以用低温泥浆泉或低温盐泥泉的液体去喂金属精炼器，因为它每次使用都要冷却液。如果送进去的是低温间歇泉的液体，金属精炼器排出来的液体温度大概已经挺合适了，那你多半可以直接把它变成水，泵进供水系统。（金属精炼器把冷却液加热多少，取决于你精炼的是什么金属。）
 
-A more controlled way to heat liquids is with a Liquid Tepidizer. Note that it requres a fair bit of electricity: 960W.
+更可控的加热方式是用液体加热器。注意它挺费电的：960W。
 
-You can have a small box of liquid with a liquid tepizider hooked up to a thermo sensor (found under automation). Then you can set the thermo sensor to whatever minimum temperature you want your liquids to come out at. (Use radiant pipes to improve temperature transfer.)
+你可以做一个小液体箱，把液体加热器接在温度传感器上（在自动化分类下）。然后你就可以把温度传感器设成你希望液体流出时的最低温度。（用导热管道能改善传热。）
 
-Having something like this before your desalinator or water sieve should ensure no pipes will break. (I made the box in the example large for clarity; it can be smaller.)
+在脱盐器或净水器前面加这么一套，基本就能保证管道不裂。（示例里的箱子我做大了，是为了看得清楚；实际可以更小。）
 
 ![ONI-guide-liquidtepidizer1.png](assets/ONI-guide-liquidtepidizer1-49ffd2adbb.avif)
 
@@ -82,103 +82,103 @@ Having something like this before your desalinator or water sieve should ensure 
 
 ![ONI-guide-liquidtepidizer3.png](assets/ONI-guide-liquidtepidizer3-1d0469283c.avif)
 
-Ensuring a minimum temperature. The thermo sensor makes sure the liquid in the box doesn't go below your preferred minimum temperature.
+保证最低温度。温度传感器确保箱子里的液体不会低于你设定的最低温度。
 
-(Note: To avoid damaging the pipes, I'd recommend using insulated pipes on the side the cool liquid is coming in from.)
+（注意：为了避免损坏管道，我建议在冷液体进来的那一侧用隔热管道。）
 
-## Hot geysers and cooling liquids
+## 高温间歇泉与冷却液体
 
 ![Polluted_Water_Vent.webp](assets/Polluted_Water_Vent-aafad0f360.avif)
 
-The polluted water vent. Output: +30C germy, polluted water
+污水泉。输出：+30C、带菌的污染水
 
 ![Water_Geyser.webp](assets/Water_Geyser-149a623361.avif)
 
-The water geyser. Output: +95C water
+清水泉。输出：+95C 的水
 
 ![Salt_Water_Geyser.webp](assets/Salt_Water_Geyser-1a4a7ca8e8.avif)
 
-The salt water geyser. Output: +95C salt water
+盐水泉。输出：+95C 的盐水
 
-In addition to the cool geysers covered earlier, there are different kinds of geysers and vents that output hot(ter) water, or liquids that can be turned into water.
+除了前面讲的低温间歇泉，还有各种间歇泉和喷孔会喷出比较热的水，或者能变成水的液体。
 
-My personal favourite is the polluted water vent. It outputs germy, polluted water at +30C. Its output can be used as-is for Thimble Reed farming or turned into water of a very reasonable temperature - your basic plants like Mealwood and Bristle Blossoms stop growing at above +30C. (Turning germy, polluted water into germ-free water is covered [earlier](recycling-toilet-water.md) in this guide.)
+我个人最喜欢的是污水泉。它喷出 +30C、带菌的污染水。它的产出可以直接拿来种顶针芦苇，也可以变成温度相当合适的水——米虱木和毛刺花这类基础植物温度超过 +30C 就不长了。（把带菌污染水变成不带菌的水，这本指南[前面](recycling-toilet-water.md)讲过。）
 
-The other geysers that can give you water, and their output temperatures, are:
+其他能给你水的间歇泉，以及它们的输出温度：
 
-* The water geyser outputs water at +95C
-* The salt water geyser outputs salt water at +95C
-* The cool steam vent sounds promising, but the word "cool" refers to steam, so isn't really that cool: +110C
-* The steam vent outputs steam at a whopping +500C
+* 清水泉输出 +95C 的水
+* 盐水泉输出 +95C 的盐水
+* 低温蒸汽喷孔听起来很有希望，但那个“低温”说的是蒸汽，所以其实并没有多低温：+110C
+* 蒸汽喷孔输出的蒸汽高达 +500C
 
-Perhaps the easiest use of these is the water geyser used to feed a [SPOM](to-know-the-spom-is-to-love-the-spom.md) (which produces oxygen - covered later in this guide).
+这些里面最简单的用法，大概是用清水泉去喂一个 [SPOM](to-know-the-spom-is-to-love-the-spom.md)（就是产氧气的那个——本指南后面会讲）。
 
-If you build your SPOM near the water geyser (or salt water geyser) then you won't risk heating up your base too much by piping hot water around. (And remember to use insulated liquid pipes.)
+把 SPOM 建在清水泉（或盐水泉）旁边，就不用担心到处泵热水把基地烤热。（记得用隔热液体管道。）
 
-If you dig out an area around and under your water or salt water geyser, you can line it with insulated tiles and then pump out all the gases to create a vacuum in the liquid storage area. That way you will have minimal temperature transfer from your hot liquid(s) to the surrounding area.
+如果你把清水泉或盐水泉周围和下方的区域挖开，铺上隔热砖，然后把所有气体抽走，在储液区造出真空。这样热液体传给周围区域的热量就会降到最低。
 
-(To create a vacuum you can either wall the area off with a gas pump built in that will create a vacuum and then be left in the room, or you can build a [liquid lock](liquid-lock-basics.md) to allow for access to deconstruct the pump when you're done.)
+（造真空的办法有两种：要么把区域围起来，在里面建一台气泵，抽完真空后就把它留在房间里；要么建一道[液体锁](liquid-lock-basics.md)，方便进去，完事后再把泵拆走。）
 
-If you pump hot water to you main water storage then cooling might be necessary.
+如果你把热水泵进主储水区，那可能就得降温了。
 
-I tend to avoid filling my water storage with very hot water, but that's easy for me to say as I usually have small bases with few dupes, so I don't need that much water. Regardless, to keep your water storage of a suitable temperature you can run a [cooling loop](thermo-aquatuner-steam-turbine-cooling-loop.md) through it.
+我一般不爱往储水区里灌特别热的水，不过这话我说起来轻松，因为我通常基地小、复制人少，用不了多少水。不管怎样，想让储水区保持合适的温度，可以让一条[冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)从里面穿过。
 
-Another option for cooling, if you have ice or snow on your map, is to store it in your water storage. (Note: it takes a long time for a storage bin full of ice to melt.) You can also use polluted ice to cool down your water, just remember it will turn to polluted water when it melts.
+另一个降温办法是：如果你地图上有冰或雪，就把它存放在储水区里。（注意：一整箱冰要化掉得花很长时间。）你也可以用污染冰给你的水降温，只是记得它化了会变成污染水。
 
-If you have a cool slush geyser of some kind then you could use that to cool down hot liquids, while heating up the slush.
+如果你有某种低温泥浆泉，可以拿它给热液体降温，同时把泥浆加热。
 
-If you have plants that need water of a particular temperature, then in addition to (or rather than) making your whole water supply of that temperature (e.g. under +30C for Bristle Blossoms) you can also just cool down the liquid as you need it, before it gets to the plants in question. This will probably require (a lot) less power.
+如果你有需要特定温度水的植物，那除了（或者说，与其）把整个供水都弄成那个温度（比如毛刺花要低于 +30C），你也可以在液体送到那些植物之前，按需现降温。这样大概能省（很多）电。
 
-## Steam vents
+## 蒸汽喷孔
 
 ![Steam_Vent.webp](assets/Steam_Vent-572b1d36b4.avif)
 
-The steam vent. Output: +500C steam
+蒸汽喷孔。输出：+500C 的蒸汽
 
 ![Cool_Steam_Vent.webp](assets/Cool_Steam_Vent-9ef8792c79.avif)
 
-The cool steam vent. Output: +110C steam
+低温蒸汽喷孔。输出：+110C 的蒸汽
 
-There are two steam vents, the cool steam vent and the steam vent. Both can be used to get (very) hot water. The steam vent will even give you some power in the process.
+蒸汽喷孔有两种：低温蒸汽喷孔和蒸汽喷孔。两个都能拿来弄到（很热的）水。蒸汽喷孔还能顺便给你发点电。
 
-The steam vent. If you need to use a steam vent for water, then (when the vent is dormant) create a vacuum chamber around it, with insulated walls. Then put a few (two or more) (If memory serves, two is enough) steam turbines above it. Note: the steam turbines will need some form of cooling, as they will get hot quickly.
+蒸汽喷孔。如果你需要用蒸汽喷孔取水，那就（趁喷孔休眠时）在它周围造一间真空室，墙壁用隔热砖。然后在上面放几台（两台或更多）（如果我没记错，两台就够）蒸汽涡轮机。注意：蒸汽涡轮机需要某种形式的降温，它们很快就会变热。
 
-The steam vent outputs +500C steam. The steam turbines will generate power (as long as the steam is above +125C) and +95C water. (You will need to build liquid pipes from the steam turbine to wherever you want the water to go.)
+蒸汽喷孔喷出 +500C 的蒸汽。蒸汽涡轮机会发电（只要蒸汽高于 +125C），并产出 +95C 的水。（你需要从蒸汽涡轮机拉液体管道，通到你想要水去的地方。）
 
-The cool steam vent. The cool steam vent generates steam that is too cool to power a steam turbine. Instead, you will need to cool it straight down to water by injecting cooling.
+低温蒸汽喷孔。低温蒸汽喷孔产生的蒸汽温度太低，带不动蒸汽涡轮机。所以你得直接注入冷量，把它降到水的温度。
 
-There are a few ways you can do this. When looking at the pictures included here, keep in mind that I'm not a min-maxer; I'm satisfied as long as something works. Meaning you can probably find more efficient builds elsewhere.
+办法有几种。看图的时候请记住：我不是那种极限优化党，只要能跑起来我就满意了。也就是说，你大概能在别处找到效率更高的建造方案。
 
-In both cases, start by creating a vacuum around the vent. Both options use cooling loops for the cooling of the steam. Cooling loops are covered [later in the guide](thermo-aquatuner-steam-turbine-cooling-loop.md).
+两种做法都一样：先在喷孔周围造出真空。两个方案都用冷却回路来冷却蒸汽。冷却回路在[指南后面](thermo-aquatuner-steam-turbine-cooling-loop.md)讲。
 
-One option, which I don't use myself but I saw the idea in a Francis John YouTube video, is to have a cooling loop that cools a section outside the cool steam vent chamber. Then you use automation to open and close a door between the two areas to regulate temperature transfer between them. (When the door is open that area will be a vacuum, and so no temperature transfer will take place.)
+一种方案我自己不用，但我是在 Francis John 的一个 YouTube 视频里看到这个思路的：让一条冷却回路去冷却低温蒸汽喷孔腔室外面的一个区域。然后用自动化开关两个区域之间的门，来调节它们之间的热传递。（门打开时，那一格会变成真空，于是就不会有热传递。）
 
 ![ONI-guide_CoolSteamVent2.png](assets/ONI-guide_CoolSteamVent2-253503d2e3.avif)
 
-Use materials with a high thermal conductivity rating for the door and the tiles (walls) on either side of it. E.g. steel for the door and diamond (or metal tiles if you don't have diamond) for the walls. (Temperature transfer basics are covered [elsewhere](heat-transfer-basics.md) in the guide.)
+门和两侧的砖块（墙）要用导热率高的材料。比如门用钢，墙用钻石（没有钻石就用金属砖）。（温度传递基础在指南[另一节](heat-transfer-basics.md)讲。）
 
-Another option is to have a cooling loop that runs by the vent, cooling the steam as it comes out.
+另一种方案是让冷却回路从喷孔旁边经过，蒸汽一冒出来就给它降温。
 
-Note: the liquid in your cooling loop can get very hot, potentially above water's boiling point. So a liquid that can handle +100C is recommended, for instance oil or petroleum.
+注意：冷却回路里的液体可能会变得非常热，甚至超过水的沸点。所以推荐用能承受 +100C 的液体，比如原油或石油。
 
 ![ONI-guide_CoolSteamVent1.png](assets/ONI-guide_CoolSteamVent1-5255514394.avif)
 
-In both of the approaches covered above the radiant liquid pipes would be run through a thermo aquatuner to be cooled. (How that works is covered in the section on [cooling loops](thermo-aquatuner-steam-turbine-cooling-loop.md).)
+上面讲的两种做法里，导热液体管道都要穿过液温调节器来降温。（原理在[冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)那一节讲。）
 
-In either approach, you can then have a liquid pump (made from gold or steel - it needs to be able to handle near-boiling temperatures) hooked up to a hydrosensor to activate it when there is a sufficient amount of water stored. Also, if you have any diamond to spare, a diamond temp shift plate by the cooling loop will help temperature transfer.
+不管用哪种做法，你都可以让一台液泵（用金或钢造——它得扛得住接近沸点的温度）接到液压传感器上，储水量足够时才启动。另外，如果你有富余的钻石，在冷却回路旁边放一块钻石变温板能改善传热。
 
-Getting the water a cool steam vent outputs down to a nice, +30 or so temperature would require a lot of cooling and a lot of electricity. Consider, instead, just cooling it down as needed.
+想把低温蒸汽喷孔出来的水降到舒服的 +30 左右，需要大量冷量和大量电力。不如考虑按需降温。
 
-If, for instance, you are feeding a SPOM, then cooling it down below +70 isn't that useful. This is because the SPOM outputs gases at a minimum of +70C regardless of the input temperature of the water.
+比如说，如果你是拿去喂 SPOM，那么把它降到 +70 以下没什么用。因为不管输入的水是什么温度，SPOM 输出的气体最低也是 +70C。
 
-I'll finish up this section with such an example from one of my playthroughs: feeding a SPOM.
+这一节我用自己某次游玩里的例子来收尾：喂一个 SPOM。
 
 ![ONI_Guide_CoolSteamVentSetup1.png](assets/ONI_Guide_CoolSteamVentSetup1-e63a9175a3.avif)
 
 ![ONI_Guide_CoolSteamVentSetup2.png](assets/ONI_Guide_CoolSteamVentSetup2-c5400e34fe.avif)
 
-Tapping into a cool steam vent. The thermo aquatuner is set to 70 degrees. There's enough space to store a bunch of water under the cool steam vent, and the area is in a vacuum. Water is pumped straight to the SPOM, using insulated liquid pipes to limit temperature transfer.
+接入一座低温蒸汽喷孔。液温调节器设成 70 度。低温蒸汽喷孔下面有足够的空间存一堆水，那片区域是真空。水直接泵进 SPOM，用隔热液体管道来减少传热。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/getting-more-water](https://www.guidesnotincluded.com/getting-more-water) ([Wayback Machine snapshot](https://web.archive.org/web/20250806092524id_/https://www.guidesnotincluded.com/getting-more-water)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/getting-more-water](https://www.guidesnotincluded.com/getting-more-water)（[Wayback Machine 快照](https://web.archive.org/web/20250806092524id_/https://www.guidesnotincluded.com/getting-more-water)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

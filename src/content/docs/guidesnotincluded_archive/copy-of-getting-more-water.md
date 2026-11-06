@@ -1,123 +1,123 @@
 ---
-title: "Getting to space"
-description: "Managing your dupe space program can be divided into three categories:"
+title: "飞向太空（草稿）"
+description: "管理复制人的太空计划，可以分成三大类："
 source_url: https://www.guidesnotincluded.com/copy-of-getting-more-water
 archived: 2022-11-29
 archive_snapshot: https://web.archive.org/web/20221129152932id_/https://www.guidesnotincluded.com/copy-of-getting-more-water
 ---
 
-## Introduction
+## 引言
 
-Managing your dupe space program can be divided into three categories:
+管理复制人的太空计划，可以分成三大类：
 
-1. Discovering places to go
-2. Building a rocket that can take you there
-3. Not dying on the the way
+1. 找到能去的地方
+2. 造一艘能把你送过去的火箭
+3. 别在路上死掉
 
-Let's take a closer look at each category.
+我们来逐类细看。
 
-## Discovery
+## 探索
 
 ![Building_Telescope_(Spaced_Out).webp](assets/dace2c_72f8c37cd0834313b188053810c6ced4-mv2-3c5b64d64a.webp)
 
-The Telescope (found under Rocketry)
+望远镜（在火箭分类下）
 
 ![Building_Telescope_(Base_Game).webp](assets/dace2c_681d7615c03a4ddf99a29d9f3ae05097-mv2-fa1a121273.webp)
 
-The Enclosed Telescope (found under Rocketry)
+隔绝式望远镜（在火箭分类下）
 
 ![Telescope_1.png](assets/Telescope_1-ff06d6f5cd.avif)
 
 ![Telescope_2.png](assets/Telescope_2-c77b9bc287.png)
 
-The Enclosed Telescope requires oxygen (and power)
+隔绝式望远镜需要氧气（还有电）
 
-You can see a map of space by clicking on Starmap in the top right (or press Z).
+点右上角的星图（或者按 Z）就能看到太空地图。
 
-Space is divided into a bunch of hexagonal tiles (which is just a fancy way of saying "tiles with six sides").
+太空被分成一堆六边形格子（说白了就是"有六条边的格子"）。
 
-To be able to send a rocket somewhere, you need to have discovered that "somewhere" first.
+想把火箭送到某个地方，你得先发现那个"某个地方"。
 
-The tiles nearest your starting asteroid are discovered from the start of the game. Beyond those tiles is a band of dark blue tiles, and beyond them the tiles are black.
+离你起始小行星最近的格子一开始就是已发现的。再往外是一圈深蓝色的格子，深蓝之外就是黑格子。
 
-One significant difference between the two (dark blue and black tile) is that in the dark blue tiles the game will tell you if there is something of interest. This will show up as a question mark (?).
+两者（深蓝格和黑格）有一个重要区别：在深蓝格里，游戏会告诉你那里有没有值得注意的东西，会显示成一个问号（?）。
 
-To see what the question marks are, you need to have a dupe look examine the tile using a Telescope.
+想知道问号是什么，你得让复制人用望远镜去分析那个格子。
 
-There are two kinds of telescope: the basic telescope and the enclosed telescope. Both telescopes need power, the enclosed telescope also needs oxygen pumped to its gas input.
+望远镜有两种：基础望远镜和隔绝式望远镜。两种都要电，隔绝式的还得往它的气体输入口泵氧气。
 
-Telescope use requires a dupe to have the Astronomy skill, which is found in the "research" branch of the skill tree.
+使用望远镜要求复制人有天文学技能，它在技能树的"研究"分支里。
 
-To begin discovering new parts of space, simply build a telescope on the surface of your asteroid and a dupe will start using it.
+想开始探索太空的新区域，只要在你小行星的地表造一台望远镜，复制人就会自己去用。
 
-Telescopes need to have a clear view of the sky to function properly. (There are exceptions to this. More on that later.)
+望远镜要能正常干活，得有一片没有遮挡的天空视野。（也有例外，后面再说。）
 
-Both the standard and enclosed telescopes accomplish the same thing. The difference is that the enclosed one will have oxygen, so you can have a dupe use it even without an atmo suit.
+普通望远镜和隔绝式望远镜干的是同一件事，区别在于隔绝式自带氧气，所以就算不穿气压服也能让复制人去用。
 
-(You can have a dupe use the basic telescope without an atmo suit also. It will just be slower, as they will have to run into the base whenever they need oxygen.)
+（你也可以让复制人不穿气压服去用基础望远镜，只是会慢一些，因为他们一缺氧就得跑回基地。）
 
-Dupes will study one tile at a time. If you open the starmap (and zoom in a bit) you can see what tile they are working on and how it is progressing.
+复制人一次分析一个格子。打开星图（再稍微放大一点）就能看到他们正在弄哪个格子、进度如何。
 
-Studying a tile with a question mark will show you what object is there. There are both asteroids as well as other things to be found out in space.
+分析带问号的格子会显示那里有什么东西。太空里既有小行星，也有别的东西。
 
-Unlike in the base game, in the Spaced Out DLC you cannot examine all of space from your starting asteroid. When the telescope has examined everything it can (which is a few tiles out in all directions), mousing over the telescope will show the text "Area Complete." (You can then deconstruct the telescope if you want, you won't need it anymore.)
+和本体不同，在《眼冒金星！》DLC 里，你没法从起始小行星把整片太空都查完。当望远镜把能查的（也就是四面八方几个格子）都查完之后，把鼠标悬停在望远镜上会显示"区域已完成"。（这时候你想拆掉望远镜也行，以后用不着了。）
 
-Now that you know there is "stuff" out in space, it's time to head out for a closer look!
+现在你知道太空里有"东西"了，该出发去近距离看看了！
 
-## Rockets, engines and fuel
+## 火箭、引擎和燃料
 
-The Rocket Platform (select the platform to build a rocket on it)
+火箭平台（选中平台就能在上面造火箭）
 
-Carbon Dioxide Engine
+二氧化碳引擎
 
-Carbon dioxide is fed to the carbon dioxide engine. (Optional: pumping oxygen into the spacefarer module.)
+二氧化碳被送进二氧化碳引擎。（可选：往太空员舱里泵氧气。）
 
-To build a rocket, you first need to build a Rocket Platform, found under Rocketry.
+要造火箭，你得先造一个火箭平台，在火箭分类下。
 
-(Rocket platforms don't need to be built on a "floor" or foundation of other tiles, they can also just kind of float.)
+（火箭平台不用非得建在"地板"或其他砖块的地基上，它们也可以就那么飘着。）
 
-Once you have a rocket platform built, you can click on it and select "new rocket." This will open a list of the different kinds of rocket modules you can build, among them rocket engines. The engine is also the first thing you will build to get your rocket construction going.
+平台造好之后，点它，选"新建火箭"。这会打开一个列表，列出你能造的各种火箭舱块，其中就有火箭引擎。引擎也是你为了把火箭造起来要建的第一样东西。
 
-How tall a rocket you can build, and how far it can travel, is determined by the rocket's engine.
+你能造多高的火箭、火箭能飞多远，都由引擎决定。
 
-You can mouseover the different engines to get more information about them. Two important bits of information are: what they use as fuel (which will be clear from the name of the engine) and what their maximum height is.
+把鼠标悬停在不同的引擎上能看到更多信息。其中两条很重要：它们用什么当燃料（看引擎名字就清楚了），以及它们的最大高度。
 
-Taller height restrictions require more advanced kinds of fuel. At the start of the game you won't have access to more advanced fuel.
+高度上限越高，需要的燃料就越高级。游戏刚开始时你还拿不到更高级的燃料。
 
-One important aspect of your early rocketry program is generating data banks for research.
+早期火箭计划里很重要的一环，是生产用于研究的数据磁盘。
 
-The less advanced engines are limiting both in how large rockets you can build (height restrictions) as well as in how far they can travel.
+越不先进的引擎，限制越多：既限制你能造多高的火箭（高度限制），也限制它们能飞多远。
 
-For my first rocket I usually use a carbon dioxide engine. It uses surprisingly little carbon dioxide. If you have any lying about at the bottom of your map that will probably be enough. (If you will be doing several lDig a little carbon dioxide pit that goes lower than your carbon skimmer.
+我的第一艘火箭一般用二氧化碳引擎。它用的二氧化碳少得惊人。地图底部随便存着的那点大概就够了。（如果你要跑好几趟……就在碳素脱离器下方挖一个更低的二氧化碳坑。）
 
-In addition to an engine you will also need somewhere for your dupe (or dupes) to be. There are two options: the Solo Spacefarer Nosecone and the Spacefarer Module. The main difference between them is their size.
+除了引擎，你还得有个地方让复制人（或复制人们）待着。有两个选择：单太空员前锥和太空员舱。主要区别是大小。
 
-The Spacefarer Module is unlocked through research. It is found in Durable Life Support in the Colony Development research branch.
+太空员舱靠研究解锁，在殖民地发展研究分支的持久生命维持里。
 
-The solo spacefarer nosecone is very small, so I recommend you make unlocking the larger spacefarer module a priority. (The small one is so small that I no longer bother with it - I unlock the larger module before building my first rocket.)
+单太空员前锥非常小，所以我建议你优先把更大的太空员舱解锁出来。（小的那个太小了，我现在都懒得用它——我会在造第一艘火箭之前先把大舱解锁。）
 
-Unlocking the Spacefarer Module requires doing a bit of the kind of research that requires radbolts. (But don't be intimidated by this - there is [a separate guide](spaced-out-research-guide.md) for how to do radbolt research.)
+解锁太空员舱需要做一点那种要用辐射粒子的研究。（不过别被吓到——有一篇[单独的指南](spaced-out-research-guide.md)讲怎么做辐射粒子研究。）
 
-The height restrictions for the early engines are so limiting that there won't be a lot of space for extra modules on your first rocket. One option is to have some solar panel modules to help with power generation. (Or a battery to store power.)
+早期引擎的高度限制太紧了，你的第一艘火箭上没多少空间放额外舱块。一个选择是装几个太阳能舱来帮忙发电。（或者装个蓄电池存电。）
 
-You will need to discover a place to go. You will need to build and fuel a rocket that can take you there. And you will hopefully also be able to keep your dupes alive during the trip.
+你需要先发现一个能去的地方，再造一艘能把你送过去、并且加好燃料的火箭。然后希望你在旅途中也能让复制人活着。
 
-Oxygen Not Included isn't just a game, it's a solemn pact. You promise to do everything in your power to give your dupes a good existence. In exchange, they promise to do everything in their power to accidentally kill themselves in utterly baffling and completely avoidable ways.
+《缺氧》不只是一款游戏，它是一份庄严的契约。你承诺尽你所能给复制人一个好生活。作为交换，他们承诺尽他们所能，以最莫名其妙、完全可避免的方式意外把自己弄死。
 
-Boldly going where no dupe has gone before requires a few different things.
+勇敢地前往复制人未曾涉足之地，需要几样不同的东西。
 
-Space offers new, exciting opportunities for such death. Like the time I saw an alert that a dupe had died. They had suffocated in a rocket. Next to their dead body was an oxygen diffuser (the machine that turns algae into oxygen). And next to the oxygen diffuser was a storage bin full of algae.
+太空为这类死亡提供了新鲜刺激的机会。比如有一次我看到警报说一个复制人死了。他们憋死在火箭里。尸体旁边是一台氧气扩散器（把藻类变成氧气的那台机器）。氧气扩散器旁边是一个装满藻类的存储箱。
 
-It turned out I hadn't raised the priority for filling the oxygen diffuser with algae. So the dupe had done other things while they slowly used up all the oxygen.
+结果是我没把给氧气扩散器补藻类的优先级调高。所以那复制人在慢慢耗尽氧气的时候，跑去干别的了。
 
-OK, that one was kind of on me. But the point is: in space things can go wrong in ways that you can't fix. Like running out of food or oxygen while you are so far away form home that you cannot save them.
+好吧，那次多少得怪我。但重点是：在太空里，事情会以你没法补救的方式出错。比如离家太远的时候断粮或断氧，远到你根本救不了他们。
 
-This stuff is easier to secure when you are a bit further along. Specifically, when you have berry sludge (a food that doesn't spoil). Oxylite is also helpful. Then you can have dupes spend however long you want in rockets.
+等你稍微玩到后面一点，这些就比较好搞定了。具体来说，是当你有浆果糕（一种不会变质的食物）的时候。氧石也有用。那样你就可以让复制人在火箭里想待多久待多久。
 
-## Surviving the journey
+## 熬过旅程
 
-Oxygen, carbon dioxide and food
+氧气、二氧化碳和食物
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/copy-of-getting-more-water](https://www.guidesnotincluded.com/copy-of-getting-more-water) ([Wayback Machine snapshot](https://web.archive.org/web/20221129152932id_/https://www.guidesnotincluded.com/copy-of-getting-more-water)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/copy-of-getting-more-water](https://www.guidesnotincluded.com/copy-of-getting-more-water)（[Wayback Machine 快照](https://web.archive.org/web/20221129152932id_/https://www.guidesnotincluded.com/copy-of-getting-more-water)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

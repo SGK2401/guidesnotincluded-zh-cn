@@ -1,154 +1,154 @@
 ---
-title: "Dealing with slimelung"
-description: "Once upon a time (and when a story starts like that you know it was a long time ago) if a dupe got infected with slimelung, death was at your colony's door\u2026"
+title: "应对粘液肺"
+description: "从前（故事一开头就写“从前”，你就知道那是很久以前了）一个复制人要是感染了粘液肺，死亡就站在你殖民地门口\u2026"
 source_url: https://www.guidesnotincluded.com/dealing-with-slimelung
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806091500id_/https://www.guidesnotincluded.com/dealing-with-slimelung
 ---
 
-## Introduction
+## 引言
 
-Once upon a time (and when a story starts like that you know it was a long time ago) if a dupe got infected with slimelung, death was at your colony's door. Every green puff of germs a sick dupe exhaled could spread the disease to others and every dupe that got infected could die.
+从前（故事一开头就写“从前”，你就知道那是很久以前了）一个复制人要是感染了粘液肺，死亡就站在你殖民地门口。生病的复制人每呼出一团绿色的病菌，都可能把病传染给别人，而每个被感染的复制人都可能死掉。
 
-I have vague memories of stopping everything I was doing if a dupe got infected, to instead focus solely on micromanaging the quarantining and medical care of infected dupes for as long as it took to rid the colony of infection.
+我隐约记得，只要有一个复制人感染，我就会把手头所有事都停下，转而全力微操，隔离并治疗被感染的复制人，花多久都行，直到殖民地彻底摆脱感染。
 
-These days slimelung is more of a nuisance than a threat, but it is a nuisance that is largely avoidable. So thanks for indulging me in my trip down memory lane; now let's look at some ways of dealing with slimelung.
+如今粘液肺更像是个麻烦，而不是威胁，而且这个麻烦基本是可以避开的。所以谢谢你陪我逛了这一趟回忆；现在来看看应对粘液肺的几种办法。
 
-## A crash course in slime
+## 菌泥速成课
 
-Slimelung is found in a biome I have trouble remembering the official name of because we all just call it the slime biome.
+粘液肺出现在一个我老记不住官方名字的生态里，因为我们都直接叫它菌泥生态。
 
-* To see slimelung germs select the germ overlay (click on the germ icon in the top right or press F9)
+* 想看粘液肺病菌，请打开病菌概览（点右上角的病菌图标，或者按 F9）
 
-Slimelung is bright green. It is most commonly found in slime tiles. However, not all slime tiles are infected, and tiles other than slime can also be infected.
+粘液肺病菌是亮绿色的。它最常见于菌泥砖块中。不过，不是所有菌泥砖块都被感染，被感染的砖块也不限于菌泥。
 
 ![ONI-Guide_Slimelung1.png](assets/ONI-Guide_Slimelung1-a9d5d320e2.avif)
 
 ![ONI-Guide_Slimelung2.png](assets/ONI-Guide_Slimelung2-9548dd5158.avif)
 
-Gases (i.e. the air) can also be infected with slimelung germs. This is most commonly seen in polluted oxygen. On a "new" map, meaning a new playthrough, slimelung in the polluted oxygen in the slime biome is possible but uncommon. (I can't remember ever having seen slimelung in other gases at the start of a game.)
+气体（也就是空气）也可能带粘液肺病菌。最常见的是污染氧。在一张“新”地图上——也就是新开的一局——菌泥生态的污染氧里出现粘液肺病菌是有可能的，但不常见。（我不记得在游戏开局时见过其他气体里有粘液肺。）
 
-Slimelung germs don't spread between natural tiles, like from a slimelung-infested slime tile to another natural tile next to it. So an area of slimelung tiles won't "grow" or expand. However, slimelung can spread from a natural tile to a dupe-constructed tile it touches. (This also includes the tiles of pre-built structures.)
+粘液肺病菌不会在天然砖块之间传播，比如不会从一块染了粘液肺的菌泥砖传到旁边另一块天然砖。所以一片带粘液肺的砖块不会“长大”或扩散。不过，粘液肺能从天然砖块传到它所接触的、由复制人建造的砖块上。（这也包括预制结构的砖块。）
 
-Slimelung doesn't transfer from a tile to the air around it. Meaning you can dig out tiles around a slimelung-infested tile and the slimelung won't start spreading to the oxygen (or other gases) around it.
+粘液肺不会从砖块传到它周围的空气里。也就是说，你可以把一块染了粘液肺的砖块周围的砖块挖掉，粘液肺也不会开始往周围的氧气（或其他气体）里扩散。
 
-Slime can begin to spread when you dig out a slimelung-infested slime tile. This happens because the slime begins to offgas polluted oxygen and that polluted oxygen is contaminated with slimelung germs.
+当你挖开一块染了粘液肺的菌泥砖时，菌泥就开始扩散了。这是因为菌泥开始释放污染氧，而那些污染氧被粘液肺病菌污染了。
 
-Slimelung germs don't spread from either natural tiles or debris (meaning a tile you have dug up) to liquids. So a slimelung-infested tile in a liquid won't cause the liquid to become slimelung-ridden.
+粘液肺病菌不会从天然砖块或碎屑（也就是你挖下来的砖块）传到液体里。所以泡在液体里的染病砖块不会让液体沾上粘液肺。
 
-## How to cure a dupe with slimelung
+## 如何治好患粘液肺的复制人
 
 ![Building_Apothecary.webp](assets/Building_Apothecary-e4fae36332.avif)
 
-Apothecary
+配药桌
 
 ![Building_Sick_Bay.webp](assets/Building_Sick_Bay-fe9861075e.avif)
 
-Sick bay
+医务站
 
-In the top left of the screen there is small germ icon. On the right of that icon there is a number. That is the number of sick dupes you have. You can mouseover the germ or number to see a list of dupes and sicknesses.
+屏幕左上角有个小小的病菌图标。图标右边有个数字。那就是你家里生病的复制人数量。把鼠标移到病菌图标或数字上，就能看到复制人和疾病列表。
 
-A dupe that becomes infected gets a Slimelung debuff which lasts for 3 cycles. The debuff causes a -3 penalty in athletics and coughing. (Basically, slimelung slows dupes down.)
+被感染的复制人会得到一个粘液肺负面状态，持续 3 个周期。这个负面状态会让运动 -3，并导致咳嗽。（说白了，粘液肺会让复制人变慢。）
 
-Curing slimelung isn't difficult, but it does require a dupe with the Bedside Manner skill. This means you need a dupe with two points in the Doctoring skill tree.
+治好粘液肺不难，但需要一个具有病床礼仪技能的复制人。也就是说，你需要一个在医疗技能树上点了两点的复制人。
 
-Curing slimelung:
+治疗粘液肺：
 
-* Slimelung is cured with a Medical Pack
-* Medical packs are made using an Apothecary
-* To administer a medical pack you need to have a building called a Sick Bay
-* A dupe needs to have the Bedside Manner skill to administer a medical pack
+* 粘液肺用医疗包治疗
+* 医疗包用配药桌制作
+* 要施用医疗包，你需要一座叫医务站的建筑
+* 复制人必须具有病床礼仪技能才能施用医疗包
 
-All the relevant buildings are built under the Medicine build tab.
+相关建筑都在“医疗”建造标签下。
 
-To manufacture a medical pack you will need balm lily flower and phosphorite. Balm lily are those plants that grow in chlorine, found in the same biome you find dreckos in. Phosphorite can be dug up on the map and it is also produced by dreckos.
+制作医疗包需要芳香百合花和磷矿。芳香百合就是那种长在氯气里的植物，和毛鳞壁虎出现在同一个生态。磷矿可以在地图上挖到，毛鳞壁虎也会产出。
 
-## Options for dealing with slimelung
+## 应对粘液肺的几种选择
 
-One approach to dealing with slimelung is to ignore it. Not avoid it - ignore it. Dig and build and go about your business without giving slimelung a second thought or ever even opening the germ overlay.
+一种做法是无视它。不是避开——是无视。照常挖、照常建、该干嘛干嘛，完全不给粘液肺第二个念头，甚至从不开病菌概览。
 
-I don't recommend this approach; I mention it more as a way to underline that slimelung isn't actually dangerous for your dupes. So if you have been avoiding slimelung out of fear, you can stop being afraid :-)
+我不推荐这种做法；我提它主要是想强调：粘液肺对你的复制人其实并不危险。所以如果你一直因为害怕而躲着粘液肺，那你可以不用怕了 :-)
 
-As far as actually dealing with slimelung, you have two options: containment or eradication. In the first option you make sure slimelung germs don't spread. In the second option you get rid of slimelung germs entirely.
+至于真正去应对粘液肺，你有两个选择：围堵或根除。前一种做法是确保粘液肺病菌不扩散。后一种做法是把粘液肺病菌彻底清掉。
 
-## Containment
+## 围堵
 
-If you are content just containing slimelung so it doesn't spread in your base, then all you need to do is submerge slimelung-infested slime in liquid so it can't offgas any polluted oxygen.
+如果你只想把粘液肺围住、不让它在基地里扩散，那你只需要把染了粘液肺的菌泥泡进液体里，让它没法释放污染氧。
 
-One way to do this is to have storage bins submerged in liquid. Another way is to have an automatic dispenser that dumps debris into liquid. How you do it doesn't matter, it's just a matter of getting infected debris submerged.
+一种做法是把存储箱泡在液体里。另一种是放一台自动卸物箱，把碎屑倒进液体。怎么做都行，关键就是让带菌的碎屑泡在液体里。
 
-## Eradication
+## 根除
 
-There are various ways in which you can kill off germs, some quicker some slower.
+杀病菌的方法有很多，有的快有的慢。
 
-The Ore Scrubber
+矿石洗涤器
 
-There is a building called an ore scrubber. I used to use it to rid my base of slimelung, but don't use it anymore and don't really recommend it either. But since it can do the job I'll go over it.
+有个建筑叫矿石洗涤器。我以前用它给基地除粘液肺，现在不用了，也不太推荐。不过既然它能干活，我还是讲一下。
 
 ![Building_Ore_Scrubber.webp](assets/Building_Ore_Scrubber-79025bd459.avif)
 
-Ore scrubber
+矿石洗涤器
 
-If a dupe carries something with germs on it past an ore scrubber, they will automatically put it in the ore scrubber. The ore scrubber will then remove a lot of germs from it.
+如果复制人带着带菌的东西经过矿石洗涤器，他们会自动把它放进去。矿石洗涤器随后会去掉其中大量病菌。
 
-* Note: you need to pump chlorine to an ore scrubber's gas input pipe for it to work
+* 注意：你得给矿石洗涤器的气体输入管道通氯气，它才能工作
 
-However, slime tiles can have more slimelung germs than a single use of an ore scrubber will remove. Also, if an ore scrubber is in use and a dupe carries a slimelung-infested tile past it, then they won't stop and wait to put it in the ore scrubber. They just run past, carrying the germy tile.
+不过，一块菌泥砖上的粘液肺病菌可能比矿石洗涤器一次能清掉的还多。而且，如果矿石洗涤器正在使用中，复制人拎着一块染病砖块路过，他们不会停下来排队，而是直接跑过去，把带菌砖块也带过去。
 
-So you will need to have several ore scrubbers in a row, and then also keep an eye on all dupes that pass by to make sure all slimelung germs are killed off. This makes it a very labour-intensive approach.
+所以你得一排摆好几台矿石洗涤器，还得盯着每个路过的复制人，确保所有粘液肺病菌都被杀干净。这让它成了非常费人力的做法。
 
-Chlorine
+氯气
 
-You can kill off germs by having germy debris in chlorine. The tricky part, depending on how you do this, is likely to be that chlorine is lighter than carbon dioxide. So any dupes that exhale carbon dioxide in your chlorine pit will cause the chlorine level to rise, which might mess with the design.
+把带菌碎屑放在氯气里也能杀菌。麻烦的地方（取决于你怎么做）大概在于氯气比二氧化碳轻。所以任何在你氯气坑里呼出二氧化碳的复制人都会让氯气层升高，可能把设计搞乱。
 
-(Clean) Oxygen
+（干净）氧气
 
-The easiest (but not fastest) way to kill off slimelung germs is to just have slimelung-infested tiles in oxygen (regular oxygen, not polluted oxygen). Slowly but surely, the slimelung germs will die off.
+杀死粘液肺病菌最简单（但不是最快）的方法，就是把染病砖块放在氧气里（普通氧气，不是污染氧）。粘液肺病菌会慢慢地、但确实地死掉。
 
-Cold temperatures
+低温
 
-This has become my standard approach (as long as I have a cold biome). Slimelung germs die quickly in cold temperatures. Slimelung in natural tiles, meaning slimelung-infested tiled that you haven't dug up, begin dying off at temperatures below +20C.
+这已经成了我的标准做法（只要我有冰冻生态）。粘液肺病菌在低温下死得很快。天然砖块里的粘液肺——也就是你还没挖开的染病砖块——在低于 +20C 的温度下就开始死亡。
 
-I used to be scared of slimelung, even after it was nerfed. I would have intricate systems with lots of ore scrubbers and chlorine and whatnot. These days, I just put some storage bins in a cold biome and set them to accept slime and algae (the most common tiles slimelung is found in). Then I just dig up any slimelung I want to get rid of. Dupes put it in the storage bins and the slimelung dies off.
+我以前很怕粘液肺，哪怕它已经被削弱了。我会搭很复杂的系统，摆一大堆矿石洗涤器和氯气什么的。现在我就在冰冻生态里放几个存储箱，设成接收菌泥和藻类（粘液肺最常见的两种来源砖块）。然后我想清掉哪片粘液肺就挖开。复制人把它放进存储箱，粘液肺就死掉了。
 
-This is a messy process - there will be slimelung germs in your base, on ladders, etc. And whenever dupes put new slimelung-infested slime in the storage bin, the bin will become infested with new germs. (I turn off auto-disinfect during this process to not waste time on pointless disinfections.) But once all slime is in the storage bins, it won't take long before slimelung germs will be a thing of the past.
+这个过程很乱——你基地里、梯子上都会沾上粘液肺病菌。而且每次复制人往存储箱里放新的染病菌泥，箱子里又会沾上新病菌。（这个过程里我会关掉自动消毒，免得把时间浪费在无意义的消毒上。）但等所有菌泥都进了存储箱，用不了多久粘液肺病菌就会成为过去式。
 
-If you don't like the idea of digging up slimelung, and if you only want to get rid of a limited amount of slimelung germs, then you can also bring the chill to the slime. Dig out the tiles around a slimelung-infested tile (or several) and then put a storage bin next to the slimelung tiles. Then fill the storage bin with ice (or anything cold). As long as the chill can spread to the slimelung, it will kill it.
+如果你不喜欢挖粘液肺这个主意，而且只想清掉有限的一点粘液肺病菌，那你也可以把低温带到菌泥那儿。把一块（或几块）染病砖块周围的砖挖开，然后在染病砖块旁边放个存储箱。再把存储箱装满冰（或任何冷的东西）。只要低温能传到粘液肺那儿，就能把它杀掉。
 
-Radiation
+辐射
 
-If you are playing the DLC, then you can use radiation to kill slimelung germs. This is perhaps most convenient on other asteroids than your starting one, where you can mine out the top of a smaller asteroid so radiation from above can get at the germs.
+如果你在玩 DLC，那你就可以用辐射来杀粘液肺病菌。这大概在你出生小行星以外的小行星上最方便——你可以把一颗小行星的顶部挖开，让上方的辐射照到病菌上。
 
-## Cleaning up
+## 清理
 
-Regardless of approach, you are likely to get some (or a lot of) slimelung infested polluted oxygen. Cleaning that up is mainly a matter of just placing lots of deodorizers wherever needed. You can do this while you're digging out slime tiles.
+不管用哪种做法，你大概都会弄出一些（或很多）带粘液肺的污染氧。清理它主要就是在需要的地方多放空气净化器。你可以在挖菌泥砖块的同时顺手放。
 
-When placing deodorizers, remember that polluted oxygen mainly moves horizontally (left and right) and not much vertically (up and down).
+放空气净化器时记住：污染氧主要沿水平方向（左右）流动，垂直方向（上下）动得不多。
 
 ![ONI-Guide_Slimelung4.png](assets/ONI-Guide_Slimelung4-caa2701669.avif)
 
-Operation slimelung. Digging out a slime biome and placing deodorizers. Storage bins in the ice biome make quick work of slimelung germs.
+粘液肺行动。挖开菌泥生态并放置空气净化器。冰冻生态里的存储箱能很快解决粘液肺病菌。
 
-Before you break (or dig) into an area with polluted oxygen, mousover a tile or two in there. Some pockets of polluted oxygen can have a lot of polluted oxygen per tile.
+在你打通（或挖进）一片有污染氧的区域之前，先把鼠标移到里面一两格上看看。有些污染氧气团每格的污染氧非常多。
 
-Your base is likely to be at somewhere between 1-2K of oxygen per tile. If a pocket of polluted oxygen has 5K per tile, then a lot of polluted oxygen will rush out into your base (or other areas) when you open up a way for it to do so. You can prepare for this by having a lot of deodorizers by where you will dig up a passage.
+你基地里大概是每格 1-2K 的氧气。如果某团污染氧每格有 5K，那你一给它开路，就会有大量污染氧涌进基地（或其他区域）。你可以提前在你打算挖通道的地方多放些空气净化器来应对。
 
-You can save dupe travel time if you build ladders out of a material you have nearby. There is a lot of sedimentary rock in slime biomes. If you don't need it for hatches (to turn regular hatches into stone hatches) then you can build ladders out of it. (But it's not a big deal if you forget, or just don't bother with it. It just means a bit more travel time.)
+如果你用附近现成的材料建梯子，可以省下复制人的赶路时间。菌泥生态里有很多沉积岩。如果你不需要拿它喂好吃哈奇（把普通好吃哈奇变成石壳哈奇），就可以用它建梯子。（不过忘了也没啥，或者干脆懒得弄也行。无非就是多跑点路。）
 
-## Buddy Bud flowers (floral scents)
+## 同伴芽花（花香）
 
 ![Buddy_Bud.webp](assets/Buddy_Bud-6d5c1cf621.avif)
 
-Buddy Bud
+同伴芽
 
-## What to do with slime?
+## 菌泥能拿来干嘛？
 
-Tiles can only contain one type of germ. Slimelung is a germ, but so are floral scents. Meaning if there are floral scents, slimelung can't infect that tile or move past it.
+砖块里只能容纳一种病菌。粘液肺是一种病菌，花香也是。也就是说，如果某格有花香，粘液肺就没法感染那格，也没法穿过去。
 
-Buddy Bud flowers give off floral scents. So planting buddy bud flowers is an effective way of limiting where slimelung germs can spread (in gases).
+同伴芽花会散发花香。所以在（气体里）种同伴芽花是限制粘液肺病菌扩散范围的有效办法。
 
-If you want to (slowly) get rid of your slime, one use for it is to feed it to mushrooms. You can also turn slime into algae and polluted water using a building called an Algae Distiller. I would recommend ridding the slime of slimelung germs first, as otherwise you will get slimelung-infested algae.
+如果你想（慢慢地）消化掉你的菌泥，一个用途是拿去喂蘑菇。你也可以用一座叫藻类蒸馏器的建筑把菌泥变成藻类和污染水。我建议先把菌泥里的粘液肺病菌清掉，不然你会得到带粘液肺的藻类。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/dealing-with-slimelung](https://www.guidesnotincluded.com/dealing-with-slimelung) ([Wayback Machine snapshot](https://web.archive.org/web/20250806091500id_/https://www.guidesnotincluded.com/dealing-with-slimelung)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/dealing-with-slimelung](https://www.guidesnotincluded.com/dealing-with-slimelung)（[Wayback Machine 快照](https://web.archive.org/web/20250806091500id_/https://www.guidesnotincluded.com/dealing-with-slimelung)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

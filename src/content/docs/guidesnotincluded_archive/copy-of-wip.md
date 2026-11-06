@@ -1,398 +1,398 @@
 ---
-title: "WIP"
-description: "5) Get your research on with the Research Station"
+title: "施工中"
+description: "5) 用研究站开始搞研究"
 source_url: https://www.guidesnotincluded.com/copy-of-wip
 archived: 2025-04-27
 archive_snapshot: https://web.archive.org/web/20250427193257id_/https://www.guidesnotincluded.com/copy-of-wip
 ---
 
-Contents:
+目录：
 
-* Decor and cleaning up
-* Expanding base, planning ahead
-* Know your biomes - slime biome
-* Water lock
-* Medical building
-* Reed Fibre (or Dreckos)
-* Water storage
+* 装饰与清理
+* 扩建基地、提前规划
+* 认识你的生态——菌泥生态
+* 水锁
+* 医疗建筑
+* 芦苇纤维（或者毛鳞壁虎）
+* 储水
 
-5) Get your research on with the Research Station
+5) 用研究站开始搞研究
 
-6) Food
+6) 食物
 
-7) Compost - dealing with polluted dirt
+7) 堆肥——处理污染土
 
-8) Advanced research - the Super Computer
+8) 高级研究——超级计算机
 
-Players tend to divide the game into the early game, mid game and late game. But exactly where people draw the lines between them varies. I have needed to draw some arbitrary lines here as well. This guide is structured as follows:
+玩家们习惯把游戏分成早期、中期和后期。但具体在哪儿划线，人人不同。我在这里也只能武断地划几条线。本指南的结构如下：
 
-## Choosing dupes
+## 选择复制人
 
-A little bit about interests and traits
+稍微聊一下兴趣和特质
 
-## Very early game
+## 极早期游戏
 
-1) Outhouses, wash basins and access to water
+1) 户外厕所、洗手盆，以及水源
 
-2) Beds (in temporary locations)
+2) 床铺（先放在临时位置）
 
-3) Power, part 1: the hamster wheel and battery
+3) 电力，第一部分：人力发电机（仓鼠轮）与蓄电池
 
-4) Oxygen: the Oxygen Diffuser
+4) 氧气：氧气扩散器
 
-5) The Research Station (and some research)
+5) 研究站（以及一些研究）
 
-6) Food
+6) 食物
 
-7) Compost - dealing with polluted dirt
+7) 堆肥——处理污染土
 
-8) Advanced research - the Super Computer
+8) 高级研究——超级计算机
 
-## Early game
+## 早期游戏
 
-9) Dining room (Great Hall)
+9) 用餐区（餐厅）
 
-10) Plumbing - toilets and sinks
+10) 管路工作——马桶和洗手池
 
-11) Dealing with polluted water bottles and polluted oxygen
+11) 处理污染水桶和污染氧
 
-12) Dealing with carbon dioxide
+12) 处理二氧化碳
 
-13) Power, part 2: Coal generators
+13) 电力，第二部分：煤炭发电机
 
-## Getting started with automation
+## 自动化入门
 
-14) Automating your coal power generator
+14) 自动化你的煤炭发电机
 
-15) Automating your carbon skimmer
+15) 自动化你的碳素脱离器
 
-## Ranching: optional but useful
+## 养殖：可选，但很有用
 
-While there are benefits to ranching, you don't need to do it if you don't want to. So it is covered as its own optional bit.
+养殖虽然有不少好处，但你要是不想搞，也完全可以不搞。所以就把它单独当作可选的补充部分。
 
-Tip: Going where no dupe has gone before: Exploring the map
+提示：前往复制人未曾涉足之处：探索地图
 
-Know your biomes and geysers.
+认识你的生态和间歇泉。
 
-TIP: decore Cleaning up your mess - decor and debris
+提示：装饰 收拾你的烂摊子——装饰与杂物
 
-Mid (or maybe late) game stuff
+中期（也许算后期）的东西
 
-Decontaminating water
+给水消毒
 
-Atmo suits
+气压服
 
 SPOM
 
-Petroleum
+石油
 
-Plastic
+塑料
 
-Cooling - using AETN or using aquatuner
+降温——用 AETN 或用液温调节器
 
-* Rooms get room bonuses by fulfilling certain requirements.
+* 房间在满足特定要求后会获得房间加成。
 
-* You can see the available room bonuses and requirements in the Room Overlay (top right, or press F11).
+* 你可以在房间概览（右上角，或按 F11）里查看可用的房间加成和要求。
 
-* The most common maximum room size is 64 tiles. This equals a 4x16 room: 4 tiles high, 16 tiles wide. (Or 18 tiles wide if you include the outer walls.)
+* 最常见的最大房间尺寸是 64 格。也就是 4x16 的房间：高 4 格、宽 16 格。（如果把外墙算进去，就是宽 18 格。）
 
-* The maximum size for a ranch is 96 tiles. This equals a 6x16 room. (6 tiles high, 16 tiles wide - or 18 if you count the outer walls.)
+* 畜舍的最大尺寸是 96 格。也就是 6x16 的房间。（高 6 格、宽 16 格——算上外墙就是 18 格。）
 
-For my fellow neat-freaks
+给和我一样的强迫症患者
 
-* If you want a neatly structured base you can make your floors 18 tiles wide and then vary room hight depending on the max room size.
+* 如果你想让基地结构整整齐齐，可以把每层都做成 18 格宽，然后根据房间尺寸上限来调整每层的高度。
 
-* (The above suggestion is in no way a necessity, but be warned: years ago I read someone suggest it on a forum, and since trying it for the first time I have been both physically and pshychologically incapable of ever not building my bases using the X tiles high by 18 tiles wide approach.)
+* （上面这个建议绝对不是必需的，但我得提醒你：好几年前我在论坛上看到有人这么建议，自从第一次照着试过之后，我在生理上和心理上都再也做不到不按“高 X 格、宽 18 格”的方式来建基地了。）
 
-## Tip: room sizes - and room bonuses
+## 提示：房间尺寸——以及房间加成
 
-## AUTOMATION BASICS
+## 自动化基础
 
-Automation takes a little bit of getting used to but can be very useful, so it's worth getting the hang of. Let's start with some basics.
+自动化需要花点时间上手，但非常有用，值得熟悉一下。我们从一些基础讲起。
 
-Oversimplified, automation allows you to tell the game:
+说得极简一点，自动化就是让你能告诉游戏：
 
-* When [a thing] happens, I want [another thing] to happen.
+* 当［某件事］发生时，我想让［另一件事］发生。
 
-Let's look at some examples.
+我们来看几个例子。
 
-A common early automation project is to do with coal generators. Here, automation is used to tell the game:
+早期很常见的自动化项目跟煤炭发电机有关。这里的自动化是用来告诉游戏：
 
-* When [my battery is fully charged], I want [my coal generator to stop running].
-* When [my battery is low on charge], I want [my coal generator to start running].
+* 当［我的蓄电池充满了］时，我想让［我的煤炭发电机停止运行］。
+* 当［我的蓄电池电量低了］时，我想让［我的煤炭发电机开始运行］。
 
-There are various machines your dupes need to fill - like filling your coal generators with coal. Another use for automation is to say:
+有些机器需要复制人去填东西——比如往煤炭发电机里加煤。自动化的另一个用法是这样说：
 
-* When [my coal generator is running low on coal], I want [to fill it up with coal].
+* 当［我的煤炭发电机快没煤了］时，我想［去给它加煤］。
 
-You might also want to use automation to control what gasses are allowed in your base.
+你可能还想用自动化来控制基地里允许存在哪些气体。
 
-* When [the gas near this gas pump is not oxygen], I want [the gas pump to kick in and pump it away].
+* 当［这个气泵附近的气体不是氧气］时，我想让［气泵启动，把它抽走］。
 
-Exactly how you tell the game these things will vary depending on what you are automating. Some things are as easy to automate as just running an automation wire between two things (like a goal generator and a batter). Other things require some additional things, often an automation sensor.
+具体怎么把这些告诉游戏，取决于你在自动化什么。有些东西自动化起来很简单，只要在两样东西之间拉一根信号线就行（比如煤炭发电机和蓄电池）。另一些东西则需要额外的部件，通常是一个自动化传感器。
 
-There are lots of different kinds of sensors in the game. Sensors for temperature, gas type, liquid type, amount of germs, time of day (what part of the cycle it is), and on and on. These can all be used to define, and send the game, those "when [a thing] happens..." -commands.
+游戏里有各种各样的传感器。温度、气体种类、液体种类、病菌数量、一天中的时间（现在是周期的哪一段），等等等等。它们都可以用来定义那些“当［某件事］发生时……”的命令，并发送给游戏。
 
-These were just a few things - you can do crazy amounts of crazy things with automation. But we'll focus on the simpler stuff. However, there are some things you'll need before you can get automating.
+这些只是几个例子——用自动化你能玩出各种疯癫操作。不过我们还是先专注简单的东西。只不过，在你能开始自动化之前，还有些前提条件。
 
-Automation prerequisites
+自动化的前置条件
 
-* You will need to unlock automation-related stuff through research.
-* You will need refined metals (early-game you can make them with the Rock Crusher).
-* Some things require the Mechatronics Engineer skill (at the end of the Operating/Supplying skill tree) to be able to build.
+* 你需要通过研究解锁与自动化相关的东西。
+* 你需要精炼金属（早期可以用碎石机做出来）。
+* 有些东西需要“机电工程”技能（在操作/供应技能树的末端）才能建造。
 
-That's enough theory - let's get automating.
+理论讲够了——开始自动化吧。
 
 ![CBCIGtoONI_Automation1.png](assets/CBCIGtoONI_Automation1-27c7b42663.avif)
 
-Simple Coal Generator automation. Using Automation Wire, the Coal Generators are connected to a Smart Battery.
+简单的煤炭发电机自动化。用信号线把煤炭发电机连到一块智能蓄电池上。
 
-## AUTOMATING YOUR COAL GENERATOR
+## 自动化你的煤炭发电机
 
-Research required:
+需要的研究：
 
-* Sound Amplifiers (under Power)
-* Smart Home (under Computers)
-* Brute-Force Refinement (under Solid Material)
+* 扩音器（在电力下）
+* 智能家居（在计算机下）
+* 蛮力精炼（在固体材料下）
 
-We will need refined metal. (In our case, we will turn Copper Ore into Copper.) So first,
+我们需要精炼金属。（在我们的情况下，就是把铜矿变成铜。）所以首先，
 
-* Build a Rock Crusher (under Refinement)
+* 建造一台碎石机（在精炼下）
 
-It generates a lot of heat, so keep it away from your plants. This can be a temporary placement. You can also (particuarly if it is a long-term spot for the Rock Crusher) put a Storage Bin (or several) nearby, set to Metal Ore (either all kinds or just some) - the raw materials needed for making refined metal.
+它会产生大量热量，所以让它离你的植物远一点。这个位置可以是临时的。你还可以（尤其是如果碎石机要长期放在这里）在旁边放一个（或几个）存储箱，设置为金属矿石（所有种类都行，或者只选某几种）——也就是制作精炼金属所需的原材料。
 
-One Rock Crusher placement option, useful if you don't want to add additional strain to your normal power wire, is to put the Rock Crusher next to your coal generator. Then you can connect it directly to your coal generator using Heavi-Watt Wire. (This means there is one less machine drawing power along your regular wire.) It is worth knowing that Heavi-Watt Wire has a significant negative decor value.
+碎石机的一种摆放选择是放在煤炭发电机旁边，如果你不想给日常的电线增加额外负担，这很有用。这样你就可以用高负荷电线把它直接接到煤炭发电机上。（这意味着你的普通电线上少了一台机器在耗电。）值得知道的是，高负荷电线有明显的负装饰度。
 
-Once your Rock Crusher is built,
+碎石机建好之后，
 
-* order up 5 Copper (Iron works fine, too - I'm just assuming you have more copper ore)
+* 下单 5 个铜（铁也完全没问题——我只是假设你铜矿更多）
 
-Remember you can raise the priority on the rock crusher. To make using the rock crusher more imporatnt to some dupe, you can change dupe priorities.
+记住你可以提高碎石机的优先级。想让某个复制人更重视碎石机的工作，你可以调整复制人的优先级。
 
-* Operating the rock crusher falls under the "Operating" Duplicant Priority errand type
+* 操作碎石机属于复制人优先级里的“操作”任务类型
 
-Once we have our Copper we are ready to go. To automate our coal generator we will need to
+有铜之后就可以开工了。要自动化我们的煤炭发电机，我们需要
 
-* Replace our Jumbo Battery with a Smart Battery (under Power)
-* Connect our Smart Battery to our Coal Generator(s) using Automation Wire (under Automation)
+* 把巨型蓄电池换成智能蓄电池（在电力下）
+* 用信号线（在自动化下）把智能蓄电池连到煤炭发电机上
 
-When you start building Automation Wire, it will open the Automation Overlay. This will show you where the automation connection points are.
+你一开始建造信号线，就会打开自动化概览。它会显示自动化的连接点在哪里。
 
-You want to connect the smart battery and the coal generator(s) with one continuous Automation Wire. Do not connect the Power Tanfsormer, Rock Crusher, or anything else.
+你要用一根连续的信号线把智能蓄电池和煤炭发电机连起来。不要连变压器、碎石机或其他任何东西。
 
-With this done, there is one more thing we need to do: tell our new automated system what we want to have happen.
+做完这些，还有一件事要做：告诉我们的新自动化系统，我们希望发生什么。
 
-Telling the automation what to do
+告诉自动化该干什么
 
-Thanks to the Automation Wire connecting your Smart Battery and your Coal Generator, your battery can now send messages - commands - to your coal generator(s).
+多亏了那根连接智能蓄电池和煤炭发电机的信号线，你的蓄电池现在可以给煤炭发电机发消息——也就是命令了。
 
-Click on the Smart Battery and you will see something called "Logic Activation Parameters." They include a"High Threshold" and a "Low Threshold." Don't mind the wording - it's just a fancy-pants way of saying "stop" and "go."
+点击智能蓄电池，你会看到“逻辑激活参数”。里面有“上限阈值”和“下限阈值”。别被这措辞吓到——它只是“停”和“开”的花哨说法。
 
-The high and low thresholds relate to how fully charged - or how close to empty - the Smart Battery needs to be before a command is sent to the coal generator.
+上限和下限阈值决定蓄电池要充到多满——或者快到多空——才会给煤炭发电机发命令。
 
-* The High Threshold is used to send a "Stop the coal generators - I'm sufficiently full!" command (also called a red signal).
-* The Low Threshold is used to send a "Fire up the coal generators - I need charging!" command (a green signal).
+* 上限阈值用来发送“煤炭发电机停机——我够满了！”的命令（也叫红色信号）。
+* 下限阈值用来发送“煤炭发电机点火——我需要充电！”的命令（绿色信号）。
 
-You set the upper number to how full you want to battery to be for the coal generator to stop. You set the lower number to how low you want the battery charge to go before the coal generator charges it again.
+你把上面那个数字设成你希望蓄电池充到多满时煤炭发电机停机。你把下面那个数字设成你希望蓄电池掉到多低时煤炭发电机再开始充电。
 
-The default values are 100 and 0. Letting the battery empty completely could cause problems, so raise the lower figure. I use figures I picked up from Francis John:
+默认值是 100 和 0。让蓄电池完全放空可能会出问题，所以把下面那个数字调高。我用的是从 Francis John 那儿学来的数值：
 
-* High threshold: 95
-* low threshold: 60
+* 上限阈值：95
+* 下限阈值：60
 
-(The reason for 95 instead of 100 is that the coal generator automation takes a while to run. If it starts when you are at 99%, say, then you might waste a bit of coal.)
+（用 95 而不是 100 的原因是，煤炭发电机的自动化要过一会儿才生效。如果你在 99% 时它就启动，那可能会浪费一点煤。）
 
-Future uses for this
+这套东西以后还能怎么用
 
-For now, this automation is useful to stop your coal generator(s) from running unnecessarily. Later in the game, you will most likely have several sources of power. Then you can use these thresholds to define in what order power sources should be used.
+目前，这套自动化就是防止煤炭发电机不必要地空转。游戏到了后面，你多半会有好几种电力来源。那时你就可以用这些阈值来定义各种电源的使用顺序。
 
-This is done by having (at least) one Smart Battery per type of power producer you have. All the batteries are connected to your power grid. But - and here's the important bit - each type of power producer (Coal Generators, Natural Gas Generators etc.) are connected, with Automation Wire, to their own Smart Battery.
+做法是给每种发电设备（至少）配一块智能蓄电池。所有蓄电池都接在你的电网上。但是——关键就在这儿——每种发电设备（煤炭发电机、天然气发电机等等）都用信号线连到自己那块智能蓄电池上。
 
-The charge in all batteries will be the same, since they are connected to the same power grid. But because you have separate automation wires, you can send individual commands to the different types of power generators.
+所有蓄电池的电量会是一样的，因为它们接在同一个电网上。但因为信号线是分开的，你可以给不同类型的发电机单独发命令。
 
-You can set different start and stop levels for your different kinds of power. You could, say, have
+你可以给不同种类的电力设置不同的启动和停止水平。比如你可以这样：
 
-* Solar panels - solar power is always on (while the sun is shining)
+* 太阳能板——太阳能一直开着（只要太阳在照）
 
-You can hope that solar power will be enough - that you can charge enough batteries during the day that their charge lasts all night. But, to be safe, you can automate other power producers to kick in if batteries get low.
+你可以指望太阳能就够了——白天充的电足够撑一整夜。但保险起见，你可以自动化其他发电设备，让它们在蓄电池电量低时补上。
 
-* Natural Gas Generators can be set to be idle if the batteries are more than 50% charged. Once the batteries drop to below 50% charge, the Natural Gas Generators kick in.
-* Coal Generators set to kick in if the batteries drop to below 30%. (And could be set to turn off when the batteries are at, say, 40% to lessen the amount of carbon dioxide produced.)
+* 天然气发电机可以设成：蓄电池电量高于 50% 时闲置。一旦蓄电池掉到 50% 以下，天然气发电机就启动。
+* 煤炭发电机设成：蓄电池掉到 30% 以下时启动。（还可以设成蓄电池到 40% 左右就停机，以减少二氧化碳的产生量。）
 
-For this build, you will need to research:
+这个建造方案需要研究：
 
-* Plumbing
-* Sanitation
-* Improved Plumbing
+* 水管
+* 卫生设备
+* 改良水管
 
-They are all in the Liquids research branch.
+它们全都在液体研究分支里。
 
-Building this project includes the following steps (the order you do them in doesn't matter):
+建造这个项目包括以下步骤（顺序无所谓）：
 
-* Build toilets - called Lavatories, found under Plumbing - and Sinks, found under Medicine.
-* (When deciding where to put toilets and sinks, remember the stuff about germs and making dupes pass a sink to wash their hands after using the bathroom.)
-* Build a Liquid Pump (found under Plumbing) in a body of (clean) water.
-* Build a Liquid Reservoir (found under Home). Placement isn't hugely important, but try to put it somewhere where it won't be in the way for several dozen cycles (or more).
-* Using Liquid Pipe (under Plumbing), connect the water pump to the toilet and sink inputs - the white bits.
-* Also using pipes, connect the toilet and sink outputs (the green bits) to the input (the white bits) of the Liquid Reservoir.
-* The finished piping should go:
+* 建造马桶（游戏里叫“抽水马桶”，在管路工作下找）和洗手池（在医疗下找）。
+* （在决定马桶和洗手池放哪儿时，记得那些关于病菌、以及让复制人上完厕所必须经过洗手池洗手的内容。）
+* 在一处（干净的）水里建造一台液泵（在管路工作下找）。
+* 建造一座储液库（在居家下找）。位置不是特别重要，但尽量放在几十个周期（甚至更久）内都不会碍事的地方。
+* 用液体管道（在管路工作下）把水泵接到马桶和洗手池的输入端——那些白色的部分。
+* 同样用管道，把马桶和洗手池的输出端（绿色的部分）接到储液库的输入端（白色的部分）。
+* 接好的管路应该是这样：
 
-  + from the pump to the white bits on the toilets and sinks.
-  + from the green bits on the toilets and sinks to the while bit on the liquid reservoir.
-* When finished, connect your Liquid Pump to your power grid (using Wire, under Power).
+  + 从泵通向马桶和洗手池上的白色部分。
+  + 从马桶和洗手池上的绿色部分通向储液库上的白色部分。
+* 完成后，把液泵接到你的电网上（用电力下的电线）。
 
-Water should now start flowing along your pipe(s) and into your toilets and sinks.
+现在水应该开始沿着管道流进你的马桶和洗手池了。
 
-Mouseover your toilet and, if everything worked, it should say "Lavatory Ready." If it doesn't say that (and trust me - we've all been there), it's time to start debugging - start by checking inputs and outputs.
+把鼠标移到马桶上，如果一切正常，它应该显示“抽水马桶就绪”。如果没显示（相信我——我们都经历过），那就该开始排查了——先检查输入端和输出端。
 
-Early game
+早期游戏
 
-8) Great Hall
+8) 餐厅
 
-9) Refined metal
+9) 精炼金属
 
-10) Dealing with carbon dioxide
+10) 处理二氧化碳
 
-11) Plumbing - toilets and sinks
+11) 管路工作——马桶和洗手池
 
-12) Power, part 2: Coal generators
+12) 电力，第二部分：煤炭发电机
 
-13) Cleaning up your mess - decore and debris
+13) 收拾你的烂摊子——装饰与杂物
 
-oxygen cealning and polluted water form toilets
+氧气净化，以及厕所产生的污染水
 
-Optional (but useful): Ranching
+可选（但有用）：养殖
 
-While there are benefits to ranching, you don't need to do it if you don't want to. So it is covered as its own optional bit.
+养殖虽然有不少好处，但你要是不想搞，也完全可以不搞。所以就把它单独当作可选的补充部分。
 
-Getting stared with automation
+自动化入门
 
-Automation is a huge help and you're better off getting over any fears of using it right away. Which is what this next section will do.
+自动化是极大的助力，你最好一开始就克服对它的恐惧。下面这一节就是干这个的。
 
-14) Automating your coal power generator
+14) 自动化你的煤炭发电机
 
-15) Automating your carbon skimmer
+15) 自动化你的碳素脱离器
 
-Mid-game stuff, part 1
+中期内容，第一部分
 
-Switching to Bristle Blossoms
+换成毛刺花
 
-Decontaminating water
+给水消毒
 
-Atmo suits
+气压服
 
-Plastic
+塑料
 
-Cooling
+降温
 
-Late game
+后期
 
 SPOM
 
-Petroleum
+石油
 
-Rooms and bonuses
+房间与加成
 
-Air flow
+气流
 
-Basic survival
+基本生存
 
-Ranching (optional)
+养殖（可选）
 
-Oxygen
+氧气
 
-Water decontamination
+水消毒
 
-Decor, cleaning up
+装饰、清理
 
-Know your biomes
+认识你的生态
 
-Slime biome
+菌泥生态
 
-Know your geysers etc.
+认识你的间歇泉等等
 
-Reed fibre
+芦苇纤维
 
-Atmo suits
+气压服
 
-Plastic
+塑料
 
-Cooling
+降温
 
-1. Toilets and wash basins
-2. Access to water
-3. Beds (in temporary locations)
-4. Power (hamster wheel) and battery
-5. Oxygen
-6. Research station
-7. Food
-8. Advanced research station
+1. 马桶和洗手盆
+2. 水源
+3. 床铺（先放在临时位置）
+4. 电力（仓鼠轮）与蓄电池
+5. 氧气
+6. 研究站
+7. 食物
+8. 高级研究站
 
-## 11. DEALING WITH POLLUTED WATER BOTTLES AND POLLUTED OXYGEN
+## 11. 处理污染水桶和污染氧
 
-You will end up with polluted water bottles in your base, from your early toilet setup and from any accidents your dupes may have had. With some plumbing basics researched, we can now get rid of them.
+你的基地里最后总会出现污染水桶，来自你早期的厕所设施，也来自复制人们可能搞出的各种事故。研究了一些管路基础知识之后，我们就能把它们清掉了。
 
-To do this, we will set up a place to dump the polluted water, with a pump to pump it into the liquid reservoir of polluted water. This can either be a temporary thing you deconstruct afterwards or a permanent place for dupes to dump polluted water bottles in the future.
+要做这件事，我们会弄一个倒污染水的地方，再用一台泵把水抽进污染水的储液库里。这可以是个临时设施，用完就拆掉，也可以是个永久的倒污染水桶的地方。
 
-Dupes get germy from carrying polluted water bottles. Once this project is done, send germy dupes past sinks to wash their hands and do a large-scale disinfection of the base - using the Disinfect buildings command on the bottom right (or press "I").
+复制人搬污染水桶会沾上病菌。这个项目做完之后，让沾了病菌的复制人经过洗手池洗手，再对基地做一次大规模消毒——用右下角的“消毒”建筑命令（或者按“I”）。
 
-## 12. DEALING WITH CARBON DIOXIDE
+## 12. 处理二氧化碳
 
-Dupes exhale carbon dioxide (you can see the Oxygen Overlay by clicking its icon in the top right or pressing F1).
+复制人会呼出二氧化碳（你可以点右上角的图标或按 F1 打开氧气概览来看）。
 
-When carbon dioxide levels rise into your base, dupes will have to intermittenly run up into the oxygen layer to gasp for air. So having a machine (or worse - a bed) in carbon dioxide isn't great.
+当二氧化碳涨进你的基地里，复制人就得时不时跑进氧气层去喘口气。所以把机器（更糟的是——床）放在二氧化碳里可不妙。
 
-There are two approaches to carbon dioxide buildup in your base: Deal with it later and Deal with it now.
+对付基地里积聚的二氧化碳有两种思路：以后再说，和现在就处理。
 
-Deal with it later
+以后再说
 
-Since carbon dioxide is heavier than oxygen, you can dig a carbon dioxide pit: basically just a ladder going down, with a few tiles dug out around it. Then you can extent the ladder further and further down as carbon dioxide piles up in your base.
+因为二氧化碳比氧气重，你可以挖一个二氧化碳坑：基本上就是往下挖一条梯子，在梯子周围挖掉几格。然后随着二氧化碳在基地里越积越多，你可以把梯子一点点往下延伸。
 
-Note: digging a deeper and deeper carbon dioxide pit will become slower and slower as dupes need to hold their breath for longer and longer as they go down to dig.
+注意：二氧化碳坑挖得越深，速度就越慢，因为复制人下去挖的时候得憋气憋得越来越久。
 
-Deal with it now
+现在就处理
 
-Later in the game there is some limited use for carbon dioxide. For now, let's just get rid of it. We'll do this with a Carbon Skimmer.
+游戏后期二氧化碳有一些有限的用途。现在嘛，我们先把它清掉。我们用碳素脱离器来做这件事。
 
-Carbon skimmer basics
+碳素脱离器基础
 
-* The Carbon Skimmer is unlocked through research: under Air Systems, the second step in the Liquids research branch.
-* The carbon skimmer uses water as its input and outputs polluted water.
-* (Though polluted, the water is germ-free.)
-* The carbon skimmer only gets rid of carbon dioxide - it does not produce oxygen.
+* 碳素脱离器通过研究解锁：在空气系统下，也就是液体研究分支的第二步。
+* 碳素脱离器用水作为输入，输出污染水。
+* （虽然被污染了，但水是没有病菌的。）
+* 碳素脱离器只清除二氧化碳——它不产生氧气。
 
-Carbon skimmer placement
+碳素脱离器的摆放
 
-The carbon skimmer will define the point where oxygen will end and carbon dioxide will begin: carbon dioxide will build up to the carbon skimmer, not above it.
+碳素脱离器会决定氧气到哪里为止、二氧化碳从哪里开始：二氧化碳会一直积到碳素脱离器那里，而不会堆到它上面。
 
-When deciding where to place your carbon skimmer
+在决定把碳素脱离器放在哪儿的时候
 
-* one option is to put it at the botttom of your base. (Or to dig down to what you think will be the bottom of your base once you are done expanding.)
-* Another option is to put it further down your ladder network. You will eventually want to dig down to the oil biome (but don't go there without Atmo Suits! - we'll cover them later) and other biomes below your starting biome. A carbon skimmer further down a ladder network will mean dupes can breathe there, too.
+* 一种选择是放在基地的最底下。（或者往下挖到你认为扩建完之后基地的最底部。）
+* 另一种选择是放在你梯子网络更靠下的位置。你最终会想往下挖到油质生态（但没穿气压服千万别去！——气压服我们后面会讲）以及起始生态下面的其他生态。碳素脱离器放在梯子网络更靠下的位置，意味着复制人在那里也能呼吸。
 
-* It might not seem like it when you first start playing, but heat has ended many a game of Oxygen Not Included.
+* 刚开始玩的时候可能看不出来，但热量终结过很多局《缺氧》。
 
-* The way heat usually gets you is your food: Mealwood and Brislte Blossoms can be at most +30 C to grow.
+* 热量通常是通过你的食物弄死你的：米虱木和毛刺花最多只能在 +30 C 下生长。
 
-* With late game technology you can keep your base cool. Until then, you need to give some thought to it.
+* 有了后期科技，你可以让基地保持凉爽。在那之前，你得稍微动点脑子。
 
-* Buildings generate varying amounts of heat. You can see the amount they generate in the build menu under Heat.
+* 建筑产生的热量各不相同。你可以在建造菜单的“热量”下看到它们产生多少。
 
-* The amount of heat generated is given in DTU/s. I have absolutely no idea what that is. But comparing buildings will give you some idea, e.g.:
+* 产生的热量以 DTU/s 计。这玩意儿到底是什么，我完全没概念。但把不同建筑放在一起比一比，你就能有点感觉，比如：
 
-  + a Ceiling Light generates 500 DTU/s
-  + a Rock Crusher generates 16.000 DTU/s
+  + 一盏吸顶灯产生 500 DTU/s
+  + 一台碎石机产生 16.000 DTU/s
 
-* Try to keep buildings that generate significant amounts of heat a fair distance away from any area where you grow food.
+* 尽量让产生大量热量的建筑离你种食物的区域远一点。
 
-## Tip: heat basics - food
+## 提示：热量基础——食物
 
-## 13. POWER, PART 2: THE COAL GENERATOR
+## 13. 电力，第二部分：煤炭发电机
 
-The hamster wheel is adorable, but can take a significant amount of time out of your dupes' day. Also, you will eventually need more power than a hamster wheel can provide.
+仓鼠轮很可爱，但它会占掉复制人一天里相当多的时间。而且，你最终需要的电力会超过一个仓鼠轮能提供的量。
 
-You can free up dupes for other taks and have more power available in your power grid by upgrading to coal power. (If this seems intimidating, don't worry - you will have it up and running in no time.)
+升级到煤炭发电，你就能把复制人解放出来去做别的任务，电网里也能有更多电可用。（如果这听起来有点吓人，别担心——你很快就能把它跑起来。）
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/copy-of-wip](https://www.guidesnotincluded.com/copy-of-wip) ([Wayback Machine snapshot](https://web.archive.org/web/20250427193257id_/https://www.guidesnotincluded.com/copy-of-wip)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/copy-of-wip](https://www.guidesnotincluded.com/copy-of-wip)（[Wayback Machine 快照](https://web.archive.org/web/20250427193257id_/https://www.guidesnotincluded.com/copy-of-wip)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

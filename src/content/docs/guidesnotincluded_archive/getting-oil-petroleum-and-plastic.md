@@ -1,180 +1,180 @@
 ---
-title: "Getting oil, petroleum, and plastic"
-description: "If you are on Terra (the standard starting asteroid in the base game and \"Classic\" option of Spaced Out), finding oil is easy: dig down and you will eventually\u2026"
+title: "获取原油、石油与塑料"
+description: "如果你在 Terra（本体游戏的标准起始小行星，也是《眼冒金星！》里的“经典”选项），找油很容易：往下挖，你最终会…"
 source_url: https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic
 archived: 2025-08-27
 archive_snapshot: https://web.archive.org/web/20250827233034id_/https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic
 image: assets/ONI-guide-OilWell-2-61d09e0f7e.png
 ---
 
-## Oil and the oil biome
+## 原油与油质生态
 
-If you are on Terra (the standard starting asteroid in the base game and "Classic" option of Spaced Out), finding oil is easy: dig down and you will eventually reach the oil biome. (Terrania, the standard small starting biome in Spaced Out, does not have an oil biome.)
+如果你在 Terra（本体游戏的标准起始小行星，也是《眼冒金星！》里的“经典”选项），找油很容易：往下挖，你最终会到达油质生态。（Terrania，也就是《眼冒金星！》里标准的小型起始生态，没有油质生态。）
 
 ![ONI-guide-OilBiome.png](assets/ONI-guide-OilBiome-db1d0ccdf9.png)
 
-The Oil Biome. Usually found at the bottom of the map, but varies depending on asteroid. (And not all asteroids have an oil biome.)
+油质生态。通常在地图底部，但具体位置因小行星而异。（而且不是所有小行星都有油质生态。）
 
 ![Building_Triage_Cot.webp](assets/Building_Triage_Cot-1ae21dda26.png)
 
-Triage Cot
+分诊床
 
-Some things to keep in mind:
+有几件事要记住：
 
-* The oil biome is hot. So use [Atmo Suits](atmo-suit-basics.md).
+* 油质生态很热。所以要用[气压服](atmo-suit-basics.md)。
 
-  + In hot surroundings (mid-70C and above) dupes will start taking damage and then become incapacitated, needing saving by another dupe.
+  + 在炎热环境里（70 多度及以上），复制人会开始受伤，然后失去行动能力，需要另一个复制人来救。
 
-* Oil in a hot biome is hot. So build pumps and pitcher pumps out of materials that can handle it. For instance:
+* 炎热生态里的原油也很热。所以要用受得住高温的材料来造泵和手压泵。比如说：
 
-  + Gold amalgam for pumps
-  + Ceramic for pitcher pumps. (Ceramic is made with a Kiln, found under Refinement.)
+  + 泵用金汞齐
+  + 手压泵用陶瓷。（陶瓷用窑炉烧制，窑炉在精炼分类里。）
 
-There will most likely be pools of oil waiting for you in the oil biome. How much varies between maps: either enough to get you started or enough to last thousands of cycles. If and when you need more oil, you can tap into an Oil Reservoir. (Covered below.)
+油质生态里多半会有现成的原油池等着你。有多少因地图而异：要么够你起步，要么够你用几千个周期。等你需要更多原油的时候，还可以去开采储油石。（下面会讲。）
 
-When pumping oil out of the oil biome, remember to use Insulated Pipes if you want to minimize temperature exchange with the surrounding area.
+从油质生态往外抽原油时，如果你想尽量减少和周围区域的温度交换，记得用隔热管道。
 
-If you want to stop gases from mixing between the oil biome and the rest of your base, you can put a [liquid lock](liquid-lock-basics.md) by the entrance to the oil biome. If you also want to stop temperatures from mixing, you can put two liquid locks next to one another and then use a gas pump to create a vacuum in the space between them.
+如果你想阻止气体在油质生态和基地其他部分之间混流，可以在油质生态入口处放一道[液体锁](liquid-lock-basics.md)。如果你还想阻止温度互相影响，可以并排放两道液体锁，然后用气泵把中间的空气抽成真空。
 
-Getting there without Atmo-Suits?
+不穿气压服就下去？
 
-Maybe you're in a hurry. Or are lazy. Or don't have have access to Reed Fiber. For whatever reason, if you are going to brave the oil biome without suits, there are some quick & dirty tips to keep in mind. (Not that I have ever sent my dupes into dangerously hot environments without suits, of course.)
+也许你赶时间。也许是懒。也许是搞不到芦苇纤维。不管什么原因，如果你打算不穿气压服硬闯油质生态，有几条糙快猛的提示要记住。（当然，我从来没让我的复制人不穿气压服进过危险的高温环境。）
 
-* Make sure to first build at least one Triage Cot (a hospital bed - found under Medicine). Incapacitated dupes can be carried there for treatment.
-* Try to find a (relatively) cool section - look for temperatures in the low 70s or below.
-* Look for an area where an ice biome (or other cold biome) meets the oil biome. Dig out the abysselite between them, and maybe even some ice or other cold tiles above the abysselite brake so the materials fall into the oil biome and speed up the cooling of a small area.
+* 务必先建至少一张分诊床（医院病床——在医疗分类里）。失去行动能力的复制人可以被搬过去治疗。
+* 尽量找一块（相对）凉快的区域——找 70 度出头或更低的地方。
+* 找冰冻生态（或其他寒冷生态）和油质生态相接的地方。把它们之间的深渊晶石挖掉，甚至可以把深渊晶石隔层上面的一些冰或别的冷砖也挖掉，让这些材料落进油质生态，加快一小片区域的降温。
 
-## Oil Reservoirs and Oil Wells
+## 储油石与油井
 
 ![Building_Oil_Well.webp](assets/Building_Oil_Well-21493c36ff.png)
 
-Oil Well
+油井
 
-You can tap into an Oil Reservoir by building an Oil Well on top of it. This allows you to extract oil. ("Crude oil" to be precise. But I'll just call it oil.)
+你可以通过在储油石上面建一座油井来开采它。这样就能抽取原油。（准确说是“原油”。不过我就管它叫油。）
 
-Oil Well basics:
+油井基础：
 
-* The Oil Well is unlocked through research (Plastic Manufacturing in the Power research branch)
-* Requires power (240W)
-* Needs to be supplied with water (1kg/s)
-* Produces crude oil (333g/s) which is released into the environment
-* Produces natural gas (33g/s) which is stored in the oil well until released (into the environment) by a dupe
+* 油井靠研究解锁（电力研究分支里的塑料制造）
+* 需要电力（240W）
+* 需要供水（1kg/s）
+* 产出原油（333g/s），直接排放到环境中
+* 产出天然气（33g/s），储存在油井里，直到复制人把它释放（到环境中）
 
-As the amount of natural gas stored in the oil well grows, its so-called backpressure builds. There is a red meter on the oil well that shows its backpressure level. This pressure needs to be released by a dupe or the oil well will eventually stop working. (According to the Wiki, at 100% backpressure it will store 80kg of natural gas.)
+随着油井里储存的天然气越来越多，所谓的背压就会升高。油井上有一个红色仪表显示背压水平。这个压力需要由复制人释放掉，否则油井最终会停工。（据 Wiki 说，背压达到 100% 时，它会储存 80kg 天然气。）
 
-By clicking on the oil well you can adjust the backpressure release threshold - at what backpressure level dupes should come release the pressure.
+点一下油井，就能调整背压释放的阈值——也就是背压到多少时让复制人来放压。
 
 ![ONI-guide-OilReservoir.png](assets/ONI-guide-OilReservoir-6bba8d36b6.png)
 
-Above: Oil Reservoir.
+上图：储油石。
 
-Below: Oil Reservoir with an Oil Well built on it
+下图：上面建了油井的储油石
 
 ![ONI-guide-OilReservoir-2.png](assets/ONI-guide-OilReservoir-2-d36c9b9c81.png)
 
 ![Building_Tempshift_Plate.webp](assets/Building_Tempshift_Plate-5a1e73b3ae.png)
 
-Oil wells generate heat. Releasing the backpressure of an oil well generates a lot of heat. So much heat that it can damage the water pipes supplying the oil well. This happens through something called state change - the water turns to steam in the pipes, damaging them in the process. There are various things you can do to minimize the risk of this happening.
+油井会产生热量。给油井放背压会产生大量热量。热量多到能损坏给油井供水的管道。这是通过所谓的“状态变化”发生的——水在管道里变成蒸汽，过程中把管道弄坏。想降低这种事发生的风险，有很多办法。
 
-Oil Wells can function even when submerged in liquid. This can be used to your advantage by having a tile or two of oil that can help keep temperatures from spiking.
+就算泡在液体里，油井也能正常工作。你可以利用这一点，留一两格原油，帮助压住温度的尖峰。
 
-A Tempshift Plate (or two) will also help distribute heat and even out heat spikes. Tempshift plates even out temperatures between their tile and the eight tiles that surround them. You can place a tempshift plate on the tile with the oil well's nozzle and, if you want to be extra cautious, another one two tiles to the left.
+一块（或两块）变温板也有助于分散热量、抹平温度尖峰。变温板会在它所在的那一格和周围八格之间均化温度。你可以把变温板放在油井喷口所在的那一格，如果还想特别保险，就在左边两格再放一块。
 
-Tempshift Plate
+变温板
 
 ![Building_Hydro_Sensor.webp](assets/Building_Hydro_Sensor-eb3be9355a.png)
 
-Hydro Sensor
+液压传感器
 
-If you build a room for your Oil Well (rather than having it just release oil and natural gas into the oil biome) you will need a Gas Pump to pump out excess natural gas (or the gas pressure will rise so high it will damage your tiles). But you can also use this gas to help absorb heat spikes, so keep the gas pressure in the room high. Use an Atmo Sensor to automate the process. (You can set it to the maximum pressure it allows: 20000g.)
+如果你给油井盖一间屋子（而不是让它直接把原油和天然气排进油质生态），那你就需要一台气泵把多余的天然气抽走（否则气压会升得特别高，把你的砖块压坏）。但你也可以利用这些气体来吸收温度尖峰，所以让屋里的气压保持在高位。用气压传感器来自动化这个过程。（你可以把它设到允许的最高气压：20000g。）
 
-Even with all that, it will be hot around the oil well. Any dupe that comes to release its backpressure will be scalded unless they are wearing an [atmo suit](atmo-suit-basics.md).
+即便做到这些，油井周围还是会很热。任何来放背压的复制人都会烫伤，除非穿着[气压服](atmo-suit-basics.md)。
 
-The action of releasing backpressure falls under the duplicant skill Operating. The quicker a dupe releases the pressure, the smaller the risk of pipes taking damage. One possible approach to this is to block entry to the oil well for all but dupes with a decent operating skill. (This can be done by adding a door and modifying door permissions.)
+放背压这个动作属于复制人的“操作”技能。复制人放压越快，管道受损的风险越小。一个可行的办法是，除了操作技能还行的复制人之外，禁止其他人进入油井区域。（加一扇门、改一下门的权限就能做到。）
 
-With some simple automation you can have your oil well turn off when you have a specified amount of oil stored. For instance, if your oil pours into a storage pit of some kind you can place a Hydro Sensor in the pit and have it send a red signal when you have enough oil.
+用一点简单的自动化，就能让油井在你储油量达到指定值的时候停机。比如说，如果你的原油流进某种储油坑，你可以在坑里放一个液压传感器，储油够多时让它发红信号。
 
-An easy way to do this is to connect your hydro sensor directly to your oil well (using automation wire). Alternatively, you can use the hydro sensor to regulate your water flow to the oil well. You can hook up the hydro sensor to a liquid shutoff that stops the water flow to the oil well, or connect the hydro sensor directly to your water pump.
+一个简单的做法是把液压传感器直接连到油井上（用信号线）。或者，你也可以用液压传感器来调节流向油井的水量。你可以把液压传感器接到一个液体截断阀上，切断流向油井的水，或者把液压传感器直接连到你的液泵上。
 
-A popular oil well setup, by Francis John, is included in the Builds section of this site: [Oil well with liquid lock](oil-well-with-liquid-lock.md). (An almost identical version is pictured below.)
+本站的建造方案部分收录了 Francis John 的一套很受欢迎的油井方案：[带液体锁的油井](oil-well-with-liquid-lock.md)。（下图就是一个几乎一模一样的版本。）
 
 ![ONI-guide-OilWell-2.png](assets/ONI-guide-OilWell-2-61d09e0f7e.png)
 
-Nails... I do love your zest for getting things done. But you're the chef. In a colony that includes four dupes specialized in operating. All of whom have their operating priority raised. Which, not to belabor the point, you do not. (Still, thanks.)
+老钉……我真的很喜欢你这种赶紧把活干完的劲头。可你是厨师啊。这个殖民地里可有四个专精操作的复制人，操作优先级全都调高了。而说到重点，你的可没调。（不过还是谢谢你。）
 
-## Petroleum
+## 石油
 
 ![Building_Oil_Refinery.webp](assets/Building_Oil_Refinery-9be1552ca7.png)
 
-Oil Refinery
+原油精炼器
 
-When you have gotten your hands on oil you can turn it into petroleum using a building called an Oil Refinery (found under Refinement).
+等你弄到原油之后，可以用一种叫原油精炼器的建筑把它变成石油（在精炼分类里）。
 
-Oil Refinery basics:
+原油精炼器基础：
 
-* Turns oil into petroleum
-* Has an input pipe for oil and an output pipe for petroleum
-* Also produces natural gas, released into its surroundings
-* Requires power (480W)
-* Requires a dupe to run the machine
+* 把原油变成石油
+* 有一个原油输入管道和一个石油输出管道
+* 还会产出天然气，排放到周围
+* 需要电力（480W）
+* 需要复制人来操作机器
 
-When converting oil to petroleum in a refinery you will lose half of your mass: it inputs 10kg/s of oil and outputs 5kg/s of petroleum.
+在精炼器里把原油变成石油，你会损失一半的质量：它输入 10kg/s 原油，输出 5kg/s 石油。
 
-Note: You can turn oil into petroleum with 100% efficiency by heating up the oil to just over 400C. Then, whatever amount of oil you heat up will become that same amount of petroleum. (You can find designs for such setups online. Search for "petroleum boiler.")
+注意：把原油加热到刚过 400C，就能以 100% 的效率把原油变成石油。这样你加热多少原油，就会得到同样多的石油。（这类方案可以在网上找到设计。搜 “petroleum boiler” 就行。）
 
-My standard oil refinery room looks something like this:
+我标准的原油精炼室大概长这样：
 
 ![ONI-guide-OilRefinery-1.png](assets/ONI-guide-OilRefinery-1-b98a5e2773.png)
 
-The liquid reservoir on the left stores extra oil. This smooths out the refinement process by making sure there is always oil available for the refinery. (If your refinery is fed directly by a liquid pump in the oil biome there can be sporadic shortages in the refinery's oil supply.) The liquid reservoir on the right stores petroleum.
+左边的储液库存放多余的原油。这能让精炼过程更平稳，确保精炼器一直有原油可用。（如果你的精炼器是由油质生态里的液泵直接供料的，那精炼器的原油供应时不时就会断一下。）右边的储液库储存石油。
 
-An oil refinery will stop working if the gas pressure surrounding it gets too high, as that prevents it from outputting natural gas into its surroundings.
+如果原油精炼器周围的气压太高，它就会停工，因为那样它就没法把天然气排到周围去了。
 
-When building the room pictured above, pump out all the oxygen (etc.) before firing up the oil refinery. Then you will only have natural gas in the room. And then build somewhere to pump the natural gas.
+建上图那间屋子的时候，先启动原油精炼器之前把所有氧气（等等）都抽走。这样屋里就只剩天然气了。然后再找个地方把天然气抽走。
 
-If your natural gas pipe backs up, your oil refinery will stall. So whatever you decide to do with your natural gas, it's a good idea to also have an overflow mechanism for it. (Like sending overflow to a natural gas generator or venting it to space - just get it out of the room.)
+如果你的天然气管道堵了，你的原油精炼器就会停摆。所以不管你打算拿天然气怎么办，最好也给它配一套溢流机制。（比如把溢流送进天然气发电机，或者排到太空去——反正别让它留在屋里。）
 
 ![ONI-guide-OilRefinery-2.png](assets/ONI-guide-OilRefinery-2-ff2001d915.png)
 
-This room design only has one atmo suit. Meaning only one dupe will be able to enter the room at a time. Normally that is enough, the exception being if you want to do any construction in the room - like adding a cooling loop. You can add a second atmo suit dock by removing the ladder in the oil refinery room and moving everything over one tile to the left.
+这个房间设计只有一套气压服。也就是说同一时间只有一个复制人能进屋。通常这就够了，例外是如果你想在屋里搞建造——比如加一套冷却回路。你可以把原油精炼室里的梯子拆掉、把所有东西往左挪一格，这样就能再加一个气压服存放柜。
 
-Instead of a second atmo suit dock, I usually add an on/off switch (a Signal Switch, found under Automation) to the oil refinery. Then, if I want to do any construction in the room I turn off the refinery, freeing up the atmo suit for the dupe doing the construciton.
+与其加第二个气压服存放柜，我通常会给原油精炼器加一个开关（信号开关，在自动化分类里）。这样，如果我想在屋里施工，就把精炼器关掉，把气压服让给施工的那个复制人。
 
-(I also usually don't have the ladder in the refinery room and instead move the petroleum liquid reservoir one tile to the right. This frees up one tile of space for a decor item next to the Oil Refinery.)
+（我通常也不在精炼室里放梯子，而是把石油储液库往右挪一格。这样就腾出一格空间，可以在原油精炼器旁边放个装饰品。）
 
-Plastic
+塑料
 
-## Plastic
+## 塑料
 
-There are two ways to get plastic: by shearing Glossy Dreckos or by refining petroleum.
+获取塑料有两种办法：剪滑鳞壁虎的毛，或者精炼石油。
 
-My personal preference is using glossy dreckos for my plastic production. I usually have one or two glossy drecko ranches and they produce more than enough plastic for all my needs. This approach to plastic is covered earlier in the guide, [Low-tech plastic: drecko ranching](low-tech-plastic-drecko-ranching.md).
+我个人更喜欢用滑鳞壁虎来生产塑料。我一般养一两个滑鳞壁虎畜舍，产出的塑料就远超我所需了。这种获取塑料的方式在本指南前面讲过：[低科技塑料：毛鳞壁虎养殖](low-tech-plastic-drecko-ranching.md)。
 
-Now let's move on to the other approach: getting plastic by refining petroleum.
+现在来说另一种办法：通过精炼石油获得塑料。
 
-Just like we got petroleum by sending oil through a machine, we get plastic by sending petroleum through a machine. But this machine, the Polymer Press, doesn't require dupe interaction.
+就像我们把原油送进机器得到石油一样，我们把石油送进机器得到塑料。但这台机器——聚合物压塑器——不需要复制人操作。
 
 ![Building_Polymer_Press.webp](assets/Building_Polymer_Press-0150b4fda2.png)
 
-Polymer Press
+聚合物压塑器
 
-Polymer Press basics:
+聚合物压塑器基础：
 
-* Converts Petroleum into Plastic
-* Also produces carbon dioxide, steam, and heat
-* Requires power (240W)
-* Has in input pipe for petroleum
-* Has an output pipe for carbon dioxide
-* The steam is released into its surroundings
-* The plastic is dropped in front of the machine, under the yellow bit.
+* 把石油转化成塑料
+* 还会产出二氧化碳、蒸汽和热量
+* 需要电力（240W）
+* 有一个石油输入管道
+* 有一个二氧化碳输出管道
+* 蒸汽会排放到周围
+* 塑料会掉在机器前面，黄色那部分下面。
 
-Note: This machine runs hot. And produces hot steam. And produces hot carbon dioxide. So build it out of gold amalgam if you have access to it. Also, unless the polymer press is in a very hot room, the steam will turn to water - worth bearing in mind when placing it.
+注意：这台机器运行时会发热，还会产出高温蒸汽，还有高温二氧化碳。所以如果你有金汞齐，就用它来造。另外，除非压塑器放在很热的房间里，蒸汽会变成水——摆放的时候这点值得留意。
 
-If you have problems with overheating, a temporary fix is to build a Tempshift Plate out of ice by the Polymer Press.
+如果你有过热的问题，一个临时的办法是在压塑器旁边用冰造一块变温板。
 
-Without a carbon dioxide output gas pipe the Polymer Press won't function. If you want to put the carbon dioxide to use you can feed it to Slicksters (found in the oil biome) or power a carbon dioxide rocket engine with it (if you have the Spaced Out DLC). I tend to just vent it nearby until I get around to building a gas pipe that vents it into space.
+没有二氧化碳输出气体管道，聚合物压塑器就没法工作。如果你想利用这些二氧化碳，可以喂给浮油生物（在油质生态里），或者用它驱动二氧化碳引擎（如果你有《眼冒金星！》DLC）。我一般就先在附近排掉，等哪天有空再修一条排到太空的气体管道。
 
-Since the polymer press requires petroleum, I usually place it near my oil refinery.
+因为聚合物压塑器需要石油，我一般把它放在原油精炼器旁边。
 
 ![ONI-guide-PolymerPress-1.png](assets/ONI-guide-PolymerPress-1-bea90f73d0.png)
 
@@ -182,18 +182,18 @@ Since the polymer press requires petroleum, I usually place it near my oil refin
 
 ![ONI-guide-PolymerPress-3.png](assets/ONI-guide-PolymerPress-3-d397c973c9.png)
 
-I usually add an Auto-Sweeper and a Smart Storage Bin. Then I connect the storage bin to a Not Gate and then to the Polymer Presses.
+我一般会加一台自动清扫器和一个智能存储箱。然后把存储箱接到一个非门，再接到压塑器上。
 
-This allows you to set whatever amount of plastic you want to keep in supply, and the Polymer Presses will stop once you have that amount in the storage bin. (In the storage bin, plastic is found under Manufactured Material. But it will only show up once you actually have some plastic.)
+这样你就能设定想保有多少塑料，存储箱里达到这个量之后，压塑器就会停下。（在存储箱里，塑料在“人造材料”分类下。但只有你真正拥有一些塑料之后它才会显示出来。）
 
 ![ONI-guide-PolymerPress-4.png](assets/ONI-guide-PolymerPress-4-8d9b4109b0.png)
 
-I tend to leave a space between the Polymer Presses for a small liquid pump. But so far I've never had so much water pool there that I would have needed one.
+我一般在压塑器之间留一格空隙，放一台小型液泵。不过到目前为止，那里积的水从来没多到我真的需要一台泵。
 
-Some water tends to pool under the presses (steam that has cooled down), causing a debuff from stepping in it. To avoid the debuff you can block access to the smart storage bin from the the "other side" (in the above picture that would mean blocking access from the right) by placing a door or additional airflow tile to the right of the polymer presses.
+压塑器下面通常会积一些水（冷却下来的蒸汽），踩进去会有减益状态。要避免这个减益，你可以堵住从“另一边”通往智能存储箱的路（在上面的图里，就是从右边堵住），办法是在压塑器右边放一扇门或者额外的透气砖。
 
-Not included in the above pictures is cooling. My standard solution is a cooling loop that runs through the area. (We'll cover cooling once we've covered getting hold of steel.)
+上图里没有画出冷却。我的标准做法是拉一套穿过这片区域的冷却回路。（等讲完怎么弄到钢，我们再讲冷却。）
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic](https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic) ([Wayback Machine snapshot](https://web.archive.org/web/20250827233034id_/https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic](https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic)（[Wayback Machine 快照](https://web.archive.org/web/20250827233034id_/https://www.guidesnotincluded.com/getting-oil-petroleum-and-plastic)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

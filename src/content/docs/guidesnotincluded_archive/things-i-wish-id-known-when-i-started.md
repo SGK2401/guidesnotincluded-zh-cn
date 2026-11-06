@@ -1,96 +1,96 @@
 ---
-title: "Things I wish I'd known"
-description: "I asked the community what things they wished they had known when they started. Here's what they said. (Presented in alphabetical order.)"
+title: "那些我希望刚开始玩时就知道的事"
+description: "我问了社区里的人，他们希望自己刚上手时就知道哪些事。下面就是他们的回答。（按字母顺序排列。）"
 source_url: https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started
 archived: 2025-07-10
 archive_snapshot: https://web.archive.org/web/20250710144345id_/https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started
 ---
 
-I [asked the community](https://forums.kleientertainment.com/forums/topic/140561-things-you-wish-youd-known-when-you-started/) what things they wished they had known when they started. Here's what they said. (Presented in alphabetical order.)
+我[问了社区](https://forums.kleientertainment.com/forums/topic/140561-things-you-wish-youd-known-when-you-started/)，他们希望自己刚上手时就知道哪些事。下面就是他们的回答。（按字母顺序排列。）
 
-Want to add something to the list? Wonderful! Head over to the [Feedback](guide-feedback.md) section of the guide and drop me a line.
+想往清单里加点东西？太好了！去指南的[反馈](guide-feedback.md)版块给我留言。
 
-By blakemw
+作者：blakemw
 
-You don't have to vacuum out the steam chambers in many cases.
+很多情况下，你根本不用把蒸汽室抽成真空。
 
-If a steam chamber is full of carbon dioxide or any other gas heavier than steam (which should be all common gases except oxygen, poxygen and hydrogen) then that heavy gas will simply be destroyed by water-steam interactions as water drips into the steam chamber.
+如果蒸汽室充满二氧化碳或任何比蒸汽重的其他气体（除了氧气、污染氧和氢气之外，所有常见气体应该都算），那么当水一滴滴流进蒸汽室时，那种重气体会直接被水—蒸汽的相互作用销毁掉。
 
-On the other hand if the steam chamber contains light gases, namely hydrogen, oxygen and poxygen, you can create a "hood" to collect those light gases. This steam turbine has a hood that collected the oxygen:
+反过来，如果蒸汽室里装的是轻气体，也就是氢气、氧气和污染氧，你可以造一个“罩子”把这些轻气体收集起来。这台蒸汽涡轮机就有一个收集氧气的罩子：
 
 ![CommunitySubmission1.png](assets/CommunitySubmission1-8d34887b54.avif)
 
-If you like you like can use diagonal construction to fill the hood in and delete the pocket of light gas though often I just leave it, because it allows for easier duplicant access if I want to open the steam chamber again.
+你要是愿意，也可以用斜向建造把罩子填实，把那团轻气体删掉；不过我通常就留着，因为这样我想再打开蒸汽室时，复制人进出比较方便。
 
-If the area the steam chamber is in only allows access to dupes in atmo suits you can even use an inverted gas lock construct to expel the light gases while allowing dupes to get inside the steam room to fix things, and constructing it is approximately zero effort unlike liquid locks:
+如果蒸汽室所在的区域只允许穿气压服的复制人进入，你甚至可以用一个倒置的气体锁结构把轻气体排出去，同时还让复制人能进去修东西，而且造它几乎不费什么功夫，不像液体锁：
 
 ![CommunitySubmission2.png](assets/CommunitySubmission2-1cdb4c6fcb.avif)
 
-In the ideal world you later build an insulated tile to physically seal the steam chamber, however the lock doesn't leak that much heat (at least if containing oxygen/poxygen) and is extremely stable under the right conditions, even being immune to one failure mode that liquid locks can suffer: vaporizing, an inverted gas lock has no problem with 800 C steam if something goes horribly wrong with the Steam Turbine setup. The main three ways this kind of lock breaks is if a Duplicant breaths out a CO2 packet inside it (hence dupes must wear suits), if a Duplicant drops bleachstone inside it, or if the light gas pressure gets vacuumed to below 1 gram/tile.
+理想情况下，你之后会造一块隔热砖把蒸汽室真正封住；不过这种锁漏热不算多（至少装的是氧气／污染氧时是这样），而且在合适的条件下极其稳定，甚至免疫液体锁会遇到的一种失效模式：汽化——就算蒸汽涡轮机的方案出了天大的岔子、变成 800 C 的蒸汽，倒置气体锁也不在乎。这种锁主要有三种失效方式：复制人在里面呼出一团二氧化碳（所以复制人必须穿气压服）、复制人在里面丢下漂白石，或者轻气体的气压被抽到低于 1 克/格。
 
-In fact if you can be completely confident that no heavy gas packet will ever be found in the area, you only need half of the light gas lock, in the above screenshot you don't need the 3 insulated tiles on the right, they only serve to prevent a carbon dioxide packet sidling in sideways. You can sometimes have this confidence if duplicants are suited, and you have nothing like a coal generator or bleachstone above the setup.
+事实上，如果你能完全确定这个区域里永远不会出现重气体团，你只需要半个轻气体锁——上面那张截图里右边那三块隔热砖就不需要，它们只是用来防止一团二氧化碳从侧面溜进来。有时候你确实能有这种把握：如果复制人都穿着气压服，而且装置上方没有煤炭发电机或漂白石之类的东西。
 
-In any case I no longer have to waste minutes of my life ensuring that the steam chamber is a clean vacuum, if it's heavy gas I just fire it up, if it's light gas I leave a hood or inverted gas lock and fire it up.
+总之，我再也不用浪费生命里的几分钟去确保蒸汽室是干净的真空了。如果是重气体，我直接点火；如果是轻气体，我就留个罩子或倒置气体锁然后点火。
 
-By GeePaw
+作者：GeePaw
 
-* You must master bridges, both gas and liquid. They're not simple or obvious, and they're super important.
-* Watch co2 and dig down, skim it, or stash it. Dupes going to breathe kills efficiency.
-* Learn both liquid and gas locks. Neither are perfect, both are incredibly useful.
-* A generic storage area for the volatiles -- slime, oxylite, bleach stone -- is an early must.
-* Read the [Compendium of Amazing Designs](https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396). Many of them are buildable very early on.
-* You can build infinistores for gas & liquid as soon as you have airflow tiles & mechanical airlocks. Learn the two-gas pour-in liquid store.
-* You can build, in particular, a gas slop-infinistore, and put every random gas in it until you're ready to take advantage of it.
-* You can be very clever with nature reserves, extending them across multiple layers for your dupes to walk through. +6 morale for a quarter of the day.
-* Start stashing the output immediately, of any geyser cool enough for you to handle.
-* Use local materials. If you can't, bring in your outside materials to a nearby container, before you start the build.
-* The canister-filler and canister-emptier are more useful than they might at first seem.
-* Heat is the big death. Declare a cool zone and obsess over keeping heat sources away from it.
-* Labor is the little death. Train a mechanical engineer from very early on, research shipping, automate every stupid little thing.
-* You can core a swamp biome safely with just o2 masks. Put a co2 lock at entry, spam deodorizers.
-* You can core a caustic biome naked. Enter middle or above through a co2 lock. Put an oxidizer on the far side. Dig dig dig.
-* The biggest heat-source from a metal refinery is the exiting coolant. Immediately sieve it and stash it in an insulated infinistore.
-* Once your o2 production is stable, use excess liquid to drive hydrogen production.
-* As previous respondent said, glossy dreckos are over-powered. Get a ranch up as soon as you can. [This](https://steamcommunity.com/sharedfiles/filedetails/?id=2685094605) one is lovely.
-* Get to the oil biome as soon as you can. A little oil is nice, a lot of lead and diamond is super-nice.
-* Medicine is largely irrelevant, aside from zombie disease. A couple of triage cots will last you the whole game.
+* 你必须掌握管桥，气体和液体的都要。它们既不简单也不直观，而且超级重要。
+* 盯着二氧化碳，往下挖、吸掉它，或者存起来。复制人跑去呼吸会拖低效率。
+* 液体锁和气体锁都要学。两者都不完美，但两者都好用得离谱。
+* 给挥发物——菌泥、氧石、漂白石——弄一个通用的存放区，是早期必须的。
+* 读一读 [Compendium of Amazing Designs](https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396)。里面很多方案很早就能建。
+* 只要你有了透气砖和机械气闸，就能造气体和液体的无限存储。学一下那种双气体灌注式液体存储。
+* 尤其是，你可以造一个气体杂物无限存储，把所有乱七八糟的气体都塞进去，等你准备好利用它们时再说。
+* 自然保护区可以玩得很巧，把它横跨好几层，让你的复制人从里面走过。每天四分之一的 +6 士气。
+* 任何温度低到你受得了的间歇泉，一出来就把产物存起来。
+* 用本地材料。如果不行，就在开工前把外面的材料运到附近的容器里。
+* 气体装罐器和气罐排倒器比它们乍看之下有用得多。
+* 热量才是大死神。划出一块凉爽区，然后执着地把热源都挡在外面。
+* 人力才是小死神。很早就开始培养一个机电工程师，研究运输，把每一件蠢兮兮的小事都自动化。
+* 只要氧气面罩，你就能安全地把沼泽生态清空。入口放一个二氧化碳锁，狂造空气净化器。
+* 你可以裸着把腐蚀生态清空。从中间或上方经二氧化碳锁进去。在远端放一台氧气扩散器。挖挖挖。
+* 金属精炼器最大的热源是流出的冷却剂。立刻用净水器过一遍，然后存进隔热的无限存储里。
+* 一旦你的氧气产量稳定了，就用多余的液体去驱动氢气生产。
+* 就像前面那位说的，滑鳞壁虎强得离谱。尽快把养殖场支起来。[这个](https://steamcommunity.com/sharedfiles/filedetails/?id=2685094605)就很不错。
+* 尽快到油质生态去。一点原油挺好，大量的铅和钻石则是超级好。
+* 除了僵尸孢子病，医疗基本没用。两张分诊床够你用一整局。
 
-Most important thing, and I was very slow to understand this:
+最重要的一点，而我很久很久才明白：
 
-It's a sandbox game. You can't win it. You can't lose it. You can't cheat.
+这是个沙盒游戏。你赢不了它。你也输不了它。你也没法作弊。
 
-There's no right way.
+没有所谓正确的玩法。
 
-Play a seed as long as its fun. Then replay it again for more fun, or start a new one.
+一个种子只要好玩就一直玩。玩腻了再重玩一遍图个乐，或者开个新的。
 
-By Sasza22
+作者：Sasza22
 
-* Setting free time at the start of the cycle instead at the end will ensure dupes won`t lose sleep during recreation activities
-* Instead of sweeping debris make floors; when dupes dig the natural tiles debris will fall down. Do it from the top down and all debris will end in the bottom with your rooms clean
-* Setting a low capacity fridge with higher priority near your mess hall and a bigger capacity one in a CO2 pit will save a lot of dupe travel time
-* Early mealwood farms can be converted into drecko ranches later in the game
-* Pumping hot water (geyser water) through an ice biome is a nice way to cool it down for bristle farms just be careful not to freeze the water in pipes. The biome should last a while but watch out for melting water so it doesn`t flood your base
-* To send an exact amouint of resource through a teleporter in Spaced Out you can fill a container with the desired amount and set the loader to sweep only (with manual operation enabled) then pause -> uncheck the resource in the container -> order a sweep before it hits the ground. Make sure the loader is high priority
+* 把自由时间设在周期开头而不是结尾，能保证复制人`不会`在娱乐活动期间缺觉
+* 与其清扫碎屑，不如铺地板；复制人挖掘时，自然砖块的碎屑会往下掉。从上往下挖，所有碎屑都会落到最底下，你的房间就干净了
+* 在食堂附近放一个低容量但优先级高的冰箱，再在二氧化碳坑里放一个容量大的，能省下大量复制人跑腿的时间
+* 早期的米虱木农场后期可以改造成毛鳞壁虎养殖场
+* 把热水（间歇泉水）抽过冰原生态，是给毛刺花农场降温的好办法，只是小心别让管道里的水冻住。生态区能撑一阵子，但要留意融化的水，别让它淹了你的基地
+* 想在《眼冒金星！》里通过传送器送出精确数量的资源，你可以把想要的量装满一个容器，把装载器设为仅清扫（并开启手动操作），然后暂停 -> 取消容器里那种资源的勾选 -> 在它落地前下达清扫命令。确保装载器是高优先级
 
-By Saturnus
+作者：Saturnus
 
-* Digging oxylite doesn't reduce the amount of oxygen it gives off but slightly reduces the rate at which it gives off oxygen
-* Don't waste time cleaning the outhouse/lavatory after each visit. Go into the germs overlay and disable auto-disinfect
-* Bad decor can only give you a max morale penalty of -1. Don't waste time cleaning up and decorating the base until later.
-* It's faster to deconstruct and build a new outhouse than it is to clean a full one
-* Repairing wastes resources. Let the building break completely instead to deconstruct and rebuild it.
-* Muckroot have infinite shelf-life. Don't waste time storing it, and generally only have it around for food emergencies.
+* 挖掘氧石不会减少它释放的氧气总量，但会略微降低它释放氧气的速率
+* 别每次用完都浪费时间清理户外厕所／抽水马桶。进病菌概览，把自动消毒关掉
+* 糟糕的装饰最多只会给你 -1 的士气惩罚。别浪费时间清理和装饰基地，以后再说。
+* 拆掉重建一个户外厕所，比清理一个装满的更快
+* 修理会浪费资源。干脆让建筑彻底坏掉，然后拆了重建。
+* 淤泥根保质期无限。别浪费时间储存它，一般只在食物告急时才留着。
 
-By zach123b
+作者：zach123b
 
-For me it'd be the early game stuff, like 5 mealwoods per dupe, dig 3 tall steps so you don't need ladders until later, and dig 4 tall tunnels then replace the floors with tiles top to bottom for less clean up.
+对我来说是早期那些东西，比如每个复制人 5 棵米虱木、挖三格高的台阶这样后面就不需要梯子、挖四格高的隧道然后从上到下用砖块替换地板以减少清理量。
 
-Then midgame stuff like the plastic presses suck and glossy dreckos are overpowered, ice biomes are great for placing an aquatuner, better to chill o2 out of an electrolyzer than the water going in, slicksters are great for meat but not for oil production, use excess water for hydrogen/power production.
+然后是中期那些，比如聚合物压塑器很烂、滑鳞壁虎强得离谱、冰原生态很适合放液温调节器、把电解器出来的氧气降温比给进去的水降温更好、浮油生物很适合产肉但不适合产油、用多余的水去产氢／发电。
 
-Then more advanced stuff like steam turbines delete up to around 877k dtu/s for power but can delete much more heat, aluminum is best metal, berry sludge doesn't expire, ethanol can delete heat, salt can multiply heat, steel has a range for being melted which can be made from an aquatuner in a vacuum, liquid steel in a metal refinery is great for petrol boilers, petrol boilers are great, sour gas boilers for insane power production, glossy dreckos to sour gas to natural gas.
+再然后更进阶的，比如蒸汽涡轮机最多能吞掉大约 877k dtu/s 来发电，但能吞掉更多的热量；铝是最好的金属；浆果糕不会腐坏；乙醇能吞热；盐能增殖热量；钢有一个会被熔化的温度区间，可以用真空里的液温调节器达到；金属精炼器里的液态钢对石油锅炉很好用；石油锅炉很棒；高硫天然气锅炉能产出疯了一样的电力；滑鳞壁虎到高硫天然气再到天然气。
 
-You know, simple things that make the game easier that don't stand out, or cool machines like that steam compendium had... looks like it got updated with Spaced Out stuff too: [https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396](https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396%7C)
+你知道的，就是那些让游戏变简单却不太起眼的小事，或者像那个蒸汽汇编里那种很酷的机器……看起来它也已经更新了《眼冒金星！》的内容：[https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396](https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396%7C)
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started](https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started) ([Wayback Machine snapshot](https://web.archive.org/web/20250710144345id_/https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started](https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started)（[Wayback Machine 快照](https://web.archive.org/web/20250710144345id_/https://www.guidesnotincluded.com/things-i-wish-id-known-when-i-started)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

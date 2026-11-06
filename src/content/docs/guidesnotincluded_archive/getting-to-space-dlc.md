@@ -1,322 +1,322 @@
 ---
-title: "Getting to space"
-description: "Getting your dupe space program up and running can be divided into three categories:"
+title: "飞向太空"
+description: "让你的复制人太空计划运转起来，可以分为三大类："
 source_url: https://www.guidesnotincluded.com/getting-to-space-dlc
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806081520id_/https://www.guidesnotincluded.com/getting-to-space-dlc
 ---
 
-## INTRODUCTION
+## 引言
 
-Getting your dupe space program up and running can be divided into three categories:
+让你的复制人太空计划运转起来，可以分为三大类：
 
-1. Discovering places to go
-2. Building a rocket that can take you there
-3. Not dying on the the way
+1. 找到能去的地方
+2. 造一艘能把你送过去的火箭
+3. 别在路上死掉
 
-I'll go over each category, then show a few example rocket designs to give you some ideas for designing your own.
+我会逐个讲一遍，然后给你看几个火箭设计示例，给你点自己设计的思路。
 
-At some point I'll write more about space, but for now this part of the guide ends with a Now what? section with some thoughts about what you can do when you have the basics of space covered.
+以后我会再写点关于太空的东西，不过眼下这部分指南以一个"接下来呢？"小节结尾，聊聊把太空的基础搞定之后你还能干点什么。
 
-## DISCOVERING PLACES TO GO
+## 探索可以去的地方
 
 ![Building_Telescope_(Spaced_Out).webp](assets/Building_Telescope_-Spaced_Out-aebdba0bdd.avif)
 
-The Telescope (found under Rocketry)
+望远镜（在火箭分类下）
 
 ![Building_Telescope_(Base_Game).webp](assets/Building_Telescope_-Base_Game-3327637a23.avif)
 
-The Enclosed Telescope (found under Rocketry)
+隔绝式望远镜（在火箭分类下）
 
-You can see a map of space by clicking on Starmap in the top right (or press Z).
+点右上角的星图（或者按 Z）就能看到太空地图。
 
-Space is divided into a bunch of hexagonal tiles (which is just a fancy way of saying "tiles with six sides").
+太空被分成一堆六边形格子（说白了就是"有六条边的格子"）。
 
-To be able to send a rocket somewhere, you need to have discovered and analyzed that "somewhere" first. The tiles nearest your starting asteroid are discovered from the start of the game. Beyond those tiles is a band of dark blue tiles, and beyond them the tiles are black.
+想把火箭送到某个地方，你得先发现并分析那个"某个地方"。离你起始小行星最近的格子一开始就是已发现的。再往外是一圈深蓝色的格子，深蓝之外就是黑格子。
 
-For the dark blue tiles, the game will tell you if there is something of interest. This will show up as a question mark (?). To see what the question marks are, you need to have a dupe analyze the tile using a Telescope.
+对于深蓝色的格子，游戏会告诉你那里有没有值得注意的东西，会显示成一个问号（?）。想知道问号是什么，你得让复制人用望远镜分析那个格子。
 
-Once you have analyzed a tile, you can send a rocket to it. There is a rocket module, the Cartography Module, that lets you analyze as you travel. However, it only analyzes the tiles you fly through and no tiles to either side. (A quicker way to analyze large chunks of space is putting a telescope in your rocket, covered later.)
+分析完一个格子，你就能把火箭送过去了。有一个火箭舱块叫制图舱，能让你在飞行途中做分析。不过它只分析你飞过的格子，两侧的都不管。（想快速分析大片太空，另一个办法是把望远镜装进火箭里，后面会讲。）
 
-There are two kinds of telescope: the basic telescope and the enclosed telescope. Both telescopes need power, the enclosed telescope also needs oxygen pumped to its gas input.
+望远镜有两种：基础望远镜和隔绝式望远镜。两种都要电，隔绝式的还得往它的气体输入口泵氧气。
 
-Unsurprisingly, telescopes function best when they have a clear view of the sky. (Surprisingly, a telescope can analyze space even without a view of space, if there is a clear view of space to the side of the telescope.)
+不出所料，望远镜最好是在有一片没有遮挡的天空视野时工作。（出人意料的是，就算看不到太空，只要望远镜旁边有能看到太空的空档，它也能分析太空。）
 
 ![Telescope_1.png](assets/Telescope_1-14b567aaf8.avif)
 
 ![Telescope_2.png](assets/Telescope_2-d5ad027616.avif)
 
-The Enclosed Telescope requires oxygen (and power)
+隔绝式望远镜需要氧气（还有电）
 
-Telescope use requires a dupe to have the Astronomy skill, which is found in the "research" branch of the skill tree.
+使用望远镜要求复制人有天文学技能，它在技能树的"研究"分支里。
 
-Dupes will study one tile at a time. If you open the starmap (and zoom in a bit) you can see what tile they are working on and how it is progressing. (Most tiles have nothing on them, but dupes analyze them all anyway.)
+复制人一次分析一个格子。打开星图（再稍微放大一点）就能看到他们正在弄哪个格子、进度如何。（大多数格子上什么都没有，但复制人照样会挨个分析。）
 
-Studying a tile with a question mark will show you what object is there. There are both asteroids as well as other things to be found out in space.
+分析带问号的格子会显示那里有什么东西。太空里既有小行星，也有别的东西。
 
-Unlike in the base game, in the Spaced Out DLC you cannot examine all of space from your starting asteroid. When the telescope has examined everything it can "reach" (which is a few tiles out in all directions), mousing over the telescope will show the text "Area Complete."
+和本体不同，在《眼冒金星！》DLC 里，你没法从起始小行星把整片太空都查完。当望远镜把能"够到"的（也就是四面八方几个格子）都查完之后，把鼠标悬停在望远镜上会显示"区域已完成"。
 
-Now that you know there is "stuff" out in space, it's time to head out for a closer look!
+现在你知道太空里有"东西"了，该出发去近距离看看了！
 
-## BUILDING A ROCKET
+## 造火箭
 
 ![ONI-rocket-platform.png](assets/ONI-rocket-platform-dac787c3e8.avif)
 
-The Rocket Platform (select the platform to build a rocket on it)
+火箭平台（选中平台就能在上面造火箭）
 
 ![ONI-rocket-1.png](assets/ONI-rocket-1-4e91123534.avif)
 
-To build a rocket, you first need to build a Rocket Platform (found under Rocketry).
+要造火箭，你得先造一个火箭平台（在火箭分类下）。
 
-Rocket platforms don't need to be built on a "floor" or foundation of other tiles, they can also just kind of float.
+火箭平台不用非得建在"地板"或其他砖块的地基上，它们也可以就那么飘着。
 
-Once you have a rocket platform built, click on it and select "new rocket." This will open a list of the different kinds of rocket modules you can build, among them rocket engines.
+平台造好之后，点它，选"新建火箭"。这会打开一个列表，列出你能造的各种火箭舱块，其中就有火箭引擎。
 
-The engine is the first thing you will build to get your rocket construction going. You can mouseover the different engines to get more information about them.
+引擎是你为了把火箭造起来要建的第一样东西。把鼠标悬停在不同的引擎上能看到更多信息。
 
-As a rule of thumb, the more advanced the fuel it uses, the taller the rockets you can build and the farther they can travel.
+一般来说，用的燃料越高级，你能造的火箭就越高、飞得也越远。
 
-At the start of the game you won't have access to the more advanced fuels, so you're stuck with short rockets that can't travel very far. That's OK - one important aspect of your early rocketry program is generating data banks for research. And for that you just need to get up into space.
+游戏刚开始时你还拿不到更高级的燃料，所以只能凑合着用飞不远的矮火箭。这没什么——早期火箭计划里很重要的一环就是为研究生产数据磁盘。而为了这个，你只要能把火箭送上天就行。
 
-For my first rocket I usually use a carbon dioxide engine. It uses surprisingly little carbon dioxide. Any carbon dioxide you have lying about at the bottom of your map will probably be enough. (If not, turn off your carbon skimmer or dig out an area below it to start collecting some.)
+我的第一艘火箭一般用二氧化碳引擎。它用的二氧化碳少得惊人。地图底部随便存着的那点二氧化碳大概就够了。（要是不够，就关掉碳素脱离器，或者在它下面挖一片区域开始攒气。）
 
-To fuel up your rocket, simply pump carbon dioxide to the engine's input port. (Piping the wrong gases to the engine won't get you to space - consider using a gas filter.)
+给火箭加燃料很简单：把二氧化碳泵到引擎的输入口就行。（往引擎里通错气可上不了太空——考虑用个气体筛选器。）
 
-The more advanced engines will require you to add a separate module for oxidizer - an additional fuel. But you don't need to worry about that now. That will come when you move on to the petroleum engine and beyond.
+更高级的引擎需要你额外加一个氧化剂舱块——那是另一种燃料。不过现在你不用操心这个，等你升级到石油引擎及以后再说。
 
-Buildig a Rocket
+造火箭
 
-A Rocket Platform with a Carbon Dioxide Engine. The scaffolding shows your maximum rocket height.
+一个装着二氧化碳引擎的火箭平台。脚手架显示了你火箭的最大高度。
 
 ![ONI-rocket-2.png](assets/ONI-rocket-2-9478fd6b86.avif)
 
-As simple as it gets. You can get to space with just an engine and a spacefarer nosecone. (Carbon dioxide being pumped to the engine.)
+不能再简单了。光靠一个引擎加一个太空员前锥就能上太空。（二氧化碳正在被泵进引擎。）
 
 ![ONI-rocket-3.png](assets/ONI-rocket-3-51b7c029e6.avif)
 
-The Spacefarer Module. Less space for other rocket modules but more space for your dupes.
+太空员舱。给其他火箭舱块留下的空间更少，但给复制人的空间更多。
 
-Once you build an engine, a scaffolding will appear. This shows you how large a rocket you can build. Each block, or square, of the scaffolding represents one measure of build height. The carbon dioxide engine gives you a maximum rocket height of 10 tiles.
+造好引擎后会出现一个脚手架。它显示你能造多大的火箭。脚手架上的每一块、每一格，代表一个建造高度单位。二氧化碳引擎给你的火箭最大高度是 10 格。
 
-If you can't build an engine, check to make sure you have enough space above the rocket platform. Scaffolding seems to need a tile or two of clear space above it, before the edge of the map - the red lines.
+如果你造不了引擎，检查一下火箭平台上方是不是有足够的空间。脚手架似乎需要上方有一两格的空档，直到地图边缘——那些红线。
 
-The maximum height you will be able to build once you have more advanced fuel is 35 tiles. If you want to build rocket platforms in locations where they can stay for the entire game then you need to do some measuring.
+等你有了更高级的燃料，能造的最大高度是 35 格。如果你想在某个位置造一座能用一整局的火箭平台，那就得量一量。
 
-A convenient way to measure distances is with the dig command. To measure out how much space you have from your rocket platform to the top of the map, using the dig command, click on the tile above the rocket platform and drag upwards. You can also do this the other way around: measure from the top of the map down, to see how much space your rocket platform will need for any end-game rockets.
+量距离有个方便的办法：用挖掘指令。要量从火箭平台到地图顶部的空间，用挖掘指令点一下火箭平台上方那格，然后往上拖。反过来也行：从地图顶部往下量，看看你的火箭平台得留多少空间给后期火箭。
 
-In addition to an engine you will also have to build a module for your dupe (or dupes) to be during the trip.
+除了引擎，你还得造一个舱块，让复制人（或复制人们）在旅途中待着。
 
-There are two options for this: the Solo Spacefarer Nosecone and the Spacefarer Module. The main difference between them is their size.
+这里有两个选择：单太空员前锥和太空员舱。主要区别是大小。
 
-The small one includes a nosecone and so is built at the top of the rocket. The spacefarer module requires you to build a separate nosecone.
+小的那个自带前锥，所以要造在火箭最顶上。太空员舱则需要你另外造一个前锥。
 
-Both are unlocked through research and are found in the Colony Development research branch.
+两者都靠研究解锁，都在殖民地发展研究分支里。
 
-Getting to space can be as simple as slapping a solo spacefarer nosecone on top of an engine. However, the solo spacefarer nosecone is very small. (So small, in fact, that I have stopped using it entirely - I unlock the Spacefarer Module before building my first rocket.)
+上太空可以简单到把一个单太空员前锥扣在引擎顶上。然而单太空员前锥非常小。（小到什么程度呢——我现在完全不用它了，我会在造第一艘火箭之前先把太空员舱解锁。）
 
-Unlocking the Spacefarer Module requires doing a bit of the kind of research that uses radbolts. (But don't be intimidated by this - there is [a separate guide](spaced-out-research-guide.md) for how to do radbolt research. And you won't need that many.)
+解锁太空员舱需要做一点那种要用辐射粒子的研究。（不过别被吓到——有一篇[单独的指南](spaced-out-research-guide.md)讲怎么做辐射粒子研究。而且你也用不了那么多。）
 
-Whatever build height is left for your rocket you can fill with useful stuff. Have a look at the options. For your first rocket, consider things like solar panels and/or a battery.
+火箭剩下的建造高度，你都可以拿来塞有用的东西。看看有哪些选项吧。第一艘火箭可以考虑太阳能板，和/或一个蓄电池。
 
-To build new modules, click on the engine (or some other module) and press the + sign. It will add the new module above the selected one.
+要造新舱块，点引擎（或其他舱块），按 + 号。新舱块会加在选中舱块的上方。
 
-There are also buttons for replacing an existing module with a different one and for deleting modules. When you select a module you will also see arrows up and down, above and below a picture of the module. You can use these to move the module up or down in your rocket.
+还有一些按钮可以把现有舱块换成别的，或者删掉舱块。选中一个舱块时，你还会看到舱块图标上下方的上下箭头，可以用它们把舱块在火箭里往上或往下挪。
 
-## SURVIVING THE JOURNEY
+## 熬过旅程
 
 ![ONI-rocket-smallnosecone.png](assets/ONI-rocket-smallnosecone-3b0764869f.avif)
 
-Inside a Solo Spacefarer Nosecone
+单太空员前锥的内部
 
 ![ONI-rocket-spacefarer-module.png](assets/ONI-rocket-spacefarer-module-96792ff2fb.avif)
 
-The key elements to consider regarding surviving space are oxygen and food. Your dupes will need something to breathe and something to eat.
+熬过太空之旅，关键在于氧气和食物。你的复制人得有东西呼吸、有东西吃。
 
-Both breathing and eating add some additional challenges. Dupes exhale carbon dioxide, which will slowly start building up in your rocket's living quarters. And regarding food, there's the issue of it potentially spoiling during the journey.
+呼吸和吃饭都会带来额外的麻烦。复制人会呼出二氧化碳，这些气体会慢慢在火箭的生活区里积起来。食物那边则有旅途中变质的问题。
 
-Then there are also quality-of-life things to consider. Like having a toilet, a bed, a recreational building etc.
+另外还有一些生活质量上的考虑。比如有个马桶、一张床、一个娱乐建筑之类的。
 
-Addressing these issues is made more difficult due to space - or, rather, a lack of it: the solo nosecone is tiny, and the spacefarer module isn't huge, either. You need to squeeze in a lot of stuff in not a lot of space.
+由于空间——或者说空间的缺乏——这些问题更难解决：单太空员前锥小得可怜，太空员舱也不算大。你得在很小的空间里塞进很多东西。
 
-To have a look inside the spacefarer modules, and to build in them, click on the module and then select "View Interior."
+想看看太空员舱里面、并在里面建造，点舱块，然后选"查看内部"。
 
-You can also go straight to a rocket's inside view by clicking on the name of the rocket in the top right. (Under Planetoid you will see the asteroids you have discovered, and any rockets currently on them.
+你也可以直接点右上角火箭的名字，进入火箭的内部视图。（在"小行星"下面你会看到你已发现的小行星，以及当前停留在上面的火箭。）
 
-Now, let's move on to designing your rocket.
+好，接下来我们聊聊怎么设计你的火箭。
 
-The main thing I have learned over the course of designing a bunch of rockets is that I'm not very good at designing rockets. But I can at least tell you about some important things to consider.
+在设计了一堆火箭之后，我学到的最主要的一点是：我不太会设计火箭。但至少我可以告诉你一些需要考虑的重要事项。
 
-Don't be discouraged if your first rockets aren't masterpieces. What matters is that they get the job done, everything else is a bonus. Also, you will get better at is as you test (or muddle) your way through getting the job done.
+第一艘火箭不是杰作，别灰心。重要的是能把活干完，其他都是加分项。而且在你边试边摸索（或者说边瞎搞）把活干完的过程中，你也会越来越熟练。
 
-Not Dying on th Way
+别在路上死掉
 
-The inside of a Spacefarer Module
+太空员舱的内部
 
-Oxygen
+氧气
 
-For short flights you could just fill your dupe module with oxygen before takeoff. But for any extended trips you'll need something that generates oxygen.
+短途飞行的话，你可以在起飞前就把复制人舱灌满氧气。但只要是稍长的旅程，你就需要能产氧的东西。
 
-For my early rockets I use an oxygen diffuser - the thing that turns algae into oxygen. (Remember to also bring algae.)
+我的早期火箭用氧气扩散器——就是那个把藻类变成氧气的玩意儿。（记得也带上藻类。）
 
-In later rockets, once I have oxylite production up and running, I swap the oxygen diffuser for a storage bin with oxylite, which will offgas oxygen whenever there is space for more.
+到后期的火箭，等我有了氧石生产线，我就把氧气扩散器换成一个装氧石的存储箱，只要有空间装更多气，它就会挥发出氧气。
 
 ![Building_Power_Outlet_Fitting.webp](assets/Building_Power_Outlet_Fitting-dcbc7542c2.avif)
 
-Power Outlet Fitting. Connects power modules on your rocket with the power grid inside.
+电源插座配件。把火箭上的电力舱块和内部的电网连起来。
 
-Power
+电力
 
-When you can build tall(er) rockets, you can build solar panels and a battery module on the rocket, which frees up space inside the rocket. But whatever you can't fit as modules outside the rocket, you need to build inside it.
+等你能造更高（一点）的火箭，就可以在火箭上装太阳能板和蓄电池舱，这样就能腾出火箭内部的空间。凡是没法作为舱块装在火箭外面的东西，你就得建在火箭里面。
 
-You need something that generates power - a hamster wheel and/or solar panels. And you need something to store some power - a battery module or a battery inside the rocket. (Well... you could get by without a battery, I guess. But you'd have long times with no power.)
+你需要能发电的东西——一台人力发电机，和/或太阳能板。你还需要能存点电的东西——一个蓄电池舱，或者火箭内部的一个蓄电池。（嗯……我猜没蓄电池也凑合。不过你会有一段段长时间没电的日子。）
 
-To use power inside your rocket, that comes from batteries or solar panels on your rocket, you need to build a Power Outlet Fitting inside your rocket. That piece connects any rocket modules that produce or store power with the power grid inside your rocket.
+想在火箭里用电，而这些电来自火箭上的蓄电池或太阳能板，你就得在火箭内部造一个电源插座配件。这个配件把火箭上产电或储电的舱块，和火箭内部的电网连起来。
 
 ![ONI-rocket-oxygen-1.png](assets/ONI-rocket-oxygen-1-35428b6a83.avif)
 
-White ports are where stuff goes into the rocket. (In the picture, carbon dioxide is pumped to the engine, oxygen is pumped to the dupe module.)
+白色端口是东西进火箭的地方。（图里，二氧化碳被泵进引擎，氧气被泵进复制人舱。）
 
-Green ports are where stuff comes out. (In the picture, carbon dioxide from the dupe module is vented into space.)
+绿色端口是东西出来的地方。（图里，复制人舱里的二氧化碳被排到太空。）
 
-Food
+食物
 
-Most foods have a freshness value that (depending on how you store the food) will decrease over time. Even if you keep food in a fridge, it will eventually spoil.
+大多数食物都有一个新鲜度，会随时间下降（下降快慢取决于你怎么存）。就算你把食物放在冰箱里，它最终也会变质。
 
-One way to deal with this problem is to not deal with it, by using foods that don't spoil. Early-game options for this are things like Muckroot and Nutrient Bars.
+应对这个问题的一个办法就是不应对：用不会变质的食物。前期能选的有淤泥根和营养棒之类。
 
-To save certain foods for use in your rocketry program, you can forbid dupes from eating them. To do this, open the consumables tab (top right) and de-select those foods. Now, no dupes are allowed to eat them. (Try to remember to allow those foods again for your astronaut once they are in space.)
+为了把某些食物留着给火箭计划用，你可以禁止复制人吃它们。打开消耗品标签页（右上角），把这些食物取消勾选。这样就没有复制人能吃了。（等你的宇航员上了太空，记得把那些食物重新允许食用。）
 
-If you don't have any non-spoiling foods, you can still go to space. You just need to keep a close eye on the food in the rocket and try to avoid calorie-disasters from large amounts spoiling at once when you are far from home.
+如果你一点不变质的食物都没有，也照样能上太空。你只要盯紧火箭里的食物，尽量避免离家很远的时候大批食物同时变质造成的卡路里灾难。
 
-Some space travel, like staying in orbit around your planet to generate data banks, is safe regardless of your type  food - you can land immediately should you suddenly run out.
+有些太空旅行，比如停在行星轨道上生产数据磁盘，不管你带什么食物都安全——万一突然吃光了，你马上就能降落。
 
-My preferred food for space travel (and for everything else) is Berry Sludge. It is made using the Microbe Musher, and requires Sleet Wheat and Bristle Blossoms.
+我在太空旅行时首选的食物（其实干什么都首选）是浆果糕。它用食物压制器做，需要冰霜小麦和毛刺花。
 
-Berry Sludge never spoils. Which means you never have to worry about the mechanics of refrigeration and food spoiling. Since the first time I tried Berry Sludge I have never looked back - I feed it to my entire colony, both in space and on land.
+浆果糕永远不会变质。也就是说你再也不用操心冷藏和食物变质这套机制。自从第一次试过浆果糕，我就再没回头——我拿它喂整个殖民地，太空里和地上都喂。
 
-(I use [oni-assistant.com](https://oni-assistant.com/tools/foodcalculator)'s food calculator to figure out how many Sleet Wheet and Bristle Blossom plants I will need to keep my colony fed. It's a tremendously useful site, worth checking out if you haven't already.)
+（我用 [oni-assistant.com](https://oni-assistant.com/tools/foodcalculator) 的食物计算器来算我需要种多少冰霜小麦和毛刺花才能喂饱殖民地。这网站特别有用，没看过的话值得一看。）
 
-Carbon dioxide
+二氧化碳
 
-There are several ways you can deal with carbon dioxide. I'll cover three. (I have used all three methods at some point. These days I use the second one.)
+处理二氧化碳有好几种办法。我讲三种。（这三种我都用过。现在我用的第二种。）
 
-First: by not dealing with it. Simply deconstruct the spacefarer module and rebuild it. You will need to rebuild everything in it as well, but at least you'll be back to no carbon dioxide.
+第一种：不处理。直接把太空员舱拆了重建。里面的东西你也得全部重建，但至少二氧化碳没了。
 
-Second: a gas pump and a system that filters out carbon dioxide. I have a mini gas pump that is controlled either with a switch or a sensor that detects carbon dioxide.
+第二种：一台气泵加一套把二氧化碳滤掉的系统。我用一台小型气泵，用一个开关，或者一个探测二氧化碳的传感器来控制它。
 
-It pumps the gases through a gas filter set to oxygen. The oxygen is vented back into the rocket, and other gases are vented out to space. The gases first snake along a pipe network inside the rocket. This is because they only vent to space when on a rocket platform with a gas pipe and gas vent built for the rocket. When in space, the gases are stored in the gas piping.
+它把气体泵过一个设成氧气的气体筛选器。氧气被排回火箭里，其他气体排到太空。气体先沿着火箭内部的一套管道绕一圈。这是因为只有当火箭停在配有为火箭建造的气体管道和排气口的火箭平台上时，气体才会排到太空。在太空里时，气体就存在气体管道里。
 
-To vent non-oxygen to space:
+要把非氧气排到太空：
 
-* Inside the spacefarer module: connect the gas pipe to your rocket's gas input port - the white one.
-* Outside the rocket: build a gas pipe that goes from the spacefarer module's output port (the green one) to a gas vent that vents out to space.
+* 在太空员舱内部：把气体管道接到火箭的气体输入口——白色的那个。
+* 在火箭外部：造一段气体管道，从太空员舱的输出口（绿色的那个）连到一个朝太空排放的排气口。
 
-Third: a storage bin with Oxylite that placed on the floor of your rocket. The game mechanics work in such a way that any carbon dioxide that crosses the storage bin will be eaten up (in effect) by the oxylite in the storage bin, and oxygen will be released instead.
+第三种：在火箭地板上放一个装氧石的存储箱。游戏机制是这样的：任何经过存储箱的二氧化碳都会被箱里的氧石"吃掉"（实际效果如此），同时释放出氧气。
 
-While this is a convenient way to get rid of carbon dioxide, it will also cause the air pressure inside the module to rise so high that dupes will constantly have the "Popped Eardrums" debuff. This will increase their stress.
+虽然这是清除二氧化碳的方便办法，但它也会让舱内气压升得过高，高到复制人会一直挂着"鼓膜破裂"的负面状态。这会增加他们的压力。
 
-If you are having problems with morale, try to build a great hall in your rocket. (An example of this is covered in the next section.)
+如果你士气上有麻烦，试着在火箭里造一个餐厅。（下一节里有个例子。）
 
-## SOME EXAMPLE ROCKET DESIGNS
+## 几个火箭设计示例
 
-Data bank generation (my first rocket)
+数据磁盘生产（我的第一艘火箭）
 
-I can't be bothered trying to fit things into the tiny nosecone, so I start with the spacefarer module. I also unlock other space-saving stuff before going to space, like the mini gas pump and the wall toilet.
+我懒得往那个小不点前锥里塞东西，所以直接从太空员舱起步。上太空之前，我还会顺手把其他省空间的玩意儿解锁了，比如小型气泵和墙排马桶。
 
-I use this, or something like it, to generate data banks for research. (Sometimes I make a version that fits two dupes and two orbital collection labs.)
+我用这个，或者差不多的东西，来为研究生产数据磁盘。（有时候我会做个能塞下两个复制人和两台轨道数据收集实验仪的版本。）
 
-It uses algae for oxygen, so is designed to fit a storage bin for algae and an oxygen diffuser. There is a second storage bin for plastic.
+它用藻类产氧，所以设计上留了一个装藻类的存储箱和一台氧气扩散器。另外还有一个装塑料的存储箱。
 
-Example Rockets
+火箭示例
 
-A lot of stuff. To cram into not a lot of space. (The upper storage bin has plastic, the lower one has algae.)
+东西一大堆，要塞进一丁点大的空间里。（上面那个存储箱装塑料，下面那个装藻类。）
 
 ![ONI-rocket-inside-1.png](assets/ONI-rocket-inside-1-0633337562.avif)
 
 ![ONI-rocket-inside-GreatHall.png](assets/ONI-rocket-inside-GreatHall-6f95d930b0.avif)
 
-Great Hall.
+餐厅。
 
-This rocket design is focused on getting the Great Hall room bonus. The two doors are used to seal off machinery that would disqualify the room from getting the bonus. (This is done at the cost of other bonuses - the toilet and bedroom don't qualify for room bonuses.)
+这个火箭设计重点在于拿到餐厅的房间加成。那两扇门用来把会让房间失去加成的机器隔开。（代价是放弃其他加成——马桶和卧室都不满足房间加成条件。）
 
-Regarding keeping up morale - carpets are your friend. They are ludicrously overpowered as far as decor value goes. That said, I rarely have trouble with moral in space and find that even with no room bonuses dupes are fine. (Though that might be thanks to all the carpets.)
+说到维持士气——地毯是你的好朋友。就装饰度而言它们强得离谱。话虽如此，我在太空里很少遇到士气问题，我发现就算没有任何房间加成，复制人也过得挺好。（不过这也许得归功于那一堆地毯。）
 
-There is no sink - space radiation rids dupes of germs. If you want to squeeze in a way for dupes to wash their hands, consider the hand sanitizer. It uses bleach stone instead of water, so needs no plumbing. And it is only one tile wide.
+这里没有洗手池——太空辐射会清掉复制人身上的病菌。如果你实在想塞个让复制人洗手的东西，可以考虑手部消毒站。它用漂白石而不是水，所以不需要接管道。而且它只有一格宽。
 
-Regarding radiation: there can be a lot of it in space. Be mindful of the radiation levels in your rocket. The row of plastic on the ceiling is to block some additional radiation.
+说到辐射：太空里辐射可能很强。留意火箭里的辐射水平。天花板那排塑料是为了再挡掉一些辐射。
 
-If you can't squeeze in enough storage bins for everything you need, you can use some space-saving shenanigans. Fill a storage bin with something you need, then deselect its contents so they drop on the floor of the rocket. Then reassign the storage bin to be filled with some other material you need. Rinse and repeat until you have all the resources you need littering the floor.
+如果你实在塞不下足够多的存储箱来装所有需要的东西，可以耍点省空间的花招。把一个存储箱装满你需要的东西，然后取消勾选箱里的内容物，让它们掉在火箭地板上。再把那个存储箱改成装另一种你需要的东西。如此反复，直到地上铺满了你需要的所有资源。
 
-(Remember that you can change the maximum content amount of the storage bin, if you need a smaller amount of something.)
+（记住，如果你只需要少量某种东西，可以调低存储箱的最大容量。）
 
 ![ONI-rocket-inside-liquid.png](assets/ONI-rocket-inside-liquid-5d4cfa9d12.avif)
 
-Water is stored in a long section of pipe. The water is used in the Wall Toilet. Output piping isn't necessary: after use, the toilet empties itself out the other side of the wall. (Vents into space.)
+水存在一段长管道里。这些水供墙排马桶使用。不需要输出管道：用完之后，马桶会从墙的另一侧自己排空。（排进太空。）
 
 ![ONI-rocket-inside-gas.png](assets/ONI-rocket-inside-gas-950c0f6bd5.avif)
 
-The mini pump sends gas to a Gas Filter. Oxygen is pumped back in through a vent. Other gases are pumped into a long gas pipe that can store the gases during a trip.
+小型气泵把气体送进气体筛选器。氧气通过排气口泵回舱内。其他气体被泵进一段长气体管道，旅途中就存在里面。
 
-The gas pipe connects to the spacefarer module's white port. It vents unwanted gases to space whenever the rocket is landed on a rocket platform that has the necessary gas piping (as covered earlier in this section).
+气体管道接到太空员舱的白色端口。只要火箭停在一个配有必要气体管道的火箭平台上，它就会把不要的气体排到太空（前面这节讲过）。
 
-(You can ignore the confusing piping on the bottom left. It was to pump in some oxygen during construction of the rocket interior.)
+（左下角那堆让人看不懂的管道可以忽略。那是造火箭内部的时候往里泵氧气用的。）
 
-In this version the gas pump is controlled with a switch. (Remember to turn it off after a while!) Another option, which I use in my later rockets, is a carbon dioxide sensor on the floor.
+这个版本里，气泵用开关控制。（记得过一会儿把它关掉！）另一个办法——我后期火箭用的——是在地板上放一个二氧化碳传感器。
 
-There is also a way to filter out carbon dioxide without using a gas filter. This will save you a lot of power. I haven't been able to decide if I consider it a brilliant use of the game's mechanics or a brilliant abuse of the game's mechanics, so I don't use it. But you can find such designs online.
+还有一种不用气体筛选器就能滤掉二氧化碳的办法。这能省下大量电力。我一直没想好该把它当成对游戏机制的巧妙利用，还是对游戏机制的巧妙滥用，所以我不用。但你可以在网上找到这类设计。
 
-Colonizing other planets
+殖民其他行星
 
-I don't have any specific design I always use, but I'll add one version here so you have a design to start from and improve upon.
+我没有什么每次都用的一成不变的设计，不过这里放一个版本，让你有个起点去改进。
 
-When colonizing other planets you might want to have a rocket you can use as a temporary home for your dupes while you get some initial building done. If so, having atmo suits is a good idea.
+殖民其他行星时，你可能希望有一艘火箭能当复制人的临时住所，好让你先把初期的建设搞起来。如果是这样，有气压服是个好主意。
 
-The atmo suit docks are hooked up to an oxygen supply at my home asteroid to give them an initial supply of oxygen. (You can hook up the mini gas pump to your atmo suit docks to fill them during a flight, but it is very slow. If you do that, add a switch so you can start the pump whenever you want.)
+气压服存放柜接在我主星球的氧气供应上，给它们初始的氧气储备。（你可以把小型气泵接到气压服存放柜上，在飞行途中给它们充气，但非常慢。如果你这么做，加个开关，好让你想开泵的时候就能开。）
 
-The rocket has a great hall, but that comes at the cost of storage space: there is no space for storage bins for bringing materials to (or from) the planet. To transport materials, you can swap out the phone or mess tables for storage bins, or remove the doors between the great hall and the beds to get space for two storage bins.
+这艘火箭有餐厅，但代价是储物空间：没有空间放存储箱来把材料运到行星上（或运回来）。要运输材料，你可以把电话机或小餐桌换成存储箱，或者拆掉餐厅和床位之间的门，腾出放两个存储箱的空间。
 
-This design uses oxylite for oxygen production during flights. (The storage bin by the toilet is for oxylite.) When landed at my main base it takes in oxygen from the base.
+这个设计在飞行途中用氧石产氧。（马桶旁边那个存储箱装的是氧石。）停在我主基地时，它从基地取氧。
 
 ![ONI-Guide-Colonize3.png](assets/ONI-Guide-Colonize3-6f6f9a4a7c.avif)
 
 ![ONI-Guide-Colonize1.png](assets/ONI-Guide-Colonize1-8b622d8cf3.avif)
 
-Water is stored in a long section of pipe. The water is used in the Wall Toilet. Output piping isn't necessary: after use, the toilet empties itself out the other side of the wall. (Vents into space.)
+水存在一段长管道里。这些水供墙排马桶使用。不需要输出管道：用完之后，马桶会从墙的另一侧自己排空。（排进太空。）
 
 ![ONI-Guide-Colonize2.png](assets/ONI-Guide-Colonize2-fe8d0e9801.avif)
 
-Oxygen coming in from the base fills the atmo suit docks and then leads to a vent in the rocket. The mini pump pumps carbon dioxide out the rocket's output. A gas filter sends any oxygen back into the rocket.
+从基地进来的氧气先灌满气压服存放柜，然后通到火箭里的一个排气口。小型气泵把二氧化碳从火箭的输出口泵出去。气体筛选器把其中的氧气送回火箭里。
 
 ![ONI-Guide-Colonize5.png](assets/ONI-Guide-Colonize5-fb6cd28641.avif)
 
-The gas element sensor is set to carbon dioxide.
+气体元素传感器设成了二氧化碳。
 
 ![ONI-Guide-Colonize4.png](assets/ONI-Guide-Colonize4-2b5fafbba3.avif)
 
-Since I use Berry Sludge, which can't spoil, the refrigerator doesn't need to be powered.
+因为我用不会变质的浆果糕，冰箱不需要通电。
 
-## NOW WHAT?
+## 接下来呢？
 
-There is much more to space. A key element to exploring it, and getting at the resources that await further out in space, is being able to get further out into space.
+太空里还有的是内容。探索太空、拿到更远处太空里的资源，关键在于你得能走得更远。
 
-Upgrading your rockets so they can go further will require researching new kinds of engines, and getting your hands on new kinds of rocket fuel for those engines.
+升级火箭让它们飞得更远，需要研究新类型的引擎，还得给你的引擎弄到新类型的火箭燃料。
 
-I tend to do a lot of my space exploration and colonization with the (larger) petroleum engine. (There is also a smaller petroleum engine.) So that is one option for a next goal in your space exploration. (How to get petroleum is covered [earlier in the guide](getting-oil-petroleum-and-plastic.md).)
+我大部分的太空探索和殖民都是用（更大的）石油引擎做的。（另外还有小型的石油引擎。）所以那可以当作你太空探索的下一个目标。（怎么弄到石油，[指南前面](getting-oil-petroleum-and-plastic.md)讲过。）
 
-Once you upgrade to the larger petroleum engine, you will need to add fuel tanks to your rocket. You will need one tank for solid oxidizer (either fertilizer or oxylite) and one or two tanks for petroleum. Two tanks gives you twice the flight distance: you can travel 10 tiles with one tank of petroleum, 20 tiles with two.
+一旦你升级到更大的石油引擎，就得给火箭加燃料舱。你需要一个装固体氧化剂的舱（肥料或氧石都行），以及一到两个装石油的舱。两个舱能给你双倍的飞行距离：一个舱的石油能飞 10 格，两个舱能飞 20 格。
 
-The small petroleum engine doesn't need a separate fuel tank, but it does need a small solid oxidizer tank.
+小型石油引擎不需要单独的燃料舱，但它需要一个小型固体氧化剂舱。
 
-The best engine in the game is the liquid hydrogen engine. It uses liquid oxygen as its oxidizer. So it requires both hydrogen and oxygen in liquid form, meaning very, very, very cold. (To get to those levels of chill you will want to first get your hands on super coolant.)
+游戏里最好的引擎是液氢引擎。它用液氧当氧化剂。所以它需要液态的氢和氧，也就是说得非常、非常、非常冷。（要冷到那个程度，你会想先弄到超级冷却剂。）
 
-If you do get so far as to being ready to switch to the hydrogen rocket - congratulations! Sadly, I'm not the guy to help you with that. Whenever I build liquid hydrogen and oxygen making contraptions, I just do whatever Francis John says to do (and then cross my fingers and hope I didn't screw anything up).
+如果你真玩到准备换成液氢火箭那一步——恭喜！可惜，帮不了你。每次我造液氢液氧制造装置，都是照着 Francis John 说的做（然后交叉手指祈祷自己没搞砸）。
 
-You can find an overview of such a build in the builds section: [Liquid hydrogen & oxygen, small](liquid-hydrogen-oxygen-small.md). It also has a link to Francis John's YouTube video explaining the build.
+你可以在建造方案区看到这类方案的概览：[小型液氢与液氧](liquid-hydrogen-oxygen-small.md)。里面还有链接，指向 Francis John 讲解这个方案的 YouTube 视频。
 
-A final note, on analyzing tiles in space: if you build a telescope inside a dupe module, the telescope can be used to analyze space tiles. Common practice is to build it against the left wall of the module. (Which has to do with the telescope's area of effect.)
+最后一点，关于在太空里分析格子：如果你在复制人舱里造一台望远镜，它就能用来分析太空格子。常见的做法是把它贴着舱的左侧墙造。（这和望远镜的作用范围有关。）
 
-Now What?
+接下来呢？
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/getting-to-space-dlc](https://www.guidesnotincluded.com/getting-to-space-dlc) ([Wayback Machine snapshot](https://web.archive.org/web/20250806081520id_/https://www.guidesnotincluded.com/getting-to-space-dlc)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/getting-to-space-dlc](https://www.guidesnotincluded.com/getting-to-space-dlc)（[Wayback Machine 快照](https://web.archive.org/web/20250806081520id_/https://www.guidesnotincluded.com/getting-to-space-dlc)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

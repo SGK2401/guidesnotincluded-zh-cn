@@ -1,144 +1,144 @@
 ---
-title: "The Complete Beginner's..."
-description: "Oxygen Not Included isn't just a game, it's a solemn pact. You promise to do everything in your power to give your dupes a good existence. In return, they\u2026"
+title: "《缺氧》完全新手完全不完整指南"
+description: "《缺氧》不只是一款游戏，它是一份庄严的契约。你承诺尽你所能给复制人一个好的生存环境。作为回报，他们\u2026"
 source_url: https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806090223id_/https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included
 image: assets/ONI_official_logo-60d1343758.png
 ---
 
-Oxygen Not Included isn't just a game, it's a solemn pact. You promise to do everything in your power to give your dupes a good existence. In return, they promise to do everything in their power to accidentally kill themselves in utterly baffling and completely avoidable ways.
+《缺氧》不只是一款游戏，它是一份庄严的契约。你承诺尽你所能让复制人过上好日子。作为回报，他们承诺尽他们所能，以令人费解且完全可以避免的方式意外害死自己。
 
-I will avoid speculation as to the reasons behind this inherent death-wish. (We must convince ourselves it is nothing to do with us and move on.) What I will do instead is provide a beginner-friendly approach to minimizing the amount of yellow in your water storage.
+这种天生的求死欲背后有什么原因，我就不瞎猜了。（我们必须说服自己这跟我们无关，然后继续往下过。）我要做的，是提供一个对新手友好的思路，帮你把储水里的黄色降到最少。
 
 ![ONI_official_logo.png](assets/ONI_official_logo-60d1343758.png)
 
-## Guide overview
+## 指南概览
 
-Legal stuff
+法律相关
 
-This guide is published under a CC-BY-NC-SA license. Which basically means non-commercial use/reuse of my scribblings is fine. The images used in the guide are from a number of sources. Among them: the Oxygen Not Included Wiki, gameplay footage (from my game), and images by Klei.
+本指南以 CC-BY-NC-SA 许可发布。基本意思就是：非商业性地使用/转载我这些涂鸦是可以的。指南里用到的图片来自多个来源，其中包括：《缺氧》Wiki、游戏实况录像（来自我的游戏），以及 Klei 的图片。
 
-## [The base game compared with the Spaced Out DLC](base-game-versus-spaced-out-dlc.md)
+## [本体与《眼冒金星！》](base-game-versus-spaced-out-dlc.md)
 
-A very brief overview of some of the main differences.
+简要概述一些主要差异。
 
-## [Choosing duplicants](choosing-duplicants.md)
+## [选择复制人](choosing-duplicants.md)
 
-A little bit about interests and traits.
+聊聊兴趣和特质。
 
-## [The very early game](the-very-early-game.md)
+## [极早期游戏](the-very-early-game.md)
 
-* [Outhouses, wash basins and access to water](the-very-early-game.md)
-* [Beds (in temporary locations)](the-very-early-game.md)
-* [Power, part 1: the hamster wheel and battery](the-very-early-game.md)
-* [Oxygen - the Oxygen Diffuser](the-very-early-game.md)
-* [The Research Station](the-very-early-game.md)
-* [Food](the-very-early-game.md)
-* [Compost - dealing with polluted dirt](the-very-early-game.md)
-* [Advanced research - the Super Computer](the-very-early-game.md)
+* [户外厕所、洗手盆和取水](the-very-early-game.md)
+* [床铺（临时位置）](the-very-early-game.md)
+* [电力，第 1 部分：仓鼠轮与蓄电池](the-very-early-game.md)
+* [氧气——氧气扩散器](the-very-early-game.md)
+* [研究站](the-very-early-game.md)
+* [食物](the-very-early-game.md)
+* [堆肥堆——处理污染土](the-very-early-game.md)
+* [高级研究——超级计算机](the-very-early-game.md)
 
-## [The early game](the-early-game.md)
+## [早期游戏](the-early-game.md)
 
-* [A Great Hall (dining room)](the-early-game.md)
-* [Plumbing - toilets and sinks](the-early-game.md)
-* [Toilets and sinks, part 2: swapping your polluted water for reed fiber](the-early-game.md)
-* [Dealing with polluted water bottles](the-early-game.md)
-* [Dealing with polluted oxygen](the-early-game.md)
-* [Power, part 2: the coal generator and power transformer](the-early-game.md)
-* [Dealing with carbon dioxide - carbon pits and carbon skimmers](the-early-game.md)
-* [Upgrading to Bristle Blossoms](the-early-game.md)
+* [餐厅（饭厅）](the-early-game.md)
+* [水管——马桶和洗手池](the-early-game.md)
+* [马桶和洗手池，第 2 部分：用污染水换芦苇纤维](the-early-game.md)
+* [处理瓶装污染水](the-early-game.md)
+* [处理污染氧](the-early-game.md)
+* [电力，第 2 部分：煤炭发电机与变压器](the-early-game.md)
+* [处理二氧化碳——碳坑与碳素脱离器](the-early-game.md)
+* [升级到毛刺花](the-early-game.md)
 
-## [Ranching basics](ranching-basics.md)
+## [养殖基础](ranching-basics.md)
 
-Getting started with critters.
+从养小动物开始。
 
-## [How many dupes "should" you have?](how-many-dupes-should-you-have.md)
+## [该养多少复制人？](how-many-dupes-should-you-have.md)
 
-The part of the guide where I recommend keeping your dupe count low until you know what you're doing.
+指南里我建议“在你搞清楚自己在干什么之前，把复制人数量压住”的那部分。
 
-## [Getting started with automation](getting-started-with-automation.md)
+## [自动化入门](getting-started-with-automation.md)
 
-Includes basics like how automation works, what materials you need and how to get them. Then goes on to present automation setups for coal generators, carbon skimmers, gas and liquid pumps, auto-sweepers, and smart storage bins. Finally, covers how to use automation to choose in what order various power generators kick in.
+包括自动化怎么运作、需要什么材料以及怎么获得等基础内容。接着给出煤炭发电机、碳素脱离器、气泵与液泵、自动清扫器和智能存储箱的自动化方案。最后讲怎么用自动化来决定各种发电机的启动顺序。
 
-## [Recycling bathroom water](recycling-toilet-water.md)
+## [循环利用厕所水](recycling-toilet-water.md)
 
-This section covers how to build a chlorine-based water purification and recycling setup.
+这一节讲怎么搭一套基于氯气的水净化和循环装置。
 
-## [Temperature transfer basics](heat-transfer-basics.md)
+## [温度传递基础](heat-transfer-basics.md)
 
-On radiant and insulating pipes and tiles. And a bit about thermal conductivity.
+讲导热与隔热的管道和砖块，还聊了点导热率。
 
-## [Pipes and pumps: liquid and gas flow basics](pipes-and-pumps.md)
+## [管道与泵：液体与气体流动基础](pipes-and-pumps.md)
 
-About pipes and pumps, liquid and gas packets, over-pressure, controlling flow and other similar things. (NOTE: WORK IN PROGRESS - NOT FINISHED)
+讲管道与泵、液体与气体包、超压、流量控制之类的。（注意：施工中——尚未完成）
 
-## [Getting (more) water](getting-more-water.md)
+## [获取更多水](getting-more-water.md)
 
-On turning polluted water, salt water and brine into water. And on water geysers and how to heat up or cool down their output.
+讲怎么把污染水、盐水和浓盐水变成水。还讲清水泉，以及如何给它们的产出加热或降温。
 
-## [Oxygen: To know the SPOM is to love the SPOM](to-know-the-spom-is-to-love-the-spom.md)
+## [氧气：了解 SPOM，就会爱上 SPOM](to-know-the-spom-is-to-love-the-spom.md)
 
-Covers how SPOMs work and some things to consider when building one.
+讲 SPOM 怎么运作，以及造一个时需要考虑的事。
 
-## [Spaced Out research](spaced-out-research-guide.md)
+## [《眼冒金星！》研究](spaced-out-research-guide.md)
 
-Radbolts, data banks and you.
+辐射粒子、数据磁盘与你。
 
-## [Atmo Suit basics](atmo-suit-basics.md)
+## [气压服基础](atmo-suit-basics.md)
 
-Atmo suit basics. And a basic atmo suit setup.
+气压服基础，以及一套基础的气压服装置。
 
-## [Low-tech plastic: Drecko ranching](low-tech-plastic-drecko-ranching.md)
+## [低科技塑料：毛鳞壁虎养殖](low-tech-plastic-drecko-ranching.md)
 
-A simple ranch setup and guide for turning Dreckos into Glossy Dreckos - and plastic.
+一套简单的畜舍方案和指南，教你把毛鳞壁虎变成滑鳞壁虎——还有塑料。
 
-## [Liquid lock basics](liquid-lock-basics.md)
+## [液体锁基础](liquid-lock-basics.md)
 
-## [Dealing with slimelung](dealing-with-slimelung.md)
+## [应对粘液肺](dealing-with-slimelung.md)
 
-How to either contain slimelung or get rid of it entirely.
+怎么控制粘液肺，或者干脆彻底清除它。
 
-## [Getting oil, petroleum, and plastic](getting-oil-petroleum-and-plastic.md)
+## [获取原油、石油与塑料](getting-oil-petroleum-and-plastic.md)
 
-On finding oil, refining oil to petroleum, and refining petroleum to plastic.
+讲怎么找原油、把原油精炼成石油，再把石油精炼成塑料。
 
-## [Getting steel](getting-steel.md)
+## [获取钢](getting-steel.md)
 
-Steel is a key ingredient for stuff like cooling loops and other end-game goodness.
+钢是冷却回路之类后期好东西的关键材料。
 
-## [Anti entropy thermo-nullifier cooling](anti-entropy-thermo-nullifier-cooling.md)
+## [反熵热量中和器冷却](anti-entropy-thermo-nullifier-cooling.md)
 
-How to use an AETN for cooling.
+怎么用 AETN 来降温。
 
-## [The thermo aquatuner & steam turbine cooling loop](thermo-aquatuner-steam-turbine-cooling-loop.md)
+## [液温调节器 + 蒸汽涡轮机冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)
 
-How it works and how to build it.
+它怎么运作，以及怎么造。
 
-## [Metal volcano taming basics](thermo-aquatuner-steam-turbine-cooling-loop.md)
+## [金属火山驯化基础](thermo-aquatuner-steam-turbine-cooling-loop.md)
 
-A fairly simple design for getting (suitable temperature) metal from volcanos.
+一个相当简单的设计，从火山里获取（温度合适的）金属。
 
-## [Mini Industry (cramming it all in)](mini-industry.md)
+## [迷你工业（全都塞进去）](mini-industry.md)
 
-Some tips for squeezing in a lot of production in not a lot of space. (If you're into small bases.)
+一些小技巧，教你在不大的空间里塞进大量生产。（如果你喜欢小基地。）
 
-## [Getting to space](getting-to-space-dlc.md)
+## [飞向太空](getting-to-space-dlc.md)
 
-Getting your Dupe Space Program up and running and building your first rocket.
+让你的复制人太空计划运转起来，并造出第一枚火箭。
 
-## [Dealing with meteor showers](dealing-with-meteor-showers.md)
+## [应对流星雨](dealing-with-meteor-showers.md)
 
-How to either blast or mine your way to clear skies.
+怎么靠爆破或挖掘清出一片晴空。
 
-## [Community corner: Things I wish I'd known when I started](things-i-wish-id-known-when-i-started.md)
+## [社区角落：那些我希望刚开始玩时就知道的事](things-i-wish-id-known-when-i-started.md)
 
-I asked Oxygen Not Included gamers what they'd wished they knew when they started. Here's what they said.
+我问《缺氧》玩家，他们希望自己刚上手时就知道什么。以下是他们的回答。
 
-## [Guide feedback](guide-feedback.md)
+## [指南反馈](guide-feedback.md)
 
-To request a topic, correct a typo or other some such.
+用来提选题、纠正错别字之类的。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included](https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included) ([Wayback Machine snapshot](https://web.archive.org/web/20250806090223id_/https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included](https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included)（[Wayback Machine 快照](https://web.archive.org/web/20250806090223id_/https://www.guidesnotincluded.com/complete-beginners-completely-incomplete-guide-to-oxygen-not-included)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

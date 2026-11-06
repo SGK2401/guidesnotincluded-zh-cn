@@ -1,99 +1,99 @@
 ---
-title: "Liquid lock basics"
-description: "A liquid lock ensures that no gases will pass from one side of the liquid lock to the other, while still allowing dupes to pass through."
+title: "液体锁基础"
+description: "液体锁能确保气体不会从液体锁的一侧跑到另一侧，同时仍然能让复制人穿过去。"
 source_url: https://www.guidesnotincluded.com/liquid-lock-basics
 archived: 2025-06-17
 archive_snapshot: https://web.archive.org/web/20250617051053id_/https://www.guidesnotincluded.com/liquid-lock-basics
 ---
 
-A liquid lock ensures that no gases will pass from one side of the liquid lock to the other, while still allowing dupes to pass through.
+液体锁能确保气体不会从液体锁的一侧跑到另一侧，同时仍然能让复制人穿过去。
 
-In Oxygen Not Included, a tile can only consist of one type of gas or liquid. There can't, for instance, be a bit of oxygen and a lot of water. Either oxygen or water, not both. The liquid lock uses this feature (or bug - however you want to look at it) to its advantage.
+在《缺氧》里，一格只能由一种气体或液体组成。比如不可能这儿有点氧气、那儿一大片水。要么氧气，要么水，不能两个都有。液体锁就是把这一特性（或者说是 bug——随你怎么看）用到了极致。
 
-Using this same feature/bug you can build many different kinds of liquid locks. I pretty much always build the same kind, or a variation of it. So that's the one I'll cover here.
+靠这同一个特性／bug，你能造出很多不同种类的液体锁。我基本上总是造同一种，或者它的变体。所以这里就只讲这一种。
 
 ![LiquidLock01.png](assets/LiquidLock01-9b725f5030.avif)
 
-The liquid lock is two tiles high. That gives enough space for dupes to fit through.
+液体锁两格高。这样就有足够的空间让复制人穿过去。
 
-When building the liquid lock I usually leave it three tiles high until I have added the liquid.
+造液体锁的时候，我通常会先留三格高，直到把液体加进去为止。
 
 ![LiquidLock02.png](assets/LiquidLock02-4af78255d7.avif)
 
 ![LiquidLock03.png](assets/LiquidLock03-148d8ddcfc.avif)
 
-You can also fill the liquid lock even when it is just two tiles high, but liquid will pour unevenly as the Bottle Emptier will be partly inside the wall. (This can be used for a quick & dirty version of the liquid lock, covered below.)
+你也可以在液体锁只有两格高的时候就往里灌液体，但液体会灌得不均匀，因为液桶排倒器会有一部分嵌在墙里。（这个可以拿来做快速又糙的液体锁，下面会讲。）
 
-Regarding how much liquid to use. The bottom liquid tile should be full. For water that is 1000 kg. If it less than full liquid can pour down from your other tiles and break the lock.
+至于用多少液体。最底下那格液体应该是满的。水的话就是 1000 kg。如果不满，液体就会从你其他格子里往下淌，把锁弄坏。
 
-As far as the upper layer of liquid, there is no rule there - even a single drop of liquid will force out gases. But adding "enough" liquid can make the lock more robust and help avoid it breaking. How much is "enough"? I have no idea. My personal rule of thumb is: more than 100kg.
+至于上面那层液体，没什么规矩——哪怕只有一滴液体，也能把气体挤出去。但加“足够”的液体能让锁更结实，也不容易坏。多少才算“足够”？我完全不知道。我个人的经验法则是：超过 100kg。
 
-When the liquid is in place, build the upper tile (if you haven't already) and the liquid will be "pulled" up to the tile and force out the gas from that tile.
+液体到位之后，把上面那格建起来（如果你还没建的话），液体就会被“拉”到那格里，把那一格的气体挤出去。
 
 ![LiquidLock04.png](assets/LiquidLock04-38027d038b.avif)
 
 ![ONI-guide-liquidlock4.png](assets/ONI-guide-liquidlock4-07fb787671.avif)
 
-Quick & dirty (and a bit risky)
+快速又糙（而且有点风险）
 
-Having covered the safe way to build a liquid lock, I'll add that you can also just have a drop or two of liquid on tiles. I most often use this when building temporary liquid locks that aren't a big deal if they break. When vacuuming out a room, for instance.
+讲完了安全造液体锁的方法，我再补一句：你也可以只在格子上放一两滴液体。我最常这么用是在造临时液体锁的时候，坏了也无所谓。比如给房间抽真空的时候。
 
-To make one, use the above design but build the entire liquid lock before putting water in it. (Specifically, the tile that ends up covering the bottle emptier output.) Water will empty out onto the upper and lower tiles. Then just empty enough water that there is some on both tiles.
+做法是：用上面那个设计，但在放水之前先把整个液体锁建好。（具体说，就是最后会盖住液桶排倒器输出口的那一格。）水会倒在上面和下面那两格里。然后倒足够多的水，让两格上都有一些就行。
 
-## Choosing the right liquid(s)
+## 选对液体
 
-You can screw up a liquid lock by using the wrong kind of liquid. (In case you're wondering: Yes, I speak from experience.) Here are some things to keep in mind.
+用错液体能把液体锁搞废。（如果你在想：没错，我是有亲身经历的。）下面几点要记住。
 
-Never use polluted water. Polluted water will offgas polluted oxygen. Which more than likely will mess with whatever it is you need the liquid lock for.
+绝对不要用污染水。污染水会挥发污染氧。那多半会把你需要液体锁来干的那些事儿全搞乱。
 
-If your lock will be in a normal temperature range you can use water. If the temperature around the liquid lock is either below freezing or above boiling point for water, you need to use a different liquid.
+如果你的锁在正常温度范围内，用水就行。如果液体锁周围的温度低于水的冰点或者高于沸点，那你就得换一种液体。
 
-To see the freezing point and boiling point (called "evaporation point") of a liquid, click on a tile of that liquid.
+想看一种液体的冰点和沸点（叫“蒸发点”），点一下那种液体所在的一格就行。
 
-A scenario where you might need to withstand sub-zero temperatures would be a liquid lock to an ice biome or (the cold area before) space. For that, you can use ethanol for your liquid lock. Ethanol has a freezing point of -114C.
+你可能需要扛住零下温度的场景，比如通往冰冻生态或者（太空前那段寒冷区域）的液体锁。这种时候你可以用乙醇来做液体锁。乙醇的冰点是 -114C。
 
-If you need a liquid with a low freezing point but don't have access to ethanol you can also use crude oil or petroleum, which both have a freezing point of -40C. The downside there is that they are likely to be hot and that heat will spill out into the cold biome.
+如果你需要低冰点的液体但搞不到乙醇，也可以用原油或石油，它们的冰点都是 -40C。缺点在于它们多半是热的，那股热量会散进寒冷的生态里。
 
-A scenario where you might need to withstand very high temperatures would be hot geysers or (possibly) the oil biome. For that you can use crude oil or petroleum, which boil at +400C.
+你可能需要扛住极高温的场景，比如热的间歇泉，或者（可能）油质生态。这种时候你可以用原油或石油，它们的沸点是 +400C。
 
-## Stopping temperature transfer
+## 阻止温度传递
 
-You might want to stop (or minimize) temperature transfer between two areas. You can do this by creating two liquid locks and then creating a vacuum in the section between them.
+你可能想阻止（或尽量减少）两个区域之间的温度传递。做法是造两道液体锁，然后把中间那一段抽成真空。
 
 ![LiquidLockVacuum.png](assets/LiquidLockVacuum-5700181451.avif)
 
-Creating a vacuum is as simple as building a gas pump and pumping out the gases. (If your gas pressure is high where you want to pump it out to, you can use a High Pressure Gas Vent if you access to plastic, otherwise build a long gas pipe with several gas vents spread out over a large area. Or vent it into space, or into a gas reservoir.)
+造真空很简单，建一台气泵把气体抽走就行。（如果你要排到的地方气压很高，有塑料的话可以用高压排气口；没有的话就建一根长长的气体管道，在大片区域上分散放几个排气口。或者排到太空里，或者排进储气库。）
 
 ![LiquidLockEthanol.png](assets/LiquidLockEthanol-81752aeaa2.avif)
 
-In the picture above I have used ethanol for the liquid lock by the ice biome. Since the liquid lock on the left is in "normal" temperatures, I used water.
+上面这张图里，我给冰冻生态旁边那道液体锁用了乙醇。因为左边那道液体锁在“正常”温度下，我就用了水。
 
-In-between the liquid locks there is a vacuum to stop temperature transfer. Temperature can still transfer via tiles. To minimize this, you can use insulated tiles.
+两道液体锁之间是真空，用来阻止温度传递。温度还是能通过砖块传递。要尽量减少这种传递，你可以用隔热砖。
 
-This kind of setup can be useful if you want to preserve an ice biome, for instance to preserve natural sleet wheat growing in the biome while still having easy access to it.
+如果你想保住一个冰冻生态，这种搭建就很有用——比如保住生态里自然生长的冰霜小麦，同时又能方便地进去。
 
-## Liquid locks and atmo suits
+## 液体锁与气压服
 
-When heading to the oil biome you might want to stop the heat from bleeding out into other biomes. You might also want to stop gases from mixing - for instance to keep the oil biome full of carbon dioxide for slicksters. Liquid locks can help with both things.
+去油质生态的时候，你可能想阻止热量渗到其他生态里去。你可能也想阻止气体混合——比如让油质生态里充满二氧化碳，好养浮油生物。液体锁对这两件事都有帮助。
 
-You will also (hopefully) have atmo suits, in which case there are a few extra things to consider.
+（希望）你到时候也会有气压服，那就有几件额外的事情要考虑。
 
 ![LiquidLockOilBiome.png](assets/LiquidLockOilBiome-0e355a549e.avif)
 
-If a dupe has an accident (or vomits from radiation exposure) while wearing an atmo suit, then the polluted water will stay in the suit until they take it off. In a row of atmo suit docks, this will happen on the tile with the atmo suit checkpoint.
+如果复制人穿着气压服出了事故（或者因为辐射而呕吐），污染水会留在气压服里，直到他们脱下来为止。在一排气压服存放柜里，这会发生在放着气压服检查站的那一格上。
 
-Polluted water mixing with the liquid in your liquid lock can cause bugginess. To secure your liquid lock against that you can either make sure a dupe never gets stuck in an oil biome overnight (just kidding - you can't ensure that. Dupes be doing silly things and there's no stopping it) or you can add in some mesh tiles so any unwanted liquids fall below the liquid lock.
+污染水和你液体锁里的液体混在一起，可能会导致各种奇怪的 bug。要保护你的液体锁不被这样搞坏，你要么确保复制人不会整夜被困在油质生态里（开玩笑的——你根本没法保证。复制人就是会干蠢事，拦都拦不住），要么加一些网格砖，让任何不该出现的液体掉到液体锁下面去。
 
-The same goes for any liquids that might pour down from your base. Having an area below your oil biome liquid lock where such liquids can pool - rather than pouring into your liquid lock - is not a terrible idea.
+从你基地里往下淌的任何液体也是同理。在油质生态的液体锁下面弄一块区域，让这类液体攒在那儿——而不是淌进你的液体锁——不是什么坏主意。
 
-It is often a long way to the oil biome and you might not want your newest, slowest dupes to use an atmo suit to get almost nothing done. You can build a door by the entrance and use that to set permissions so that only the ones you want working in the oil biome are allowed in.
+去油质生态往往路很远，你可能不想让你最新、最慢的复制人穿着气压服下去却几乎什么都干不成。你可以在入口处建一扇门，用门来设置权限，只允许你想让他在油质生态干活的人进去。
 
-(It's generally safer to restrict entrance into an area but always allowing everyone to exit. That way if there is a dupe in the area who isn't supposed to be there they can still get out.)
+（一般来说，限制进入某个区域、但始终允许所有人离开，会更安全。这样万一区域里有个不该在那儿的复制人，他还能出来。）
 
-And, finally, a visual reminder - which is 100% a picture I found on the internet and not something that has ever happened to me - of why it's a good idea to periodically check in on liquid locks you have under construction. (Oops.)
+最后，给个视觉提醒——这 100% 是我从网上找来的图，绝对不是发生在我身上的事——说明为什么最好定期去看看你正在施工的液体锁。（哎哟。）
 
 ![liquidlockOops.png](assets/liquidlockOops-cc019f07ae.avif)
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/liquid-lock-basics](https://www.guidesnotincluded.com/liquid-lock-basics) ([Wayback Machine snapshot](https://web.archive.org/web/20250617051053id_/https://www.guidesnotincluded.com/liquid-lock-basics)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/liquid-lock-basics](https://www.guidesnotincluded.com/liquid-lock-basics)（[Wayback Machine 快照](https://web.archive.org/web/20250617051053id_/https://www.guidesnotincluded.com/liquid-lock-basics)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

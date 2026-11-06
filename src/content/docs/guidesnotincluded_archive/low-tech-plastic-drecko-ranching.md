@@ -1,6 +1,6 @@
 ---
-title: "Low-tech plastic: Drecko ranching"
-description: "Ranching basics are covered earlier in this guide. This part is specifically about drecko ranching for plastic."
+title: "低科技塑料：毛鳞壁虎养殖"
+description: "养殖基础在本指南前面已经讲过。这一部分专门讲为了塑料而养殖毛鳞壁虎。"
 source_url: https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching
 archived: 2025-08-26
 archive_snapshot: https://web.archive.org/web/20250826144501id_/https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching
@@ -9,101 +9,101 @@ image: assets/ONI-guide-DreckoRanchinPlastic-2-fbcf8424bf.png
 
 ![Drecko.webp](assets/Drecko-03be894e63.png)
 
-Drecko
+毛鳞壁虎
 
 ![Glossy_Drecko.webp](assets/Glossy_Drecko-2d6a78f854.png)
 
-Glossy Drecko
+滑鳞壁虎
 
 ![Building_Shearing_Station.webp](assets/Building_Shearing_Station-7cd8859c4f.png)
 
-Shearing station
+修剪站
 
-Ranching basics are covered [earlier in this guide](ranching-basics.md). This part is specifically about drecko ranching for plastic.
+养殖基础在[本指南前面](ranching-basics.md)已经讲过。这一部分专门讲为了塑料而养殖毛鳞壁虎。
 
-There are two kinds of dreckos: regular and glossy. Both can be sheared using a Shearing Station (unlocked through researching Ranching, then found under stations).
+毛鳞壁虎有两种：普通毛鳞壁虎和滑鳞壁虎。两种都能用修剪站修剪（研究养殖解锁，之后在站台分类下找到）。
 
-When sheared:
+修剪的时候：
 
-* Dreckos drop reed fiber
-* Glossy Dreckos drop plastic
+* 毛鳞壁虎掉芦苇纤维
+* 滑鳞壁虎掉塑料
 
-On using the shearing station: you don't have to do anything. If you have a ranch with a drecko in it that can be sheared, then your rancher will take care of it automatically. You can click on a drecko to check how far along their scale growth is. (They can look ready to be sheared even when they aren't.)
+关于用修剪站：你什么都不用做。如果你的养殖区里有能修剪的毛鳞壁虎，你的养殖者会自动处理。点一下毛鳞壁虎就能查看它的鳞片长到哪一步了。（有时候看着像是能剪了，其实还不行。）
 
-A Glossy Drecko ranch is a low-tech option for a steady supply of both plastic and meat.
+滑鳞壁虎养殖区是一种低科技方案，能稳定供应塑料和肉。
 
-Dreckos have a slight chance of laying Glossy Drecko eggs. (To see the exact percentage, click on a drecko and see "Egg Chances.") You can increase the likelihood of their laying a Glossy Drecko egg by feeding them Mealwood.
+毛鳞壁虎有很小的几率下出滑鳞壁虎蛋。（想看确切百分比，点一下毛鳞壁虎，看“产蛋几率”。）喂它们吃米虱木，就能提高下出滑鳞壁虎蛋的几率。
 
-So the low-tech approach to plastic is simply: set up a Drecko farm and feed them Mealwood. Sooner or later you will start getting Glossy Drecko eggs. Then either let them hatch naturally or speed up the process by putting them in a (power-hungry) incubator.
+所以低科技搞塑料的办法很简单：搭一个毛鳞壁虎养殖区，喂它们米虱木。早晚你会开始拿到滑鳞壁虎蛋。然后要么让它们自然孵化，要么塞进一个（很费电的）孵化器加速。
 
-Note: Getting from feeding your first Dreckos Mealwood to shearing your first plastic can take dozens of cycles.
+注意：从你开始喂第一批毛鳞壁虎吃米虱木，到你剪出第一块塑料，可能要过几十个周期。
 
-Another note: Too many critters in a ranch causes a "cramped" debuff, meaning they won't lay new eggs. Eggs also count towards that amount. A 96 tile ranch can support 8 dreckos/eggs. So check back with the ranch periodically and remove any (unwanted) eggs.
+再注意一点：养殖区里小动物太多会吃“狭窄”减益，也就是它们不再下新蛋。蛋也算在这个数量里。96 格的养殖区能养 8 只毛鳞壁虎／蛋。所以要定期回养殖区看看，把（不想要的）蛋拿走。
 
 ![ONI-guide-DreckoRanchinPlastic-1.png](assets/ONI-guide-DreckoRanchinPlastic-1-e9e6ad67f6.png)
 
-A basic Drecko mealwood ranch
+一个基础的毛鳞壁虎米虱木养殖区
 
-Mealwood requires fertilizing with dirt (10kg/cycle). You can save some Dupe travel time by adding a storage bin for dirt. (You can also automate all kinds of things in a ranch, but I won't go into that in this section.)
+米虱木需要施泥土肥（10kg／周期）。加一个装泥土的存储箱能省点复制人跑路的时间。（养殖区里各种东西都能自动化，不过这一节我就不展开了。）
 
 ![ONI-guide-DreckoRanchinPlastic-2.png](assets/ONI-guide-DreckoRanchinPlastic-2-fbcf8424bf.png)
 
-Various additions and improvements. A storage bin for dirt, an Auto-Sweeper (it can actually reach both the upper and lower Mealwood tiles), and an Incubator that can speed up Glossy Drecko egg hatching. There is also a Canister Emptier (middle-left) for adding hydrogen (covered next).
+各种补充和改进。一个装泥土的存储箱，一台自动清扫器（它其实上下的米虱木砖都够得到），还有一个能加快滑鳞壁虎蛋孵化的孵化器。左边中间还有一个气罐排倒器，用来加氢气（下面会讲）。
 
-A Drecko's scales only grow if it is in hydrogen. To make sure we keep getting more (and more) plastic from our Glossy Dreckos, we need to add hydrogen to the ranch. This can be done in a few different ways:
+毛鳞壁虎的鳞片只有在氢气里才会长。为了确保我们的滑鳞壁虎能持续（而且越来越多地）产出塑料，我们得往养殖区里加氢气。这有几种做法：
 
-The simplest way, and something that I only recently learned from the forums (and I should have written down who suggested it so I could credit them) is to simply build an electrolyzer in your stable. Feed it water and power, then let it run for a while and presto - there's your hydrogen!
+最简单的办法，也是我最近才从论坛上学到的（我真该记下是谁提的建议，好致谢），就是在你的畜舍里直接建一个电解器。给它水和电，让它跑一会儿，嘿——氢气就有了！
 
-Another option is to bring hydrogen to your stable  You can pump it directly from the environment to your ranch or you can pump it into a Canister Filler and then use a Canister Emptier to empty it into your ranch.
+另一个办法是把氢气运到畜舍。你可以直接从环境里抽到养殖区，也可以抽进气体装罐器，然后用气罐排倒器倒进养殖区。
 
 ![ONI-guide-DreckoRanchinPlastic-3.png](assets/ONI-guide-DreckoRanchinPlastic-3-d1e3e0261e.png)
 
 ![ONI-guide-DreckoRanchinPlastic-4.png](assets/ONI-guide-DreckoRanchinPlastic-4-7745a7885c.png)
 
-To fill a canister with hydrogen, simply build a pump in hydrogen and pump it into a Canister Filler. (The gas filter is optional.)
+要给气罐装氢气，只要在氢气里建个泵，往气体装罐器里抽就行。（气体筛选器是可选的。）
 
-The goal isn't to fill the whole ranch - just filling the top tile with hydrogen is enough. That way, whenever dreckos move (walk? crawl?) along the ceiling, their scales will regrow.
+目标不是把整个养殖区灌满——只要顶层那一格是氢气就够了。这样毛鳞壁虎沿着天花板移动（走？爬？）的时候，鳞片就会重新长。
 
 ![ONI-guide-DreckoRanchinPlastic-5.png](assets/ONI-guide-DreckoRanchinPlastic-5-9b545805b5.png)
 
-Up and running. Over time this ranch will fill with Glossy Dreckos. (Raise the priority of the shearing station if you want to make sure they are sheared as soon as possible.)
+跑起来了。时间一长，这个养殖区里就会住满滑鳞壁虎。（想确保它们尽快被修剪，就把修剪站的优先级调高。）
 
-The main thing that can go wrong with this ranch is that it heats up to 30C or above, at which point the Mealwood will stop growing.
+这个养殖区最容易出的问题是温度升到 30C 以上，那时米虱木就会停止生长。
 
-A short-term solution is to build a tempshift plate (found under Utilities) made of ice above the Mealwood. It will melt and cool water will spill over them. (Then repeat as needed.) A long-term solution is to run a [cooling loop](thermo-aquatuner-steam-turbine-cooling-loop.md) past the Mealwood.
+短期的解决办法是在米虱木上方建一块用冰做的变温板（在实用分类下找到）。冰会融化，冷水会浇到它们身上。（然后需要的时候重复一次。）长期的解决办法是让一条[冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)经过米虱木。
 
-Finally, a picture of a (fairly complete) plastic ranch. There have been some small changes to the game since then. The critter drop-off looks different, and there is a castle-like thing you can add for a happiness buff for critters. However, the basic idea is still the same as in the pic.
+最后，来一张（相当完整的）塑料养殖区图。那之后游戏有些小改动。小动物放生点长得不一样了，还多了个城堡一样的东西，能给小动物加幸福度增益。不过基本思路和图里还是一样的。
 
 ![ONI-glossydrecko1.png](assets/ONI-glossydrecko1-0409285425.png)
 
-The one upgrade not shown here, that I usually do at some point, is to swap the storage bin (containing dirt for the mealwood) for a conveyor receptacle. Then have a conveyor loader in a more central location where dupes can keep it stocked.
+这里没画出来、但我通常某个时候会做的一项升级，是把存储箱（装米虱木用的泥土）换成运输存放器。然后在更靠中间的位置放一个运输装载器，让复制人往那里补货。
 
-The airflow tile in the middle (for the deodorizer) makes the ranch size one below its maximum size, which means it can fit one fewer critter before they get the "cramped" debuff. I usually remove the tile and deodorizer once the air is purified. The auto-sweepers then tend to make sure the air stays clean by keeping the floor empty of dropped mealwood etc.
+中间那块透气砖（给空气净化器用的）让养殖区尺寸比最大尺寸小了一格，也就是说在小动物吃到“狭窄”减益之前能少养一只。空气净化干净之后我一般会把那块砖和空气净化器拆掉。之后自动清扫器会通过保持地面没有掉落的米虱木之类的东西，来帮忙维持空气干净。
 
-There is a somewhat silly amount of decor, but why not? Carpets are completely overpowered as far as decor goes. Note that carpets are slower to walk on than other materials. So if you want to optimize for dupe movement speed, use plastic for the floors instead. (Or just normal tiles.)
+装饰有点傻多，但为什么不呢？要说装饰度，地毯砖完全是超模。注意地毯砖走起来比其他材料慢。所以如果你想优化复制人的移动速度，地板就用塑料。（或者干脆用普通砖块。）
 
-I don't ranch for meat so I don't remove eggs. You could optimize this ranch by maintaining 7-8 glossy dreckos in the ranch and sending all other eggs to be hatched and "starvation ranched."
+我不为肉而养殖，所以我不拿走蛋。你可以把养殖区优化成维持 7-8 只滑鳞壁虎、其余所有的蛋都送去孵化然后“饿养”。
 
-I don't do starvation ranching myself (and obviously can't condone mistreatment of dreckos - look at them, they're so cute!) but the idea is simply to ship extra eggs/critters off to a stable where you can harvest resources for as long as they live, without feeding them.
+我自己不搞饿养（而且显然也不能纵容虐待毛鳞壁虎——你看它们多可爱！），但思路很简单：把多余的蛋／小动物运到一个畜舍，在那里你能在它们活着的时候一直收获资源，而不喂它们。
 
 ![ONI-Guide-RanchingPipDirtFarm3.png](assets/ONI-Guide-RanchingPipDirtFarm3-e769da1c7b.png)
 
-Dirt, plastic, meat, egg shells, lumber, phosphorite. A pip farm is a good addition if you want to have a sustainable source of dirt for your drecko farm.
+泥土、塑料、肉、蛋壳、木材、磷矿。如果你想让毛鳞壁虎养殖区有可持续的泥土来源，加一个树鼠养殖区是个好补充。
 
-Mealwood uses dirt. Not a lot: 10 kg per cycle. But if you want to make sure your drecko farm doesn't eat away at your dirt reserves, you can start a pip farm as well.
+米虱木消耗泥土。不多：每周期 10 kg。但如果你想确保毛鳞壁虎养殖区不会啃掉你的泥土储备，你也可以顺手搞个树鼠养殖区。
 
-(But don't worry about it if this feels like too much to take on. I rarely do pip farms, I just wanted to mention it as an option.)
+（不过如果这让你觉得负担太重，就别管它。我很少搞树鼠养殖区，只是把它作为一个选项提一下。）
 
-When properly fed, pips produce 20 kg of dirt per cycle. (The pink variant, the cuddle pip, produces less: 12,5 kg.) Meaning if you have half as many pips as you have mealwood (and keep the pips fed) your dirt needs are covered.
+喂饱的树鼠每周期产 20 kg 泥土。（粉色变种，也就是毛绒树鼠，产得少些：12,5 kg。）也就是说，如果你的树鼠数量是米虱木的一半（并且让树鼠吃饱），你的泥土需求就有着落了。
 
-Keeping pips fed is easy enough: they eat branches from arbor trees. Arbor trees, when you plant them, require fertilizing (70 kg of polluted water and 10 kg of dirt per cycle). But you can avoid that cost by having pips plant them.
+让树鼠吃饱挺容易：它们吃乔木树的树枝。乔木树你亲手种的话需要施肥（每周期 70 kg 污染水和 10 kg 泥土）。但让树鼠来种就能省掉这笔开销。
 
-Getting your hands on enough arbor tree seeds can take a while. When a pip rummages in an arbor tree, they can drop seeds. (Seeds can also be found on some maps and through the printing pod.)
+搞到足够的乔木树种子可能要花点时间。树鼠在乔木树里翻找时会掉种子。（种子也能在某些地图上找到，或者从打印舱里来。）
 
-The pips don't have to be tame, wild ones produce dirt, too. The issue will be getting hold of enough wild pips. But since both pips and eggs can come up as care packages in the printing pod, over time you can fill a farm with wild pips if you prefer.
+树鼠不必是温顺的，野生的也产泥土。问题是要搞到足够多的野生树鼠。不过既然树鼠和蛋都可能作为补给包裹从打印舱里出来，时间长了你要真愿意，也能把一个养殖区填满野生树鼠。
 
-For a guide on pip planting, see Nakomaru's excellent post on Klei's forums: [Pip Planting: Everything You Need to Know](https://forums.kleientertainment.com/forums/topic/110299-pip-planting-everything-you-need-to-know/). There's also lots of information about pips on the [wiki](https://oxygennotincluded.fandom.com/wiki/Pip).
+关于树鼠种植的指南，看 Nakomaru 在 Klei 论坛上的那篇好帖：[树鼠种植：你需要知道的一切](https://forums.kleientertainment.com/forums/topic/110299-pip-planting-everything-you-need-to-know/)。[wiki](https://oxygennotincluded.fandom.com/wiki/Pip) 上也有很多关于树鼠的信息。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching](https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching) ([Wayback Machine snapshot](https://web.archive.org/web/20250826144501id_/https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching](https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching)（[Wayback Machine 快照](https://web.archive.org/web/20250826144501id_/https://www.guidesnotincluded.com/low-tech-plastic-drecko-ranching)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

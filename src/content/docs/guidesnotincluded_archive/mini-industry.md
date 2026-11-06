@@ -1,90 +1,90 @@
 ---
-title: "Mini Industry"
-description: "My personal preference is to keep my dupe count low and my base compact. I build all manufacturing machines in my base and cool them down, rather than having a\u2026"
+title: "迷你工业"
+description: "我个人的偏好是复制人数量少、基地紧凑。我把所有制造机器都建在基地里，再把它们降温，而不是单独搞一片炎热的工业区。（就电力而言这挺浪费的，但又是另一个个人偏好。）"
 source_url: https://www.guidesnotincluded.com/mini-industry
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806081310id_/https://www.guidesnotincluded.com/mini-industry
 ---
 
-My personal preference is to keep my dupe count low and my base compact. I build all manufacturing machines in my base and cool them down, rather than having a separate, hot industrial area. (This is wasteful as far as power is concerned but is another personal preference.)
+我个人的偏好是复制人数量少、基地紧凑。我把所有制造机器都建在基地里，再把它们降温，而不是单独搞一片炎热的工业区。（就电力而言这挺浪费的，但又是另一个个人偏好。）
 
-For those who want to keep things compact, here's a way to cram in a lot of stuff in not a lot of space. I build some variation of this pretty much every playthrough. (Though I rarely make it quite this compact myself. But if you want to keep things small, this design has you covered... ;-)
+给想把东西弄得紧凑的人：这里有个办法，能在不大的空间里塞进很多东西。我差不多每局都会建个它的变体。（不过我自己很少做得这么紧凑。但如果你想把东西弄小，这个设计就够用了……；-)
 
-The design includes a cooling loop. However, keep in mind this is intended for small-scale use: it won't keep up if you run lots of manufacturing machines continuously.
+这个设计包含一条冷却回路。不过要记住，它是给小规模使用设计的：如果你让一堆制造机器连续运转，它就跟不上了。
 
-The floors are 18 tiles across. This is just so it will fit with my base, which pretty much always has 18-wide floors. (There is limited space for storage bins, but put them in where you can. I left them out for clarity.)
+每层楼宽 18 格。这只是为了配合我的基地，我的基地楼层基本永远是 18 格宽。（存储箱的位置有限，能塞就塞吧。为了图清楚我把它们省掉了。）
 
 ![ONI-guide-Mini-Industry-1.png](assets/ONI-guide-Mini-Industry-1-20bae7c849.avif)
 
-The machine on the bottom right is a Molecular Forge. It is a late-game machine as it requires materials that aren't available on your starting asteroid. Some molecular forge recipes also require petroleum, which is why there is a petroleum source by it. The petroleum tank doubles as a cooling liquid for glass.
+右下角那台机器是分子熔炉。它是后期机器，因为它需要的材料在你起始的小行星上没有。有些分子熔炉配方还需要石油，所以它旁边放了石油来源。那个石油罐顺便兼作玻璃的冷却液。
 
-If you have a [Glossy Drecko ranch](low-tech-plastic-drecko-ranching.md) you don't need the Polymer Press (the white machine on the right). Then you could add an Exosuit Forge or some other necessary machine there. (I have stopped using the polymer press entirely and always get my plastic from glossy drecko farming. Try it if you haven't already.)
+如果你有[滑鳞壁虎养殖区](low-tech-plastic-drecko-ranching.md)，就不需要聚合物压塑器（右边那台白色机器）。那就可以在那个位置放一台太空服锻造台或者其他需要的机器。（我已经完全不用聚合物压塑器了，塑料一律来自滑鳞壁虎养殖。你要是还没试过，试试看。）
 
-The cooling loop isn't included in the above picture, as it would make it (even more) confusing. I'll cover the cooling loop separately.
+上面那张图里没有画冷却回路，因为画上它会让图（更加）难懂。冷却回路我单独讲。
 
 ![ONI-guide-Mini-Industry-power.png](assets/ONI-guide-Mini-Industry-power-498f7bd783.avif)
 
-I have started connecting the steam turbine to my main power spine. This isn't necessary, and if you don't do it you don't need to run unsightly heavi-watt wire there. (But you will have more spaghetti to deal with when running wire for all machines from farther away.)
+我已经开始把蒸汽涡轮机接到我的主电力干线上了。这并非必需，如果你不接，也就不用在那边拉难看的高负荷电线。（但从远处给所有机器拉线时，你就得多处理些面条了。）
 
-The molecular forge is very power hungry - 1600W! In this picture it isn't powered. (An ugly solution is to run the heavi-watt wire to it. A decor-friendly solution is to run a conductive wire from... wherever you have a transformer to spare.)
+分子熔炉非常吃电——1600W！在这张图里它是没通电的。（难看的解法是把高负荷电线拉到它那里。对装饰友好的解法是从……你哪里有空余的变压器，就拉一根导线过来。）
 
-Another option is to use some automation to make sure only either the glass forge or the molecular forge can run at once. Then you can connect them both to the same power wire.
+另一个办法是用点自动化，确保玻璃熔炉和分子熔炉同一时间只有一个能运行。这样你就能把它们接到同一根电线上。
 
 ![ONI-guide-Mini-Industry-liquid.png](assets/ONI-guide-Mini-Industry-liquid-cc9a6ba911.avif)
 
-The dotted liquid pipe that circles the design represents the cooling loop. Which actually should run around the floors and machines to cool them. But that would make this picture much too confusing, so I'll picture that separately.
+绕着设计画的那圈虚线液体管道代表冷却回路。它其实应该绕着楼层和机器跑，给它们降温。但那样这张图就太乱了，所以我单独画。
 
-The pipe running up from below the picture is where oil is pumped up. It is run through an oil refinery and the resulting petroleum is split into two output pipes. One goes up to a polymer press and also up (which would lead to a petroleum rocket if/when you have them). The second pipe empties into a petroleum storage tank for use in molecular forge stuff.
+从图下方往上走的那根管道是原油被抽上来的地方。它经过一台原油精炼器，产出的石油分成两根输出管道。一根通向聚合物压塑器，同时也往上走（如果你有石油火箭的话，就会通到那里）。第二根排进一个石油储液库，供分子熔炉那些东西用。
 
-For the liquid pipe from the glass forge: use ceramic if available. Insulated pipes if you have spare ceramic, but in my experience even just regular ceramic pipes will do.
+玻璃熔炉出来的液体管道：有陶瓷就用陶瓷。有富余陶瓷就用隔热管道，不过以我的经验，普通陶瓷管道就够了。
 
 ![ONI-guide-Mini-Industry-automation.png](assets/ONI-guide-Mini-Industry-automation-576538ab1f.avif)
 
-I like putting a liquid reservoir in my cooling loops, and then having the liquid thermo sensor after the reservoir. This way you can get a controlled, even temperature at the start of your loop.
+我喜欢在冷却回路里放一个储液库，然后把液体温度传感器放在储液库后面。这样你回路起点就能得到可控、均匀的温度。
 
-(Note: Since writing this section I have changed how I pipe cooling liquid into the thermo aquatuner. My current approach is pictured at the end of this page.)
+（注意：写这一节之后，我改了把冷却液送进液温调节器的接管方式。我现在的做法在本页末尾有图。）
 
-The polymer press automation is to have it stop when the smart storage bin is full. (See [Getting started with automation](getting-started-with-automation.md) for a closer look at it.)
+聚合物压塑器的自动化是让它装满智能存储箱时停机。（想细看的话，见[自动化入门](getting-started-with-automation.md)。）
 
-This design has a very small area where water is intended to pool by the polymer press (in-between the airflow tiles). For water to only pool there you will need to add a lot of cooling around (and over) the polymer press.
+这个设计里有一小片区域，是打算让水在聚合物压塑器旁边积起来的（在透气砖之间）。要让水只积在那里，你得在聚合物压塑器周围（和上方）加大量降温。
 
-The cooling loop pictured below might not be enough to keep the water where you want it. If so, run the cooling loop over the polymer press as well and add a diamond temp shift plate or two. (Or try the glossy dreckos.)
+下面这张图的冷却回路可能不足以把水留在你想让它待的地方。如果是这样，就让冷却回路也经过聚合物压塑器上方，再加一两块钻石变温板。（或者试试滑鳞壁虎。）
 
-The atmo sensor in the oil refinery room is to pump out Natural Gas before the room becomes so full of it that the refinery stops working.
+原油精炼器房间里的气压传感器是为了在房间被天然气灌满、精炼器停工之前把天然气抽走。
 
-(These pictures don't include gas pipes, but there are no surprises with that piping - pump oxygen to the atmo suit dock, pump carbon dioxide from the polymer press to... wherever. And pump excess natural gas, also, to wherever.)
+（这些图里没有画气体管道，但那些管道也没什么意外的——把氧气抽到气压服存放柜，把聚合物压塑器产生的二氧化碳抽到……随便哪儿。多余的天然气也一样，抽到随便哪儿。）
 
-Petroleum doesn't behave like water - even when the liquid vent in the petroleum tank is immersed in petroleum, petroleum will still keep pouring out of it. So you need an automated shut-off system for when the tank is sufficiently full. This can be done simply by connecting a hydro sensor directly to the liquid vent (using automation wire).
+石油的表现不像水——就算石油罐里的排液口泡在石油里，石油照样会一直往外倒。所以你需要一套自动关断系统，在罐子够满的时候停掉它。简单做法是把一个液压传感器直接连到排液口上（用信号线）。
 
 ![ONI-guide-Mini-Industry-cooling-loop.png](assets/ONI-guide-Mini-Industry-cooling-loop-30b057b887.avif)
 
-And, finally, a picture of the same design but with a cooling loop running through it. (I made some small modifications to the other piping to fit in the cooling loop. A few liquid bridges added to the metal refinery piping and one to the petroleum output pipe.)
+最后，是同一个设计、但加上了冷却回路的图。（为了塞进冷却回路，我对其他管道做了些小改动。金属精炼器的管道上加了几根液体管桥，石油输出管道上加了一根。）
 
-I used radiant piping all the way for visual clarity. Normally I would only use radiant piping in areas with a lot of heat.
+为了看得清楚，我全程用了导热管道。正常情况下我只会在大热量区域用导热管道。
 
-If you find an area is getting too hot you can upgrade from normal pipe to radiant pipe while the cooling loop is running. Coolant will not spill out of the pipes.
+如果你发现某片区域太热了，可以在冷却回路运行的时候把普通管道升级成导热管道。冷却液不会从管道里漏出来。
 
 ![ONI-Aquatuner-1.png](assets/ONI-Aquatuner-1-ad41e147c8.avif)
 
-Ummm... about that design I just showed you...
+呃……关于我刚才给你看的那个设计……
 
-Since writing the previous section I have changed to piping the cooling liquid in from above, as pictured here.
+写完上一节之后，我改成了从上方把冷却液接进来，就像这里画的。
 
-The cooling liquid flows in from the right, goes through the thermo aquatuner, and then up to the liquid reservoir and then out to the left. Either way is fine - all that matters is that your cooling loop works.
+冷却液从右边流入，经过液温调节器，再往上到储液库，然后往左流出。两种做法都行——只要你的冷却回路能用就行。
 
-Adding a bit of automation to stop overheating from continuous use of the metal refinery
+加一点自动化，避免金属精炼器连续使用导致过热
 
-If you have the metal refinery running continuously (or near-continuously) then your cooling liquid will eventually overheat and break the pipes.
+如果你让金属精炼器连续（或者近乎连续）运转，冷却液最终会过热并把管道烧坏。
 
-I'm not sure why it took me thousands of hours of gameplay to realize this, but you can stop the overheating by adding some automation to the design.
+我不太明白为什么我玩了几千小时才意识到这一点，但你可以通过给设计加点自动化来避免过热。
 
-After trying a few things, what I have settled on is putting a thermo sensor inside the cooling box and connecting it to the metal refinery.
+试了几种办法之后，我最终定下来的是：在冷却箱里放一个温度传感器，把它连到金属精炼器上。
 
-The thermo sensor measures the temperature and shuts off the metal refinery when it gets too hot. I find having it set to "under 200 C" means the steam turbine runs at almost full capacity.
+温度传感器测量温度，太热时就关掉金属精炼器。我发现把它设成“低于 200 C”能让蒸汽涡轮机几乎满负荷运行。
 
-I will rewrite this part of the guide at some point to include the changes mentioned at the end. But for now, here are some overlay pictures from my current playthrough, which includes both of the modifications mentioned at the end, the new thermo aquatuner piping and the automation in the steam box.
+我以后会重写指南的这一部分，把末尾提到的改动加进去。不过现在先给我当前这局的几张概览图，里面包含了末尾提到的两处改动：新的液温调节器接管方式和蒸汽箱里的自动化。
 
-(On the two kilns: I have one set to continuously make ceramic. The other is set to continuously make refined carbon, and is connected to the smart storage bin that shuts off production when there is 5K refined carbon stored.)
+（关于那两台窑炉：一台我设成持续生产陶瓷。另一台设成持续生产精炼碳，并接到那个智能存储箱上——存了 5K 精炼碳时就停止生产。）
 
 ![ONI-Guide_MetalRefineryAutomation.png](assets/ONI-Guide_MetalRefineryAutomation-14cdc3352c.avif)
 
@@ -94,4 +94,4 @@ I will rewrite this part of the guide at some point to include the changes menti
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/mini-industry](https://www.guidesnotincluded.com/mini-industry) ([Wayback Machine snapshot](https://web.archive.org/web/20250806081310id_/https://www.guidesnotincluded.com/mini-industry)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/mini-industry](https://www.guidesnotincluded.com/mini-industry)（[Wayback Machine 快照](https://web.archive.org/web/20250806081310id_/https://www.guidesnotincluded.com/mini-industry)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

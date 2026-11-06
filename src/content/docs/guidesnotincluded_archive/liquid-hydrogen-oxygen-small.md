@@ -1,6 +1,6 @@
 ---
-title: "Liquid hydrogen & oxygen"
-description: "LIQUID HYDROGEN & OXYGEN, SMALL"
+title: "液氢与液氧"
+description: "小型液氢与液氧"
 source_url: https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small
 archived: 2025-05-19
 archive_snapshot: https://web.archive.org/web/20250519042908id_/https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small
@@ -14,64 +14,64 @@ archive_snapshot: https://web.archive.org/web/20250519042908id_/https://www.guid
 
 ![ONIguide_LiquidOxygenHydrogenSmall_Gas.p](assets/ONIguide_LiquidOxygenHydrogenSmall_Gas_p-fb66b7f06a.avif)
 
-LIQUID HYDROGEN & OXYGEN, SMALL
+小型液氢与液氧
 
-In these pictures, the liquid oxygen is on the left and liquid hydrogen on the right.
+这些图里，液氧在左边，液氢在右边。
 
-Settings:
+设置：
 
-Liquid oxygen
+液氧
 
-Hydro sensor to gas shutoff: below 450
+液压传感器→气体截断阀：低于 450
 
-Hyrdro sensor to liquid pump: above 250
+液压传感器→液泵：高于 250
 
-Liquid pipe thermo sensor: above -190
+液体管道温度传感器：高于 -190
 
-Liquid valve: 9000g/s
+液体调节阀：9000g/s
 
-Liquid hydrogen
+液氢
 
-Hydro sensor to gas shutoff: below 850
+液压传感器→气体截断阀：低于 850
 
-Hyrdro sensor to liquid pump: above 250
+液压传感器→液泵：高于 250
 
-Liquid pipe thermo sensor: above -255
+液体管道温度传感器：高于 -255
 
-Liquid valve: 9000g/s
+液体调节阀：9000g/s
 
-Build materials:
+建造材料：
 
-Make the aquatuners out of steel
+液温调节器用钢来做
 
-Use ceramic for the insulated liquid pipes
+隔热液体管道用陶瓷
 
-Use super coolant in the liquid cooling loops
+液体冷却回路里用超级冷却剂
 
-Use ceramic insulated tiles for the "T" section of wall in-between the liquid oxygen, liquid hydrogen, and aquatuner room (preferable but not necessary)
+液氧区、液氢区和液温调节器房间之间那段“T”形墙用陶瓷隔热砖（最好这样，但不是必须）
 
-Use hydrogen in the steam turbine cooling loop
+蒸汽涡轮机冷却回路里用氢气
 
-Notes:
+注意事项：
 
-The steam turbine can only handle the initial cooling down of one liquid at a time, so fire up the oxygen and hydrogen separately. (Once running it can handle both.)
+蒸汽涡轮机一次只能承担一种液体的初始冷却，所以氧气和氢气要分开启动。（一旦跑起来，它就能同时应付两边。）
 
-The pumps need to be running constantly to prevent damage from state changes.
+泵需要一直运行，以免因状态变化造成损坏。
 
-Keep the liquid reservoirs in a vacuum. To be extra safe regarding temperature transfer, build the liquid reservoirs on mesh tiles.
+储液库要放在真空里。如果想在传热方面更保险，就把储液库建在网格砖上。
 
-This design uses a self-cooling method for the steam turbine If you implement this cooling method, run the gas pipes through the wall of the liquid oxygen section of the build, not the liquid hydrogen section.
+这个设计对蒸汽涡轮机采用自冷却方式。如果你采用这种冷却方式，就让气体管道穿过建造中液氧区的那堵墙，而不是液氢区。
 
-This design uses a pool of liquid oxygen and hydrogen (in the area around the liquid pumps) to even out temperature fluctuations from the aquatuner cooling the gases.
+这个设计用一池液氧和液氢（在液泵周围那片区域）来抹平液温调节器冷却气体时产生的温度波动。
 
-In the guide linked below  you can also see a presentation of a larger version of this build.
+在下面链接的指南里，你还能看到这个建造方案更大版本的介绍。
 
-Design by Francis John
+设计：Francis John
 
-Source: "Liquid Oxygen and Hydrogen : Tutorial nuggets : Oxygen not included", by Francis John. Available at: <https://www.youtube.com/watch?v=ceAidyEsnZo&list=PLS-hAL3jgjOt7qpH-JZ1d5hJcjfoAZOnk&index=10>, accessed 6 September, 2020
+来源：Francis John 的《Liquid Oxygen and Hydrogen : Tutorial nuggets : Oxygen not included》，可访问：<https://www.youtube.com/watch?v=ceAidyEsnZo&list=PLS-hAL3jgjOt7qpH-JZ1d5hJcjfoAZOnk&index=10>，访问日期：2020 年 9 月 6 日
 
 ![ONIguide_LiquidOxygenHydrogenSmall_Power](assets/ONIguide_LiquidOxygenHydrogenSmall_Power-9368deaa4f.avif)
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small](https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small) ([Wayback Machine snapshot](https://web.archive.org/web/20250519042908id_/https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small](https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small)（[Wayback Machine 快照](https://web.archive.org/web/20250519042908id_/https://www.guidesnotincluded.com/liquid-hydrogen-oxygen-small)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

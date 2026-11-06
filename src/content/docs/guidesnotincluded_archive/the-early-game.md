@@ -1,804 +1,804 @@
 ---
-title: "The early game"
-description: "This guide starts off where the previous section, The very early game, left off."
+title: "早期游戏"
+description: "本指南从上一节《极早期游戏》结束的地方接着讲。"
 source_url: https://www.guidesnotincluded.com/the-early-game
 archived: 2025-07-16
 archive_snapshot: https://web.archive.org/web/20250716223627id_/https://www.guidesnotincluded.com/the-early-game
 ---
 
-Contents:
+目录：
 
-* A Great Hall (dining room)
-* Plumbing - toilets and sinks
-* Toilets and sinks, part 2: swapping your polluted water for reed fiber
-* Dealing with polluted water bottles
+* 餐厅（用餐房间）
+* 水管 - 抽水马桶与洗手池
+* 抽水马桶与洗手池，第二部分：用你的污染水换芦苇纤维
+* 处理瓶装污染水
 
-* Dealing with polluted oxygen
-* Power, part 2: the coal generator and power transformer
-* Dealing with carbon dioxide
-* Optional: Upgrading to Bristle Blossoms
+* 处理污染氧
+* 电力，第二部分：煤炭发电机与变压器
+* 处理二氧化碳
+* 可选：升级到毛刺花
 
-## Introduction
+## 引言
 
-This guide starts off where the previous section, [The very early game](the-very-early-game.md), left off.
+本指南从上一节[极早期游戏](the-very-early-game.md)结束的地方接着讲。
 
-I won't go over the stuff from that part here. Instead I'll just pop in a screenshot to show what has been done by the start of this guide.
+那一部分讲过的东西我在这里不再重复。我直接贴一张截图，让你看看本指南开始时基地已经做到什么程度。
 
 ![ONI-guide_EndOfFirstGuide.png](assets/ONI-guide_EndOfFirstGuide-3b3a5d4e10.avif)
 
-Starting point. Basic toilets (latrines and wash basins), hamster wheel and oxygen diffuser, both early research stations, a basic farm and a basic bedroom.
+起点。基础厕所（公共厕所和洗手盆）、人力发电机和氧气扩散器、两个早期研究站、一块基础农田和一间基础卧室。
 
 ![ONI-Guide_RoomOverlay.png](assets/ONI-Guide_RoomOverlay-51bc10a5e6.avif)
 
-* Some rooms give morale bonuses if they meet certain requirements.
+* 有些房间在满足特定要求时会提供士气加成。
 
-* You can see the available room bonuses and requirements in the Room Overlay (top right, or press F11).
+* 你可以在房间概览里查看可用的房间加成与要求（右上角，或按 F11）。
 
-* The most important early-game room bonus is the Great Hall (+6 morale).
+* 早期游戏最重要的房间加成是餐厅（+6 士气）。
 
-* The most common maximum room size is 64 tiles. This equals a 4x16 room: 4 tiles high, 16 tiles wide. (Or 18 tiles wide if you include the outer walls.)
+* 最常见的房间最大尺寸是 64 格。这相当于 4x16 的房间：高 4 格、宽 16 格。（如果把外墙算进去就是宽 18 格。）
 
-* The maximum size for a ranch is 96 tiles. This equals a 6x16 room. (6 tiles high, 16 tiles wide - or 18 if you count the outer walls.)
+* 畜舍的最大尺寸是 96 格。这相当于 6x16 的房间。（高 6 格、宽 16 格——算上外墙就是 18 格。）
 
-For my fellow neat-freaks
+给和我一样的强迫症患者
 
-* If you want a(n unnecessarily) neatly structured base, you can make your floors 18 tiles wide and then vary room height depending on the maximum room size.
+* 如果你想要一个（完全没必要的）整齐划一的基地，可以把每层都做成 18 格宽，再根据房间最大尺寸来调整层高。
 
-* (But be warned: years ago I read someone suggest it on a forum, and since trying it for the first time I have been both physically and psychologically incapable of ever not building my bases using the X tiles high by 18 tiles wide approach.)
+* （但事先警告：多年前我在论坛上看到有人这么建议，自从第一次这么试过之后，我在生理上和心理上就再也无法不用“高 X 格、宽 18 格”的方式来建基地了。）
 
-## Tip: room sizes - and room bonuses
+## 小贴士：房间尺寸 - 以及房间加成
 
-Room bonuses. Barracks (morale +1), Great Hall (morale +6), Laboratory (+10% research speed), Latrine (morale +1)
+房间加成。宿舍（士气 +1）、餐厅（士气 +6）、实验室（研究速度 +10%）、公共厕所（士气 +1）
 
-A note on the laboratory: Putting the research stations next to the printing pod gives dupes a +15% Lit Workspace buff. This is in addition to the laboratory's +10%, for a nice total of +25% research speed.
+关于实验室的说明：把研究站放在打印舱旁边，复制人就能获得 +15% 的“明亮的工作区”加成。这是在实验室 +10% 之外的额外加成，合计研究速度 +25%，很美好。
 
-## A GREAT HALL (DINING ROOM)
+## 餐厅（用餐房间）
 
-Great Hall
+餐厅
 
-Dupes will sit down to eat pretty much anywhere they find a meal, including sitting down in a germy bathroom while themselves still covered in germs from using said bathroom. You can avoid that kind of silliness by giving dupes mess tables to eat at.
+复制人几乎在任何找到食物的地方都会坐下来吃，包括坐在满是病菌的厕所里，而他们自己身上还沾着刚用那间厕所留下的病菌。给复制人配小餐桌吃饭，就能避免这种蠢事。
 
 ![Building_Mess_Table.webp](assets/Building_Mess_Table-63db31799a.avif)
 
-Mess Table
+小餐桌
 
 ![Building_Water_Cooler.webp](assets/Building_Water_Cooler-c6bc498eaf.avif)
 
-Water Cooler
+饮水机
 
 ![Building_Hanging_Pot.webp](assets/Building_Hanging_Pot-d4adaa1ed3.avif)
 
-Hanging pot
+垂吊花盆
 
 ![Building_Flower_Pot.webp](assets/Building_Flower_Pot-77f882de00.avif)
 
-A Flower Pot with a Bluff Briar plant
+种着诱人荆棘的花盆
 
-* The mess table is unlocked in Meal Preparation, the second tier of the Food research branch (found at the uppermost edge of the research tree)
+* 小餐桌在“食物制备”解锁，也就是食物研究分支的第二层（在研究树最上方的边缘）
 
-Once researched you can find the mess table under Furniture (in the bottom left).
+研究完成后，你可以在家具（左下角）里找到小餐桌。
 
-Dupes won't share mess tables, so you will need one mess table per dupe.
+复制人不会共用小餐桌，所以每个复制人都要配一张。
 
-If the mess table is in a dining room, dupes will get a morale bonus when eating there. There are two different kinds of dining rooms:
+如果小餐桌放在用餐房间里，复制人在那儿吃饭就能获得士气加成。用餐房间分两种：
 
-* Mess Hall (+3 morale)
-* Great Hall (+6 morale)
+* 食堂（+3 士气）
+* 餐厅（+6 士气）
 
-You can see the room requirements for both rooms in the Room Overlay, the picture of a bed in the top right. A great hall is an easy way to get a significant morale bonus. To qualify as a great hall a room needs:
+两种房间的要求都可以在房间概览里看到，就是右上角那张床的图标。餐厅是拿到可观的士气加成的简单办法。要符合餐厅的条件，房间需要：
 
-* A mess table (for each dupe)
-* A decor item
-* A recreational building
+* 一张小餐桌（每个复制人一张）
+* 一件装饰品
+* 一个娱乐建筑
 
-Furthermore, the room cannot have any industrial machinery and must be between 32-120 tiles in size.
+此外，房间里不能有任何工业机械，尺寸必须在 32-120 格之间。
 
-The easiest recreational building to get your hands on at the start of the game is the water cooler.
+游戏初期最容易搞到的娱乐建筑是饮水机。
 
-* The water cooler is unlocked in Employment, the first tier of the Colony Development research branch. (If you have a super computer then you have already unlocked the water cooler.)
+* 饮水机在“职业管理”解锁，也就是殖民地发展研究分支的第一层。（如果你已经有超级计算机了，那说明你已经解锁饮水机了。）
 
-Once researched you can find the water cooler under furniture (in the bottom left).
+研究完成后，你可以在家具（左下角）里找到饮水机。
 
-You will also need a decor item (with a value of at least +20 decor). This can be easily taken care of by putting a plant in your dining room.
+你还需要一件装饰品（装饰度至少 +20）。在用餐房间里放一株植物就能轻松搞定。
 
-A plant will require something to plant it in - a Flower Pot, Wall Pot, or Hanging Pot. They are all unlocked in the Decor research branch.
+植物需要有东西来栽——花盆、墙壁花盆或垂吊花盆。它们都在装饰研究分支里解锁。
 
-Look around your starting area for a decorative plant. The most common decorative plants in the starting area are Bluff Briar and Mirth Leaf. Either one is fine for this purpose.
+在起始区域周围找找装饰性植物。起始区域最常见的装饰植物是诱人荆棘和欢乐叶，这两种都行。
 
-Dig up the plant and plant it in the pot. To do that:
+把植物挖出来，再种进花盆里。做法是：
 
-* select the pot, then select the seed to plant in it, then click on Plant.
+* 选中花盆，然后选中要种进去的种子，再点击“种植”。
 
-You can raise the priority of pots to get things planted faster. If nothing happens, you probably forgot to click Plant (I do that a lot).
+你可以提高花盆的优先级，让种植更快完成。如果什么都没发生，多半是你忘了点“种植”（我经常这样）。
 
 ![ONI-Guide_GreatHall2.png](assets/ONI-Guide_GreatHall2-8b454df1cd.avif)
 
 ![ONI-Guide_GreatHall.png](assets/ONI-Guide_GreatHall-2c8cfcc3cb.avif)
 
-It's not much, but it's great. Dupes get a +6 morale bonus for eating in a great hall.
+不算什么，但很棒。复制人在餐厅吃饭能获得 +6 士气加成。
 
-* You can see the Plumbing Overlay by clicking on the water drops in the top right or by pressing F6.
+* 点击右上角的水滴图标，或按 F6，就能看到水管概览。
 
-* You build most plumbing-related stuff through the Plumbing build icon (bottom left). A notable exception is the sink, which is found under Medicine.
+* 大多数与水管相关的建筑都在左下的“水管”建造图标里。一个显著的例外是洗手池，它在“医疗”里。
 
-* Plumbing things commonly have an input and an output.
+* 水管类设施通常有一个输入口和一个输出口。
 
-  + White is input: liquid goes in here
-  + Green is output: liquid comes out here
+  + 白色是输入：液体从这里进去
+  + 绿色是输出：液体从这里出来
 
-* If something isn't working, the first things to check are the inputs and outputs. A common mistake (even after thousands of hours I still do it) is connecting inputs or outputs wrong.
+* 如果有什么不工作，第一件要检查的就是输入口和输出口。最常见的错误（哪怕玩了几千小时我还是会犯）就是把输入或输出接错。
 
-* A pipe must lead somewhere for liquid to flow along it. (A Liquid Bridge counts as somewhere - water will flow up to the start of the liquid bridge, even if the pipe goes nowhere after it.)
+* 管道必须通向某个地方，液体才会沿着它流动。（液体管桥也算“某个地方”——水会一直流到液体管桥的入口，哪怕桥之后的管道不通向任何地方。）
 
-* If you want liquid to pour out of a pipe, you need to put a Liquid Vent at the end.
+* 如果你想让液体从管道里倒出来，需要在末端装一个排液口。
 
-* Gravity affects liquids on the map, it does not affect liquid in pipes.
+* 重力会影响地图上的液体，但不会影响管道里的液体。
 
-## Tip: plumbing basics
+## 小贴士：水管基础
 
-Toilets and sinks
+抽水马桶与洗手池
 
-## PLUMBING - TOILETS AND SINKS
+## 水管 - 抽水马桶与洗手池
 
-There are a bunch of useful things that require plumbing. Let's start with upgrading our outhouses and wash basins to toilets and sinks.
+有不少有用的东西都需要接水管。我们就从把户外厕所和洗手盆升级成抽水马桶与洗手池开始。
 
 ![ONI-Guide_LiquidOverlayHelper.png](assets/ONI-Guide_LiquidOverlayHelper-6e2c6bf2a5.avif)
 
-Inputs and outputs. When the plumbing overlay is active you will see a reminder of input and output colours. (Yellow is for when you use a liquid filter. We won't need that now.)
+输入与输出。打开水管概览时，你会看到输入输出颜色的提示。（黄色是使用液体筛选器时的情况，我们现在用不到。）
 
-Emptying outhouses and wash basins takes time - and produces polluted dirt and germy water. Toilets and sinks require no maintenance, so it's a useful upgrade.
+清空户外厕所和洗手盆要花时间——还会产生污染土和带菌的水。抽水马桶和洗手池不需要维护，所以这是个很有用的升级。
 
-There's a separate part of the guide, [Pipes and pumps: liquid and gas flow basics](pipes-and-pumps.md), that goes more in-depth into pumps and pipes and such. But for what we will be building now we'll just need to remember some basics.
+指南里另有一部分[管道与泵：液体和气体流动基础](pipes-and-pumps.md)，会深入讲泵和管道这些东西。不过就我们现在要造的东西而言，只要记住一些基础就行。
 
-* Plumbing-related buildings can have inputs and outputs. Some have both, some have only one or the other.
-* Inputs are white
-* Outputs are green
+* 与水管相关的建筑可以有输入口和输出口。有些两个都有，有些只有其中一个。
+* 输入口是白色
+* 输出口是绿色
 
-Some examples of the stuff you will commonly use:
+下面是你常用的一些设施的例子：
 
-Toilets and sinks have both an input and an output. Clean water comes into the input to be used by the building. After a dupe has used it, polluted water flows out of the output.
+抽水马桶和洗手池都有输入口和输出口。干净的水从输入口进入，供建筑使用。复制人用过之后，污染水从输出口流出。
 
-A liquid pump only has an output. It gathers liquid from its surrounding area.
+液泵只有输出口。它会收集周围区域的液体。
 
-A liquid storage tank, called a liquid reservoir, has an input and an output. The liquid you want to store goes in the input. If you have a pipe connected to the reservoir's output then any liquid in the tank will flow out.
+储液罐，也就是储液库，有输入口和输出口。你想储存的液体从输入口进入。如果储液库的输出口接了管道，那么库里的液体会流出去。
 
-Whenever you connect an input or an output, it is always done using pipes.
+无论连接输入口还是输出口，都是通过管道完成的。
 
-Let's start with some pics of what we'll be building. The second picture (below) is of the Plumbing Overlay. You can access the plumbing overlay by clicking on the the drops of liquid in the top right (or press F6).
+先看看我们要造的东西长什么样。第二张图（下面那张）是水管概览。点击右上角的液滴图标（或按 F6）就能打开水管概览。
 
 ![ONI-Guide_Toilets1.png](assets/ONI-Guide_Toilets1-2f3cb9ee43.avif)
 
 ![ONI-Guide_Toilets2.png](assets/ONI-Guide_Toilets2-13eb1ae0b6.avif)
 
-Plumbing - toilets and sinks. Clean water is pumped to the white inputs. Polluted water will flow out of the green outputs to be stored in a liquid reservoir for later use.
+水管 - 抽水马桶与洗手池。干净的水被泵送到白色的输入口。污染水从绿色的输出口流出，存进储液库留着以后用。
 
 ![Building_Lavatory.webp](assets/Building_Lavatory-2d8168722c.avif)
 
-Lavatory
+抽水马桶
 
 ![Building_Sink.webp](assets/Building_Sink-30325499dc.avif)
 
-Sink
+洗手池
 
 ![Building_Liquid_Pump.webp](assets/Building_Liquid_Pump-b90e3bf20c.avif)
 
-Liquid Pump
+液泵
 
 ![Building_Liquid_Pipe.webp](assets/Building_Liquid_Pipe-a5bf8661a3.avif)
 
-Liquid Pipe
+液体管道
 
 ![Building_Liquid_Reservoir.webp](assets/Building_Liquid_Reservoir-1685271ea9.avif)
 
-Liquid Reservoir
+储液库
 
-To unlock the things needed for this build, research:
+要解锁这个建造方案所需的东西，请研究：
 
-* Plumbing
-* Sanitation
-* Improved Plumbing
+* 水管
+* 卫生设备
+* 改良水管
 
-They are all in the Liquids branch of the research tree (which is a bit below the middle of the research tree map).
+它们都在研究树的液体分支里（位置大约在研究树地图中间偏下一点）。
 
-When you have the necessary buildings unlocked, build something similar to the picture above. (You don't have to hide your pipes in the floor and walls if you don't want to.) (Just know that if you don't, a little piece of me will die.)
+解锁所需建筑后，照着上面的图造一个差不多的就行。（你要是不想把管道藏进地板和墙里，也可以不藏。）（只是你要知道，你不藏的话，我心里会有一小块死掉。）
 
-I usually leave some empty spaces in my bathrooms for decor items, which is why there are two big empty spots. But decor items aren't necessary; you can instead fit a fourth toilet and sink, or two showers, a compost, etc.
+我通常会在厕所里留一些空位放装饰品，所以图里有两个大空位。但装饰品不是必需的；你可以在那儿再塞第四个抽水马桶和洗手池，或者两个淋浴隔间、一个堆肥堆等等。
 
-Building your new bathroom includes the following steps (the order you do them in doesn't matter):
+建造你的新厕所包括以下步骤（顺序无所谓）：
 
-* Build toilets - called Lavatories, found under Plumbing.
-* Build Sinks, found under Medicine.
-* (When deciding where to put toilets and sinks, remember the stuff about germs and making dupes pass a sink to wash their hands after using the bathroom.)
-* Build a Liquid Pump (found under Plumbing) in a body of (clean) water.
-* Build a Liquid Reservoir (found under Home). Placement isn't hugely important, but try to put it somewhere where it won't be in the way for several dozen cycles (or more).
-* Using Liquid Pipe (under Plumbing), connect the water pump to the toilet and sink inputs - the white bits.
-* Also using pipes, connect the toilet and sink outputs (the green bits) to the input (the white bit) of the Liquid Reservoir.
-* The finished piping should go:
+* 建造马桶——游戏里叫抽水马桶，在“水管”里。
+* 建造洗手池，在“医疗”里。
+* （在决定抽水马桶和洗手池放哪时，记得病菌那套，以及让复制人上完厕所后经过洗手池洗手。）
+* 在一团（干净的）水里造一台液泵（在“水管”里）。
+* 造一个储液库（在“基地”里）。位置不是特别重要，但尽量放在几十个周期（或更久）内都不会挡路的地方。
+* 用液体管道（在水管里），把水泵连接到抽水马桶和洗手池的输入口——白色的部分。
+* 同样用管道，把抽水马桶和洗手池的输出口（绿色部分）连接到储液库的输入口（白色部分）。
+* 完工后的管道应该这样走：
 
-  + from the pump to the white bits on the toilets and sinks.
-  + from the green bits on the toilets and sinks to the while bit on the liquid reservoir.
-* When finished, connect your Liquid Pump to your power grid (using Wire, under Power).
+  + 从泵到抽水马桶和洗手池的白色部分。
+  + 从抽水马桶和洗手池的绿色部分到储液库的白色部分。
+* 完成后，把液泵接到电网（用“电力”里的电线）。
 
-Water should now start flowing along your pipe(s) and into your toilets and sinks.
+现在水应该开始沿着你的管道流动，进入抽水马桶和洗手池了。
 
-Mouseover your toilet. If everything worked it should say "Lavatory Ready." If it doesn't say that (and trust me, we've all been there), it's time to start debugging - start by checking inputs and outputs.
+把鼠标悬停在抽水马桶上。如果一切正常，应该会显示“抽水马桶已就绪”。如果没显示（相信我，我们都经历过），那就该开始排查了——先从检查输入口和输出口开始。
 
-Once everything is up and running you will still need to periodically check your reservoir tank. If it fills up completely, your toilets will stop working and your dupes will have "accidents."
+一切运转起来之后，你还是要定期检查储液库。如果它彻底满了，你的抽水马桶就会停工，复制人就会“出意外”。
 
-There are two kinds of Oxygen Not Included gamers: those this has happened to, and those this has not yet happened to. Stay in that second group for as long as possible.
+《缺氧》玩家分两种：已经遇到过这事的，和还没遇到过的。尽可能久地待在第二组里。
 
-If (or when) your liquid reservoir starts filling up, you can simply build a new one next to it and chain them together.
+如果（或者说当）你的储液库开始装满，你只要在旁边再造一个、把它们串起来就行。
 
 ![ONI-Guide_LiquidReservoirs.png](assets/ONI-Guide_LiquidReservoirs-7f93376355.avif)
 
-Liquid reservoir chaining options. Liquid flows from left to right. In the top setup liquid will flow to the last tank and start filling the reservoirs from the end. The bottom setup fills tanks from the leftmost tank first.
+储液库串联的几种方式。液体从左往右流。上面的接法里，液体会流到最后一个储液库，并从末端开始往回灌。下面的接法会先灌满最左边的储液库。
 
-## Tip: leaving doors open
+## 小贴士：让门保持敞开
 
-* It takes a tiny amount of time for dupes to open doors as they pass through them.
+* 复制人经过门时开门会花掉一点点时间。
 
-* If there is no reason for a door to be closed, set the door to be left open.
+* 如果门没有必须关上的理由，就把门设成保持敞开。
 
-* Open doors still retain their other settings - who is allowed to pass, what direction dupes are allowed through, etc.
+* 敞开的门仍然保留其他设置——谁能通过、允许复制人往哪个方向通过等等。
 
-* If you have Shine Bugs (the bright, flying creatures) in your base, don't leave bedroom doors open. Shine Bugs can fly in and wake up dupes.
+* 如果你的基地里有发光虫（那种亮亮的飞行生物），别让卧室门敞着。发光虫会飞进去把复制人吵醒。
 
-* A Critter standing on the tile of an open door will get a "Confined" debuff (-10 happiness). So I usually don't leave ranch doors open. (Also, critters that can fly or climb walls will quite happily escape through open doors. And then be all like "Oh, was I not supposed to leave? Sorry, I didn't know.")
+* 小动物站在敞开的门那一格上会获得“封闭”减益（幸福度 -10）。所以我通常不会让畜舍的门敞着。（另外，会飞或会爬墙的小动物会非常乐意从敞开的门跑出去。然后一副“哦，我不该走吗？抱歉，我不知道”的样子。）
 
-Polluted water to reed fiber
+用污染水换芦苇纤维
 
-## TOILETS AND SINKS, PART 2: SWAPPING YOUR POLLUTED WATER FOR REED FIBER
+## 抽水马桶与洗手池，第二部分：用污染水换芦苇纤维
 
 ![Thimble_Reed.webp](assets/Thimble_Reed-db31f47527.avif)
 
-Thimble Reed
+顶针芦苇
 
 ![Building_Hydroponic_Farm.webp](assets/Building_Hydroponic_Farm-a07a08cc37.avif)
 
-Hydroponic Farm
+液培砖
 
-You now have a steadily increasing supply of polluted water. There are different options for what to do with it. Here we'll cover a simple solution: exchange your polluted water for reed fiber.
+你现在有了一份稳定增长的污染水供应。怎么处理它有好几种选择。这里我们讲一个简单的方案：用污染水换芦苇纤维。
 
-(You can also skip this step and go straight to a [chlorine-based decontamination build](recycling-toilet-water.md). But if you're a beginner I'd say don't worry about that stuff yet - there's plenty of time to learn how that works later.)
+（你也可以跳过这一步，直接去做[基于氯气的除污方案](recycling-toilet-water.md)。但如果你是新手，我劝你先别操心那套——以后有的是时间学它怎么运作。）
 
-Reed fiber is used for various things, like for making a kind of protective clothing called an [atmo suit](atmo-suit-basics.md). You'll be wanting some atmo suits at some point, so having a supply of reed fiber is a good thing.
+芦苇纤维有各种用途，比如用来做一种叫[气压服](atmo-suit-basics.md)的防护服。你迟早会需要一些气压服，所以有芦苇纤维供应是件好事。
 
-Reed fiber is harvested from a plant called thimble reed. Thimble reed consumes polluted water to grow, meaning you can feed it all of your polluted water and then get reed fiber in return.
+芦苇纤维是从一种叫顶针芦苇的植物上收获的。顶针芦苇靠消耗污染水生长，也就是说你可以把污染水全喂给它，然后换来芦苇纤维。
 
-There is a kind of tile called a hydroponic farm tile. It is like a farm tile, but you can connect a liquid pipe to it. This means that you can connect your polluted water pipes straight to a hydroponic farm tile.
+有一种砖块叫液培砖。它像土培砖，但可以接液体管道。这意味着你可以把污染水管道直接接到液培砖上。
 
-Note: when choosing where to build your hydroponic farm tile, keep in mind that thimble reed requires a body temperature of between +22 and +37C to grow.
+注意：选择液培砖的建造位置时，请记住顶针芦苇需要 +22 到 +37C 的体温才能生长。
 
 ![ONI-Guide_HydroponicFarmTile2.png](assets/ONI-Guide_HydroponicFarmTile2-0b669885aa.avif)
 
 ![ONI-Guide_HydroponicFarmTile.png](assets/ONI-Guide_HydroponicFarmTile-0c61bafbe1.avif)
 
-All hooked up and nothing to grow. The bathroom output is connected to a liquid reservoir, which is connected to a hydroponic farm tile.
+全部接好了，只是还没种东西。厕所的输出口连着储液库，储液库又连着液培砖。
 
 ![Thimble_Reed_Seed.webp](assets/Thimble_Reed_Seed-00cea8c34a.avif)
 
-Thimble Reed Seed
+顶针芦苇种子
 
-Here's were you get to the potentially tricky part of this build: getting your hands on a Thimble Reed Seed.
+接下来是这个方案里可能有点麻烦的部分：弄到一颗顶针芦苇种子。
 
-Thimble reed can be found in the slime biome. (Which I think is officially called the marsh biome or the swamp biome, but if you call it that none of us will know what you're talking about.)
+顶针芦苇可以在菌泥生态里找到。（我想官方叫它湿地生态或沼泽生态，但你要是那么叫，我们没人知道你在说什么。）
 
-The slime biome has tiles that are infested with slimelung germs. Before you go digging around in the slime biome check the Germ Overlay, the germ icon in the top right (or press F9). Then try to find a way to get at some thimble reed without digging up any slimelung-infested tiles.
+菌泥生态里有些砖块布满了粘液肺病菌。去菌泥生态里挖之前，先看一下病菌概览，就是右上角的病菌图标（或按 F9）。然后尽量找一条路，绕开那些布满粘液肺的砖块，去够到顶针芦苇。
 
-If you accidentally dig up some slimelung it isn't a big deal. Slimelung germs die slowly in oxygen or quickly in hot or cold areas. So for instance putting the slime in a storage bin in an ice biome will kill off the germs.
+如果你不小心挖到了粘液肺，也不是什么大事。粘液肺病菌在氧气里死得慢，在炎热或寒冷的区域死得快。所以，比如把菌泥放进冰冻生态里的存储箱，病菌就会死光。
 
-* There is a separate guide about [dealing with slimelung](dealing-with-slimelung.md).
+* 有一份单独的指南讲[应对粘液肺](dealing-with-slimelung.md)。
 
 ![ONI-Guide_ReedFiber2.png](assets/ONI-Guide_ReedFiber2-e614f45f81.avif)
 
-Thimble Reed (on the bottom). The green stuff is slimelung. The pink stuff is "Floral Scents" from the Buddy Bud flower (second from the left). Slimelung: bad, floral scents: good (except for dupes with the Allergies trait).
+顶针芦苇（在最下面）。绿色的东西是粘液肺。粉色的东西是同伴芽花散发出的“花香”（左起第二株）。粘液肺：坏；花香：好（对带有过敏症特质的复制人除外）。
 
 ![ONI-Guide_ThimbleReedGrowing.png](assets/ONI-Guide_ThimbleReedGrowing-6a31afd09e.avif)
 
-Polluted water disposal. Thimble reed will happily rid you of all your polluted water.
+污染水处理。顶针芦苇会很乐意帮你把污染水全部清掉。
 
-As for how to get your hands on reed fiber, there are a few options:
+至于怎么弄到芦苇纤维，有几种办法：
 
-* Digging up a reed fiber plant will give you a seed
-* You can uncover seeds buried in tiles that look like they have cracks in them (that say there is a buried object in them)
-* When a dupe harvests a reed fiber plant there's a chance it will drop a seed.
+* 把一株芦苇纤维植物挖掉，会给你一颗种子
+* 你可以挖开那些看起来有裂缝的砖块，里面埋着种子（提示会说里面埋着东西）
+* 复制人收获芦苇纤维植物时，有几率掉落一颗种子。
 
-One thimble reed is enough to get you started, but as you grow your dupe count you will eventually need to add more to keep up with your polluted water production.
+一株顶针芦苇就够你起步了，但随着复制人数量增加，你最终需要多种一些，才能跟上污染水的产量。
 
-You can just keep an eye on your polluted water tank and see if the level is rising. Then add another hydroponic farm tile with a thimble reed seed when needed. And there's no harm in planting more than you need.
+你只要盯着污染水储液库，看水位有没有上涨就行。需要的时候再加一块种了顶针芦苇种子的液培砖。种多了也没坏处。
 
-(Alternatively you can do some math. Thimble reed consumes 160 kg of polluted water per cycle. One visit by a dupe to a toilet and sink produces a combined 16.7 kg of polluted water. A full-length, 30 second shower produces 30 kg of polluted water. If my brain is caffeinated enough, that works out to about one thimble reed per 8 dupes without showers and one per 3 dupes with showers. But I might be wrong.)
+（或者你也可以算一算。顶针芦苇每个周期消耗 160 kg 污染水。复制人上一次抽水马桶加洗手池，合计产生 16.7 kg 污染水。一次完整的 30 秒淋浴产生 30 kg 污染水。如果我脑子里的咖啡因还够用的话，算下来大约是不装淋浴时每 8 个复制人配一株顶针芦苇，装了淋浴则是每 3 个配一株。不过我也可能算错。）
 
-The long-term plan
+长期方案
 
-The final phase for dealing with toilet water is to build a chlorine-based decontamination setup that cleans the polluted water from bathrooms and showers and feeds the water back to into the loop.
+处理厕所水的最终阶段，是造一套基于氯气的除污装置，把厕所和淋浴产生的污染水净化，再把水送回循环里。
 
-As long as you aren't running low on water, some reed fiber production is a good thing. If you are low on water, you can skip ahead to the part of the guide where I cover the decontamination build: [Recycling Toilet Water](recycling-toilet-water.md). (There's also a section on [Getting (more) water](getting-more-water.md).)
+只要你的水不缺，产一些芦苇纤维是好事。如果你水不够，可以直接跳到指南里我讲除污方案的那部分：[循环利用厕所水](recycling-toilet-water.md)。（另外还有一节讲[获取（更多）水](getting-more-water.md)。）
 
-* Ladders are fine and all, but is dupe life even worth living without Fire Poles? (Rhetorical question - of course not!)
+* 梯子是不错，可没有消防滑杆，复制人的生活还值得过吗？（反问句——当然不值得！）
 
-* Fire Poles allow your dupes much faster movement when going down. (Dupes can climb up Fire Poles if needed, but it's very slow going.)
+* 消防滑杆能让复制人下楼快得多。（必要时复制人也能爬上去，但慢得要命。）
 
-* The Fire Pole is unlocked in Refined Renovations in the Solid Material branch of the research tree. Once researched, it is found under Home.
+* 消防滑杆在“精致翻修”解锁，位于研究树的固体材料分支。研究完成后，可以在“基地”里找到。
 
-* There is no right or wrong time to unlock them. But they save your dupes lots of travel time, so I always get them early on.
+* 什么时候解锁都不算对或错。但它们能帮复制人省下大量赶路时间，所以我总是很早就弄。
 
-## Tip: Weeeeee! (aka the Fire Pole)
+## 小贴士：呜——！（也就是消防滑杆）
 
-Polluted water bottles
+瓶装污染水
 
-## DEALING WITH POLLUTED WATER BOTTLES
+## 处理瓶装污染水
 
-With toilets and sinks built, you can deconstruct your outhouses and wash basins. This will result in polluted dirt and polluted water bottles.
+抽水马桶和洗手池造好之后，你就可以拆掉户外厕所和洗手盆了。拆完会得到污染土和瓶装污染水。
 
-(If your wash basins have been going for a while, they will already have produced some bottles of polluted water on the ground nearby.)
+（如果你的洗手盆已经用了一阵子，它们早就在附近地上留下一堆瓶装污染水了。）
 
-Polluted water bottles emit polluted oxygen, so you might as well not have them lying around if possible. With some plumbing basics researched, you can now get rid of them.
+瓶装污染水会释放污染氧，所以能不让它们堆着就最好别堆着。既然已经研究了水管基础，你现在可以把它们处理掉。
 
-To do this, set up a system to dump the polluted water into your polluted water reservoir. This can either be a temporary setup you deconstruct after you're done or a permanent place for dupes to also dump any future polluted water bottles. If you make it a permanent thing, add a sink so dupes will wash their hands as they leave.
+做法是搭一套系统，把污染水倒进你的污染水储液库。这套东西可以是完工后就拆掉的临时装置，也可以是长期地点，让复制人以后也把新的瓶装污染水倒在这里。如果做成长期的，就加一个洗手池，让复制人离开时洗手。
 
 ![Building_Bottle_Emptier.webp](assets/Building_Bottle_Emptier-1279eca3cb.avif)
 
-Bottle Emptier
+液桶排倒器
 
-The idea, as shown in the picture(s) below, is:
+思路如下面的图所示：
 
-* build a Liquid Pump (under Plumbing)
-* build a tile on either side of the pump. (For improved airflow use Airflow Tiles - unlocked in the Gases research branch - but it also works with regular tiles.)
-* On one of the tiles, build a Bottle Emptier (under Plumbing) that empties onto the liquid pump.
-* Connect the pump to your polluted water reservoir.
-* Connect the pump to your power grid.
-* Set the Bottle Emptier to "Polluted Water" (I also raise its priority to 6).
+* 造一台液泵（在“水管”里）
+* 在泵的两侧各造一块砖。（想改善气流就用透气砖——在气体研究分支解锁——不过用普通砖块也行。）
+* 在其中一块砖上造一个液桶排倒器（在“水管”里），让它把液体倒在液泵上。
+* 把泵连到你的污染水储液库。
+* 把泵接上电网。
+* 把液桶排倒器设成“污染水”（我还会把它的优先级提到 6）。
 
 ![ONI-Guide_PollutedWaterTemporary.png](assets/ONI-Guide_PollutedWaterTemporary-e830beb263.avif)
 
-Temporary setup. A liquid pump with a tile on either side. A bottle emptier. Connect the pump to your polluted water network and your power grid. All set!
+临时装置。一台液泵，两侧各一块砖。一个液桶排倒器。把泵接到你的污染水管网和电网上。搞定！
 
 ![ONI-Guide_PollutedWaterPermanent2.png](assets/ONI-Guide_PollutedWaterPermanent2-bc7a73b9af.avif)
 
-Permanent setup. I have experimented with different designs for this room over the years but have never come up with one I'm really happy with. This is what I'm using these days, it combines composts and a polluted water disposal. (The thing on the airflow tile to the left of the pump is a deodorizer. We'll cover them soon.)
+长期装置。这些年我在这个房间上试过各种设计，但从没做出一个让我真正满意的。这是我最近在用的，把堆肥堆和污染水处理合在一起。（液泵左边透气砖上的那个东西是空气净化器，我们很快就会讲到。）
 
 ![ONI-Guide_NeedsDisinfecting.png](assets/ONI-Guide_NeedsDisinfecting-f1a56b08eb.avif)
 
-Disinfect commands
+消毒指令
 
-Dupes get germy from carrying germy things - like germy water bottles and germy dirt.
+复制人搬带菌的东西就会沾上病菌——比如带菌的水瓶和带菌的泥土。
 
-When dupes carry the germy water from your deconstructed wash basin to your dumping station they will spread germs along the way. So when they have emptied out all the polluted water bottles you'll need to do some disinfecting.
+复制人把拆掉的洗手盆里的带菌水搬到倾倒站时，会一路散播病菌。所以等他们把瓶装污染水全倒完，你就得做一轮消毒。
 
-* You can check your germ situation with the Germ Overlay (icon is top right, or press F9).
-* Send germy dupes past sinks to wash their hands. To do that, click on the dupe and use the Move To command.
-* To disinfect your base click on the Disinfect icon on the bottom right (the picture of a cleaning bottle). Then click & drag to select your whole base.
+* 你可以用病菌概览查看病菌情况（图标在右上角，或按 F9）。
+* 让带菌的复制人经过洗手池洗手。做法是点选复制人，用“前往”指令。
+* 要给基地消毒，点击右下角的消毒图标（一个清洁瓶的图案）。然后按住拖动，把整个基地框选起来。
 
-Nothing happening? If no dupes start disinfecting, you can either raise the priority of the disinfect commands or raise the Tidying priority of one or more dupes.
+什么也没发生？如果没有复制人开始消毒，你可以提高消毒指令的优先级，或者提高一个或几个复制人的“整理”优先级。
 
-## Tip: zooming (even farther) out
+## 小贴士：缩放到（更）远
 
-* Press ALT + S to enter screenshot mode.
+* 按 ALT + S 进入截图模式。
 
-* In this mode you can zoom farther out than in normal mode.
+* 在这个模式里，你能比普通模式缩得更远。
 
-* Press ALT + S again (or press Esc) to return to the standard view.
+* 再按一次 ALT + S（或按 Esc）回到标准视角。
 
-Polluted oxygen
+污染氧
 
-## DEALING WITH POLLUTED OXYGEN
+## 处理污染氧
 
 ![Building_Deodorizer.webp](assets/Building_Deodorizer-edaaf8cd6c.avif)
 
-Deodorizer
+空气净化器
 
-Polluted water - including bottles of polluted water - emits polluted oxygen (unless the air pressure is very high).
+污染水——包括瓶装污染水——会释放污染氧（除非气压非常高）。
 
-Check the Oxygen Overlay (top right or F1) and you are likely to see some areas of polluted oxygen. Let's clean them up.
+打开氧气概览（右上角或 F1），你多半会看到几片污染氧。我们把它清理掉。
 
-Thankfully, this is no big deal - it can be done with Deodorizers. They are unlocked in Decontamination in the Gases branch of the research tree.
+还好，这不是什么大问题——用空气净化器就能解决。它们在“除污”解锁，位于研究树的气体分支。
 
-When you have them researched, put them in areas with polluted oxygen. (You can delete them once the air is purified.) When placing deodorizers, keep in mind that polluted oxygen tends to move a bit from side to side, but not really up and down.
+研究好之后，把它们放在有污染氧的区域。（空气净化干净后就可以拆掉。）放置空气净化器时要注意，污染氧容易左右扩散一点，但基本不会上下移动。
 
-Deodorizers require sand and a small amount of power, so remember to connect them to your power grid.
+空气净化器需要沙子和少量电力，所以记得把它们接上电网。
 
-## Tip: heat and food
+## 小贴士：热量与食物
 
-* It might not seem like it when you first start playing, but heat has ended many a game of Oxygen Not Included.
+* 刚上手时可能看不出来，但热量终结过无数局《缺氧》。
 
-* The way heat usually gets you is your food: Mealwood and Bristle Blossoms stop growing at temperatures above +30 C.
+* 热量通常从你的食物下手：米虱木和毛刺花在温度高于 +30 C 时就会停止生长。
 
-* When you get your hands on late-game cooling technology you will be able to laugh in the face of heat. Until then you need to be somewhat cautious of it.
+* 等你拿到后期降温技术，就能对着热量大笑。在那之前，你还是得多少提防它。
 
-* Machines and such generate varying amounts of heat. You can see the amount something generates under Heat (in the build menu or by clicking on it).
+* 机器之类的东西会产生数量不等的热量。你可以在“热量”一栏看到某个东西产生多少（在建造菜单里，或点开它查看）。
 
-* The amount of heat generated is given in DTU/s. I have absolutely no idea what that is. But comparing buildings will give you some idea, e.g.:
+* 产生的热量单位是 DTU/s。我完全不知道那是什么东西。不过对比一下建筑能让你有点概念，比如：
 
-  + a Ceiling Light generates 500 DTU/s
-  + a Coal Generator generates 9 000 DTU/s
+  + 一盏吸顶灯产生 500 DTU/s
+  + 一台煤炭发电机产生 9 000 DTU/s
 
-* Try to keep buildings that generate significant amounts of heat a fair distance away from where you grow food.
+* 尽量把产生大量热量的建筑和种食物的地方隔开一段距离。
 
-Power 2: coal genratr and transformer
+电力 2：煤炭发电机与变压器
 
-## POWER, PART 2: THE COAL GENERATOR AND POWER TRANSFORMER
+## 电力，第二部分：煤炭发电机与变压器
 
-The hamster wheel is adorable but takes a lot of dupe time. Also, you will eventually need more power than a hamster wheel can provide.
+人力发电机很可爱，但会占用大量复制人时间。而且你最终需要的电力会超过一台人力发电机能提供的量。
 
-You can free up dupes for other tasks and have more power available in your power grid by upgrading to coal power. (If this seems intimidating, don't worry - you'll have it up and running in no time.)
+升级到煤炭发电，就能把复制人解放出来去做别的事，同时让电网里有更多电力可用。（如果这看起来有点吓人，别担心——你很快就能让它跑起来。）
 
-And this is what we're building.
+我们要造的就是这个。
 
 ![ONI-Guide_CoalPower1.png](assets/ONI-Guide_CoalPower1-6f4dc50d8b.avif)
 
 ![ONI-Guide_CoalPower2.png](assets/ONI-Guide_CoalPower2-b4f942c044.avif)
 
-Basic coal power. The coal generator generates power, the battery stores it, the power transformer protects the power network from overloading.
+基础煤炭发电。煤炭发电机发电，蓄电池储电，变压器保护电网不过载。
 
 ![Building_Coal_Generator.webp](assets/Building_Coal_Generator-cb84cbc662.avif)
 
-Coal Generator
+煤炭发电机
 
 ![Building_Power_Transformer.webp](assets/Building_Power_Transformer-4b6ebdb905.avif)
 
-Power Transformer
+变压器
 
 ![Building_Large_Power_Transformer.webp](assets/Building_Large_Power_Transformer-0f2890ce59.avif)
 
-Large Power Transformer
+大型变压器
 
-Let's cover some buildings and concepts.
+我们先讲几个建筑和概念。
 
-Coal Generator basics
+煤炭发电机基础
 
-* The coal generator uses coal to generate power
-* As byproducts it generates heat and carbon dioxide.
-* Each coal generator can generate 600 W of power. (By comparison, the hamster wheel can generate 400 W.)
+* 煤炭发电机用煤炭发电
+* 副产物是热量和二氧化碳。
+* 每台煤炭发电机可以发出 600 W 电力。（相比之下，人力发电机只能发 400 W。）
 
-Wire overload basics
+电线过载基础
 
-* The basic wire you have been using so far can handle up to 1000 W
-* At power use of over 1000 W the wire will overload and start taking damage
-* After taking sustained damage a wire section will break and need repairing by a dupe
+* 你目前用的基础电线最多能承受 1000 W
+* 当用电功率超过 1000 W 时，电线会过载并开始受损
+* 一段电线持续受损后会断掉，需要复制人去维修
 
-Power wires only overload through buildings and machines using too much power, not through lots of power being available on a power grid.
+电线只会因为建筑和机器用电太多而过载，不会因为电网里可用电力太多而过载。
 
-Meaning, you can have lots of coal generators hooked up to your power grid without doing any damage to power wires. The central issue isn't how much power your power grid can produce, but the total amount of power actually used at any given time.
+也就是说，你可以在电网上接一大堆煤炭发电机，而不会伤到电线。关键不在于你的电网能发多少电，而在于任意时刻实际用掉的总电量。
 
-You can design your power grid so that wires can't overload. This is done with the help of power transformers.
+你可以通过设计电网，让电线不会过载。这要靠变压器来实现。
 
-Power transformer basics
+变压器基础
 
-* A power transformer limits how much power machines that are connected to it are allowed to draw from the power grid
+* 变压器会限制接在它上面的机器能从电网抽取多少电力
 
-If buildings and machines on your power grid need more power than a transformer will let through, then you will have a brownout. Meaning some machine, or machines, won't run. But your power wires won't overload.
+如果电网上的建筑和机器需要的电力超过变压器允许通过的量，就会发生供电不足。也就是说某台或某些机器不会运转。但你的电线不会过载。
 
-At some point you will want to have more machines running than a single power transformer can supply power to. This can be done by splitting your power grid into several smaller sections, each connected to their own power transformer.
+到了某个时候，你会想让更多机器同时运行，多到一台变压器供不过来。做法是把电网拆成几个更小的区域，每个区域各接一台变压器。
 
 ![ONI-Guide-PowerGrids1.png](assets/ONI-Guide-PowerGrids1-bfaa5f8a52.avif)
 
 ![ONI-Guide-PowerGrids2.png](assets/ONI-Guide-PowerGrids2-fced7cf529.avif)
 
-Multiple power transformers. Each grid is allowed up to 1000 W, so all three jukebots can run at the same time.
+多台变压器。每个电网最多允许 1000 W，所以三台点唱机器人都能同时运行。
 
-* There are two things to keep in mind:
+* 有两点要记住：
 
-  + How much power the various buildings and machines in your base can consume.
-  + how much power your wires can handle.
+  + 你基地里各种建筑和机器能消耗多少电力。
+  + 你的电线能承受多少电力。
 
-* Remember that not all power consumers are active all the time. A water pump uses 240 W when pumping water but 0 W when idle.
+* 记住不是所有用电设备都一直开着。液泵抽水时用 240 W，闲置时用 0 W。
 
-* There are two main kinds of power wire you will use to connect stuff in your base. They have different upper limits before overloading:
+* 你在基地里接线主要会用两种电线。它们过载前的上限不同：
 
-  + Wire: 1000 W
-  + Conductive Wire: 2000 W
+  + 电线：1000 W
+  + 导线：2000 W
 
-* You can use power transformers to limit how much power a wire is allowed to draw from your grid. Machines that would send a wire over the transformer's limit will not get power.
+* 你可以用变压器限制一条电线能从电网抽取多少电力。会让电线超出变压器上限的机器将得不到电力。
 
-* There are two different Power Transformers
+* 变压器有两种
 
-  + The Power Transformer lets through 1000 W
-  + The Large Power Transformer lets through 4000 W
+  + 变压器允许通过 1000 W
+  + 大型变压器允许通过 4000 W
 
-* The Power Transformer pairs nicely with standard Wire - both have upper limits of 1000 W.
+* 变压器和标准电线很搭——两者的上限都是 1000 W。
 
-* Note that the Large Power Transformer will allow a draw of up to 4000 W, which is more than the 2000 W the Conductive Wire can handle before overloading. So you need to keep an eye on your potential power consumption, using the Power Overlay (icon in upper right or press F1).
+* 注意大型变压器允许抽取最多 4000 W，这超过了导线过载前能承受的 2000 W。所以你需要用电力概览（右上角图标或按 F1）留意潜在的用电量。
 
-* The general approach is to use heavi-watt wire (or conductive heavi-watt wire) to connect power generators to batteries and power transformers. And then use wire (or conductive wire) from the transformers to your machines etc.
+* 通常的做法是用高负荷电线（或高负荷导线）把发电机接到蓄电池和变压器，然后用普通电线（或导线）从变压器接到你的机器等等。
 
-## Tip: power - power transformer and wire overload basics
+## 小贴士：电力 - 变压器与电线过载基础
 
-With the lecture out of the way, let's get to the building.
+说教完毕，我们来动手建造。
 
-You will need three research unlocks, all in the Power branch of the research tree (found at the top, under Food):
+你需要三项研究解锁，都在研究树的电力分支（位于顶部，食物下方）：
 
-* Power Regulation
-* Internal Combustion
-* Advanced Power Regulation
+* 电力调节
+* 内燃机
+* 高级电力调节
 
 ![ONI-Guide_PowerReserach.png](assets/ONI-Guide_PowerReserach-f7cee4943c.avif)
 
-The required research.
+所需的研究。
 
 ![Building_Heavi-Watt_Wire.webp](assets/Building_Heavi-Watt_Wire-b0e8cf6f71.avif)
 
-Heavi-Watt Wire
+高负荷电线
 
 ![Building_Heavi-Watt_Conductive_Wire.webp](assets/Building_Heavi-Watt_Conductive_Wire-539a3b09e0.avif)
 
-Heavi-Watt Conductive Wire
+高负荷导线
 
 ![Building_Wire.webp](assets/Building_Wire-be11585874.avif)
 
-Wire
+电线
 
 ![Building_Conductive_Wire.webp](assets/Building_Conductive_Wire-5a2493d0df.avif)
 
-Conductive Wire
+导线
 
-When choosing a location for your coal power plant, keep in mind that it generates both heat and carbon dioxide. That said, this is a small setup and can be built in a temporary location.
+给煤炭发电厂选址时，记住它会同时产生热量和二氧化碳。话虽如此，这套东西规模不大，可以造在临时位置。
 
-* Build a Coal Generator
-* Build a Jumbo Battery
-* Build a Power Transformer
+* 建造一台煤炭发电机
+* 建造一台巨型蓄电池
+* 建造一台变压器
 
-* Using Heavi-Watt Wire, connect the Coal Generator(s), Jumbo Battery and Power Transformer
-* Using Wire, connect the Power Transformer to the existing Wire network in your base.
+* 用高负荷电线，把煤炭发电机、巨型蓄电池和变压器连起来
+* 用电线，把变压器接到你基地现有的电线网路上。
 
 ![ONI-Guide_CoalPower2.png](assets/ONI-Guide_CoalPower2-3df28dca95.avif)
 
-Since your coal generator will need coal, you can put a storage bin nearby and set it to only accept Coal (found under Consumable Ore).
+既然煤炭发电机需要煤炭，你可以在旁边放一个存储箱，设成只接收煤炭（在“消耗性矿石”分类下）。
 
-Without automation your coal generator will run day and night, even when your battery is full. This isn't a big deal over short periods of time, but sooner or later you should get around to automating it. (Again, don't be intimidated - it sounds more difficult than it is. And there's a separate guide, [Getting started with automation](getting-started-with-automation.md), in which I walk you through it.)
+没有自动化的话，你的煤炭发电机会日夜不停地运转，哪怕蓄电池已经满了。短时间看这不算什么，但你迟早该把它自动化。（再说一次，别被吓到——它听起来比实际难。而且还有一份单独的指南[自动化入门](getting-started-with-automation.md)，我在里面一步步带你做。）
 
-Oh, and with this new source of easy power, if you haven't yet built a Refrigerator this might be the time. (Unlocked through Agriculture in the Food research branch.)
+对了，有了这个轻松的电力来源，如果你还没造冰箱，现在可能正是时候。（通过食物研究分支的农业解锁。）
 
-A note on power transformer connections
+关于变压器接线的说明
 
-Power transformers have two connection points. The upper one is for incoming power from power producers, the lower one is for power going out to consumers. (One way to remember which is which: look at the arrows on the transformer. A lot of power comes in by the big arrow, a little power goes out by the small arrow.)
+变压器有两个接线点。上面那个接发电机来的输入电力，下面那个接输出给用电设备的电力。（记哪个是哪个的一个办法：看变压器上的箭头。大量电力从大箭头进来，少量电力从小箭头出去。）
 
-A note on battery placement
+关于蓄电池位置的说明
 
-Place batteries on the Heavi-Watt Wire side of your power grid. Basically, anything that produces or stores power is connected to Heavi-Watt Wire.
+把蓄电池放在电网的高负荷电线那一侧。基本上，任何发电或储电的东西都接在高负荷电线上。
 
-* On the upper right of your screen you will see a dropdown option that says "Resources" and a smaller text that says "See All."
+* 屏幕右上方有一个下拉选项写着“资源”，旁边有一行小字写着“查看全部”。
 
-* Click on See All to see a list of all the resources you have discovered so far.
+* 点击“查看全部”就能看到你目前发现的所有资源列表。
 
-* By selecting resources from that list, they will be added to your screen, showing how much you have of those resources.
+* 从列表里选择资源，它们就会被加到屏幕上，显示你拥有多少。
 
-* Use this to keep track of any resources you are interested in. A particularly important one is algae, as that is what we use to produce oxygen. We are also interested in coal, as we need that for our coal generator(s).
+* 用它来留意你关心的任何资源。特别重要的一项是藻类，因为那是我们用来制氧的东西。我们也关心煤炭，因为煤炭发电机需要它。
 
-* Coal is under "Consumable Ore"
+* 煤炭在“消耗性矿石”下
 
-* Algae is under "Organic"
+* 藻类在“有机物”下
 
-## Tip: keeping an eye on resources
+## 小贴士：留意资源
 
-## DEALING WITH CARBON DIOXIDE - CARBON PITS AND CARBON SKIMMERS
+## 处理二氧化碳 - 碳坑与碳素脱离器
 
-Dupes exhale carbon dioxide and certain machines (like the Coal Generator) produce it. You can get a better view of carbon dioxide levels using the Oxygen Overlay (icon in the top right or press F1).
+复制人会呼出二氧化碳，某些机器（比如煤炭发电机）也会产生二氧化碳。用氧气概览（右上角图标或按 F1）能更清楚地看到二氧化碳的分布。
 
-When carbon dioxide levels rise up into your base, dupes will have to run up into the oxygen layer every so often to gasp for air. So having a machine (or worse - a bed) in carbon dioxide isn't great.
+当二氧化碳涨进你的基地里，复制人就得时不时跑上氧气层喘口气。所以把机器（更糟的是床）放在二氧化碳里可不太好。
 
-Dealing with carbon dioxide
+处理二氧化碳
 
 ![ONI-Guide-CarbonDioxideLevels.png](assets/ONI-Guide-CarbonDioxideLevels-71238ec0b3.avif)
 
-Oxygen Overlay. Carbon dioxide is starting to build up. The new Coal Generator will only make things worse.
+氧气概览。二氧化碳开始积聚了。新造的煤炭发电机只会让情况更糟。
 
-There are two approaches to carbon dioxide buildup in your base: Deal with it later and Deal with it now.
+处理基地里二氧化碳积聚有两种思路：以后再处理，和现在就处理。
 
-Deal with it later
+以后再处理
 
-Since carbon dioxide is heavier than oxygen, you can postpone solving the problem with a carbon dioxide pit: basically just a ladder going down, with a few tiles dug out around it.
+因为二氧化碳比氧气重，你可以用一个碳坑来推迟解决问题：基本上就是一条向下延伸的梯子，周围挖掉几格。
 
-On some maps a carbon dioxide pit will be easy, on others a bit trickier. In the example base the guide pictures are from there is a lot going on at the bottom of the map. There is a lot of water, there is a slime biome, and a cool steam geyser that all need to be taken into consideration when digging out an area for carbon dioxide to flow into.
+有些地图上碳坑很容易挖，有些则麻烦一点。这本指南截图所用的示例基地，地图底部热闹得很。那里有大量的水、一个菌泥生态，还有一个低温蒸汽喷孔，在挖出一块让二氧化碳流进去的区域时，这些都得考虑进去。
 
 ![ONI-Guide-CarbonPit2.png](assets/ONI-Guide-CarbonPit2-e2a7135bf3.avif)
 
-Carbon dioxide pit. The basic idea is to give carbon dioxide more space to pool underneath your base. The picture shows two possibilities for this: digging out an area around the coal generator and digging a ladder further down under the base.
+碳坑。基本思路是给二氧化碳更多空间，让它在基地下方积起来。图里展示了两种做法：在煤炭发电机周围挖出一块区域，以及在基地下方再往下挖一条梯子。
 
-If you build a carbon dioxide pit, you can extend the ladder further and further down as carbon dioxide piles up in your base. But digging deeper and deeper will become slower and slower as dupes need to hold their breath for longer and longer as they go further and further down to dig.
+如果你造了碳坑，随着二氧化碳在基地里越积越多，你可以把梯子越挖越深。但越挖越深会越来越慢，因为复制人要下到越来越深的地方去挖，就得憋越来越久的气。
 
-Deal with it now
+现在就处理
 
-Later in the game there is some limited use for carbon dioxide. (It can be used to power an early rocket in the Spaced Out DLC and it can be fed to slicksters, a kind of critter in the oil biome.) But now let's just get rid of it. We'll do this with a carbon skimmer.
+游戏后期二氧化碳有一些有限的用途。（在《眼冒金星！》DLC 里它可以用作早期火箭的燃料，也可以喂给浮油生物，那是油质生态里的一种小动物。）但现在我们先把它清掉。我们用碳素脱离器来做这件事。
 
 ![Building_Carbon_Skimmer.webp](assets/Building_Carbon_Skimmer-65300a4fea.avif)
 
-Carbon Skimmer
+碳素脱离器
 
-Carbon skimmer basics
+碳素脱离器基础
 
-* The Carbon Skimmer is unlocked through research: under Air Systems, the second step in the Liquids research branch.
-* The carbon skimmer uses water as its input and outputs polluted water.
-* (Though polluted, the water is germ-free.)
-* The carbon skimmer only gets rid of carbon dioxide - it does not produce oxygen.
+* 碳素脱离器通过研究解锁：在“空气系统”下，是液体研究分支的第二层。
+* 碳素脱离器以水为输入，输出污染水。
+* （虽然是污染水，但里面没有病菌。）
+* 碳素脱离器只清除二氧化碳——它不产生氧气。
 
-To make life easier for ourselves, we'll also add a water sieve to the mix.
+为了让日子好过一点，我们再加一台净水器进去。
 
 ![Building_Water_Sieve.webp](assets/Building_Water_Sieve-1e63fbf9a9.avif)
 
-Water Sieve
+净水器
 
-Water sieve basics
+净水器基础
 
-* The water sieve is unlocked by researching distillation in the liquids branch of the research tree.
-* It has an input and an output for liquids: it takes in polluted water and turns it into water
-* It uses sand to function, and generates polluted dirt
-* Note that the water sieve does not remove germs; if you input germy polluted water you will get water with germs in it
+* 净水器通过研究精馏解锁，在研究树的液体分支。
+* 它有液体的输入口和输出口：吃进污染水，产出水
+* 它需要沙子才能运作，并产生污染土
+* 注意净水器不除病菌；如果你输入带菌的污染水，出来的水里也会有病菌
 
-With the two machines covered, the goal now is a self-contained loop including a carbon skimmer and a water sieve.
+两台机器都讲过了，现在的目标是一个包含碳素脱离器和净水器的自给循环。
 
-1. The carbon skimmer uses water to get rid of carbon dioxide, and produces polluted water
-2. The polluted water is sent through the water sieve that removes the pollution, turning it back into water
-3. The water coming out of the water sieve is sent back to the carbon skimmer - and the loop starts again from the beginning
+1. 碳素脱离器用水清除二氧化碳，并产生污染水
+2. 污染水被送进净水器，去掉污染，重新变回水
+3. 从净水器出来的水被送回碳素脱离器——循环又重新开始
 
-We'll look at pictures of the build and how to build it soon, but first some  thoughts on placement.
+我们很快会看建造的图以及怎么造，先说说选址的一些想法。
 
-Carbon skimmer placement
+碳素脱离器的位置
 
-The carbon skimmer will define the point where carbon dioxide buildup ends and oxygen (or chlorine, if any has gotten into your base) begins.
+碳素脱离器会划定一个分界点：二氧化碳的积聚到此为止，氧气（或者氯气，如果有漏进你基地的话）从那里开始。
 
-When deciding where to place your carbon skimmer, one option is to put it at the bottom of your base. (Or to dig down to what you think will be the bottom of your base once you're done expanding.)
+给碳素脱离器选址时，一个选择是放在基地的最底部。（或者挖到你认为扩张完成后基地会到的最底部。）
 
-Another option is to put it further down your ladder network. You will eventually want to dig down to the oil biome (but don't go there without Atmo Suits! - we'll cover them later) and other biomes below your starting biome. A carbon skimmer further down a ladder network will ease this exploration.
+另一个选择是放在梯子网路更靠下的地方。你最终会想往下挖到油质生态（但别没穿气压服就去！——我们后面会讲），以及起始生态下方的其他生态。把碳素脱离器放在梯子网路更深处，能让这种探索轻松些。
 
-And now on to the building. Here's what you're aiming for:
+现在进入建造。你要做出来的是这样：
 
 ![ONI-Guide-CarbonSkimmer3.png](assets/ONI-Guide-CarbonSkimmer3-26cd98d62c.avif)
 
-Water sieve and carbon skimmer
+净水器与碳素脱离器
 
 ![ONI-Guide-CarbonSkimmer2.png](assets/ONI-Guide-CarbonSkimmer2-e51001680a.avif)
 
-Plumbing overlay. Connect white to green and green to white.
+水管概览。把白色接绿色，把绿色接白色。
 
 ![ONI-Guide-CarbonSkimmer4.png](assets/ONI-Guide-CarbonSkimmer4-f47354a49b.avif)
 
-Power. Both machines use 120 W when active.
+电力。两台机器运行时都消耗 120 W。
 
-Any time you connect piping you have a good chance of misconnecting piping. So let's go over it.
+每次接管道，你都很有机会接错。所以我们来捋一遍。
 
-* The Carbon Skimmer uses water and outputs polluted water.
-* The Water Sieve uses polluted water and outputs water.
+* 碳素脱离器用水，输出污染水。
+* 净水器用污染水，输出水。
 
-So we connect the Carbon Skimmer output (the green bit) to the Water Sieve input (the white bit).
+所以把碳素脱离器的输出口（绿色部分）接到净水器的输入口（白色部分）。
 
-Then we connect the Water Sieve output (the green bit) to the Carbon Skimmer input (the white bit).
+然后把净水器的输出口（绿色部分）接到碳素脱离器的输入口（白色部分）。
 
-Almost done. Now we just need to add the final element: water.
+差不多完成了。现在只差最后一样东西：水。
 
-If you have water near your carbon skimmer you can build a pump in the water. Or if you have water being piped up to your base nearby then you can extend a pipe from your main water line.
+如果你的碳素脱离器附近有水，可以在水里造一台泵。或者，如果附近有通往基地的供水管道，你可以从主水管上接一条管出来。
 
-If you don't have water nearby, you can set up a simple, temporary solution to dump in some water.
+如果附近没有水，你可以搭一套简单的临时装置，把一些水倒进去。
 
 ![ONI-Guide-CarbonSkimmerAddWater1.png](assets/ONI-Guide-CarbonSkimmerAddWater1-47cd6a18ef.avif)
 
 ![ONI-Guide-CarbonSkimmerAddWater2.png](assets/ONI-Guide-CarbonSkimmerAddWater2-c02c1208ba.avif)
 
-Just add water. A temporary setup to get things going. The Liquid Bridge at the end is to stop the system from overfilling.
+加点水就行。一套让系统跑起来的临时装置。末端那个液体管桥是为了防止系统灌得太满。
 
 ![ONI-Guide-CarbonSkimmerComplete.png](assets/ONI-Guide-CarbonSkimmerComplete-50bb7c2d13.avif)
 
-All set. The carbon skimmer will slowly rid the base of carbon dioxide. Airflow tiles in room floors help with gas flow. (And fire poles being built.)
+全部就绪。碳素脱离器会慢慢清除基地里的二氧化碳。房间地板上的透气砖有助于气体流动。（另外还有正在建造的消防滑杆。）
 
-The above pictures show such a temporary setup:
+上面的图展示了这样一套临时装置：
 
-* A liquid pump (powered) with a tile on either side to keep the water in
-* A bottle emptier that empties onto the pump
-* Water passes straight through a water sieve, so if you are dumping water into the system then you can connect the pump to either of the pipes. If you are dumping polluted water into the system, it has to be connected to the water sieve input pipe.
+* 一台液泵（已通电），两侧各一块砖把水挡在里面
+* 一个液桶排倒器，把液体倒在泵上
+* 水会直接穿过净水器，所以如果你是往系统里倒水，把泵接到两条管道中任意一条都行。如果你是往系统里倒污染水，那就必须接到净水器的输入管上。
 
-  + For this connection, use a Liquid Bridge for the final connection.
-  + The white end of the liquid bridge should connect to the pipe coming from the liquid pump
-  + The green end of the Liquid Bridge should connected on to the pipe leading to the carbon skimmer input (white) pipe.
-* The Bottle Emptier is set to water and - IMPORTANT: click on "Enable Auto-Bottle"
+  + 接这条线时，最后一段用液体管桥。
+  + 液体管桥的白色一端应该接到来自液泵的管道上
+  + 液体管桥的绿色一端应该接到通往碳素脱离器输入口（白色）的管道上。
+* 液桶排倒器设成水，并且——重要：点击“启用自动装桶”
 
-On Enable Auto-Bottle
+关于启用自动装桶
 
-Without this enabled, dupes will only be allowed to empty bottles already lying around your base. Enable Auto-Bottle lets them also get water from a pitcher pump to empty in the Bottle Emptier.
+不启用这个的话，复制人只能倒掉基地里已经放着的瓶子。启用自动装桶后，他们还能从手压泵取水，再倒进液桶排倒器。
 
-On why there is a Liquid Bridge in the build
+关于这个方案里为什么有液体管桥
 
-The reason for the liquid bridge has to do with how liquids and pipes work in Oxygen Not Included.
+加液体管桥的原因和《缺氧》里液体与管道的运作方式有关。
 
-The Liquid Bridge works such that it will only allow water to pass over it if there is space in the pipe it is connected to. Liquid bridges are useful to avoid over-filling a pipe network.
+液体管桥的机制是：只有它连接的管道里有空间时，水才能通过它。液体管桥很适合用来避免管道网灌得过满。
 
-Once the system is primed - when there is water running in our infinite loop - you can deconstruct the temporary setup.
+一旦系统启动起来——也就是我们的无限循环里有水在流动——你就可以把临时装置拆掉了。
 
-On deconstructing pipes
+关于拆解管道
 
-Deconstructing pipes with liquid in them will cause the liquid to spill out. You can empty liquid from pipes (into bottles on the ground), but this requires the Plumbing skill - two skill points spent in the Tidying skill tree.
+拆解里面有液体的管道会让液体洒出来。你可以把管道里的液体排空（装进地上的瓶子里），但这需要“管路工作”技能——在整理技能树里花两点技能点。
 
-Sand and composts
+沙子与堆肥
 
-The Water Sieve needs sand to purify water, and produces polluted dirt in the process. So it is a good idea to have a Storage Bin somewhere nearby, set to store sand (found under Filtration Medium).
+净水器净化水需要沙子，过程中会产生污染土。所以在附近放一个存储箱、设成存放沙子（在“过滤介质”分类下）是个好主意。
 
-You can also put a Compost nearby to deal with the polluted dirt. Or you can have your dupes run it up to some other compost. (Or you can just ignore it. Which seems wrong, but is also entirely possible.)
+你也可以在附近放一个堆肥堆来处理污染土。或者让复制人把它搬到别的堆肥堆去。（或者干脆无视它。这看起来不太对，但完全可行。）
 
-* All those resources you dig out? When they are lying on the ground (or worse: the floor of your base) they aren't just resources - they're debris.
+* 你挖出来的那些资源？当它们躺在地上（更糟的是躺在你基地的地板上）时，它们就不只是资源了——它们是碎屑。
 
-* Debris has a negative decor value. You can see decor with the decor overlay, the cactus icon in the top right (or press F8).
+* 碎屑有负的装饰度。你可以用装饰概览查看装饰度，就是右上角的仙人掌图标（或按 F8）。
 
-* To keep your dupes happy and stress-free, you want to keep their morale up. And, as you probably guessed, debris is bad for morale. (But not actually a huge deal, so don't worry too much about it early on.)
+* 想让复制人开心、不压力大，就要把他们的士气维持住。而且你大概也猜到了，碎屑对士气不利。（但其实影响不算大，早期别太操心。）
 
-* At some point you will want to clean up the debris around your base. There is no right or wrong time to do this - some do it early, others wait 50 or 100 cycles.
+* 到了某个时候，你会想把基地周围的碎屑清理干净。什么时候做都没有对错——有人很早就清，有人等 50 或 100 个周期。
 
-* Of particular importance are places where dupes spend a lot of time. So bedrooms are a good place to clean up first.
+* 特别重要的是复制人待得久的地方。所以卧室是优先清理的好地方。
 
-* There are two main options for cleaning up:
+* 清理主要有两个选择：
 
-  + Storage bins
-  + The automatic dispenser
+  + 存储箱
+  + 自动卸物箱
 
-* The automatic dispenser is like a storage bin, except it doesn't store things. (So it isn't that much like a storage bin, really). Instead, it dumps debris on the tile next to it.
+* 自动卸物箱有点像存储箱，只是它不储存东西。（所以说它也没那么像存储箱。）它会直接把碎屑倒在旁边那一格上。
 
-* The Automatic Dispenser is unlocked in Smart Storage in the Solid Material research branch.
+* 自动卸物箱在“智能存储”解锁，位于研究树的固体材料分支。
 
-* The automatic dispenser has a power socket, but you don't need to power it if you are just having dupes dump debris in it.
+* 自动卸物箱有一个电源插座，但如果你只是让复制人往里倒碎屑，就不需要通电。
 
-* The downside of an automatic dispenser is that the resources on the ground count as debris. The upside is you can gather an endless amount of resources on one tile. Also, if your computer is struggling to keep up, having all your resources in one tile can help with performance.
+* 自动卸物箱的缺点是地上的资源会被算作碎屑。优点是你可以把无穷无尽的资源堆在一格上。另外，如果你电脑开始带不动，把所有资源集中在一格上能改善性能。
 
-* Remember, whichever you use, that you need to set what categories of things to accept.
+* 记住，不管你用哪种，都要设置接受哪些类别的东西。
 
-* To designate debris to be cleaned up, select "Move debris into storage" (bottom right, or press "K").
+* 要指定清理哪些碎屑，选择“把碎屑搬进存储”（右下角，或按“K”）。
 
-* You can set Storage Bins and Automatic Dispensers to "Sweep Only". Then they only accept materials that you have selected to be swept.
+* 你可以把存储箱和自动卸物箱设成“仅清扫”。这样它们只接受你选中要清扫的材料。
 
-* NOTE: With an automatic dispenser you may need to set it to Sweep Only, otherwise you will create an infinite loop: dupes keep picking up and storing the same material that the dispenser keeps spitting back out. (Unless you are dumping things somewhere dupes can't reach them.)
+* 注意：用自动卸物箱时你可能需要设成“仅清扫”，否则会形成无限循环：复制人不停地把卸物箱吐出来的同一种材料再捡起来放回去。（除非你把东西倒到复制人够不着的地方。）
 
-* If necessary, you can also use storage bins to gather lots of stuff in one place.
+* 如有必要，你也可以用存储箱把大量东西集中在一处。
 
-  + Set it to sweep only and to accept all materials
-  + Issue your sweep command
-  + Whenever the Storage Bin fills up, empty it (by deselecting all contents)
-  + Then just start again from the top, until all sweep commands are taken care of.
+  + 把它设成仅清扫，并接受所有材料
+  + 下达清扫指令
+  + 每当存储箱装满，就清空它（取消勾选所有内容物）
+  + 然后再从头来一遍，直到所有清扫指令都被处理完。
 
-* A third approach to moving things around is selecting whatever you want to move and then using the "Move To" command. You can then click wherever you want the debris (etc.) moved to.
+* 搬东西的第三种办法是选中你想搬的东西，然后用“前往”指令。然后点击你想让碎屑（等等）被搬到的地方。
 
 ![ONI-Guide-StorageOptions.png](assets/ONI-Guide-StorageOptions-4b7e44b985.avif)
 
-Storage options. The automatic dispenser (on the left) dumps stuff on the floor next to it.
+存储方案。自动卸物箱（左边那个）会把东西倒在它旁边的地板上。
 
-## Tip: cleaning up Debris - Storage Bins and the Automatic Dispenser
+## 小贴士：清理碎屑 - 存储箱与自动卸物箱
 
-Bristle Blossoms
+毛刺花
 
-## OPTIONAL: UPGRADING TO BRISTLE BLOSSOMS (OR CRITTER RANCHING)
+## 可选：升级到毛刺花（或小动物养殖）
 
-You may have noticed a lot of activity around your Mealwood. That is because Mealwood needs to be "fertilized" every cycle. In practice, that means dupes need to supply dirt to the Mealwood.
+你可能注意到米虱木周围总有好多活儿。那是因为米虱木每个周期都需要“施肥”。实际上，就是复制人得给米虱木送泥土。
 
-You don't need to worry about your dirt levels for a very long time, but If you continue with Mealwood as your only food source you will eventually run out of dirt.
+很长时间内你都不用担心泥土量，但如果你一直只靠米虱木当食物来源，最终会把泥土用光。
 
-One option is to switch to Bristle Blossoms, which only require water. Though then you will instead need to keep an eye on your water supply, and will eventually need to tap into a geyser to fill up your water supply. (See [Getting (more) water](getting-more-water.md) for an introduction to water geysers.)
+一个选择是改种毛刺花，它们只需要水。不过那样你就得转而盯着水的供应，最终还需要接一个间歇泉来补充水源。（水间歇泉的介绍见[获取（更多）水](getting-more-water.md)。）
 
-* Bristle Blossoms need light and water to grow
-* They will not grow in temperatures above +30 C
+* 毛刺花生长需要光照和水
+* 它们在温度高于 +30 C 时不会生长
 
-Switching to Bristle Blossoms is in no way a necessity. But, if you have the water (and a little bit of power) to spare, it is a way to save dirt and dupe time.
+改种毛刺花绝不是必须的。但如果你有多余的水（和一点点电力），它能帮你省下泥土和复制人的时间。
 
-There is a special tile, the Hydroponic Farm tile, that allows us to pipe water directly to whatever is planted in it. With those tiles and a light source, all our dupes will have to do is harvest the Bristle Blossoms when they are ready.
+有一种特殊的砖叫液培砖，可以让我们把水直接管送到种在里面的东西上。有了这些砖和光源，我们的复制人只需要在毛刺花成熟时去收获就行了。
 
-* The Hydroponic Farm tile is unlocked through Agriculture in the Food research branch
-* The Ceiling Light is unlocked in Interior Decor in the Decor research branch. (You probably have it already.)
+* 液培砖通过食物研究分支的农业解锁
+* 吸顶灯在“室内装潢”解锁，位于装饰研究分支。（你大概已经解锁了。）
 
 ![ONI-Guide-BristleBlossoms.png](assets/ONI-Guide-BristleBlossoms-08f3056713.avif)
 
-Bristle blossoms and the ceiling light. A ceiling light five tiles up can light up nine bristle blossoms, at 4 tiles up it can can light up seven.
+毛刺花与吸顶灯。吸顶灯装在五格高时能照亮九株毛刺花，装在四格高时能照亮七株。
 
-How many Hydroponic Farm tiles your ceiling light can cover depends on how high up you place it.
+你的吸顶灯能覆盖多少块液培砖，取决于你把它装多高。
 
-* If you have a four tile high room, a ceiling light will cover 7 tiles: the tile under it and three on either side.
-* If you have a five tile high room, a ceiling light will cover 9 tiles: the tile under it and four on either side.
-* NOTE: A ceiling light will not offer sufficient light if you place it six tiles up.
+* 如果你有四格高的房间，一盏吸顶灯能覆盖 7 格：它下面那一格，以及两侧各三格。
+* 如果你有五格高的房间，一盏吸顶灯能覆盖 9 格：它下面那一格，以及两侧各四格。
+* 注意：如果把吸顶灯装在六格高处，光照就不够。
 
-If your room is 18 tiles wide, a five tile high room means two ceiling lights can cover the entire floor.
+如果你的房间是 18 格宽，五格高的房间意味着两盏吸顶灯就能覆盖整层地板。
 
-(You can also use a light called a lamp to light up bristle blossoms. It stands on the ground rather than hanging from the ceiling. Whatever fits your design best.)
+（你也可以用一种叫电灯的灯来给毛刺花照明。它立在地上，不是吊在天花板上。看你的设计哪个更合适。）
 
-Bristle Blossoms produce Bristle Berries. Dupes can eat them as such and they can also be cooked into Gristle Berries, which increases both the calories and quality you get from your Bristle Blossoms.
+毛刺花产出毛刺浆果。复制人可以直接吃，也可以把它们烹成炙烤刺果，这样能提升毛刺花给你的卡路里和品质。
 
-If you have access to Sleet Wheat then, combined with Bristle Berry, you can make Berry Sludge. Berry Sludge is a good meal, but the really amazing thing about it is that it cannot spoil. This makes it an excellent source of food for rocket journeys (in the DLC).
+如果你能搞到冰霜小麦，那么配上毛刺浆果就能做浆果糕。浆果糕是很好的一餐，但它真正厉害的地方是永远不会变质。这让它成为火箭旅行（在 DLC 里）的绝佳食物来源。
 
-Another option for upgrading to something better than Mealwood is critter ranching. Critters drop meat when they die, which can be turned into barbecue. Critters aren't as fussy about heat as plants are, and they don't require water. There is a separate guide if you want to learn about [critter ranching](ranching-basics.md).
+另一个升级到比米虱木更好的食物的选择是小动物养殖。小动物死后会掉落肉，肉可以做成烤肉串。小动物不像植物那样怕热，也不需要水。如果你想了解[小动物养殖](ranching-basics.md)，有一份单独的指南。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/the-early-game](https://www.guidesnotincluded.com/the-early-game) ([Wayback Machine snapshot](https://web.archive.org/web/20250716223627id_/https://www.guidesnotincluded.com/the-early-game)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/the-early-game](https://www.guidesnotincluded.com/the-early-game)（[Wayback Machine 快照](https://web.archive.org/web/20250716223627id_/https://www.guidesnotincluded.com/the-early-game)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

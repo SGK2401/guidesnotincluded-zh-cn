@@ -14,8 +14,8 @@ const isHome = route.id === '';
 
 const siteName = 'Guides Not Included';
 const siteDesc =
-  'An archived copy of guidesnotincluded.com — Oxygen Not Included builds, ' +
-  'guides, and resources. Restored from the Internet Archive.';
+  'guidesnotincluded.com 的归档副本——涵盖《缺氧》的建造方案、指南与资源，' +
+  '恢复自互联网档案馆。';
 
 const pageTitle = isHome ? data.title : `${data.title} · ${siteName}`;
 const description = data.description ?? siteDesc;
@@ -39,7 +39,7 @@ const jsonLd = {
   description,
   url: canonical,
   image: ogImage,
-  inLanguage: 'en',
+  inLanguage: 'zh-CN',
   isAccessibleForFree: true,
   license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
   author: { '@type': 'Person', name: 'Some Random Finn' },

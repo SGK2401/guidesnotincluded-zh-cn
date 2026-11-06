@@ -1,291 +1,291 @@
 ---
-title: "Pipes and pumps: liquid and gas flow basics"
-description: "There are some things that are useful to know about liquid and gas piping. Which, through a stroke of extraordinarily good fortune, is exactly what this\u2026"
+title: "管道与泵：液体与气体流动基础"
+description: "关于液体和气体管路，有些东西知道了很有用。而你运气特别好，这一节讲的正好就是这个……"
 source_url: https://www.guidesnotincluded.com/pipes-and-pumps
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806081942id_/https://www.guidesnotincluded.com/pipes-and-pumps
 ---
 
-## Introduction
+## 简介
 
-There are some things that are useful to know about liquid and gas piping. Which, through a stroke of extraordinarily good fortune, is exactly what this section is about.
+关于液体和气体管路，有些东西知道了很有用。而你运气特别好，这一节讲的正好就是这个。
 
-First we cover the different kinds of pumps there are, then how much liquid or gas can be pumped into a tile (or an area) and finally - and perhaps most importantly - how to control liquid (and gas) flow.
+我们先讲泵有哪几种，然后讲一格（或一个区域）里到底能打进多少液体或气体，最后——也许是最重要的——讲怎么控制液体（和气体）的流动。
 
-A bathroom and SPOM setup is used as an example for how controlling liquid flow can be done and why it is useful to know how to do..
+我们会拿一套厕所加 SPOM 的搭建来做例子，说明怎么控制液体流动，以及为什么知道这些很有用。
 
-## Liquid and gas pumps
+## 液体泵与气泵
 
-For liquids as well as for gases there is a large pump and a small (called "mini") pump. All pumps are unlocked through research.
+液体和气体都有大泵和小泵（叫“小型”泵）。所有泵都通过研究解锁。
 
-The large pumps are built with metal ore, making them easy to build early on. The small pumps require [plastic](getting-oil-petroleum-and-plastic.md).
+大泵用金属矿石建造，所以早期很容易造。小泵需要[塑料](getting-oil-petroleum-and-plastic.md)。
 
-Pumps, even liquid pumps, do not need to be built on a foundation. Meaning you can build a liquid pump in the middle of a body of liquid and it will still work.
+泵，哪怕是液泵，也不需要建在地基上。也就是说，你可以把液泵建在一团液体的正中间，它照样能工作。
 
 ![Building_Liquid_Pump.webp](assets/Building_Liquid_Pump-97513ef6c1.avif)
 
-Liquid pump
+液泵
 
 ![Building_Mini_Liquid_Pump.webp](assets/Building_Mini_Liquid_Pump-fef049636f.avif)
 
-Mini liquid pump
+小型液泵
 
 ![Building_Gas_Pump.webp](assets/Building_Gas_Pump-ad93f05915.avif)
 
-Gas pump
+气泵
 
 ![Building_Mini_Gas_Pump.webp](assets/Building_Mini_Gas_Pump-db081be126.avif)
 
-Mini gas pump
+小型气泵
 
-Pumps pump so-called packets, of either liquid or gas. Each packet can only contain one type of liquid or gas, not a mix of different kinds.
+泵抽送的是所谓的“份”——一份一份的液体或气体。每一份只能装一种液体或气体，不能把不同种类混在一起。
 
-You can see the packets using the plumbing overlay and the ventilation overlay, the icons for them are in the top right. Each section of pipe contains (or can contain) one packet.
+你可以在管道概览和通风概览里看到这些份，它们的图标在右上角。每一格管道都容纳（或者说可以容纳）一份。
 
-Something to keep in mind is the ratio of how much a pump can pump compared with how much can fit in a packet, meaning in a section of pipe.
+有一点要放在心上：泵能抽多少、和一份能装多少（也就是一格管道能装多少）之间的比例。
 
-* A liquid pump can pump 10kg of liquid per packet
-* A liquid pipe can contain 10kg of liquid per packet
+* 一台液泵每份能抽 10kg 液体
+* 一格液体管道每份能容纳 10kg 液体
 
-In ideal conditions, meaning the liquid pump only has one type of liquid to pump and there is enough of that liquid, liquid pumps and liquid pipes have a 1-to-1 ratio: one pump will completely fill a liquid pipe.
+在理想情况下，也就是液泵只有一种液体可抽、而且那种液体足够多时，液泵和液体管道是 1 比 1：一台泵正好能灌满一格液体管道。
 
-* A gas pump can pump 0,5kg (500g) of gas per packet
-* A gas pipe can contain 1kg (1000g) of gas per packet
+* 一台气泵每份能抽 0,5kg（500g）气体
+* 一格气体管道每份能容纳 1kg（1000g）气体
 
-This means that a gas pipe packet can fit the output of two gas pumps. (As long as they are the same kind of gas.)
+这意味着，一格气体管道能装下两台气泵的输出。（只要它们抽的是同一种气体。）
 
 ![PumpMaxPackets2.png](assets/PumpMaxPackets2-8534efcabb.avif)
 
 ![PumpMaxPackets1.png](assets/PumpMaxPackets1-e902c5444b.avif)
 
-One liquid pump can fill a liquid pipe. Gas pipes can fit the output of two gas pumps (as long as they are the same kind of gas).
+一台液泵能灌满一格液体管道。气体管道则能装下两台气泵的输出（只要它们抽的是同一种气体）。
 
-## Vents and gas pressure: how much gas can fit in a tile?
+## 排气口与气压：一格里能装多少气体？
 
-Somewhat counter-intuitively, when you are pumping gases it isn't the gas pump that determines how much gas can be pumped into an area. Rather, that is determined by the gas vent.
+有点反直觉的是，抽气体的时候，决定一个区域里能打进去多少气体的并不是气泵，而是排气口。
 
-* The gas vent can vent up to 2kg per tile of gas into an area
-* The high pressure gas vent can vent up to 20kg per tile
+* 排气口最多能往一个区域里排每格 2kg 的气体
+* 高压排气口最多能排每格 20kg
 
-The size of the pump - gas pump or mini gas pump - will only affect how quickly gas is pumped, not how much can be pumped into an area.
+泵的大小——气泵还是小型气泵——只影响气体抽得多快，不影响一个区域里能打进多少。
 
 ![Building_Gas_Vent.webp](assets/Building_Gas_Vent-0c57a5d233.avif)
 
-Gas vent. Can vent up to 2kg per tile
+排气口。最多能排每格 2kg
 
 ![Building_High_Pressure_Gas_Vent.webp](assets/Building_High_Pressure_Gas_Vent-7ac2975794.avif)
 
-High pressure gas vent. Can vent up to 20kg per tile
+高压排气口。最多能排每格 20kg
 
-Geysers that emit gases have something in common with vents in that they also have an upper pressure limit regarding their ability to emit gas.
+喷气体的间歇泉和排气口有一点是相同的：它们排气的能力也有一个压力上限。
 
-* At 5kg per tile of gas the area becomes over-pressurized and the geyser stops emitting gas.
+* 当气体达到每格 5kg 时，这个区域就超压了，间歇泉会停止喷气。
 
 ![ONI_Guide_NatGas.png](assets/ONI_Guide_NatGas-2470474ae6.avif)
 
-The gas pressure is 5kg per tile, meaning the natural gas geyser will not emit more gas.
+气压是每格 5kg，意味着天然气喷孔不会再喷出更多气体了。
 
-This means that if you want to maximize the amount of gas gathered from a geyser, you need to pump the gas into a different area (or room) using a high pressure gas vent. This way you can fit 20kg of gas per tile rather than 5kg.
+这意味着，如果你想最大化从一个间歇泉收集到的气体量，你得用高压排气口把气体打进另一个区域（或房间）。这样一格能装 20kg 气体，而不是 5kg。
 
 ![GeyserAndVent.png](assets/GeyserAndVent-6b381ece16.avif)
 
-These rooms are the same size but the one on the right can contain four times as much gas. The natural gas geyser over-pressurizes at 5kg per tile, while the high pressure gas vent can keep going until the area reaches 20kg of gas per tile.
+这两个房间大小一样，但右边那个能装四倍的气体。天然气喷孔在每格 5kg 时就超压，而高压排气口可以一直排到区域里每格 20kg 为止。
 
-This approach can be taken even further, if you don't mind bending the laws of physics a bit. You can have double layers of gas on a tile: you can have gas in a reservoir as well as gas in the tiles the reservoir is built on. (That was a confusing explanation - see picture below.)
+如果你不介意稍微弯一下物理定律，这个做法还能再往前推一步。你可以让一格里叠两层气体：储气库里可以有气体，储气库所在的那几格里也可以有气体。（这解释听着挺绕——看下面的图。）
 
-This means you can fill your gas storage room with gas reservoirs. Then pump gas through the reservoirs and out a high pressure gas vent in the room. Then the room will first fill up with 20kg per tile of gas, after which the gas reservoirs will start filling up. They can hold 5kg each.
+也就是说，你可以把储气室塞满储气库。然后让气体穿过储气库，从房间里的高压排气口排出来。这样房间会先被灌到每格 20kg 气体，之后储气库才开始充气。每个储气库能装 5kg。
 
-(Rocket gas storage tanks can hold even more gas. I don't use them for this, but have read of people storing lots of gas in their base using rocket modules.)
+（火箭用的储气罐能装更多气体。我自己不这么用，但读到过有人用火箭舱段在基地里囤了大量气体。）
 
 ![GeyserAndVentAndReservoires.png](assets/GeyserAndVentAndReservoires-f9b1f49b51.avif)
 
-Min-maxing gas storage. The gas storage room is full of gas, and there are a bunch of gas reservoirs that can hold additional gas.
+把储气做到极致。储气室里满是气体，还有一堆能额外装气的储气库。
 
-If you build one of these, remember to also put a separate gas pump in the gas storage room, to pump gas to wherever you need it.
+如果你要造一个这样的东西，记得在储气室里另外放一台气泵，把气体抽到你需要的地方去。
 
-(You can add automation to make sure the pumps only kick in if there is enough gas - as covered in the section on [automation](getting-started-with-automation.md).)
+（你可以加点自动化，确保只有气体足够多时泵才启动——具体见[自动化](getting-started-with-automation.md)那一节。）
 
-As a final note: this approach slightly bends the laws of physics. If you don't mind breaking those laws entirely, you can also set up an infinite gas (or liquid) storage area. I don't use that mechanic myself, but you can find guides for it online. Search for infinite gas storage or infinite liquid storage.
+最后补充一句：这个做法稍微弯了一下物理定律。如果你不介意把那些定律彻底掰断，还可以搞一个无限储气（或储液）区。这个机制我自己不用，但你可以在网上找到相关指南。搜“无限储气”或“无限储液”就行。
 
-## Vents and liquid pressure: how much liquid can fit in a tile?
+## 排液口与液压：一格里能装多少液体？
 
-Unlike the gas vent that has two kinds of vents, there is only one liquid vent.
+和有两种排气口的气体不同，排液口只有一种。
 
-It will stop working - stop letting out liquid - if or when the pressure on its tile reaches 1000kg.
+当它所在那格的压力达到 1000kg 时，它就会停止工作——不再往外排液体。
 
 ![LiquidTileVolumes.png](assets/LiquidTileVolumes-26c79c9f09.avif)
 
-Same weight, different volume. Each section has 10000kg of liquid. Different liquids take up different amounts of space.
+同样的重量，不同的体积。每一段都有 10000kg 液体。不同液体占据的空间不一样。
 
 ![ONI_Guide_GeyserOverpressure.png](assets/ONI_Guide_GeyserOverpressure-6978c2f4ea.avif)
 
-Overpressure. The polluted water vent will not emit more polluted water.
+超压。污水泉不会再喷出更多污染水。
 
 ![Building_Liquid_Vent.webp](assets/Building_Liquid_Vent-461ce94129.avif)
 
-Liquid vent.
+排液口。
 
-Stops venting at 1000kg of pressure.
+压力达到 1000kg 时停止排放。
 
-To make things a bit more complicated, the amount of liquid that can fit in a tile varies depending on what kind of liquid it is.
+让事情更复杂一点的是，一格能装多少液体取决于液体是什么种类。
 
-Some of the more common liquids and how much is required to fill a tile:
+一些比较常见的液体，以及灌满一格需要多少：
 
-* Petroleum: 740kg
-* Crude oil: 870kg
-* Water: 1000kg
-* Polluted water: 1000kg
-* Ethanol: 1000kg
-* Salt water: 1100kg
-* Brine: 1200kg
+* 石油：740kg
+* 原油：870kg
+* 水：1000kg
+* 污染水：1000kg
+* 乙醇：1000kg
+* 盐水：1100kg
+* 浓盐水：1200kg
 
-Note: The liquid vent will stop working at 1000kg of pressure, regardless of what kind of liquid is being pumped. But: not all liquids will necessarily reach that amount of pressure. For instance petroleum and crude oil won't block a liquid vent even when a tile is completely immersed.
+注意：不管抽的是什么液体，排液口都会在 1000kg 压力时停止工作。但是：并不是所有液体都一定能达到这个压力。比如石油和原油，就算一整格完全浸没，也堵不住排液口。
 
-(To stop such a vent you can use [automation](getting-started-with-automation.md), e.g. by connecting a hydro sensor to the vent to close it when a tile is filled.)
+（要关掉这样的排液口，你可以用[自动化](getting-started-with-automation.md)，比如把液压传感器接到排液口上，一格满了就把它关掉。）
 
-A tile can contain more liquid than is listed in the bullet points above if there is pressure on the tile. One such example is your water storage area. Mouse over the tiles in the upper and lower sections of it and you will probably notice a difference in water volume per tile.
+如果那格上有压力，一格里能装的液体可以比上面列出的更多。你的储水区就是个例子。把鼠标移到它上层和下层的格子上，你大概会发现每格的水量不一样。
 
-Liquid vents, like gas geysers, can over-pressurize and stop emitting liquid. I haven't done any testing on it, but this generally seems to happen when a vent is in three tiles of liquid (above its neutronium base) and the third tile is at 500kg per tile.
+排液口和气体间歇泉一样，会超压并停止排液。我没做过测试，但通常似乎是这样的：当排液口泡在三格液体里（在它中子质底座之上），而第三格达到每格 500kg 时，就会发生。
 
-Leaky oil fissures will over-pressurize and stop emitting oil, but oil reservoirs (if I recall correctly) will not. They can keep producing oil even when completely submerged. (But they aren't a geyser, so they need water and power - and occasional depressurizing - to work. See the section on [Getting oil, petroleum and plastic](getting-oil-petroleum-and-plastic.md) for more on oil wells.)
+渗油裂缝会超压并停止出油，但储油石（如果我记得没错）不会。就算完全泡在液体里，它们也能继续产油。（但它们不是间歇泉，所以需要水和电——还要时不时泄一次压——才能工作。关于油井的更多内容，见[获取原油、石油与塑料](getting-oil-petroleum-and-plastic.md)那一节。）
 
-## Liquid and gas piping basics: inputs and outputs
+## 液体与气体管路基础：输入与输出
 
-[I'll add this section soonish, but for now you can find the basics covered in: [The early game](the-early-game.md).]
+[这一节我很快会补上，不过目前你可以在[早期游戏](the-early-game.md)里看到基础内容。]
 
-## Controlling packet flow
+## 控制每格管道的内容物
 
 ![ONI_Guide_LiquidBridge.png](assets/ONI_Guide_LiquidBridge-d74ea51328.avif)
 
 ![ONI_Guide_LiquidBridge2.png](assets/ONI_Guide_LiquidBridge2-1e06922d24.avif)
 
-Liquid bridge. Liquid flows in the direction of the arrow. From white to green in the plumbing overlay.
+液体管桥。液体沿箭头方向流动。在管道概览里就是从白色到绿色。
 
-Pumps and pipes do a decent job of acting like you would want them to, but at times they need a bit of help. If your liquid (or gas) isn't flowing in a pipe, it might be because it doesn't know which direction to go.
+泵和管道的表现大体上都挺符合你的期待，但有时候它们需要一点帮助。如果你的液体（或气体）在管道里不流动，可能是因为它不知道该往哪个方向走。
 
-(Note: another reason liquid might not be flowing is if you connected your inputs and outputs incorrectly. Double-check your plumbing overlay and the white and green bits.)
+（注意：液体不流动的另一个原因，是你把输入和输出接错了。仔细检查你的管道概览，还有那些白色和绿色的部分。）
 
-* You can use liquid bridges (or gas bridges) to tell the game what direction you want things to flow.
+* 你可以用液体管桥（或气体管桥）告诉游戏你想让东西往哪个方向流。
 
-Liquid bridges only allow liquid to flow in one direction across the bridge. That direction is from white to green - from the input port to the output port. (Look closely and you will see a small arrow showing the direction.)
+液体管桥只允许液体沿一个方向穿过管桥。那个方向就是从白色到绿色——从输入口到输出口。（仔细看，你会看到一个小箭头标明方向。）
 
-If you ever have liquid that isn't moving even though it seems like it should, try putting in a liquid bridge to show the direction you want liquid to flow.
+如果你遇到液体明明看着该流动却不动的情况，试着加一个液体管桥，把你想让液体流动的方向指出来。
 
-Let's look at an example where liquid needs a liquid bridge to know what to do.
+我们来看一个例子：液体需要一个液体管桥才知道该怎么办。
 
 ![ONI_Guide_LilquidFlow1.png](assets/ONI_Guide_LilquidFlow1-84287cab78.avif)
 
-Above: The liquid stopped because it didn't know which direction to flow.
+上图：液体停住了，因为它不知道该往哪个方向流。
 
-Below: A liquid bridge forces the liquid to choose a direction to go in.
+下图：液体管桥逼着液体选一个方向走。
 
 ![ONI_Guide_LilquidFlow2.png](assets/ONI_Guide_LilquidFlow2-7d0dd8e9f9.avif)
 
-In the example above, liquid will stop flowing once the pump has filled the entire loop. But you can also create loops of liquid that will circulate forever, even if you disconnect them from a pump.
+在上面这个例子里，泵把整个环路灌满之后，液体就会停止流动。但你也可以做出永远循环下去的液体环路，哪怕把它们从泵上断开。
 
-## Infinite loops
+## 无限循环
 
-An infinite loop - a pipe loop where liquid will flow around and around forever - can be useful for instance in cooling loops.
+无限循环——也就是液体一圈一圈永远流下去的管道环路——很有用，比如用在冷却回路里。
 
-To turn the above design into an infinite loop, first disconnect the loop.
+要把上面那个设计变成无限循环，先把这个环路断开。
 
 ![ONI_Guide_LilquidFlow5.png](assets/ONI_Guide_LilquidFlow5-3197b40a4a.avif)
 
-The water in the loop will be still - it won't circulate. That is because the pipes are so full the liquid cannot move. All you have to do to get it moving is to remove one packet of liquid.
+环路里的水会静止不动——它不会循环。这是因为管道太满了，液体动不了。你只要做一件事就能让它动起来：去掉一份液体。
 
-You can do this either with the Empty Pipe command (bottom right, but using it requires you to have a dupe with the plumber skill) or you can simply deconstruct one section of pipe and then rebuild it.
+你可以用“清空管道”命令（在右下角，但用它需要一个会管道工技能的复制人），或者干脆拆掉一格管道再重建。
 
-When done, the liquid in the loop will start circulating, and will continue circulating forever.
+做完之后，环路里的液体就会开始循环，并且永远循环下去。
 
-You can also build an infinite loop without the need for emptying or deconstructing pipes. To do this, use a liquid bridge to connect to your loop.
+你也可以在不需要清空或拆管道的情况下造出无限循环。做法是用一个液体管桥接到你的环路上。
 
 ![ONI_Guide_LilquidFlow4.png](assets/ONI_Guide_LilquidFlow4-669064dc8a.avif)
 
-A liquid bridge will only allow liquid to pass over it if there is an empty space for it on the other side of the bridge. Meaning liquid bridges are very useful for making sure pipes, or constellations of pipes, won't over-fill.
+只有当管桥另一侧有空位时，液体管桥才允许液体通过。也就是说，液体管桥非常适合用来确保管道、或者一整套管道组合不会灌注过量。
 
-In the picture above (though you can't see movement in a static picture - sorry about that), the liquid leading up to the loop is still, and the liquid in the loop is circulating.
+在上面那张图里（不过静态图片看不出流动——抱歉），通往环路的那段液体是静止的，而环路里的液体在循环。
 
-If this was poorly explained, try building something like the picture above for yourself. It's a really useful mechanic and definitely worth getting comfortable with building.
+如果这里讲得不够清楚，你可以照着上面的图自己造一个试试。这是个非常好用的机制，绝对值得练熟。
 
 ![ONI_Guide_LilquidFlow6.png](assets/ONI_Guide_LilquidFlow6-a8740f7221.avif)
 
-Infinite loops. In the upper middle section is an anti entropy thermo-nullifier that produces chill. On either side there are liquid loops used to help distribute that chill across the sleet wheat farm. (You can't see it in the picture, but the liquid keeps circulating. For ever and ever.)
+无限循环。中上部分是产生冷气的反熵热量中和器。两边各有一套液体环路，用来把冷气散布到冰霜小麦农场各处。（图上看不出来，但液体一直在循环。永远，永远。）
 
-## Using liquid bridges to prioritize liquid sources
+## 用液体管桥给液体来源排优先级
 
-The liquid bridge is useful not just for forcing liquid to choose a direction, but also for prioritizing liquid (or pipe) sources.
+液体管桥不只能逼着液体选方向，还能给液体（或管道）来源排优先级。
 
-You will come across times when you want to be able to prioritize which pipe to use. For instance to tell the game: if there is liquid in this pipe, use it first.
+你总会遇到需要决定先用哪根管道的时候。比如告诉游戏：如果这根管道里有液体，就先用它。
 
-The liquid bridge, once again, is our friend here. There are two ways to use it: the input and the output side.
+这时候，液体管桥又是我们的好朋友。有两种用法：用它的输入端，或者用它的输出端。
 
-The output side, the green bit, can be used as was described in the previous part about creating (but not overfilling) infinite loops. The mechanic is:
+输出端，也就是绿色那一头，用法和上一节讲的造无限循环（但不过量灌注）一样。机制是：
 
-* Liquid flowing along a liquid bridge that connects onto a normal pipe will only enter the pipe if there is space.
+* 沿液体管桥流动、接到普通管道上的液体，只有在管道里有空位时才会进去。
 
-This mechanic can also be used for instance when feeding water to a SPOM, where you might occasionally want to use water from one source, like bathroom overflow water, and otherwise use a different source. (This example is pictured at the end of this section.)
+这个机制也能用在给 SPOM 供水之类的地方：你可能偶尔想用某一个来源的水，比如厕所溢出的水，其他时候则用另一个来源。（这个例子在本节末尾有图。）
 
-Then there is the input side, the white bit:
+然后是输入端，也就是白色那一头：
 
-* When liquid comes to a liquid bridge, it will always try to cross over the liquid bridge first.
+* 当液体来到一个液体管桥时，它总是会先尝试穿过管桥。
 
-Only if that is not possible - if the pipe on the other side is full - will it use a different pipe.
+只有在做不到的时候——也就是另一侧的管道满了的时候——它才会去用别的管道。
 
 ![ONI-Guide-LiquidBridge3.png](assets/ONI-Guide-LiquidBridge3-58cc26c3f0.avif)
 
-Liquid bridges. The liquid bridge will only let water from the pump through if there is space on the pipe. The pump in the picture is a back-up, secondary source that makes sure the pipe stays full.
+液体管桥。只有当管道上有空位时，液体管桥才会让泵送来的水通过。图里那台泵是备用、次要的来源，用来确保管道始终保持满的。
 
 ![ONI_Guide_PrioritizingFlow4.png](assets/ONI_Guide_PrioritizingFlow4-ecb52c1c76.avif)
 
-Liquid bridges. The middle tank will fill up first, and only when there is no space in the pipe to the middle tank will water start flowing to the upper tank.
+液体管桥。中间的储液库会先被灌满，只有到中间那个储液库的管道没有空位时，水才会开始流向上面那个储液库。
 
-This mechanic is useful in many different kinds of situations. Two common examples:
+这个机制在很多不同场合都很有用。两个常见的例子：
 
-1. It is used as an overflow mechanism for a bathroom decontamination setup.
-2. It is used as an overflow mechanism for excess hydrogen in a SPOM.
+1. 用作厕所除污设施的溢流机制。
+2. 用作 SPOM 里多余氢气的溢流机制。
 
-## Example setup: bathroom, SPOM and water source
+## 示例搭建：厕所、SPOM 与水源
 
-I'll conclude with an example of how liquid bridges can be used in combining various systems. This example is (a simplified version of) something I build in pretty much every playthrough: sending excess water from bathrooms to a SPOM.
+最后我用一个例子收尾，说明液体管桥怎么用来把几套系统组合起来。这个例子是（简化版的）我几乎每一局都会造的东西：把厕所多余的水送到 SPOM。
 
 ![ONI_Guide_PrioritizingFlow1.png](assets/ONI_Guide_PrioritizingFlow1-58964b6b5f.avif)
 
 ![ONI_Guide_PrioritizingFlow1_LiquidOverview.png](assets/ONI_Guide_PrioritizingFlow1_LiquidOverview-3db23b0d8d.avif)
 
-Prioritizing flow. Excess water from a bathroom water decontamination setup is sent to a SPOM. (The piping here isn't complete - check the last picture for the final version.)
+优先流动。厕所除污设施里多余的水被送到 SPOM。（这里的管路还不完整——最终版本看最后一张图。）
 
-In the pictures above, there is a polluted water decontamination setup in the middle. (How that setup works, and how to build one, is covered elsewhere in the guide: see [Recycling bathroom water](recycling-toilet-water.md).)
+在上面几张图里，中间是一套污染水除污设施。（这套设施怎么运作、怎么建，指南别处有讲：见[循环利用厕所水](recycling-toilet-water.md)。）
 
-Newly decontaminated water is first sent back into the bathroom loop. This is done using a liquid bridge - seen on the far right in the middle of the picture - that tells the water to go down if there is space in the pipes below.
+刚除完污的水会先被送回厕所的环路里。这是用一个液体管桥实现的——在图片中间最右边能看到——它告诉水：如果下面管道有空位，就往下走。
 
-Since bathrooms produce more liquid than they use, the bathroom and decontamination setup will produce excess water. When the pipe going down from the liquid bridge is full, any excess water will be sent up to the SPOM.
+因为厕所产生的液体比用掉的多，所以厕所和除污设施会产出多余的水。当从液体管桥往下走的管道满了，多余的水就会被送到上面去，进 SPOM。
 
-(A SPOM is a setup that produces oxygen. It is covered later in the guide: see [Oxygen: to know the SPOM is to love the SPOM](to-know-the-spom-is-to-love-the-spom.md).)
+（SPOM 是一套产氧的搭建。指南后面有讲：见[氧气：了解 SPOM，就会爱上 SPOM](to-know-the-spom-is-to-love-the-spom.md)。）
 
-We aren't quite done yet. With a setup like the one pictured above, the SPOM would only get water sporadically, whenever there was excess from the bathroom.
+我们还没完全搞定。用上面图里那种搭建，SPOM 只能断断续续地拿到水，只在厕所有多余的水时才有。
 
-We want to add a way to make sure the SPOM always gets water. We can do this by adding a pipe from another water source. (If you're running low on water, see [Getting (more) water](getting-more-water.md).)
+我们想加个办法，确保 SPOM 一直有水。可以在另一个水源上接一根管道过来。（如果你水快不够用了，见[获取（更多）水](getting-more-water.md)。）
 
 ![ONI_Guide_PrioritizingFlow2.png](assets/ONI_Guide_PrioritizingFlow2-c9ea6cfdf3.avif)
 
-Almost there. The liquid bridge connecting the water supply to the SPOM means it will only use water from the water supply if the pipe from the bathroom is empty. However, it will pump water both to the SPOM (good) and to the bathroom (bad).
+快好了。把供水接到 SPOM 的那个液体管桥意味着，只有当厕所来的管道空了，它才会用供水的水。但是，它会同时把水抽给 SPOM（好事）和厕所（坏事）。
 
 ![ONI_Guide_PrioritizingFlow3.png](assets/ONI_Guide_PrioritizingFlow3-d1ca9c4148.avif)
 
-All set. An additional liquid bridge stops the water supply pump from pumping water to the bathroom.
+全部搞定。再加一个液体管桥，就能阻止供水泵把水抽到厕所去。
 
-In the picture above a liquid bridge is used to make sure the SPOM uses the excess bathroom water first, and only uses water from our water pump when there is no excess water from the bathroom.
+在上面这张图里，液体管桥用来确保 SPOM 优先使用厕所多余的水，只有厕所没有多余的水时，才用我们水泵的水。
 
-(Bathrooms don't produce that much excess water, and SPOMs use quite a bit of water. So you don't actually need to use a liquid bridge here. Even if your SPOM uses both your bathroom excess water and your water source evenly, it isn't likely to clog up your bathroom. But if your bathroom water clogs up, you will have accidents. So adding extra safety mechanisms to avoid that, even if they are probably unnecessary, is a good idea.)
+（厕所产生的多余水量没那么多，而 SPOM 用水挺多。所以这里其实并不真的需要用液体管桥。就算你的 SPOM 把厕所多余的水和水源的水平均着用，也不太可能把你的厕所堵上。但万一你的厕所水路堵了，就会出事故。所以加一些额外的保险机制来避免这种情况，哪怕大概率用不上，也是好主意。）
 
-We're almost done, but there is still one problem with this design. In the picture above, water from our water source would be pumped both to the SPOM and to our bathroom. That would clog up the bathroom and lead to accidents.
+我们快讲完了，但这个设计还有一个问题。在上面那张图里，水源的水会被同时抽给 SPOM 和我们的厕所。那会堵住厕所，然后导致事故。
 
-We want to make sure that the water pumped from our water supply is used only for the SPOM, not our bathrooms. This can be done by adding another liquid bridge to the design, to stop water from flowing from our water source to our bathroom.
+我们要确保从供水抽上来的水只给 SPOM 用，不给厕所用。这可以在设计里再加一个液体管桥，阻止水从水源流到厕所。
 
 ![ONI_Guide_PrioritizingFlow5.png](assets/ONI_Guide_PrioritizingFlow5-8ca633577f.avif)
 
-Bathroom and SPOM. This is a simplified depiction of something I use in pretty much every playthrough. Excess water from bathrooms (and showers, polluted water dumping stations, etc.) is sent to a SPOM. The SPOM will also need an additional water source. Liquid bridges are used in various locations to control the flow of liquid.
+厕所与 SPOM。这是我几乎每一局都会用的东西的简化版。厕所（以及淋浴隔间、污染水倾倒点等等）多余的水被送到 SPOM。SPOM 还需要一个额外的水源。液体管桥在各个位置被用来控制液体的流动。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/pipes-and-pumps](https://www.guidesnotincluded.com/pipes-and-pumps) ([Wayback Machine snapshot](https://web.archive.org/web/20250806081942id_/https://www.guidesnotincluded.com/pipes-and-pumps)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/pipes-and-pumps](https://www.guidesnotincluded.com/pipes-and-pumps)（[Wayback Machine 快照](https://web.archive.org/web/20250806081942id_/https://www.guidesnotincluded.com/pipes-and-pumps)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

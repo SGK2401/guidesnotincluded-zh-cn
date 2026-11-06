@@ -1,90 +1,90 @@
 ---
-title: "Choosing duplicants"
-description: "There are two things to look at: interests and traits."
+title: "选择复制人"
+description: "有两件事要看：兴趣和特质。"
 source_url: https://www.guidesnotincluded.com/choosing-duplicants
 archived: 2025-05-03
 archive_snapshot: https://web.archive.org/web/20250503174431id_/https://www.guidesnotincluded.com/choosing-duplicants
 ---
 
-There are two things to look at: interests and traits.
+有两件事要看：兴趣和特质。
 
-Interests
+兴趣
 
-Duplicants - aka dupes - will start with between one and three things they are interested in. The fewer the amount of interests, the more points they have in them.
+复制人——也就是 dupe——开局时会有一到三样他们感兴趣的事。兴趣越少，他们在这些兴趣上的点数就越多。
 
-The interests are things relevant to various tasks in the game: digging, building etc. You can choose an interest for a dupe to have using the dropdown menu next to the reroll button.
+这些兴趣对应游戏里的各种任务：挖掘、建造等等。你可以用重掷按钮旁边的下拉菜单给复制人选一个兴趣。
 
-You can reroll dupes as often as you want. So if you want a good researcher you can roll and reroll until you get a dupe whose only interest is research.
+你想重掷多少次复制人都行。所以如果你想要一个好的研究者，你可以一直掷、一直重掷，直到掷出一个唯一兴趣是研究的复制人。
 
-There are no hard and fast rules here, so don't worry too much about dupe interests. But you will be doing a lot of researching and digging so a common approach is to have:
+这里没有什么铁律，所以不用太纠结复制人的兴趣。但你会做大量的研究和挖掘，所以常见的做法是配：
 
-* one researcher
-* one digger (or digger/builder)
+* 一个研究者
+* 一个挖掘者（或者挖掘／建造）
 
-For your third dupe pick whatever catches your fancy. Some take a second digger. If I plan to do any ranching I often pick a rancher to ensure I get a good one (though the importance of this has decreased due to a long-standing bug having been fixed). Anything is fine, really.
+第三个复制人随你喜好挑。有些人会再要一个挖掘者。如果我打算搞养殖，我常常会挑一个养殖者以确保拿到好的（不过因为一个长期存在的 bug 被修了，这件事的重要性已经降低了）。说实话，怎么选都行。
 
 ![CBCIGtoONI_DupeSelection_edited.jpg](assets/CBCIGtoONI_DupeSelection_edited-ff451a4e58.avif)
 
-Traits
+特质
 
-Green traits are positive traits, red traits are negative.
+绿色特质是正面特质，红色特质是负面特质。
 
-There are traits in Spaced Out that aren't in the base game.
+《眼冒金星！》里有一些本体游戏里没有的特质。
 
-Some positive traits are more useful than others but none are game-changingly good. Do some rolling and rerolling and you'll get a feel for available traits.
+有些正面特质比其他的更有用，但没有一个是能改变游戏体验的那种好。多掷几次、多洗几次，你就会对可用的特质有感觉了。
 
-The one positive trait I'll mention is Diver's Lungs. It means they use 25% less oxygen than normal. Which isn't a big difference, but can be useful when you're still learning the game. (But don't worry if none of your dupes have it.)
+我唯一要提的正面特质是潜水员之肺。它意味着他们的氧气消耗比正常少 25%。这差别不算大，但在你还在学怎么玩的时候挺有用。（不过如果你的复制人都没有它，也不用担心。）
 
-As far as what negative traits to avoid, this is also largely a matter of personal preference. I avoid:
+至于要避开哪些负面特质，这大体也是个人偏好问题。我会避开：
 
-* dupes with Allergies as they spend half the day sneezing if you have certain kinds of flowers or plants in your base.
-* Anemic dupes, because they start out really slow.
-* Narcoleptics. Their naps aren't a big problem, more that they drop things when they fall asleep. A dupe carrying materials up a long ladder will drop the materials when a narcoleptic nap hits.
-* Flatulent dupes "produce" natural gas. Natural gas is convenient when you get it in large amounts from a geyser but inconvenient when you get it in small amounts inside your base.
-* Mouthbreathers. They use twice as much oxygen as standard dupes.
+* 有过敏症的复制人，因为你基地里要是种了某些花或植物，他们一天有一半时间在打喷嚏。
+* 运动贫血症的复制人，因为他们一开始真的非常慢。
+* 发作性睡病的复制人。他们的小睡本身不是大问题，更大的问题在于他们睡着时会把手上的东西掉下。一个扛着材料爬长梯子的复制人，一旦发作性小睡来了，材料就会掉下去。
+* 胃肠胀气的复制人“产”天然气。天然气当你从间歇泉大量获得时很方便，但在基地里小量出现时就很麻烦。
+* 大口呼吸者。他们的氧气消耗是标准复制人的两倍。
 
-More dupes in-game
+游戏里的更多复制人
 
-Every third in-game day you will get the option to add a new dupe to your colony. Surprisingly quickly you can even add more dupes than your colony can support - a fairly common "Ooops" for new players.
+游戏里每过三天，你会有一次给殖民地加一个新复制人的机会。快得惊人，你甚至能加进超过殖民地承受能力的复制人数量——这是新手相当常见的“哎呀”。
 
-Add dupes sparingly while still learning the ropes: every new dupe is another mouth to feed and more oxygen consumed. (I have more on this topic in a later section: [How many dupes "should" you have?](how-many-dupes-should-you-have.md))
+还在熟悉门道的时候就少加复制人：每个新复制人都是又一张要喂的嘴、又多一份氧气消耗。（这个话题我在后面一节里讲得更多：[你“应该”养多少复制人？](how-many-dupes-should-you-have.md)）
 
-## Skill points, stress and morale requirements
+## 技能点、压力与士气需求
 
-Every so often your dupes will get skill points. The downside to adding a skill point to a dupe is that it will increase their morale requirement.
+隔一段时间你的复制人会获得技能点。给复制人加技能点的坏处是，这会提高他们的士气需求。
 
-When you are in the skill tree menu you can mouseover skills to see the morale requirements unlocking that skill will result in. Look at the green and red bar under the picture of the dupe in the top left. Green is the dupe's current morale, red is the morale requirement.
+当你在技能树菜单里时，可以把鼠标悬停在技能上，看看解锁该技能会导致的士气需求。看左上角复制人画像下面那条绿色和红色的条。绿色是复制人当前的士气，红色是士气需求。
 
-If a dupe doesn't have enough morale to meet their morale requirement they will get stressed. If a dupe's stress reaches 100% they will have a stress reaction. What that is varies depending on the dupe, but can be things like vomiting or destroying nearby buildings. (You can see a dupe's stress response if you select them and look under Bio.)
+如果复制人的士气不足以满足他们的士气需求，他们就会压力上升。如果复制人的压力达到 100%，他们会有一次压力反应。具体是什么因人而异，但可能是呕吐或者破坏附近的建筑。（你选中复制人、在“生物”里能看到他的压力反应。）
 
-After having their stress reaction their stress will go down to 60%. However, if their morale requirements aren't met their stress will start going up again.
+压力反应过后，他们的压力会降到 60%。不过，如果他们的士气需求没被满足，压力又会开始上升。
 
-Morale requirements and skill points is where the true significance of interests comes into play: having an interest in an area lessens the morale requirement increase for adding skill points in that area.
+士气需求和技能点，正是兴趣真正重要的地方：在某个领域有兴趣，会降低在该领域加技能点所带来的士气需求增幅。
 
-Sadly, the morale requirement increase from skill points means you can't have a small group of super-dupes that are all capable of doing anything you throw at them. Their morale requirements would be so high that they would constantly be stressed out and would, rather than being capable of doing absolutely everything, instead be largely incapable of doing anything at all.
+遗憾的是，加技能点带来的士气需求上升，意味着你没法搞一小群全能的超级复制人，什么活儿扔给他们都能干。他们的士气需求会高到一直压力爆表，结果不是无所不能，而是基本上什么也干不了。
 
-So add skill points sparingly, particularly while you're still new to the game. Whatever a dupe is meant to be focused on doing, add skill points in that area. After a while your dupes will have more skill points than you can (or will want to) use. That's normal.
+所以加技能点要省着点，尤其是在你还新手的时候。复制人主要打算干什么，就在那个领域加技能点。过一阵子，你的复制人会有多到用不完（或者你也不想用）的技能点。这很正常。
 
-In addition to adding skill points in the tasks a dupe will be doing, I usually add two skill points in supplying to all my dupes. Supplying increases their carry capacity and is generally useful for any dupe carrying anything. (Which usually is pretty much all my dupes.)
+除了在复制人要做的任务上加技能点，我通常还会给我所有复制人在供应上加两点。供应能提高他们的携带量，对任何要搬东西的复制人普遍都有用。（而通常我几乎所有复制人都在搬东西。）
 
-## Planning ahead and small dupe counts
+## 提前规划与少量复制人
 
-Once you are somewhat comfortable with the basics of the game, and what your dupes will be up to as far as tasks and such, you can start choosing dupe interests based on more advanced, or "later game" requirements. (Meaning, if you have only just started playing the game, don't worry about the stuff I will cover below.)
+等你对游戏基础稍微有点把握了，也大致清楚你的复制人会忙些什么任务之类的，你就可以开始根据更进阶、或者说“后期游戏”的需求来选复制人兴趣了。（也就是说，如果你才刚开始玩这个游戏，下面我要讲的东西不用操心。）
 
-If you are going to have a big enough dupe count that you can have dupes specialized in all the different areas you need dupes in, then these things don't matter much. If you want a smallish dupe count with dupes specialized in several things then it's something to think about.
+如果你的复制人数量够多，可以给每个需要的领域都配上专职复制人，那这些事就不太重要。如果你想要数量偏少、但每人专精好几样的复制人，那就值得想一想。
 
-For instance, if you want a dupe with maxed out digging & construction, choose one with interests in both those things. Maxing out construction is required if you want to deconstruct so-called Gravitas buildings, which are pre-existing structures in the game. Otherwise spending skill points in construction is only marginally useful, as dupes will get better at it from building things anyway.
+举例来说，如果你想要一个挖掘和建造都点满的复制人，就选一个对这两样都感兴趣的人。如果你想拆掉所谓的 Gravitas 建筑——游戏里预先存在的那些结构——那就必须把建造点满。否则在建造上花技能点只有边际性的用处，因为复制人反正会通过建造东西自己变强。
 
-Another example is having a so-called mechatronics engineer, which is needed to build some of the more advanced automation stuff. Unlocking the mechatronics engineer skill requires maxing out both supplying and operating. So having a dupe interested in both those skills will significantly lower the morale requirements of a mechatronics engineer.
+另一个例子是要有一个所谓的机电工程师，建造一些更进阶的自动化东西需要他。解锁机电工程师技能要求把供应和操作两条都点满。所以有一个对这两项技能都感兴趣的复制人，会大幅降低机电工程师的士气需求。
 
-You might want a digger & builder that can also build automation stuff, so they will need to unlock mechatronics engineer as well. In that case interests in digging, supplying and operating will cover all necessary skills.
+你可能想要一个挖掘＋建造、同时还能建自动化东西的人，那他也需要解锁机电工程师。这种情况下，对挖掘、供应和操作的兴趣就能覆盖所有必需的技能。
 
-(Something to keep in mind about skill points in digging: the fourth skill point, Hazmat digging, is only necessary to have if you plan on building nuclear reactors and then have them explode. If not, that fourth skill point in digging just adds unnecessary morale requirements so I'd say don't take it.)
+（关于挖掘技能点有一点要记住：第四点技能“危险物挖掘”，只有在你打算建核反应堆然后让它爆炸时才需要。如果不打算，那第四点挖掘技能点只会带来不必要的士气需求，所以我会说别点。）
 
-A special case scenario, relevant mainly if you want a really small dupe count, is that you might want to have a dupe that can handle all the digging and building tasks you throw at them, including deconstructing gravitas buildings. For such a dupe, consider interests in digging, building and operating. You will need to max out supplying to get mechatronics engineer, but supplying only needs two points to max it out.
+一个特殊情况，主要在你想要非常少的复制人数量时才相关：你可能想要一个能应付你扔给他的所有挖掘和建造任务、包括拆掉 Gravitas 建筑的复制人。对这样的复制人，可以考虑挖掘、建造和操作三个兴趣。你仍然需要把供应点满才能拿到机电工程师，但供应只需要两点就能点满。
 
-Such a dupe will have very high morale requirements, so it's a good idea to have good decor in their bedroom (carpets and paintings will do the trick), and somewhat decent food. But if possible, skip the interest in construction and put it in supplying for that dupe instead, as construction is only necessary if you want to deconstruct gravitas buildings.
+这样的复制人士气需求会非常高，所以最好在他们的卧室里放上好的装饰（地毯和画就够了），食物也要稍微像样一些。但如果可能的话，把这个复制人的建造兴趣跳过，改成供应，因为建造只有在你想要拆掉 Gravitas 建筑时才必要。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/choosing-duplicants](https://www.guidesnotincluded.com/choosing-duplicants) ([Wayback Machine snapshot](https://web.archive.org/web/20250503174431id_/https://www.guidesnotincluded.com/choosing-duplicants)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/choosing-duplicants](https://www.guidesnotincluded.com/choosing-duplicants)（[Wayback Machine 快照](https://web.archive.org/web/20250503174431id_/https://www.guidesnotincluded.com/choosing-duplicants)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

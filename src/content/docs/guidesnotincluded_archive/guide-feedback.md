@@ -1,51 +1,51 @@
 ---
-title: "Guide feedback"
-description: "This guide is still a work in progress; a pet project I come back to every now and then. If you have the time, let me know what you think. Was some section\u2026"
+title: "指南反馈"
+description: "这份指南还在施工中；是我时不时会回来弄一弄的私人项目。如果你有时间，跟我说说你的想法。有哪一节难懂吗？有\u2026"
 source_url: https://www.guidesnotincluded.com/guide-feedback
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806075448id_/https://www.guidesnotincluded.com/guide-feedback
 ---
 
-This guide is still a work in progress; a pet project I come back to every now and then. If you have the time, let me know what you think. Was some section difficult to understand? Is there some topic you hope to see added to the guide? That kind of stuff.
+这份指南还在施工中；是我时不时会回来弄一弄的私人项目。如果你有时间，跟我说说你的想法。有哪一节难以理解吗？有什么话题你希望加到指南里？诸如此类的事。
 
-I enjoy watching YouTube videos by people who figure out how to make games do unintended things. But as a gamer I'm boring and don't usually do things that feel exploit-y. Since I only cover things in the guide that I myself use or have used, I won't be adding such things to the guide. (This doesn't mean I don't think people should use those mechanics. I think people should play the game however they enjoy it the most.)
+我喜欢看那些琢磨出怎么让游戏做出非预期行为的 YouTuber 的视频。但作为玩家我很无趣，通常不做那种感觉像利用漏洞的事。因为我在指南里只讲我自己在用或曾用过的东西，所以我不会把这类内容加进指南。（这不代表我认为大家不该用那些机制。我认为大家该怎么玩得开心就怎么玩。）
 
-You can reach me at somerandomfinn[at]proton.me or using the form below. The form is a completely anonymous way to reach out - I will only get the information you enter into it, nothing else.
+你可以通过 somerandomfinn[at]proton.me 联系我，或者用下面的表单。表单是完全匿名的联系方式——我只会收到你填进去的信息，别的什么都不会有。
 
-## Guide feedback
+## 指南反馈
 
-Have you been playing Oxygen Not Included for long?
+你玩《缺氧》玩很久了吗？
 
-Complete beginner
+完全新手
 
-Know a thing or two
+略懂一二
 
-Experienced
+老手
 
-I've been around since back when slimelung was actually dangerous
+我从粘液肺还很危险的年代就在玩了
 
-Feedback
+反馈
 
-Submit
+提交
 
-Thanks!
+谢谢！
 
-## FAQ: IS THE GUIDE STILL RELEVANT?
+## 常见问题：这份指南还有效吗？
 
-Every now and then someone wonders if the guide is still in development. Which, given that the game mechanics can change with new updates, is a very relevant question.
+时不时有人会想，这份指南是不是还在更新中。考虑到游戏机制会随新版本变化，这是个非常切题的问题。
 
-I still play the game and test new updates and features. There are new additions to the game that I don't cover in the guide, but there haven't been any changes to the game that would have caused the stuff that is in the guide to be misleading or incorrect.
+我还在玩这个游戏，也在测试新的更新和功能。游戏里有新加的东西我没在指南里覆盖，但没有哪项改动会让指南里的内容变得误导人或出错。
 
-The guide is still a work in progress. Once I am done adding new content I will go over the whole thing and rewrite and tweak as needed.
+这份指南还在施工中。等我加完新内容，我会把整份指南过一遍，按需要重写和调整。
 
-Regarding the "is this still in development" question, I'll keep a tab here of when it was last updated. (Then I just have to remember to update this part...)
+关于“这东西还在更新吗”这个问题，我会在这里留一行，记下最后更新时间。（那我只得记得来更新这一段……）
 
-* The guide was last updated in: August 2024.
+* 这份指南最后更新于：2024 年 8 月。
 
-## FAQ: SPONSORED CONTENT?
+## 常见问题：有赞助内容吗？
 
-This is a site by an Oxygen Not Included fan for other Oxygen Not Included fans. I am not interested in including sponsored blogs or ads. If you are looking for sites to pitch that kind of stuff to, please look elsewhere.
+这是一个《缺氧》粉丝给其他《缺氧》粉丝做的网站。我对收录赞助博客或广告没兴趣。如果你在找能推销这类东西的网站，请另寻他处。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/guide-feedback](https://www.guidesnotincluded.com/guide-feedback) ([Wayback Machine snapshot](https://web.archive.org/web/20250806075448id_/https://www.guidesnotincluded.com/guide-feedback)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/guide-feedback](https://www.guidesnotincluded.com/guide-feedback)（[Wayback Machine 快照](https://web.archive.org/web/20250806075448id_/https://www.guidesnotincluded.com/guide-feedback)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

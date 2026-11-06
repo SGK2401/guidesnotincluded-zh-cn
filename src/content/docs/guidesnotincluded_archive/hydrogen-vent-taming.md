@@ -1,6 +1,6 @@
 ---
-title: "Hydrogen vent taming"
-description: "This design pumps out 130-140 degree hydrogen. Even if started in a vacuum, it won't overheat."
+title: "驯化氢气喷孔"
+description: "这个设计能抽出 130-140 度的氢气。即使从真空开始，它也不会过热。"
 source_url: https://www.guidesnotincluded.com/hydrogen-vent-taming
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806083333id_/https://www.guidesnotincluded.com/hydrogen-vent-taming
@@ -10,23 +10,23 @@ archive_snapshot: https://web.archive.org/web/20250806083333id_/https://www.guid
 
 ![HydrogenVent_Automation.png](assets/HydrogenVent_Automation-25baa3e765.avif)
 
-Hydrogen vent taming
+驯化氢气喷孔
 
-This design pumps out 130-140 degree hydrogen. Even if started in a vacuum, it won't overheat.
+这个设计能抽出 130-140 度的氢气。即使从真空开始，它也不会过热。
 
-Atmo Sensor (upper left): Above 4000g
+气压传感器（左上）：高于 4000g
 
-Atmo Sensor (below gas pump): Above 1000g
+气压传感器（气泵下方）：高于 1000g
 
-Thermo Sensor: Below 135
+温度传感器：低于 135
 
-Use steel for the Gas Pump
+气泵用钢
 
-Note: Radiant liquid pipes help cool the steam turbine. You can also enclose the steam turbine and let the radiant pipes handle the cooling. (See Mullematsch's YouTube vidoe for a demonstration of this.) And, of course, you can hook the steam turbine to your base's heavy wire network instead, if you want to harness the powere for your base.
+注意：导热液体管道有助于给蒸汽涡轮机降温。你也可以把蒸汽涡轮机围起来，让导热管道负责冷却。（演示可以看 Mullematsch 的 YouTube 视频。）当然，如果你想把电引回基地使用，也可以把蒸汽涡轮机接到基地的高负荷电线网上。
 
-Design by Mullematsch
+设计：Mullematsch
 
-Source: "Self Cooling Hydrogen Vent (Oxygen Not Included - Tutorial)", by Mullematsch. Available at: <https://www.youtube.com/watch?v=wZmEhP2_ojA&list=PLBM_yd3KBXvvPhc9JRj8ZTg5getR3iHZ1&index=4>, accessed 2 September, 2020
+来源：Mullematsch 的《Self Cooling Hydrogen Vent (Oxygen Not Included - Tutorial)》，可访问：<https://www.youtube.com/watch?v=wZmEhP2_ojA&list=PLBM_yd3KBXvvPhc9JRj8ZTg5getR3iHZ1&index=4>，访问日期：2020 年 9 月 2 日
 
 ![HydrogenVent_Liquid.png](assets/HydrogenVent_Liquid-c6cda70dec.avif)
 
@@ -36,4 +36,4 @@ Source: "Self Cooling Hydrogen Vent (Oxygen Not Included - Tutorial)", by Mullem
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/hydrogen-vent-taming](https://www.guidesnotincluded.com/hydrogen-vent-taming) ([Wayback Machine snapshot](https://web.archive.org/web/20250806083333id_/https://www.guidesnotincluded.com/hydrogen-vent-taming)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/hydrogen-vent-taming](https://www.guidesnotincluded.com/hydrogen-vent-taming)（[Wayback Machine 快照](https://web.archive.org/web/20250806083333id_/https://www.guidesnotincluded.com/hydrogen-vent-taming)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

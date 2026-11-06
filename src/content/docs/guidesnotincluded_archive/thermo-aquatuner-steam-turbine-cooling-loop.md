@@ -1,65 +1,65 @@
 ---
-title: "Thermo aquatuner & steam turbine cooling"
-description: "The thermo aquatuner & steam turbine cooling loop is one of the most game-changing builds you will ever come across. It allows you to grab the end-game by its\u2026"
+title: "液温调节器与蒸汽涡轮机冷却"
+description: "液温调节器与蒸汽涡轮机冷却回路，是你这辈子能遇到的、最能改变游戏体验的建造方案之一。它能让你一把揪住终局的\u2026"
 source_url: https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop
 archived: 2025-08-11
 archive_snapshot: https://web.archive.org/web/20250811145925id_/https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop
 ---
 
-## Introduction
+## 引言
 
-The thermo aquatuner & steam turbine cooling loop is one of the most game-changing builds you will ever come across. It allows you to grab the end-game by its metaphorical horns and proclaim "I HAVE ARRIVED!," while laughing hysterically at the environment's attempts to overheat your base. (Or some toned-down version of that. To each their own.)
+液温调节器与蒸汽涡轮机冷却回路，是你这辈子能遇到的、最能改变游戏体验的建造方案之一。它能让你一把揪住终局的隐喻犄角，宣布“我来了！”，同时狂笑着看环境想把你基地烧热的各种努力。（或者上述内容的低配版。各人有各人的玩法。）
 
-Having just sung its praises, I should add that this build was something I avoided for the longest time. I'm lazy, and the build seemed complicated. It was easier, when my base started getting too hot, or I started running out of water, to just point at something in my base that I thought I could do better if I started over.
+刚夸完它，我得补一句：这个方案我躲了很久。我懒，而且这方案看着就复杂。基地一开始过热，或者水一开始不够用，我就更容易指着基地里某样东西想：要是重开一局，这个我肯定能做得更好。
 
-Someone on Reddit used the term "restartitis." Which fits many of our playstyles perfectly - who doesn't love the promise of an untouched map? I'm not saying not to succumb to restartitis. I'm saying: once you take the time to learn how to build a cooling loop, restartitis becomes a choice rather than a necessity.
+Reddit 上有人用了“重开症”这个词。这词完美贴合我们很多人的玩法——谁不爱一张没动过的新地图的许诺呢？我不是说别向重开症屈服。我是说：一旦你花时间学会搭冷却回路，重开症就成了一种选择，而不是必需品。
 
-End-game here we come.
+终局，我们来了。
 
-## The thermo aquatuner
+## 液温调节器
 
 ![Building_Thermo_Aquatuner.webp](assets/Building_Thermo_Aquatuner-fd2600fd3c.avif)
 
-There are two machines involved: the thermo aquatuner and the steam turbine.
+这里涉及两台机器：液温调节器和蒸汽涡轮机。
 
-Thermo aquatuner basics:
+液温调节器基础：
 
-* Has a liquid input and a liquid output port
-* Requires (a lot of) electricity: 1,2kW
-* Liquid that passes through it will be chilled down by 14 degrees (Celcius)
-* Generates a lot of heat
+* 有一个液体输入口和一个液体输出口
+* 需要（大量）电力：1,2kW
+* 流经它的液体会被降温 14 度（摄氏度）
+* 会产生大量热量
 
-The thermo aquatuner itself is uncomplicated: liquid goes in the machine, the machine cools it down and spits it back out.
+液温调节器本身不复杂：液体进机器，机器把它降温，再吐出来。
 
-The problem with this is that if we have a closed loop - our cooling liquid keeps going round and round, passing through the thermo aquatuner each time - then the cooling liquid will chill more and more until it freezes and starts breaking the pipes.
+问题在于，如果我们做的是闭环——冷却液不停循环，每次都穿过液温调节器——那冷却液就会越来越冷，直到冻住并开始把管道撑裂。
 
 ![ONI-guide-Coolingloop-1.png](assets/ONI-guide-Coolingloop-1-bb7de6d5d6.avif)
 
-A closed loop (read: bad). This would eventually cause our cooling liquid to freeze and break our pipes.
+闭环（读作：不行）。这最终会让我们的冷却液冻住，把管道撑裂。
 
-So the challenge with the cooling loop is setting it up in such a way that our cooling liquid stays cool but doesn't freeze. Preferably allowing us to define a small window - a set temperature we want the cooling liquid to come out at.
+所以冷却回路的难点在于：怎么让它既保持凉爽，又不会冻住。最好是能让我们定一个很小的窗口——一个我们希望冷却液出来时达到的设定温度。
 
-This can be done in different ways. What we will use is the option of turning the thermo aquatuner on only when we need more chill. And letting the cooling liquid pass by the thermo aquatuner without going through it whenever we don't need more chill.
+这有几种做法。我们要用的是：只在需要更多冷量时才打开液温调节器，并在不需要更多冷量时让冷却液从液温调节器旁边绕过去、不穿过去。
 
 ![ONI-guide-Coolingloop-2.png](assets/ONI-guide-Coolingloop-2-27710f3f00.avif)
 
-The solution (read: good). Cooling liquid can either go through the aquatuner or not, and still maintain the flow of the cooling loop.
+解决方案（读作：行）。冷却液要么穿过液温调节器，要么不穿，而冷却回路的流动照常维持。
 
-This loop is such in design that packets (or blobs?) of cooling liquid can either go through the aquatuner or pass by without going through it.
+这个回路的设计让一股股的（还是一坨坨的？）冷却液要么穿过液温调节器，要么从旁边绕过去。
 
-If the thermo aquatuner is turned on, the cooling liquid enters the white input port and exits, cooled, out of the green port. If the aquatuner isn't turned on, the cooling liquid will just continue on past the white input port without going in the thermo aquatuner at all.
+如果液温调节器开着，冷却液就从白色的输入口进去，降温后从绿色的口出来。如果液温调节器没开，冷却液就直接从白色输入口旁边继续走，根本不进液温调节器。
 
-Now on to controlling the cooling in our loop. This we will do with some simple automation: a liquid pipe thermo sensor. Which we then connect to the thermo aquatuner using automation wire.
+接下来是控制回路里的冷却。我们用一点简单的自动化来做：一个液体管道温度传感器。再用信号线把它连到液温调节器上。
 
 ![ONI-guide-Coolingloop-3.png](assets/ONI-guide-Coolingloop-3-d856d98c66.avif)
 
-In the example above the sensor is placed just before the thermo aquatuner. This will lead to some fluctuations in temperature: our cooling liquid will come out 14 degrees colder when the thermo aquatuner is on than when it isn't.
+上面这个例子里，传感器放在液温调节器正前方。这会导致温度有些波动：液温调节器开着的时候，我们的冷却液出来时会比不开时冷 14 度。
 
-Depending on what you are using the cooling loop to cool, that may not be a big deal, in which case you can use the design as-is.
+取决于你拿这个冷却回路去冷却什么，这可能不算大问题，那就可以照这个设计直接用。
 
-If you want to even out the temperature of the liquid in your cooling loop, you can do that with some slight modifications to the design.
+如果你想让冷却回路里的液体温度更均匀，可以对这个设计做点小改动。
 
-We add a liquid reservoir after the thermo aquatuner and move the liquid pipe thermo sensor to after the liquid reservoir.
+我们在液温调节器后面加一个储液库，把液体管道温度传感器挪到储液库后面。
 
 ![ONI-guide-CoolingRedo1.png](assets/ONI-guide-CoolingRedo1-ee27d6cbc1.avif)
 
@@ -67,98 +67,98 @@ We add a liquid reservoir after the thermo aquatuner and move the liquid pipe th
 
 ![ONI-guide-CoolingRedo3.png](assets/ONI-guide-CoolingRedo3-186872c507.avif)
 
-In the example above the liquid reservoir would contain extra cooling liquid that will be used to even out the temperature of the cooling liquid before it sets out around the cooling loop.
+上面这个例子里，储液库里会存一些额外的冷却液，用来在冷却液出发巡游冷却回路之前把它的温度匀平。
 
-If the liquid coming out of the liquid reservoir is too hot, the thermo aquatuner turns on. This sends colder cooling liquid into the liquid reservoir. The thermo aquatuner will keep adding chill to the liquid reservoir until the liquid in the reservoir has been chilled down to our target temperature.
+如果从储液库出来的液体太热，液温调节器就打开。这会往储液库里送入更冷的冷却液。液温调节器会一直往储液库里加冷量，直到库里的液体被降到我们的目标温度。
 
-In this design, we will only ever have big (-14C) fluctuations in temperature along the liquid pipe section going from the thermo aquatuner's output pipe to the liquid reservoir (when the thermo aquatuner turns on).
+在这个设计里，我们只会在液温调节器输出管到储液库这一段液体管道上出现大幅（-14C）温度波动（在液温调节器打开的时候）。
 
-The liquid coming out of the reservoir and entering the cooling loop will maintain a steady temperature (as long as the thermo aquatuner can keep up with whatever you're trying to cool).
+从储液库出来、进入冷却回路的液体会保持稳定温度（只要液温调节器能跟上你要冷却的东西）。
 
-Speaking of cooling, let's move on to cooling the actual thermo aquatuner.
+说到冷却，接下来聊聊怎么给液温调节器本身降温。
 
-The idea is simple enough: we submerge it in a body of liquid. As the aquatuner heats up, the liquid absorbs part  of that heat.
+思路很简单：把它泡在一团液体里。液温调节器升温时，液体吸收其中一部分热量。
 
 ![ONI-guide-Coolingloop-7.png](assets/ONI-guide-Coolingloop-7-6c0aaf7b74.avif)
 
 ![ONI-guide-Coolingloop-8.png](assets/ONI-guide-Coolingloop-8-647595281b.avif)
 
-Almost there. Not seen in the pics is the automation wire connecting the aquatuner to the liquid pipe thermo sensor.
+快好了。图里没画出来的是连接液温调节器和液体管道温度传感器的信号线。
 
-The problem with this design is that it only postpones the problem - eventually the water in the cooling tank will boil, turn to steam, and become too hot to be able to cool the thermo aquatuner. This is where the steam turbine comes in.
+这个设计的问题在于，它只是把问题往后推——冷却水箱里的水最终会烧开、变成蒸汽，然后热得没法再给液温调节器降温。这时候就该蒸汽涡轮机上场了。
 
-## The steam turbine
+## 蒸汽涡轮机
 
 ![Building_Steam_Turbine.webp](assets/Building_Steam_Turbine-39b055ebcd.avif)
 
-Steam turbine
+蒸汽涡轮机
 
-The steam turbine can turn heat into power, making it a powerful way to "get rid of" (some) heat.
+蒸汽涡轮机能把热量变成电力，所以它是“甩掉”（一部分）热量的强力手段。
 
-Steam turbine basics:
+蒸汽涡轮机基础：
 
-* Has input ports for steam (they only take in steam from under the machine - meaning you cannot pump steam directly into the turbine with gas pipes)
-* Has an output pipe for water
-* Produces power when active
+* 有蒸汽输入口（它只从机器下方吸入蒸汽——也就是说你不能用气体管道把蒸汽直接泵进涡轮机）
+* 有一个水的输出管道
+* 工作时发电
 
-The steam turbine takes in steam from the area at the bottom (you can see the five input ports at the bottom of the turbine). This steam powers the turbine, generating power. In the process, the steam cools down to very hot (95C) water and is fed out the liquid output pipe.
+蒸汽涡轮机从底部区域吸入蒸汽（你能看到涡轮机底部那五个输入口）。这些蒸汽驱动涡轮机发电。过程中蒸汽降温成很热的（95C）水，从液体输出管道送出去。
 
-Some notes regarding the steam turbine:
+关于蒸汽涡轮机的几点注意：
 
-* The steam turbine only works with steam. So the cooling box for the aquatuner should not contain any oxygen or other gases, as they can interfere with the steam turbine by blocking its steam input ports.
-* The amount of water remains the same - no water is "lost" in the process. However much water (in the form of steam) it took in, it will spit back out.
-* If the steam turbine becomes too hot (above 100C) it will stop working.
-* The steam needs to be at least 125C for the steam turbine to kick in.
-* The steam turbine needs to have a power wire connected for it to work.
+* 蒸汽涡轮机只对蒸汽工作。所以给液温调节器用的冷却箱里不能有氧气或其他气体，因为它们会堵住蒸汽输入口，干扰蒸汽涡轮机。
+* 水量不变——过程中没有水“损失”。它吸进去多少水（以蒸汽形式），就会吐回多少。
+* 如果蒸汽涡轮机过热（超过 100C），它会停止工作。
+* 蒸汽至少要达到 125C，蒸汽涡轮机才会启动。
+* 蒸汽涡轮机需要接上电线才能工作。
 
 ![ONI-guide-Steamturbine-1.png](assets/ONI-guide-Steamturbine-1-0a803703e1.avif)
 
-The steam turbine feeds its output water back into the cooling box to be reused.
+蒸汽涡轮机把输出的水送回冷却箱里重复利用。
 
-The basic idea is simple enough: when the thermo aquatuner heats up our cooling liquid (in this case water) to the point where it boils and turns to steam, the steam turbine kicks in. (Specifically, when the steam is 125C or above.)
+基本思路很简单：当液温调节器把我们的冷却液（这里是水）加热到沸腾、变成蒸汽时，蒸汽涡轮机就启动。（具体来说，是蒸汽达到 125C 或以上时。）
 
-The steam turbine will cool down the steam, turning it into water that is just below boiling point (95C), and feed it out through the liquid output pipe.
+蒸汽涡轮机会把蒸汽降温，变成略低于沸点（95C）的水，再从液体输出管道送出去。
 
-We then pipe this water back into our "box" of cooling liquid, where it can once again be used to cool the thermo aquatuner.
+然后我们把这份水用管道送回那“箱”冷却液里，它可以再次用来给液温调节器降温。
 
-That's about all there is to know. Now let's take a look at some overviews of a complete version.
+大概就这些了。现在来看几个完整版本的概览图。
 
 ![ONI-guide-Coolingloop-9.png](assets/ONI-guide-Coolingloop-9-2dcfbdd779.avif)
 
-Note: The output pipe doesn't have to have it's own tile, you can also put it below the steam turbine if you need a smaller cooling box. The same goes for the thermo aquatuner - it can be under the steam turbine. But this might diminish the steam turbine's cooling capacity (I haven't done any experiments with that).
+注意：输出管道不必单独占一格，如果你需要更小的冷却箱，也可以把它放在蒸汽涡轮机下面。液温调节器也一样——它可以放在蒸汽涡轮机下面。但这样可能会削弱蒸汽涡轮机的冷却能力（这个我没做过实验）。
 
 ![ONI-guide-Coolingloop-10.png](assets/ONI-guide-Coolingloop-10-60ecdc7a6f.avif)
 
 ![ONI-guide-Coolingloop-11.png](assets/ONI-guide-Coolingloop-11-c6a75abfd1.avif)
 
-Not included in the pictures above is a power overlay. The thermo aquatuner needs 1,2kW. The steam turbine will generate, not use, power. But for it to work it needs to have a power wire connected to it.
+上面这些图里没包含电力概览。液温调节器需要 1,2kW。蒸汽涡轮机是发电的，不耗电。但它要工作，必须接上电线。
 
-## Some notes on building
+## 建造时的几点注意
 
-My standard approach to building is to leave the water tank ends at two high during construction (see picture). This way dupes can run into the water tank to build.
+我的标准做法是：建造时让水箱两端留两格高（见图）。这样复制人就能跑进水箱里施工。
 
-Then I fill the water tank from only one side, to avoid getting air bubbles in the middle. If you ever do get an air bubble (or other gas), you can get rid of it by building a tile over it and then deleting the tile.
+然后我只从一侧给水箱注水，避免中间出现气泡。要是真出了气泡（或其他气体），你可以在上面盖一块砖再把它拆掉，气泡就没了。
 
-The filling can be done either with bottle emptiers or pumping water out through a liquid vent - whatever is most convenient.
+注水可以用液桶排倒器，也可以用排液口把水抽出来——哪个方便用哪个。
 
 ![ONI-guide-SteelPermanent-5.png](assets/ONI-guide-SteelPermanent-5-0b3605579b.avif)
 
-To avoid getting gas pockets in your cooling tank, leave both ends open and fill it from one side.
+为了避免冷却箱里出现气团，把两端都留开口，只从一侧注水。
 
-I call it a "water tank," but it doesn't have to be all water. It just has to be a liquid that turns to steam when it boils. So polluted water is another option. You can also decrease the amount of liquid needed to fill the cooling box by having a layer each of two different liquids, like water and polluted water.
+我叫它“水箱”，但它不必全是水。只要是一种烧开后会变成蒸汽的液体就行。所以污染水也是个选择。你还可以用两层不同液体（比如水和污染水）各铺一层，来减少填满冷却箱所需的液体量。
 
-Note: Salt water is slightly risky to use. You can fit more salt water than water in a tile. If you fill your cooling box with (too much) salt water, you can end up with so much steam in the cooling box that the steam turbine output pipe stops working. (Which happens at over 1000 kg of steam).
+注意：用盐水稍微有点风险。一格能装的盐水比水多。如果你往冷却箱里灌了（太多）盐水，冷却箱里可能会产生太多蒸汽，导致蒸汽涡轮机的输出管道停止工作。（蒸汽超过 1000 kg 时就会这样。）
 
-It's important to make sure there are no air or other gas pockets in your water tank as that can mess with your steam turbine by blocking input pipes from being able to take in steam.
+一定要确保水箱里没有空气或其他气团，因为这会堵住输入管、让蒸汽涡轮机吸不到蒸汽。
 
-The thermo aquatuner needs to be able to withstand getting very hot. Which means you'll want to build it out of [steel](getting-steel.md) (or better).
+液温调节器得能扛住高温。也就是说，你最好用[钢](getting-steel.md)（或更好的材料）来造它。
 
-As far as what liquid to use in the cooling loop, there are many choices. Which to choose depends on your needs, but if you just want to do a standard cooling loop that you will keep in a normal temperature range then you can use most any liquid, water or polluted water are common choices.
+至于冷却回路里用什么液体，选择很多。选哪种取决于你的需求，但如果你只想搭一个标准冷却回路、把温度维持在正常范围内，那基本什么液体都行，水和污染水是常见选择。
 
-When choosing a liquid to use you can select a tile of liquid and check its properties: boiling & freezing points. This will show if a liquid is suitable for your needs.
+选液体时，你可以点选一格液体，看它的属性：沸点和凝固点。这能看出某种液体是否适合你的需求。
 
-You shouldn't fill the cooling loop and liquid reservoir completely as that can cause the loop to stop circulating. If the cooling liquid isn't moving, delete a section of pipe and rebuild it. (Or use the plumber skill to empty a pipe without deleting it.)
+不要把冷却回路和储液库完全灌满，那会让回路停止循环。如果冷却液不流动了，就删掉一段管道再重建。（或者用管路工作技能把管道排空，不用拆。）
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop](https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop) ([Wayback Machine snapshot](https://web.archive.org/web/20250811145925id_/https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop](https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop)（[Wayback Machine 快照](https://web.archive.org/web/20250811145925id_/https://www.guidesnotincluded.com/thermo-aquatuner-steam-turbine-cooling-loop)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

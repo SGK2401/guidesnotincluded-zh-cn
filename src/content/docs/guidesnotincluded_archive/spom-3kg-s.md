@@ -1,6 +1,6 @@
 ---
-title: "The Full Rodriguez SPOM"
-description: "This SPOM is the so-called \"Full Rodriguez\". It generates 2.975 kg/second of oxygen."
+title: "完整版 Rodriguez SPOM"
+description: "这个 SPOM 就是所谓的“完整版 Rodriguez”。它每秒产生 2.975 千克氧气。"
 source_url: https://www.guidesnotincluded.com/spom-3kg-s
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806080850id_/https://www.guidesnotincluded.com/spom-3kg-s
@@ -16,26 +16,26 @@ archive_snapshot: https://web.archive.org/web/20250806080850id_/https://www.guid
 
 ![ONIguideFullRodriguez_Water.png](assets/ONIguideFullRodriguez_Water-9fa2cf8ec3.avif)
 
-SPOM, OXYGEN: 3 KG/S
+SPOM，氧气：3 KG/S
 
-This SPOM is the so-called "Full Rodriguez". It generates 2.975 kg/second of oxygen.
+这个 SPOM 就是所谓的“完整版 Rodriguez”。它每秒产生 2.975 千克氧气。
 
-Atmo sensor, upper (hydrogen): above 250
+气压传感器，上方（氢气）：高于 250
 
-Atmo sensors, lower (oxygen): above 450
+气压传感器，下方（氧气）：高于 450
 
-Note: use gold (or better) for things that can overheat. The upper section can be fully enclosed, as the hydrogen cools the top level. What material to build the liquid pipes out of depends on the temperature of your incoming water. If the incoming water is colder than 70C you can use the water to cool down the surrounding area by using radiant pipes.
+注意：会给过热的东西用金（或更好的材料）。上半部分可以完全封闭，因为氢气会给顶层降温。液体管道用什么材料，取决于你进水的温度。如果进水温度低于 70C，你可以用这些水、配导热液体管道给周围区域降温。
 
-A note on sources: the SPOM was first introduced to the world by QuQuasar in [a post on Klei's forums](https://forums.kleientertainment.com/forums/topic/87548-self-powering-oxygen-module-mkii-production-and-cooling/). This design is by Nicolás Rodriguez (and popularized by Francis John).
+关于出处的补充说明：SPOM 最早由 QuQuasar 在 [Klei 论坛的一篇帖子](https://forums.kleientertainment.com/forums/topic/87548-self-powering-oxygen-module-mkii-production-and-cooling/)里介绍给世人。这个设计出自 Nicolás Rodriguez（并由 Francis John 推广）。
 
-Source: "Electrolyzer, SPOM, O2, Oxygen: Tutorial nuggets : Oxygen not included", by Francis John. Available at: <https://youtu.be/6KzD2c6EQ7I?t=656>, accessed 6 September, 2020
+来源：Francis John 的《Electrolyzer, SPOM, O2, Oxygen: Tutorial nuggets : Oxygen not included》，可访问：<https://youtu.be/6KzD2c6EQ7I?t=656>，访问日期：2020 年 9 月 6 日
 
-For an introduction to how SPOMs work, see:
+想了解 SPOM 的工作原理，请看：
 
-[Oxygen: To know the SPOM is to love the SPOM](to-know-the-spom-is-to-love-the-spom.md)
+[氧气：了解 SPOM，就会爱上 SPOM](to-know-the-spom-is-to-love-the-spom.md)
 
-Oops - I forgot the automation wire from the upper gas pump to the atmo sensor on its right.
+哎呀——我忘了画从上方气泵到它右边气压传感器的信号线。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/spom-3kg-s](https://www.guidesnotincluded.com/spom-3kg-s) ([Wayback Machine snapshot](https://web.archive.org/web/20250806080850id_/https://www.guidesnotincluded.com/spom-3kg-s)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/spom-3kg-s](https://www.guidesnotincluded.com/spom-3kg-s)（[Wayback Machine 快照](https://web.archive.org/web/20250806080850id_/https://www.guidesnotincluded.com/spom-3kg-s)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

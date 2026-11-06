@@ -1,628 +1,628 @@
 ---
-title: "The very early game"
-description: "Press the space bar, look around"
+title: "极早期游戏"
+description: "按下空格键，四处看看"
 source_url: https://www.guidesnotincluded.com/the-very-early-game
 archived: 2025-07-31
 archive_snapshot: https://web.archive.org/web/20250731065451id_/https://www.guidesnotincluded.com/the-very-early-game
 ---
 
-Contents:
+目录：
 
-Choosing dupes
+选择复制人
 
-Press the space bar, look around
+按下空格键，四处看看
 
-Day 1: Outhouses, wash basins and access to water
+第 1 天：户外厕所、洗手盆和取水
 
-Room bonuses and planning out your (early) base
+房间加成与规划你的（早期）基地
 
-Power, part 1: the hamster wheel and battery
+电力，第 1 部分：仓鼠轮与蓄电池
 
-Oxygen: the Oxygen Diffuser
+氧气：氧气扩散器
 
-The research station, research tree and laboratory
+研究站、研究树与实验室
 
-Beds, sore backs and the Barracks room bonus
+床铺、背部酸痛与宿舍房间加成
 
-Food
+食物
 
-Composts: dealing with polluted dirt
+堆肥堆：处理污染土
 
-Advanced research; the Super Computer
+高级研究；超级计算机
 
 ![ONI-guide_GNI_GuidePlaythrough.png](assets/ONI-guide_GNI_GuidePlaythrough-3d6b771dbf.avif)
 
-## Choosing dupes
+## 选择复制人
 
-There's a separate guide, [Choosing Duplicants](choosing-duplicants.md), that covers some basics about dupe selection.
+有一篇单独的指南——[选择复制人](choosing-duplicants.md)，讲了选复制人的一些基础。
 
-In a nutshell: choose dupes that are good at the things you will be doing. You can pick a category for a dupe to be skilled in by clicking on the icon to the left of the "reroll" button. You can reroll as often as you want.
+一句话：挑那些擅长你接下来要做的事的复制人。点“重新随机”按钮左边的图标，就能给复制人指定一个擅长的类别。想随机多少次都行。
 
-You will be doing a lot of digging, building and researching. So it's a good idea to have:
+你会做大量的挖掘、建造和研究。所以最好有：
 
-* a dupe that is good at researching, and
-* a dupe that is good at either digging or digging and building.
+* 一个擅长研究的复制人，以及
+* 一个擅长挖掘、或者挖掘加建造的复制人。
 
-For your third dupe you can pick whatever you want. A second digger/builder is a popular option. Or a good rancher if you plan on doing any ranching.
+第三个复制人随便挑。比较流行的选择是再来一个挖掘/建造工。如果你打算搞养殖，也可以来个好的养殖者。
 
-Then it's time to get started!
+那么，开始吧！
 
 ![ONI-guide_NewHope1.png](assets/ONI-guide_NewHope1-b00f677871.avif)
 
-New Hope. (Classic Terra asteroid with DLC, seed: V-SNDST-C-1663240406-0-31)
+新希望。（带 DLC 的经典类地小行星，种子：V-SNDST-C-1663240406-0-31）
 
-## Press the space bar, look around
+## 按下空格键，四处看看
 
-The space bar pauses the game. Now have a look around at your new home.
+空格键能暂停游戏。现在，四处看看你的新家。
 
-* Use the WASD keys to move the camera.
-* You can also press the right mouse button (or the middle mouse button) and move the mouse to move the camera.
+* 用 WASD 键移动镜头。
+* 也可以按住鼠标右键（或中键）拖动鼠标来移动镜头。
 
-Specifically, you are looking for any water that is located nearby. We will need to dig our way to water during the first day, or "cycle" as days are called in Oxygen Not Included.
+具体来说，你要找附近有没有水。第一天——或者说《缺氧》里称为“周期”的东西——我们得挖出一条通往水的路。
 
-If you look at the bottom left of the screen you can see a row of icons: Base, Oxygen, Power and so on. These are all different categories of things you can build.
+看屏幕左下角，有一排图标：基地、氧气、电力等等。这些都是你能建造的东西的不同类别。
 
-The icons are all greyed out at the start of the game. That's because all buildings require resources to build, and you start the game without resources. But not to worry, getting resources is easy enough - you just dig!
+游戏开始时这些图标全是灰的。因为所有建筑都需要资源才能造，而你开局没有资源。不过别担心，搞资源很简单——挖就完事了！
 
-To issue a dig command to your dupes:
+给复制人下挖掘命令：
 
-* Use the dig icon in the bottom right (the picture of a shovel) or press "G"
+* 用右下角的挖掘图标（铲子图案），或者按“G”
 
-Then click and drag across the section you want your dupes to dig out.
+然后在你想要复制人挖掉的区域上点击并拖动。
 
 ![ONI-guide_NewHope2.png](assets/ONI-guide_NewHope2-39b4801251.avif)
 
-Get digging! Digging will create space for your base and give you resources. The darker stuff in the top left is carbon dioxide. I don't want to deal with that (yet) so I dug around it.
+挖起来！挖掘能给基地腾出空间，也能给你资源。左上角颜色更深的东西是二氧化碳。我还不想（暂时）管它，所以就绕着它挖了。
 
-Where you dig is entirely up to you, all that really matters is that we get access to resources. I usually start by digging a 2-3 tile high area in a straight line out in both directions from the printing pod.
+从哪儿挖完全随你，真正重要的是能拿到资源。我通常先从打印舱往左右两边各挖一条 2-3 格高的直线区域。
 
-When you are ready to get going, press the space bar again to unpause the game. You can pause the game any time you want. There are also three game speed options you can choose between, the icons for them are in the top left.
+准备好了就再按一次空格键继续游戏。你随时都可以暂停。另外还有三档游戏速度可选，图标在左上角。
 
-As your dupes get digging you will see the build icons in the bottom left start springing to life, as you start getting the resources needed to build things.
+复制人一开挖，左下角的建造图标就会陆续亮起来，因为你开始拿到造东西所需的资源了。
 
-Outhouses, wash basins, water
+户外厕所、洗手盆、水
 
-## Day 1: Outhouses, wash basins and access to water
+## 第 1 天：户外厕所、洗手盆和取水
 
-On the morning of the second day your dupes will go to the bathroom. They will go to the bathroom even if there is no bathroom to go to. So the main goal for the first day is to take care of this impending yellow-water doom.
+第二天早上，你的复制人要去上厕所。就算没有厕所可上，他们也会去。所以第一天的首要目标，就是把这场即将到来的黄水末日安排明白。
 
-Basically, day one is all about getting toilets up and running.
+说白了，第一天就是围着厕所转。
 
-While doing that, you can also give a bit of thought to how you want your base to be laid out. I like to have the printing pod in the center with ladder shafts on either side, but that's just a personal preference.
+与此同时，你也可以顺手想想基地要怎么布局。我喜欢把打印舱放在中间、两边各一条梯井，不过这只是个人喜好。
 
 ![ONI-guide_GettingDigging.png](assets/ONI-guide_GettingDigging-e925d51a35.avif)
 
-Getting started. Goals for the first cycle: building an outhouse, a wash basin and a pitcher pump with access to water.
+开局。第一个周期的目标：造一个户外厕所、一个洗手盆，还有一台能取到水的手压泵。
 
 ![Building_Outhouse.webp](assets/Building_Outhouse-50d9de2d62.avif)
 
-Outhouse
+户外厕所
 
 ![Building_Wash_Basin.webp](assets/Building_Wash_Basin-8e42b4bd98.avif)
 
-Wash Basin
+洗手盆
 
-After using a toilet (or an outhouse) dupes will be covered in germs. These germs will spread to anything they touch. So a secondary goal for the first day is to build somewhere dupes can wash their hands to get rid of the germs.
+复制人上完马桶（或户外厕所）之后，浑身都是病菌。这些病菌会传到他们碰过的任何东西上。所以第一天的次要目标，就是造个地方让复制人洗手、把病菌去掉。
 
-Dupes won't actively seek out a way to wash their hands after using a toilet. So you should place the buildings so that dupes always pass by a sink after using a toilet.
+复制人上完厕所不会主动去找地方洗手。所以你要把建筑摆得让复制人上完厕所后必定经过洗手池。
 
-I've been talking about toilets and sinks, but those are actually unlocked through research (which we'll cover later). The first toilets and sinks you have access to are called outhouses and wash basins.
+我一直在说马桶和洗手池，但这些其实要靠研究解锁（后面会讲）。你最早能用到的厕所和洗手池，叫户外厕所和洗手盆。
 
-The outhouse is found under the Plumbing icon in the bottom left.
+户外厕所在左下角的水管图标下面。
 
-The wash basin is found under Medicine in the bottom left
+洗手盆在左下角的医疗下面
 
-* To change it, click on the wash basin or sink and use the Set Direction command.
+* 想改方向，就点洗手盆或洗手池，用“设置方向”命令。
 
-* One use for this is to only have dupes wash their hands when leaving a bathroom. (They will get germs from using the bathroom, so washing their hands on their way to using it is pointless.)
+* 一个用法是只让复制人在离开厕所时洗手。（他们是在用厕所的过程中沾上病菌的，所以进去之前洗手毫无意义。）
 
-* You can specify that you only want dupes to wash their hands when passing in a particular direction.
+* 你可以指定只让复制人朝某个方向经过时洗手。
 
-* On top of wash basins and sinks there is a green arrow that shows its use direction(s).
+* 洗手盆和洗手池上方有个绿色箭头，显示它的使用方向。
 
-## Tip: wash basin and sink "use direction"
+## 提示：洗手盆和洗手池的“使用方向”
 
 ![Building_Pitcher_Pump.webp](assets/Building_Pitcher_Pump-dbfe6151f8.avif)
 
-Pitcher Pump
+手压泵
 
-You aren't quite done yet - the outhouse and wash basin both need resources to work.
+还没完——户外厕所和洗手盆都需要资源才能运作。
 
-Outhouses need dirt. You will probably have dug up some dirt already. If not, mouseover brown tiles in the starting area until you find dirt and then dig some up.
+户外厕所需要泥土。你多半已经挖到一些了。要是没有，就把鼠标移到出生区那些棕色格子上，找到泥土再挖一些出来。
 
-Wash basins need water. To be able to access water dupes need something called a pitcher pump.
+洗手盆需要水。要取到水，复制人得有个叫手压泵的东西。
 
-The pitcher pump is found under Plumbing in the bottom left.
+手压泵在左下角的水管下面。
 
-For the pitcher pump to work the hose thingy underneath it needs to be in water. (If you have set a dig command under your pitcher pump but dupes aren't digging it, they probably can't reach the dig command - build a ladder segment nearby.)
+手压泵要能用，它下面那根管子似的东西得泡在水里。（如果你在手压泵下面下了挖掘命令，复制人却不去挖，那多半是他们够不着——在旁边造一段梯子。）
 
-If a dupe is germy when they pass a wash basin or sink they will automatically wash their hands. But:
+复制人身上带病菌时，经过洗手盆或洗手池会自动洗手。但是：
 
-* Only one dupe can wash their hands at a time at a wash basin or sink. If there are none free, dupes will not wait their turn. They happily run on and start spreading germs. To avoid this, build one wash basin for every outhouse.
+* 一个洗手盆或洗手池一次只能让一个复制人洗手。要是都占着，复制人不会排队等，而是欢快地跑开、开始散播病菌。想避免这种情况，就一个户外厕所配一个洗手盆。
 
-* Dupes will not intentionally look for a wash basin or sink after using an outhouse. You need to design your base so that they automatically pass one. A common way to do this is through door permissions.
+* 复制人上完户外厕所不会特意去找洗手盆或洗手池。你需要把基地设计成他们必定会经过一个。常见的做法是用门禁权限。
 
-Controlling dupe movement using door permissions
+用门禁权限控制复制人的走动
 
-When you have built a door (found under Base in the bottom left or by pressing "1") you can change its settings. One thing you can do is set a door so that it can only be passed in one direction.
+造好一扇门之后（左下角基地下面，或者按“1”），你可以改它的设置。其中一项就是把门改成只能单向通行。
 
-If you build your outhouses on one side of the room and wash basins on the other, you can have the door on the side of the outhouses to only let dupes in, not out. That way dupes will pass a wash basin regardless of which direction they entered the room from.
+如果你把户外厕所建在房间一边、洗手盆建在另一边，就可以把厕所那侧的门设成只让复制人进、不让他们出。这样不管他们从哪个方向进的房间，都必定会经过洗手盆。
 
-## Tip: making sure dupes wash their hands
+## 提示：确保复制人会洗手
 
-Once dupes have filled outhouses and wash basins with dirt and water you can give yourself a pat on the back - disaster averted!
+等复制人给户外厕所填好泥土、给洗手盆加好水，你就可以拍拍自己的背了——灾难解除！
 
-Cleaning up an oopsie
+收拾烂摊子
 
-If you didn't quite manage to avert disaster, you will have yellow puddles start spreading in your base. Not to worry - you can clean up such messes.
+要是灾难没能躲过，基地里就会开始蔓延黄色的水洼。别担心——这种场面是可以收拾的。
 
-* To have dupes mop up "accidents" select the Mop command command in the bottom right and then click and drag across any puddles you want to mop up.
+* 想让复制人去擦“意外”，就选右下角的擦拭命令，然后在你想擦掉的水洼上点击拖动。
 
-If any of the accident got into your clean water supply, germs will spread in your clean water. The easiest solution for now is to abandon that body of water and dig your way to a new, germ-free water source (\*cough\* or reload the game \*cough\*).
+要是“意外”流进了你的干净水源，病菌就会在干净水里扩散。眼下最简单的办法是放弃那摊水，挖一条路去找新的、没病菌的水源（\*咳咳\* 或者读档 \*咳咳\*）。
 
-It is entirely possible to decontaminate germy water (in fact, we'll cover it [later in this guide](recycling-toilet-water.md)), but that's more of a mid-game thing.
+给带菌水除污完全可行（其实[本指南后面](recycling-toilet-water.md)就会讲到），不过那更多是游戏中期的事。
 
-* For more on germs, see "Tip: germ basics"
-* You can use priorities to force certain things to be done first, like building bathrooms. For more, see the tip on priorities.
+* 想了解更多病菌的事，看“提示：病菌基础”
+* 你可以用优先级强制先做某些事，比如造厕所。详情见关于优先级的提示。
 
-* A germy dupe spreads germs to things they touch - ladders, machines, beds etc.
+* 带菌的复制人会把病菌传到他碰过的东西上——梯子、机器、床等等。
 
-* To see germs in your base, click on the Germ Overlay in the top right. (Or press F9.)
+* 想看基地里的病菌，点右上角的病菌概览。（或者按 F9。）
 
-* If a dupe is germy, click on the dupe and then use the "Move to" command to make them run past a wash basin to wash their hands.
+* 如果某个复制人身上有菌，点他，然后用“前往”命令让他跑过洗手盆去洗手。
 
-* If germs manage to spread in your base you can have dupes disinfect things using the Disinfect Buildings button on the bottom right. (Or press "I".)
+* 如果病菌还是在基地里扩散开了，你可以用右下角的“消毒建筑”按钮让复制人去消毒。（或者按“I”。）
 
-* If germs are a constant problem, check to make sure:
+* 如果病菌总是个麻烦，确认一下：
 
-  1. you have a wash basin for every outhouse, and
-  2. dupes must pass a wash basin after using an outhouse.
+  1. 每个户外厕所都配了洗手盆，以及
+  2. 复制人上完户外厕所必定要经过洗手盆。
 
-## Tip: germ basics
+## 提示：病菌基础
 
-You can set two types of priorities:
+优先级分两种：
 
-1. Building Priorities
-2. Duplicant Priorities
+1. 建筑优先级
+2. 复制人优先级
 
-Building priorities affect what order dupes will do tasks like building, digging, supplying resources to outhouses or wash basins, etc.
+建筑优先级决定复制人做建造、挖掘、给户外厕所或洗手盆送资源这类任务的先后顺序。
 
-Duplicant priorities make certain kinds of tasks - digging, building, etc. - more (or less) important for individual dupes. We'll look at duplicant priorities later in the guide.
+复制人优先级则让某类任务——挖掘、建造等等——对某个复制人更重要（或更不重要）。复制人优先级我们后面再讲。
 
-To make sure your dupes get outhouses built during your first day, you can raise the priorities of the dig & build commands needed for that.
+想确保复制人第一天就把户外厕所造好，可以把相关的挖掘和建造命令的优先级调高。
 
-To change priorities, click on Priority in the bottom right (or press "P").
+改优先级就点右下角的优先级（或者按“P”）。
 
-The default priority of tasks is 5. Choose 6 (or higher) for the necessary dig & build tasks to make sure they are taken care of first.
+任务默认优先级是 5。把必要的挖掘和建造任务设成 6（或更高），确保先办它们。
 
-Priorities also affect the everyday maintenance of buildings. After 15 "visits" an outhouse will be out of order until emptied and restocked. To avoid future "accidents," you will want your outhouses to be emptied quickly. Also, to avoid the spread of germs you will want your wash basins to always have water.
+优先级也影响建筑的日常维护。户外厕所被“造访” 15 次之后就会停摆，直到被清空并重新装填。想避免以后再出“意外”，你希望户外厕所被尽快清空。同样，为了不让病菌扩散，你希望洗手盆里一直有水。
 
-It is highly recommended to raise the priority of your wash basins and outhouses. (I use 8 for outhouses and 6 for wash basins. But just make sure they are above your default values.)
+强烈建议把洗手盆和户外厕所的优先级调高。（户外厕所我用 8，洗手盆用 6。反正只要高于你的默认值就行。）
 
-The PANIC button. You can assign something "Top Priority." This will put the whole colony into alert until it is taken care of. (They will still sleep when tired, though.) This setting is marked "!!" in the priority selection screen (or press "P" and then "0" to select something to make top priority).
+恐慌按钮。你可以把某件事设成“顶级优先度”。这会让整个殖民地进入警戒状态，直到它被处理完。（不过复制人困了还是会睡。）在优先级选择界面里，这个设置标为“!!”（或者按“P”再按“0”，选中要设为顶级优先度的东西）。
 
-A note on priority creep. Speaking of default priority values, you might be tempted to keep raising more and more priorities to "get things done quicker." We've all tried this. It hasn't worked for any of us. Once everything is priority 9, nothing is priority 9.
+顺带说说优先级通胀。说到默认优先级，你可能会忍不住把越来越多的东西调高，好“让事情办得快点”。我们都试过。没一个人成功过。一旦所有东西都是优先级 9，就没有东西是优先级 9 了。
 
-## Tip: getting the right things done first using Building Priorities
+## 提示：用建筑优先级先把该做的事排在前面
 
-## Room bonuses and planning out your (early) base
+## 房间加成与规划你的（早期）基地
 
 ![ONI-guide_Hatches.png](assets/ONI-guide_Hatches-75605a9c9b.avif)
 
-Hatches. As you dig you will uncover small critters called hatches. Don't worry, they won't attack. (But they will eat your resources.)
+好吃哈奇。挖着挖着你会挖出一些叫好吃哈奇的小动物。别担心，它们不会攻击。（但它们会吃你的资源。）
 
-The first day is the most hectic; once bathrooms are up and running you can calm things down a bit.
+第一天最忙乱；等厕所运转起来，你就能稍微松口气了。
 
-There are a few different things to get working on next. You will need a source of oxygen, a source of power, and a source of food.
+接下来有几件事要办。你需要氧气来源、电力来源和食物来源。
 
-You can also improve the quality of life of your dupes by building them beds and a dining room.
+你也可以给复制人造床和餐厅，提升他们的生活质量。
 
-Some of the things you'll be building need to be unlocked through research, so you'll also need a research station.
+你要造的一些东西得靠研究解锁，所以还需要一个研究站。
 
-Anything you build can be deconstructed and rebuilt somewhere else, so you don't need to be too concerned with where you build things. And as you play more and more games of ONI you will start developing a personal preference for where to put things. But when planning out your base it's a good idea to keep room bonuses in mind.
+你造的任何东西都能拆掉、换个地方重造，所以不用太纠结建在哪儿。玩的局数多了，你自然会对东西放哪儿有自己的偏好。不过规划基地时，最好把房间加成放在心上。
 
-Rooms that fulfill certain criteria can get bonuses to specific things. What the bonus is varies depending on the room type. You can see a list of the existing room types by clicking on the Room Overlay in the top right (the picture of a bed).
+满足特定条件的房间能获得针对某些方面的加成。加成是什么，取决于房间类型。点右上角的房间概览（床的图案），能看到现有房间类型的列表。
 
-Let's get back to building. The next thing that can go wrong in your base is oxygen. Meaning you will run out of it.
+说回建造。基地里下一个可能出问题的是氧气。意思就是你会把氧气用完。
 
-Around your starting area you can see green tiles that give off bubbles. This is something called oxylite, which releases oxygen. There is enough oxygen and oxylite in your starting area to keep you going for a few cycles. But let's not wait to find out exactly how many.
+出生区周围你能看到一些冒泡的绿色格子。那东西叫氧石，会释放氧气。出生区里的氧气和氧石够你撑几个周期。不过咱们还是别等到弄清楚到底能撑几个周期。
 
-You can produce oxygen, but that will require power. So before we sort out the oxygen supply let's sort out power.
+氧气是可以生产的，但那需要电。所以在解决供氧之前，先解决供电。
 
-Room Bonuses
+房间加成
 
-* You can click & drag to measure out a distance. Then right-click to cancel.
+* 你可以点击拖动来量距离，然后右键取消。
 
-* An easy way to measure distances - like planning out a floor of a certain length - is with the dig command (bottom left or press "G").
+* 量距离有个简单办法——比如规划一层特定长度的地板——用挖掘命令就行（左下角，或按“G”）。
 
-## Tip: measuring distances
+## 提示：量距离
 
-Power 1: hamster wheel & battery
+电力 1：仓鼠轮与蓄电池
 
-The battery needs to be connected to the hamster wheel.
+蓄电池得跟仓鼠轮连起来。
 
-* Use Wire (also found under Power) to connect the socket on the hamster wheel to the socket on the battery.
+* 用电线（也在电力下面）把仓鼠轮上的接口连到蓄电池的接口。
 
-Laying wire will dig up earth tiles but will not destroy duplicant-built tiles. So if you want to keep your base tidy by hiding your wiring (and what kind of monster wouldn't want that?), build floor tiles for the wiring to go along.
+铺电线会挖掉天然土块，但不会破坏复制人造的砖块。所以如果你想靠藏线让基地看着整洁（什么样的怪物才不想呢？），就先铺好地板砖，让电线走在地板里。
 
-## Power, part 1: the hamster wheel and battery
+## 电力，第 1 部分：仓鼠轮与蓄电池
 
-Your first source of power will be the manual generator, more commonly known as the hamster wheel.
+你最初的电力来源是人力发电机，更常见的叫法是“仓鼠轮”。
 
-The hamster wheel generates power while a dupe pedals on it. As soon as the dupe stops pedaling, the hamster wheel stops generating power - and any machines hooked up to it stop working.
+复制人在上面蹬的时候，仓鼠轮就发电。复制人一停，仓鼠轮就不发电了——连在上面的机器也随之停工。
 
-For machines to continue working after a dupe stops pedaling you need to add a battery to store power.
+想让机器在复制人停下后继续工作，你就得加个蓄电池来存电。
 
-* Build a Manual Generator (under Power, bottom left)
-* Build a Battery (also under Power in the bottom left)
+* 造一台人力发电机（左下角电力下面）
+* 造一个蓄电池（也在左下角电力下面）
 
 ![ONI-guide_HamsterWheel1.png](assets/ONI-guide_HamsterWheel1-6e27043a56.avif)
 
 ![ONI-guide_HamsterWheel2.png](assets/ONI-guide_HamsterWheel2-c924f1cf6a.avif)
 
-Hamster wheel and battery. Connected using wire.
+仓鼠轮和蓄电池。用电线连起来。
 
 ![Building_Wire.webp](assets/Building_Wire-be11585874.avif)
 
-Wire
+电线
 
 ![Building_Battery.webp](assets/Building_Battery-b2fb538528.avif)
 
-Battery
+蓄电池
 
 ![Building_Manual_Generator.webp](assets/Building_Manual_Generator-f757acdab1.avif)
 
-Hamster wheel, Manual Generator
+仓鼠轮，人力发电机
 
-## Oxygen: the Oxygen Diffuser
+## 氧气：氧气扩散器
 
-There are several machines that can produce oxygen. They each use different inputs, different materials, to make oxygen.
+有好几种机器都能产氧。它们各自用不同的原料、不同的材料来制氧。
 
-How to produce oxygen will depend on what asteroid you chose to start on. For your first playthroughs, I'd recommend choosing an asteroid that has algae. (If you chose the first asteroid in the asteroid selection list, it will have algae.)
+怎么产氧取决于你开局选了哪颗小行星。头几局我建议选一颗有藻类的小行星。（如果你选的是小行星列表里的第一颗，那它就有藻类。）
 
-Look around your starting area for algae (green tiles). You can mouseover a tile to see what it is.
+在出生区周围找藻类（绿色格子）。把鼠标移到格子上就能看到它是什么。
 
-* Build an oxygen diffuser (under Oxygen, bottom left)
-* Using wire (under Power), connect the oxygen diffuser to your power grid
+* 造一台氧气扩散器（左下角氧气下面）
+* 用电线（电力下面）把氧气扩散器接到你的电网上
 
-The oxygen diffuser turns algae into oxygen. It will produce 500 g/s of oxygen. A standard dupe uses 100 g/s of oxygen, so one oxygen diffuser can supply enough oxygen for 5 standard dupes. (But a little extra oxygen production is a good thing.)
+氧气扩散器把藻类变成氧气，产出 500 g/s 的氧气。一个标准复制人消耗 100 g/s 氧气，所以一台氧气扩散器够 5 个标准复制人呼吸。（不过多产一点氧气是好事。）
 
-Dupes will fill up oxygen diffusers with algae automatically, you don't need to do set any specific commands for it. (However, I usually change the oxygen diffuser's priority to 6 to make sure it gets done.)
+复制人会自己给氧气扩散器补藻类，不用你下什么命令。（不过我通常会把氧气扩散器的优先级改成 6，确保这事有人干。）
 
-Oxygen Diffuser
+氧气扩散器
 
 ![Building_Oxygen_Diffuser.webp](assets/Building_Oxygen_Diffuser-0b2de9f3a7.avif)
 
-Oxygen Diffuser
+氧气扩散器
 
 ![ONI-guide_OxygenDiffuser.png](assets/ONI-guide_OxygenDiffuser-42c2cef76c.avif)
 
-Oxygen diffuser. It turns algae into oxygen. Placed near a ladder to help with oxygen flow up and down the base.
+氧气扩散器。它把藻类变成氧气。放在梯子旁边，方便氧气在基地里上下流动。
 
 ![Building_Storage_Bin.webp](assets/Building_Storage_Bin-96b03d3e60.avif)
 
-Storage Bin
+存储箱
 
-The placement of the oxygen diffuser isn't hugely important, but putting it near a ladder system going through your base will make it easier for oxygen to flow.
+氧气扩散器摆在哪儿不是特别重要，但放在贯穿基地的梯井旁边，氧气更容易流动。
 
-As long as your oxygen can spread out at least somewhat from your oxygen diffuser, you don't need to worry about pumping oxygen around your base. (That would also require a lot of power.)
+只要氧气能从氧气扩散器散开一些，你就不用操心往基地各处泵氧。（那还得花很多电。）
 
-You can save some dupe travel time by storing algae near the oxygen diffuser. To do this,
+把藻类存放在氧气扩散器旁边，能省下复制人一些跑路时间。做法是：
 
-* Build a Storage Bin (under Base, bottom left) near the oxygen diffuser
+* 在氧气扩散器旁边造一个存储箱（左下角基地下面）
 
-By default, storage bins don't accept any materials. To change this, click on the storage bin. You can set it to accept all materials or any combination you want.
+默认情况下存储箱不收任何材料。想改就点开存储箱。你可以让它收所有材料，也可以随便挑组合。
 
-* Change the storage bin to only accept Algae, found under Organic
+* 把存储箱改成只收藻类，在“有机物”下面
 
 ![ONI-guide_StorageBin.png](assets/ONI-guide_StorageBin-10bcc99720.avif)
 
-The storage bin. Very useful, but first you have to define what can be stored in them.
+存储箱。非常有用，但你得先规定它能存什么。
 
-* There are a number of different gases in Oxygen Not Included.
+* 《缺氧》里有好几种不同的气体。
 
-* The main ones you will come across in the early game are oxygen and carbon dioxide. And possibly some chlorine and hydrogen.
+* 早期你主要会遇到氧气和二氧化碳。可能还有一些氯气和氢气。
 
-* To see oxygen levels - and other gases - in your base, click on the Oxygen Overlay in the top right. (Or press F1.)
+* 想看基地里的氧气浓度——以及其他气体——点右上角的氧气概览。（或者按 F1。）
 
-* Over time, gases will settle in their own layers: hydrogen rises to the top, oxygen below it, then chlorine and at the bottom your carbon dioxide.
+* 时间一长，气体会各自分层：氢气往上飘，氧气在它下面，再往下是氯气，最底下是二氧化碳。
 
-* Dupes don't like being in chlorine or hydrogen, but they won't take damage from it. So you don't need to be overly careful or worried. (Just don't tell them I said that.)
+* 复制人不喜欢待在氯气或氢气里，但不会因此受伤。所以你不用过分小心或担心。（这话别告诉他们是我说的。）
 
-* You can improve gas flow in various ways. An easy one is by having a somewhat spacious ladder shaft (or several). Instead of building a ladder with rooms immediately on both sides, leave an empty space on either side of the ladder. (Dupes can jump over one tile.) The extra space will improve airflow and also be useful for fire poles (Weeee!) and gas vents later in the game.
+* 改善气流的方法有很多。一个简单的办法是让梯井宽敞一点（或者多开几条）。别在梯子两边紧贴着造房间，而是在梯子两侧各留一格空。（复制人能跳过一格。）多出来的空间能改善气流，之后放消防滑杆（Weeee！）和排气口也用得上。
 
-## Tip: oxygen and gas flow
+## 提示：氧气与气流
 
-## The research station, the research tree and the laboratory room bonus
+## 研究站、研究树与实验室房间加成
 
-Lots of useful stuff needs to be researched before it unlocks. One of the rooms in Oxygen Not Included is the Laboratory. A laboratory gives a bonus to research speed.
+很多有用的东西要先研究才能解锁。《缺氧》里有一种房间叫实验室，实验室会提升研究速度。
 
-The room requirements for a laboratory are that it needs to have a light source and two research buildings.
+实验室的房间要求是：要有光源，还要有两个研究建筑。
 
-At the start of the game you only have access to one research building, but you will unlock more soon. As for the light source, that you already have: the printing pod.
+开局你只有一种研究建筑可用，但很快就能解锁更多。至于光源，你已经有了：打印舱。
 
-You can select the light overlay in the top right (the icon that looks like a light bulb, or press F5) to see light sources in your base.
+你可以点右上角的照明概览（灯泡图案，或者按 F5）查看基地里的光源。
 
-Reseach staton
+研究站
 
 ![Building_Research_Station.webp](assets/Building_Research_Station-13d88058ac.avif)
 
-Research Station
+研究站
 
-Work done in light gets a "Lit Workspace" buff, which is a 15% speed increase to the work being done.
+在光照下工作会获得“明亮的工作区”增益，工作速度 +15%。
 
-On the immediate right and left of the printing pod there is enough light for it to count as a lit workspace. So now:
+打印舱紧挨着的左右两侧光照足够，算得上明亮的工作区。所以现在：
 
-* Build a Research Station (found under Stations, bottom left) next to the printing pod.
-* Connect it to your power grid (with wire)
+* 在打印舱旁边造一个研究站（左下角站台下面）。
+* 用电线把它接到电网
 
-The research station requires dirt to actually do the research. So it isn't a bad idea to:
+研究站做研究是要消耗泥土的。所以这么做不亏：
 
-* Build a storage bin (found under Base) near the research station.
-* Set it to store dirt (found under Cultivable Soil)
+* 在研究站旁边造个存储箱（基地下面）。
+* 把它设成存泥土（在“可耕种土壤”下面）
 
-We still need one more research station to qualify for the Laboratory room bonus, but in preparation for that you can build doors and walls to create a room for your research stations. (If you're impatient to get the room bonus you can just build a second basic research station. Two of them also qualifies for the room bonus.)
+还差一个研究站才能拿到实验室房间加成，但你可以先造门和墙，把研究站围成一个房间。（如果你等不及想要房间加成，直接再建一个基础研究站也行。两个研究站也算满足条件。）
 
 ![ONI-guide_PrintingPodLight.png](assets/ONI-guide_PrintingPodLight-7cf19c9109.avif)
 
-The printing pod. It gives off enough light to count as a light source and gives a "Lit Workspace" buff nearby.
+打印舱。它发出的光足够算作光源，还能给附近带来“明亮的工作区”增益。
 
 ![ONI-guide_ResearchRoomStart.png](assets/ONI-guide_ResearchRoomStart-ca6692e490.avif)
 
-The research station. Once we build a second research building in the room it will qualify for a Laboratory room bonus.
+研究站。等我们在房间里造好第二个研究建筑，它就能拿到实验室房间加成。
 
-There's a bunch of useful stuff that is unlocked through research. To conduct research, first open the research tree. This can be done using the research button in the top right or by first selecting a research station and then clicking on the research button that pops up.
+有不少有用的东西要靠研究解锁。要做研究，先打开研究树。点右上角的研究按钮就行，也可以先选中一个研究站，再点弹出的研究按钮。
 
 ![ONI-guide_ResearchTree.png](assets/ONI-guide_ResearchTree-0ad2a81c8a.avif)
 
-The research tree. This pic is from the Spaced Out DLC. (Not to worry - it isn't as intimidating as it might seem.)
+研究树。这张图来自《眼冒金星！》DLC。（别担心——它没看上去那么吓人。）
 
-The research tree looks a bit different in the base game and the Spaced Out DLC.
+本体和《眼冒金星！》DLC 的研究树长得有点不一样。
 
-With the research tree open, just click on something to start researching it. You can also click on something further down the research tree and all the necessary research required to get to it will be selected automatically.
+打开研究树后，点一下想研究的东西就开始研究了。你也可以直接点研究树靠后的某个项目，通往它所需的研究会自动全部选中。
 
-Before starting research I will set duplicant priorities, to make sure my researcher does the researching.
+开始研究之前，我会先设好复制人优先级，确保是我的研究者去做研究。
 
-Duplicant priorities versus Building Priorities
+复制人优先级与建筑优先级
 
-When dupes choose what to do, Duplicant Priorities come before Building Priorities.
+复制人决定干什么的时候，复制人优先级排在建筑优先级前面。
 
-By way of example, let's say we have a row of outhouses that need emptying. They are all set to priority 9 because things are about to go sideways. A dupe with a raised digging priority will keep digging - regardless of the Building Priority of the dig commands. A priority 1 dig command will win over a priority 9 command for anything else if the duplicant has a raised priority for digging.
+举个例子：假设有一排户外厕所等着清空。因为局面马上就要失控了，它们全被设成了优先级 9。但一个把挖掘优先级调高的复制人会继续挖——不管那些挖掘命令的建筑优先级是多少。只要这名复制人把挖掘优先级调高了，一个优先级 1 的挖掘命令就能压过其他任何优先级 9 的命令。
 
-Check "Enable Proximity"
+勾选“启用临近性”
 
-There is a curiously well-hidden box that you will want to check fairly early on: Enable Proximity. Click on the cog in the upper right corner of the Manage Duplicant Priorities screen to find it. It makes dupes focus on closer tasks first.
+有个藏得格外隐蔽的勾选框，你最好早点勾上：启用临近性。点“管理复制人优先级”界面右上角的齿轮就能找到它。它会让复制人优先做离得近的任务。
 
 ![ONI-guide_Priorities.png](assets/ONI-guide_Priorities-1d6bf9b7ff.avif)
 
-Priorities. This is my standard setup while I only have three dupes.
+优先级。这是我只有三个复制人时的标准设置。
 
-## Tip: Duplicant Priorities
+## 提示：复制人优先级
 
-When you are ready to start doing research it's a good time to set some priorities for your dupes. You can open the Duplicant Priorities menu by clicking on Priorities in the top right.
+准备开始研究的时候，正好可以给复制人设一下优先级。点右上角的优先级就能打开复制人优先级菜单。
 
-Here you can tinker with individual dupes' priorities for various tasks. You can raise priorities, lower priorities, or entirely forbid dupes from doing certain kinds of tasks. (Using the left & right mouse buttons.)
+在这里你可以调每个复制人对各类任务的优先级。可以调高、调低，或者干脆禁止某个复制人做某类任务。（用鼠标左键和右键。）
 
-How to set your priorities will depend on what dupes you chose. Change priorities accordingly - research for researchers, building and digging for builders and diggers, etc.
+怎么设取决于你选了什么复制人。按情况调整——研究者就调研究，建造工和挖掘工就调建造和挖掘，等等。
 
-Note: Later, you can grow your base to have enough dupes to have them focus on only one kind of task. But for now you will need to make sure one of your three starting dupes also takes care of the hamster wheel - so the base stays powered. And that someone empties and cleans the outhouses when they are full - so you don't have accidents.
+注意：以后基地人多了，你可以让复制人只专注一类任务。但现在你得确保三个开局复制人里有一个兼顾仓鼠轮——让基地不断电。还得有人负责在户外厕所满的时候清空和打扫——免得出“意外”。
 
-* The hamster wheel priority group is "Operating"
-* Wash basin and outhouse maintenance is "Tidying"
+* 仓鼠轮属于“操作”优先级组
+* 洗手盆和户外厕所的维护属于“整理”
 
-You can either raise those priority groups for some dupe or have a "general purpose" dupe without individual priorities, who will instead decide what to do based on Building Priorities.
+你可以给某个复制人把这两个优先级组调高，也可以留一个不设个人优先级的“万金油”复制人，让他按建筑优先级来决定干什么。
 
-Whatever you decide, it is a good idea to raise the Building Priorities for the hamster wheel (I usually have it on 6), the wash basin (I usually go with 6) and the outhouse (I have it on 8).
+不管你怎么定，把仓鼠轮（我一般设 6）、洗手盆（我一般也是 6）和户外厕所（我设 8）的建筑优先级调高都是好主意。
 
-## Beds, sore backs and the Barracks room bonus
+## 床铺、背部酸痛与宿舍房间加成
 
-Dupes will get a "Sore Back" debuff (-1 athletics for half a cycle) from sleeping on the ground.
+复制人睡地上会得到一个“背部酸痛”减益（半个周期内运动 -1）。
 
-* To avoid the debuff, build each dupe a bed - called a cot - found under Furniture in the bottom left.
+* 想避免这个减益，就给每个复制人建一张床——叫床铺——在左下角家具下面。
 
-(The debuff isn't really a big deal and, to my shame, I often let my dupes sleep on the ground for a cycle or two - or "a cycle or two" - before getting around to beds..)
+（这减益其实没什么大不了，说来惭愧，我常常让复制人睡地上一个周期或两个周期——或者说“一个周期或两个周期”——才想起来去造床。。）
 
-Beds, temporary
+床铺，临时的
 
 ![Building_Cot.webp](assets/Building_Cot-fbd58a37b0.avif)
 
-Cot
+床铺
 
-There are various room bonuses for bedrooms. The bonuses get better as your bedrooms become more luxurious.
+卧室有各种房间加成。卧室越豪华，加成越好。
 
-The first room bonus you can get for your bedrooms is the Barracks room bonus, which gives dupes +1 morale.
+你能拿到的第一个卧室房间加成是宿舍房间加成，给复制人 +1 士气。
 
-Morale isn't a big deal early in the game so you don't really need to worry about it now. But morale will become more important later on, as you start assigning skill points to your dupes. (Low morale leads to stress, which leads to other unpleasantness.)
+士气在游戏早期不算大事，现在不用太操心。但以后你开始给复制人分配技能点时，士气会越来越重要。（士气低会导致压力，压力又会引出别的糟心事。）
 
 ![ONI-guide_Barracks.png](assets/ONI-guide_Barracks-8760eba1fa.avif)
 
-A bedroom. It's simple, but it qualifies as a "Barracks" and gives a room bonus of +1 morale.
+一间卧室。很简单，但够格算“宿舍”，能给 +1 士气的房间加成。
 
-If your goal is to as soon as possible avoid the Sore Back debuff you can build cots in temporary locations. However, there are a few things to keep in mind when deciding where to put beds, even temporarily.
+如果你的目标是尽快躲开背部酸痛减益，可以先把床铺造在临时位置。不过就算是临时放床，也有几件事得留意。
 
-Dupes will not sleep well if their sleep is interrupted. For standard dupes (certain traits affect this), their sleep is interrupted if:
+复制人睡觉被打断就睡不好。对标准复制人来说（某些特质会影响这一点），睡眠会在以下情况被打断：
 
-* It is too bright. For instance next to the printing pod, or if there is a shine bug nearby. (You can access the Light Overlay on the top right or by pressing F5.)
-* They are sleeping next to a snoring dupe
+* 太亮了。比如在打印舱旁边，或者附近有只发光虫。（右上角可以打开光照概览，或者按 F5。）
+* 旁边有个打呼噜的复制人
 
 ![ONI-guide_BarracksShineBug.png](assets/ONI-guide_BarracksShineBug-7a24fb934b.avif)
 
-Too bright. A shine bug will interrupt sleep.
+太亮了。发光虫会打断睡眠。
 
-If you have a snorer, called a "loud sleeper", leave two spaces - the width of a cot - between their bed and other beds. That distance is enough that their snoring won't bother those sleeping nearby.
+如果你有个打呼噜的——叫“鼾声如雷”——就在他的床和其他床之间空两格（正好一张床铺的宽度）。这个距离足够让他的呼噜吵不到旁边睡觉的人。
 
-Interrupted sleep will lead to an Unrested debuff, which lowers a dupe's immune system and increase their stress. (It's not a big deal, but worth avoiding in the long run.)
+睡眠被打断会导致“没休息好”减益，降低复制人的免疫系统、还会增加压力。（这不算大事，但长远看还是躲开为好。）
 
-You can assign beds to specific dupes by clicking on the bed. This is useful for instance to make sure a loud sleeper sleeps in the right bed.
+点一下床，就能把床分配给指定复制人。比如用来确保鼾声如雷睡对床，就很有用。
 
-Food basics
+食物基础
 
-## Food
+## 食物
 
-The starting area has a decent amount of food. The red stuff growing around your base is Muckroot. Dig it up for easy calories.
+出生区的食物还不少。基地周围长着的红色东西是淤泥根。挖掉它，白拿卡路里。
 
 ![ONI-guide_Muckroot.png](assets/ONI-guide_Muckroot-454557e777.avif)
 
-Muckroot. Calories ready and waiting.
+淤泥根。卡路里已就位，就等你来拿。
 
-By default dupes won't harvest any of the plants growing around your base. You can change that so dupes harvest either some or all of the wild plants. To do that:
+默认情况下，复制人不会去收获基地周围长着的植物。你可以改成让复制人收获部分或全部野生植物。做法是：
 
-* click on the Harvest button in the bottom right
-* select either enable or disable harvest in the tool filter
-* click & drag over the plants you want to apply it to
+* 点右下角的收获按钮
+* 在工具筛选里选启用或禁用收获
+* 在你想要应用这个设置的植物上点击拖动
 
 ![ONI-guide_Harvest.png](assets/ONI-guide_Harvest-899df3240e.avif)
 
-To harvest or not to harvest. Use the harvest icon (bottom right) to decide.
+收还是不收。用收获图标（右下角）来决定。
 
 ![ONI-guide_ResearchBasicFarming_edited.jpg](assets/ONI-guide_ResearchBasicFarming_edited-d068da668f.avif)
 
-Basic Farming. Found at the top left of the research tree.
+基础耕种。在研究树左上角。
 
 ![Building_Planter_Box.webp](assets/Building_Planter_Box-4439eb6f17.avif)
 
-Planter Box
+种植箱
 
 ![Mealwood_Seed.webp](assets/Mealwood_Seed-e0e8b6e097.avif)
 
-Mealwood Seed
+米虱木种子
 
-Wild plants will keep you fed for a while, but sooner or later you will want to have some food production of your own. To get that up and running you'll first need to do some research.
+野生植物能撑你一阵子，但迟早你会想要自己的食物生产。想搞起来，得先做点研究。
 
-* Research Basic Farming, found in the Food research branch
+* 研究基础耕种，在食物研究分支里
 
-The research won't take that long. When done, you can build the Planter Box (under Food, bottom left).
+研究用不了多久。完成后就能造种植箱（左下角食物下面）。
 
-Mealwood only grows in temperatures of under +30C. When deciding where to plant, you can use the Temperature Overlay (top right, the thermometer) to get an overview of suitable areas.
+米虱木只在 +30C 以下的温度里生长。决定种哪儿的时候，可以用温度概览（右上角，温度计图案）看看哪些区域合适。
 
-* Build (at least) 5 planter boxes for every dupe you have
-* Plant Mealwood Seeds in them
+* 每个复制人（至少）配 5 个种植箱
+* 在里面种米虱木种子
 
-To plant, select a planter box, select what you want to plant in it, then click "Plant."
+想种东西，先选中种植箱，选好要种什么，然后点“种植”。
 
-Note: After setting one Mealwood seed to be planted you can select the planter box and use the "Copy settings" command to issue plant commands for other planter boxes. (So you don't need to plant them all individually.)
+注意：设好一个种米虱木的种植命令后，你可以选中那个种植箱，用“复制设置”命令给其他种植箱下达种植命令。（这样就不用一个个去种了。）
 
-You might not have enough Mealwood seeds to fill all planter boxes. Don't worry - harvesting can yield new seeds, and you will also unearth more seeds as you expand your base.
+你的米虱木种子可能不够填满所有种植箱。别担心——收获会产出新种子，你扩建基地时也会挖出更多种子。
 
-You can also get a seed by digging up Mealwood that is growing around your starter biome. A benefit to this is that they will grow more quickly if planted compared to when growing wild. You can click on a plant to compare "Wild Growth" and "Domestic Growth."
+挖掉出生生态周围长着的米虱木也能拿到种子。这么做的好处是，种下去的比野生的长得快。点一下植物，就能对比“野生生长”和“人工生长”。
 
-(The downside of domestic growth is that such plants require fertilizing, but that's not something worth worrying about now.)
+（人工生长的缺点是这样的植物需要施肥，不过这事现在不值得操心。）
 
-* Most foods have a "freshness" value
+* 大多数食物都有“新鲜度”数值
 
-* Freshness decreases over time
+* 新鲜度会随时间下降
 
-* How quickly freshness decreases is determined by:
+* 新鲜度下降的快慢取决于：
 
-  + the temperature food is stored in
-  + the atmosphere food is stored in
+  + 食物储存的温度
+  + 食物储存的气氛
 
-* A Refrigerator slows freshness decline but does not stop it entirely
+* 冰箱能减缓新鲜度下降，但不能完全阻止
 
-* The Refrigerator is unlocked in Agriculture in the Food research branch
+* 冰箱在食物研究分支的农业里解锁
 
-## Tip: food freshness
+## 提示：食物新鲜度
 
-Compost
+堆肥堆
 
 ![Building_Compost.webp](assets/Building_Compost-2c99d6562a.avif)
 
-Compost
+堆肥堆
 
-Note: polluted dirt can have germs. Transporting germy things gives dupes germs. So it is a good idea to have the compost behind a wash basin. (I usually put my compost with my outhouses.)
+注意：污染土可能带病菌。搬运带菌的东西会让复制人沾上病菌。所以最好把堆肥堆放在洗手盆后面。（我通常把堆肥堆跟户外厕所放一块。）
 
-## Composts: dealing with polluted dirt
+## 堆肥堆：处理污染土
 
-Your outhouses will produce polluted dirt. by researching Basic farming you will have unlocked the Compost (found under Refinement in the bottom left).
+你的户外厕所会产生污染土。研究基础耕种会解锁堆肥堆（左下角精炼下面）。
 
-The good news is that dupes can use a compost it to turn polluted dirt into dirt. Any food that spoils can also be thrown in the compost. The bad news is that composts generate a lot of heat.
+好消息是，复制人可以用堆肥堆把污染土变成泥土。任何腐败的食物也能丢进去堆肥。坏消息是，堆肥堆会产生大量热量。
 
-We will cover how to keep your base nice and cool later in the guide. For now, if you are worried about heat, you can also just not put any composts in your base.
+怎么让基地保持凉爽，本指南后面会讲。眼下如果你担心热量，干脆别在基地里放堆肥堆也行。
 
 ![ONI-guide_Compost.png](assets/ONI-guide_Compost-39b3dcd79c.avif)
 
-Compost. Tucked away behind wash basins.
+堆肥堆。藏在洗手盆后面。
 
-* There are three kinds of research in the base game. (The Spaced Out DLC adds a fourth kind.)
+* 本体里有三种研究。（《眼冒金星！》DLC 会加第四种。）
 
-* You don't need to remember what they are called, but it does seem like the kind of thing that should be included in a guide. So:
+* 你不用记住它们叫什么，不过这种东西似乎应该写进指南里。所以：
 
-  + Novice Research
-  + Advanced Research
-  + Interstellar Research
+  + 基础研究
+  + 高级研究
+  + 星际研究
 
-* Each kind of research requires its own research station.
+* 每种研究都需要对应的研究站。
 
-  + Novice Research is conducted on the Research Station (available immediately)
-  + Advanced Research is conducted on the Super Computer (unlocked under Advanced Research in the Colony Development research branch)
-  + Interstellar Research is conducted in the Virtual Planetarium (unlocked under Computing in the Computers research branch)
+  + 基础研究在研究站进行（开局就有）
+  + 高级研究在超级计算机上进行（在殖民地发展研究分支的高级研究下解锁）
+  + 星际研究在虚拟天象仪里进行（在计算机研究分支的信息处理下解锁）
 
-* Each research station requires a different material to conduct research.
+* 每种研究站做研究需要不同的材料。
 
-  + Novice research: Dirt
-  + Advanced research: Water
-  + Interstallar research: Data Banks
+  + 基础研究：泥土
+  + 高级研究：水
+  + 星际研究：数据磁盘
 
-## Tip: research basics (base game)
+## 提示：研究基础（本体）
 
-* Some research stations have skill requirements:
+* 有些研究站有技能要求：
 
-  + The Research Station has no requirements, anyone can use it
-  + The Super Computer requires the Advanced Research skill (1 point in the research skill tree)
-  + The Virtual Planetarium requires the Astronomy skill (3 points in the research skill tree)
+  + 研究站没有要求，谁都能用
+  + 超级计算机需要高级研究技能（研究技能树 1 点）
+  + 虚拟天象仪需要天文学技能（研究技能树 3 点）
 
-* All research stations, once unlocked, are found under Stations.
+* 所有研究站解锁后都在站台下面。
 
-* Data Banks, which are needed to conduct Interstellar Research, are gathered by sending rockets fitted with research modules into space, to uncover and explore planets.
+* 做星际研究需要的数据磁盘，是靠把装有研究舱的火箭送上太空、去发现和探索星球来收集的。
 
-* Interstellar Research is only necessary for the more advanced rocketry-related unlocks. Meaning there is no rush (or need) to get into rocketry if you don't want to. (That said, there are some so-called "space materials" that aren't available on your starting asteroid. But they are only necessary for advanced builds.) (Basically, by the time you are ready to start building them, sending up a few rockets will be no big deal.
+* 星际研究只对更高级的火箭相关解锁有用。也就是说，如果你不想搞火箭，就完全不用急（也没必要）。（话虽如此，有些所谓的“太空材料”在你的初始小行星上是拿不到的。但它们只对高级建造方案有用。）（基本上，等你准备开始造这些东西的时候，发射几枚火箭已经不算什么了。
 
-* The first two kinds of research are the same. Just dirt and water.
+* 前两种研究是一样的。就只是泥土和水。
 
-## Tip: research basics (Spaced Out DLC)
+## 提示：研究基础（《眼冒金星！》DLC）
 
-* For the other two kinds of research, see [Spaced Out research: Radbolts, data banks and you](spaced-out-research-guide.md)
+* 另外两种研究，请看[《眼冒金星！》研究：辐射粒子、数据磁盘与你](spaced-out-research-guide.md)
 
-Advanced research
+高级研究
 
-## Advanced Research: the Super Computer
+## 高级研究：超级计算机
 
-To keep improving your colony you will need to do a lot of research. The research station you have now can only do novice research.
+想让殖民地不断进步，你得做大量研究。你现在的研究站只能做基础研究。
 
-The second kind of research, Advanced Research, requires two things:
+第二种研究——高级研究——需要两样东西：
 
-1. a Super Computer and
-2. a dupe with one skill point spent in Researching
+1. 一台超级计算机，以及
+2. 一个在研究上花了一点技能点的复制人
 
 ![Building_Super_Computer.webp](assets/Building_Super_Computer-62284caf7b.avif)
 
-Super Computer
+超级计算机
 
-You unlock the Super Computer through researching Advanced Research in the Colony Development branch of the research tree. (You will need to research Employment first - you can't skip over research. But that's OK, we'll need that, too.)
+超级计算机是靠研究研究树里殖民地发展分支的“高级研究”解锁的。（你得先研究职业管理——研究是跳不过去的。不过没关系，那个我们也需要。）
 
-When the research is finished,
+研究完成后，
 
-* build a Super Computer (found under Stations, build it next to the printing pod)
-* connect the super computer to your power grid
+* 造一台超级计算机（站台下面，造在打印舱旁边）
+* 把超级计算机接到电网
 
-This will complete your research room and give you the Laboratory room bonus: +10% work speed. The reserch stations are also next to a light source, giving you a +15%  Lit Workspace speed bonus. So your research room now gives a total of +25% to research speed.
+这样你的研究房间就完整了，能拿到实验室房间加成：工作速度 +10%。研究站也在光源旁边，再给你 +15% 的明亮的工作区速度加成。所以你的研究房间现在总共给研究速度 +25%。
 
 ![ONI-guide_LaboratoryReady.png](assets/ONI-guide_LaboratoryReady-2f655c3ffc.avif)
 
-Laboratory. The room bonus and light source give a combined total of +25% research speed.
+实验室。房间加成加光源，合计 +25% 研究速度。
 
-By now your dupes have probably started getting their first skill points. (If not yet, then soon.)
+到这会儿你的复制人大概开始拿到第一批技能点了。（如果还没有，也快了。）
 
-Whatever dupe you have chosen to be your researcher, spend their skill point in the Research branch of the skill tree to unlock the Advanced Research skill. Then they can use the Super Computer.
+不管你选的是哪个复制人当研究者，把他们的技能点花在技能树的研究分支上，解锁高级研究技能。之后他们就能用超级计算机了。
 
-Something to consider: While you are still powering your base with a hamster wheel, power equals dupe time. For now, consider sticking to research you know you need either now or soon. Once you move on to coal power, feel free to go research-nuts.
+有一点值得考虑：在你还靠仓鼠轮供电的时候，电力等于复制人的时间。眼下不妨只研究你确定现在或马上就需要的东西。等你转向煤炭发电，再放开手脚疯狂研究也不迟。
 
-(Disclaimer: I rarely follow this advice. I usually go research-nuts from the start. It leads to more frequent brownouts, particularly during the night. But I haven't found that to be a big deal.)
+（免责声明：我很少听这个建议。我一般从开局就疯狂研究。这会让你更频繁地断电，尤其是夜里。不过我倒没觉得有多大不了。）
 
 ![ONI-guide_EndOfFirstGuide.png](assets/ONI-guide_EndOfFirstGuide-3b3a5d4e10.avif)
 
-It's a start. Power, oxygen, bathrooms, bedroom and research room sorted.
+算是有个开头了。电力、氧气、厕所、卧室和研究室都搞定了。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/the-very-early-game](https://www.guidesnotincluded.com/the-very-early-game) ([Wayback Machine snapshot](https://web.archive.org/web/20250731065451id_/https://www.guidesnotincluded.com/the-very-early-game)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/the-very-early-game](https://www.guidesnotincluded.com/the-very-early-game)（[Wayback Machine 快照](https://web.archive.org/web/20250731065451id_/https://www.guidesnotincluded.com/the-very-early-game)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

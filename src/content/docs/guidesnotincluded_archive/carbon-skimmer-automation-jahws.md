@@ -1,6 +1,6 @@
 ---
-title: "Carbon skimmer automation"
-description: "Carbon Skimmer Automation"
+title: "碳素脱离器自动化"
+description: "碳素脱离器自动化"
 source_url: https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806081445id_/https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws
@@ -10,22 +10,22 @@ archive_snapshot: https://web.archive.org/web/20250806081445id_/https://www.guid
 
 ![ONI_guide_CarbonSkimmer2.png](assets/ONI_guide_CarbonSkimmer2-5ab580364f.avif)
 
-Carbon Skimmer Automation
+碳素脱离器自动化
 
-This design uses automation to only turn on the carbon skimmer when the following two condtions are met for five seconds: 1) there is carbon dioxide, and 2) the gas pressure is at least 750 grams.
+这个设计用自动化让碳素脱离器只在以下两个条件同时满足五秒后才启动：1）存在二氧化碳；2）气压至少 750 克。
 
-Atmo sensor: above 750
+气压传感器：高于 750
 
-Gas element sensor: carbon dioxide
+气体元素传感器：二氧化碳
 
-Filter gate: 5 seconds
+过滤门：5 秒
 
-Note: piping isn't included here. You will need to pump water to the carbon skimmer and it outputs polluted water.
+注意：这里没有画管道。你需要把水抽到碳素脱离器，它会排出污染水。
 
-Design by Jahws
+设计：Jahws
 
-Source: "Useful Construction Patterns", by Jahws. Available at: <https://steamcommunity.com/sharedfiles/filedetails/?id=1359728437>, accessed 11 August, 2020
+来源：Jahws 的《Useful Construction Patterns》，可访问：<https://steamcommunity.com/sharedfiles/filedetails/?id=1359728437>，访问日期：2020 年 8 月 11 日
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws](https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws) ([Wayback Machine snapshot](https://web.archive.org/web/20250806081445id_/https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws](https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws)（[Wayback Machine 快照](https://web.archive.org/web/20250806081445id_/https://www.guidesnotincluded.com/carbon-skimmer-automation-jahws)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

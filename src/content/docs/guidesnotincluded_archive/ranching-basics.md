@@ -1,429 +1,429 @@
 ---
-title: "Ranching basics"
-description: "The stable (and room size)"
+title: "养殖基础"
+description: "畜舍（以及房间大小）"
 source_url: https://www.guidesnotincluded.com/ranching-basics
 archived: 2025-08-26
 archive_snapshot: https://web.archive.org/web/20250826150351id_/https://www.guidesnotincluded.com/ranching-basics
 image: assets/PipSleetWheatFarm-a7452367bf.png
 ---
 
-Contents:
+目录：
 
-Introduction
+引言
 
-Ranching prerequisites
+养殖的前提条件
 
-The stable (and room size)
+畜舍（以及房间大小）
 
-Wrangling and traps
+捕捉与陷阱
 
-Wild critters and critter taming
+野生小动物与小动物驯化
 
-Feeding critters
+喂养小动物
 
-Critter morphs and egg chances
+小动物变种与产蛋几率
 
-Eggs, incubators and incubation times
+蛋、孵化器与孵化时间
 
-Using pips to plant stuff
+用树鼠种东西
 
-Example ranch: hatches
+养殖区示例：好吃哈奇
 
-Example ranch: dreckos
+养殖区示例：毛鳞壁虎
 
-## INTRODUCTION
+## 引言
 
-A long (long, long) time ago, back in early (early, early) access, ranching was a necessity(\*). That is no longer the case. So the first thing to say about ranching is that it is useful but optional.
+很久（很久很久）以前，在抢先体验的早期（早期早期），养殖是必需品（\*）。现在不是了。所以关于养殖要说的第一件事就是：它有用，但不是必须的。
 
-If you're still reading, let's move on to some benefits to ranching.
+如果你还在读，那咱们接着聊聊养殖的一些好处。
 
-Ranching is an easy(ish) way to get some useful resources. Or, if we want to be precise, to exchange resources for other resources - you exchange whatever you feed your critters for the resources the critters provide. One common example is feeding hatches rock to get coal.
+养殖是搞到某些有用资源的一种（相对）简单的方法。或者说得准确点，是拿资源换资源——你拿喂给小动物的东西，换小动物产出的东西。一个常见的例子就是喂好吃哈奇吃岩石，换煤炭。
 
-Critters aren't as fussy about heat as plants are, which is a benefit to relying on meat rather than mealwood or bristle blossoms as a food source.
+小动物对高温不像植物那么挑，所以靠肉而不是米虱木或毛刺花当食物来源，算是个优势。
 
-Barbeque, which is made from meat (using an Electric Grill, found under Food), is also a higher-quality meal than bristle blossoms or mealwood.
+烤肉串是用肉做的（用电动烤炉，在食物分类下），它也比毛刺花或米虱木做成的东西品质更高。
 
-Before we move on: I realize this section contains a lot of stuff. Don't be intimidated - ranching doesn't need to be complex or difficult. You can ignore pretty much everything I have written and come back to it as needed. There are some pictures of example ranches at the end of the guide. Including a very simple hatch ranch, which will give you a steady supply of coal (if that's what you're after).
+在往下走之前：我知道这一节内容很多。别被吓到——养殖不必复杂也不必难。你大可以把我写的东西几乎全都无视，需要的时候再回来翻。指南末尾有几张示例养殖区的图。其中有个非常简单的好吃哈奇养殖区，能给你稳定的煤炭供应（如果你要的就是这个）。
 
-## RANCHING PREREQUISITES
+## 养殖的前提条件
 
-Dupe prerequisites
+复制人前提条件
 
-Ranching requires a dupe with the Critter Ranching skill. To unlock that skill you will first have to unlock Improved Farming, so it takes a while to get a rancher. (To be able to do ranching from the start of the game you will have to have a dupe that starts with the ranching skill. This is possible but uncommon - prepare for a lot of rerolling.)
+养殖需要一个拥有小动物养殖技能的复制人。要解锁这个技能，你得先解锁改良耕种 I，所以要养出个养殖者得等一阵子。（想开局就能养殖，你得有个自带养殖技能的复制人。这有可能，但不常见——做好反复重摇的准备。）
 
-Research prerequisites
+研究前提条件
 
-The various ranching-related buildings you will need are all unlocked through research. You will need to unlock at least Ranching, the third tier in the Food research branch.
+你需要的各种养殖相关建筑都是靠研究解锁的。你至少得解锁养殖，也就是食物研究分支的第三层。
 
-Animal Control, the fourth tier, is needed for some ranching-related stuff, like incubating or more advanced automation. (But you can get by without it.)
+第四层的动物控制是某些养殖相关内容需要的，比如孵化或者更高级的自动化。（不过没有它也能凑合。）
 
-Prerequisites
+前提条件
 
-## THE STABLE (AND ROOM SIZE)
+## 畜舍（以及房间大小）
 
 ![Building_Grooming_Station.webp](assets/Building_Grooming_Station-5b8edc1b41.png)
 
-Grooming Station
+梳理站
 
-Before you can get ranching you will need (spoiler alert) a ranch. A room for ranching is (officially) called a stable (but I tend to forget and instead call it a ranch).
+在开始养殖之前，你需要（剧透警告）一个养殖区。用来养殖的房间（官方）叫畜舍（但我老是记不住，习惯叫它养殖区）。
 
-The stable, like other rooms, has room requirements:
+畜舍和其他房间一样，有房间要求：
 
-* It has to have a Grooming Station (found under stations) and/or a Shearing Station (also under Stations)
+* 里面必须有梳理站（在站台分类下）和／或修剪站（也在站台分类下）
 
-  + (Commonly you would have at least a grooming station. Having only a shearing station is a special-case scenario regarding dreckos, where you'd mainly want reed fiber or plastic.)
-* The room needs to be at least 12 tiles
-* The room can be at most 96 tiles
+  + （一般至少会放个梳理站。只放修剪站是毛鳞壁虎的特例，那种情况下你主要想要的是芦苇纤维或塑料。）
+* 房间至少要有 12 格
+* 房间最多 96 格
 
-Stable
+畜舍
 
 ![Building_Shearing_Station.webp](assets/Building_Shearing_Station-7cd8859c4f.png)
 
-Shearing Station
+修剪站
 
-The size of your stable matters. Critters want a bit of space. If a critter doesn't have enough space it gets a "cramped" debuff. The cramped debuff leads to it not laying any eggs for as long as the debuff is active.
+畜舍的大小很重要。小动物想要点空间。小动物空间不够就会吃到一个“狭窄”的减益。只要这个减益挂着，它就不会下蛋。
 
-Note: critter eggs also count towards the critter total.
+注意：小动物蛋也算进小动物总数里。
 
-To remove the cramped debuff, simply bring down the number of critters in the stable - for instance by removing some (or all) eggs.
+想消除“狭窄”减益，只要把畜舍里的小动物数量降下来就行——比如拿走一些（或者全部）蛋。
 
-Critters have varying requirements for how much space they want. So the maximum amount of critters you can have in a stable without getting the cramped debuff depends on the type of critter you are ranching.
+不同小动物对空间的要求不一样。所以一个畜舍里最多能养多少只而不吃“狭窄”减益，取决于你养的是哪种小动物。
 
-Hatches and dreckos (both regular and glossy dreckos) require 12 tiles of space per critter. Meaning you can have 8 such critters in a max-sized stable.
+好吃哈奇和毛鳞壁虎（普通毛鳞壁虎和滑鳞壁虎都算）每只要求 12 格空间。也就是说，最大尺寸的畜舍里能养 8 只。
 
-You can find a list of critter space requirements on the [Wiki](https://oxygennotincluded.fandom.com/wiki/Stable).
+小动物空间需求的列表可以在 [Wiki](https://oxygennotincluded.fandom.com/wiki/Stable) 上查到。
 
-## WRANGLING AND TRAPS: GETTING CRITTERS WHERE YOU WANT THEM
+## 捕捉与陷阱：把小动物弄到你想让它待的地方
 
-Critter Drop-Off
+小动物放生点
 
 ![Building_Fish_Release.webp](assets/Building_Fish_Release-af96b72f6b.png)
 
-How to move a critter into a stable depends on the critter.
+怎么把小动物搬进畜舍，得看是哪种小动物。
 
-For most critters all that is needed is to select the critter, then select the Move To option, and finally choose where you want to move the critter. A dupe with the ranching skill will then wrangle the critter and move it to where you decided.
+对大多数小动物来说，只要选中它，然后选“前往”选项，最后挑你想让它去的地方就行。接着一个会养殖技能的复制人会把小动物捕捉起来，搬到你指定的地方。
 
-Another option is to issue a wrangle command. This can be done by clicking on the Capture Critters icon on the bottom right (the picture of a net) and then clicking and dragging over the critter or critters you want to wrangle. Yet another option is selecting a critter and then clicking on Wrangle.
+另一个办法是下捕捉指令。点右下角的“捕捉小动物”图标（那张网的图），然后在你想捕捉的小动物身上点住拖动框选就行。还有一个办法是选中一只小动物，然后点“捕捉”。
 
-Some critters cannot be wrangled and instead need to be caught in traps. There are separate traps for land-based critters, airborne critters and for fish. After building a trap, a dupe with the Critter Ranching 1 skill needs to arm the trap before it will work.
+有些小动物没法捕捉，只能靠陷阱抓。陆生小动物、飞行小动物和鱼各有各的陷阱。建好陷阱后，得有个拥有小动物养殖 I 技能的复制人去布置陷阱，它才能用。
 
-Wrangling and traps
+捕捉与陷阱
 
 ![ONI-Guide-UnarmedTraps.png](assets/ONI-Guide-UnarmedTraps-2123835769.png)
 
-Traps waiting to be armed: airborne critter trap, fish trap, critter trap
+等着被布置的陷阱：飞行小动物陷阱、捕鱼陷阱、小动物陷阱
 
-Fish Release
+鱼类放生点
 
-Once a critter has been wrangled or caught in a trap, you can use a Critter Drop-Off building (or a Fish Release) to let your dupes know where you want to move it.
+小动物被捕捉或者被陷阱抓住之后，你可以用小动物放生点建筑（或者鱼类放生点）告诉复制人你想把它搬去哪。
 
-Just building a critter drop-off or fish release isn't enough: you also need to select it and define what kinds of critters you want to have brought there.
+光建个放生点或鱼类放生点是不够的：你还得选中它，设定你想要搬来的是哪些小动物。
 
-By selecting the critter drop-off you can also set a maximum amount of critters to be brought to a stable. This is useful for instance if you want to try to avoid critters getting the cramped debuff by dupes bringing too many critters to a ranch.
+选中放生点之后，你还能设定搬进畜舍的小动物数量上限。这挺有用的，比如你想避免复制人往养殖区里塞太多小动物、把小动物挤到“狭窄”减益。
 
-However, note that the maximum you can set it to is 20. Meaning if there are already 20 (or more) critters in a stable (or area) then dupes won't bring any critters to the drop-off. This is particularly relevant to remember if you have a drop-off in an open area, meaning not in a room. Then all the critters roaming the map (not in rooms) count towards the 20 max critters.
+不过要注意，上限最多只能设到 20。也就是说如果畜舍（或某片区域）里已经有 20 只（或更多）小动物了，复制人就不会再往放生点搬了。如果你把放生点设在开放区域、也就是不在房间里，这点尤其要记住。那样的话，地图上（不在房间里）到处乱晃的小动物全都会算进这 20 只上限里。
 
-You can use a Critter Pick-Up to manage dupes automatically picking up (wrangling) critters that exceed the set amount for a stable.
+你可以用小动物移取点来让复制人自动抓走超过畜舍设定数量的小动物。
 
-You can see how many critters there are in a fish feeder's or critter drop-off's area by mousing over it. If a critter is wrangled but no-one is moving it to a stable, check the critter (or fish) drop-off. There might be too many critters in the area.
+把鼠标移到喂鱼器或者小动物放生点上，就能看到它范围内有多少只小动物。如果某只小动物已经被捕捉、却没人把它搬去畜舍，就检查一下小动物（或鱼）放生点。可能是那片区域的小动物太多了。
 
-You can set the maximum amount of critters in a stable to 8 (or 7 to have a bit of leeway). Then dupes won't bring more critters to that ranch, even if they are wrangled. Note, however, that the critters in the ranch will lay eggs, and the eggs count toward the cramped debuff.
+你可以把畜舍的小动物上限设成 8（或者设 7，留点余量）。这样复制人就不会再往那个养殖区搬小动物了，哪怕它们已经被捕捉。不过要注意，畜舍里的小动物会下蛋，而蛋也算进“狭窄”减益里。
 
-Unfortunately, keeping stables at a steady 7 or 8 critters requires either a lot of manual tinkering or some automation and additional building.
+不幸的是，想把畜舍稳定维持在 7 只或 8 只，要么得大量手动折腾，要么得靠自动化和额外建筑。
 
-I might cover ranch automation later in the guide, but there are a lot of people who are a lot better at that than I am. So you're probably better off just checking the forums for examples. Search for "automated [critter you want] ranch," or "evolution chamber."
+养殖区的自动化我可能会在指南后面讲，不过这方面比我强的人多了去了。所以你大概还是直接去论坛翻例子更好。搜“automated [你想要的小动物] ranch”或者“evolution chamber”。
 
 ![Building_Critter_Drop-Off2.webp](assets/Building_Critter_Drop-Off2-32bc86079c.webp)
 
 ![Building_Critter_Pick-Up.webp](assets/Building_Critter_Pick-Up-9babdb8f2a.webp)
 
-Critter Pick-Up
+小动物移取点
 
-## WILD CRITTERS AND CRITTER TAMING
+## 野生小动物与小动物驯化
 
-Critters can be either wild or tamed. There are up- and downsides to both.
+小动物分野生和温顺两种。两者各有好坏。
 
-A wild critter can be hungry but cannot starve to death. A tame critter will starve to death if left without food for long enough. (You will get a warning about a critter starving. By selecting the critter you can see how many days are left before it starves to death.)
+野生小动物会饿，但饿不死。温顺的小动物要是太久没吃的，就会饿死。（小动物快饿死时你会收到警告。选中它就能看到还有几天会饿死。）
 
-This is particularly important to keep in mind before taming critters with limited diets, like pips. Make sure you have an arbor tree that is sufficiently grown (meaning it has branches) before you tame a pip, otherwise it may starve to death before a planted tree matures enough.
+在驯化食谱有限的小动物（比如树鼠）之前，这点尤其要记住。驯化树鼠之前先确保你有一棵长得够高的乔木树（也就是有树枝的），否则它可能在种下的树长成之前就饿死了。
 
-A wild critter lays eggs that hatch wild critters. Tame critters lay eggs that hatch tame critters. Once tamed, all descendants of a critter will be tame. If you never do any ranching, you will always only have wild critters.
+野生小动物下的蛋孵出野生小动物。温顺小动物下的蛋孵出温顺小动物。一旦被驯化，这只小动物的所有后代都会是温顺的。如果你从来不搞养殖，那你的地图上永远只有野生小动物。
 
-Wild critters lay one egg during their lifetime, meaning the wild critter population of your map remains roughly constant.
+野生小动物一生只下一颗蛋，也就是说你地图上的野生小动物数量基本保持不变。
 
-Tame critters lay many eggs during their lifetime. (According to the [wiki](https://oxygennotincluded.fandom.com/wiki/Ranching), a tame critter will lay 16 eggs over the course of its life, assuming good conditions: not suffering debuffs like glum or cramped.)
+温顺小动物一生会下很多蛋。（根据 [wiki](https://oxygennotincluded.fandom.com/wiki/Ranching)，在条件良好、没吃郁闷或狭窄之类减益的情况下，一只温顺小动物一生会下 16 颗蛋。）
 
-Critters in Oxygen Not Included - even "wild" critters - won't attack you. The only exception is Pokeshells that are guarding an egg. Other creatures, and Pokeshells that aren't guarding eggs, are harmless. (They can be bothersome, certainly. But they won't try to hurt your dupes.)
+《缺氧》里的小动物——连“野生”的也算——都不会攻击你。唯一的例外是正在护蛋的抛壳蟹。其他生物，以及不护蛋的抛壳蟹，都是无害的。（它们肯定能烦到你。但它们不会试图伤害你的复制人。）
 
-A wild critter is tamed by grooming it. This is done by a rancher at a grooming station. Grooming gradually reduces the wildness of a critter; going from wild to groomed takes two cycles.
+野生小动物是靠梳理来驯化的。这由养殖者在梳理站进行。梳理会逐渐降低小动物的野性；从野生变成已梳理要两个周期。
 
-Tamed critters need frequent grooming to stay happy, otherwise they will get a "glum" debuff leading to an 80% decrease in metabolism. Meaning less output of whatever the critter normally, um... poops.
+温顺小动物需要经常梳理才能保持快乐，否则就会吃到“郁闷”减益，代谢下降 80%。也就是说它平常……呃……拉出来的东西会变少。
 
-Wild fish are tamed by feeding them. This is done using a fish feeder. Eating form a feeder gives them an "Ate From Feeder" buff: wildness -20%, happiness +2.
+野生鱼是靠喂食来驯化的。用喂鱼器来喂。从喂食器进食会给它们一个“从喂食器进食”增益：野性 -20%，幸福度 +2。
 
-Wild & tame
+野生与温顺
 
-## FEEDING CRITTERS
+## 喂养小动物
 
-Feeding critters works a bit differently depending on the critter. For many critters you will use a Critter Feeder. Or, for fish, a Fish Feeder.
+喂小动物的方法因小动物而异。很多小动物用小动物喂食器。鱼则用喂鱼器。
 
-Feeding critters
+喂养小动物
 
 ![Building_Critter_Feeder.webp](assets/Building_Critter_Feeder-e973cdb23e.png)
 
-Critter Feeder
+小动物喂食器
 
 ![Building_Fish_Feeder.webp](assets/Building_Fish_Feeder-0015e69afb.png)
 
-Fish Feeder
+喂鱼器
 
 ![ONI-BuddyBud1.png](assets/ONI-BuddyBud1-12b3dc0ed5.png)
 
-Pre-emptive plant commands that may or may not save Buddy Bud seeds from being eaten by pacu.
+提前下的种植指令，也许能、也许不能保住同伴芽种子不被帕库鱼吃掉。
 
-Click on the feeder to see a list of the critters it can have food for. Then click to select what kind(s) of food you want to fill it with. Dupes will then fill it up with whatever you selected.
+点一下喂食器，就能看到它能为什么小动物提供食物。然后点选你想往里装哪种（或哪几种）食物。复制人就会按你选的往里装。
 
-You can save some dupe travel time by having a storage bin set to store the same kind of material/food nearby. So they don't have to go far to fill up the feeder.
+你可以把附近的存储箱设成存放同类材料／食物，从而省掉一些复制人跑路的时间。这样他们就不用跑大老远去填喂食器。
 
-Critters can also eat food/resources they come across on the map. And some, like dreckos and glossy dreckos, eat plants that are growing, either wild or planted in a farm tile (but not anything growing in a planter box).
+小动物也会吃掉地图上碰到的食物／资源。有些（比如毛鳞壁虎和滑鳞壁虎）会吃正在生长的植物，野生的或者种在土培砖里的都吃（但种在种植箱里的不吃）。
 
-Note that pacu (i.e. fish) like eating algae and seeds that have been dug up and are lying on the ground. If you want to save your algae or flower seeds, sweep them up before fish get at them.
+注意帕库鱼（也就是鱼）喜欢吃被挖出来、掉在地上的藻类和种子。想保住你的藻类或花种子，就在鱼吃到之前先清扫掉。
 
-What I do to (try to) save seeds from hungry fish is to have several pots with (high-priority) plant commands for the kinds of seeds I want to save. Specifically Buddy Bud seeds. That way, if dupes uncover any of those seeds they will hopefully get picked up and planted before they end up in a pacu's digestive tract.
+我为了（尽量）保住种子不被饿鱼吃掉，会放几个花盆，给我想保的种子下（高优先级）种植指令。具体就是同伴芽种子。这样如果复制人挖出了那些种子，它们有希望在被送进帕库鱼消化道之前被捡起来种下。
 
-(A note on how to do that: You can't issue a plant command for a seed you don't have. But if you have already planted, say, a Buddy Bud seed in a pot, then you can copy its settings and apply it to other pots.)
+（关于怎么操作的一点说明：你没有的种子是下不了种植指令的。但如果你已经在花盆里种了一颗比如同伴芽种子，那你就能复制它的设置再套到别的花盆上。）
 
-## CRITTER MORPHS AND EGG CHANCES
+## 小动物变种与产蛋几率
 
 ![Hatchling_Egg.webp](assets/Hatchling_Egg-b0e26884a9.png)
 
-Hatch
+好吃哈奇
 
 ![Sage_Hatchling_Egg.webp](assets/Sage_Hatchling_Egg-2192eb11b0.png)
 
-Critters can lay different kinds of eggs. They can either lay an egg that will hatch into the same kind of critter that they are, or they can lay an egg that will hatch into a different version - a morph - of that critter. (You can see which it is from the egg itself; you don't have to wait for it to hatch.)
+小动物会下不同种类的蛋。它们要么下一颗孵出来和它自己同种的蛋，要么下一颗孵出来是另一个版本——变种——的蛋。（从蛋本身就能看出来是哪种，不用等它孵出来。）
 
-The reason this is significant is that various morphs of a critter can consume different kinds of food and can also generate different kinds of resources.
+这件事之所以重要，是因为小动物的各种变种会吃不同的食物，也会产出不同的资源。
 
-Two common early-game examples are morphing:
+游戏前期两个常见的例子是：
 
-* Hatches into stone hatches. Stone hatches (unlike regular hatches) can consume igneous rock, which is often abundant.
-* Dreckos into glossy dreckos. When sheared, glossy dreckos drop plastic.
+* 好吃哈奇变成石壳哈奇。石壳哈奇（和普通好吃哈奇不同）能吃火成岩，而火成岩通常很富余。
+* 毛鳞壁虎变成滑鳞壁虎。滑鳞壁虎被修剪时会掉塑料。
 
-The likelihood of laying different kinds of eggs is affected by what you feed a critter.
+下不同种类蛋的几率受你喂什么东西影响。
 
-Morphs
+变种
 
-Sage Hatch
+草质哈奇
 
 ![Stone_Hatchling_Egg.webp](assets/Stone_Hatchling_Egg-0dd6e15fee.png)
 
-Stone Hatch
+石壳哈奇
 
 ![Smooth_Hatchling_Egg.webp](assets/Smooth_Hatchling_Egg-57735a61d9.png)
 
-You can see what percentage chance a critter has of laying various kinds of eggs by selecting the critter and looking under egg chances. By mousing over the different kinds of eggs it can lay you will see what foods improve the chance of laying them.
+选中一只小动物，看“产蛋几率”那一栏，就能知道它下各种蛋的百分比几率。把鼠标移到它能下的各种蛋上，就能看到什么食物能提高下这种蛋的几率。
 
-You can also find a (partial) list of critters and how foods affect their egg chances on the [wiki](https://oxygennotincluded.fandom.com/wiki/Critter_Morphs).
+小动物（部分）名单以及食物如何影响它们的产蛋几率，也能在 [wiki](https://oxygennotincluded.fandom.com/wiki/Critter_Morphs) 上查到。
 
-In the examples above regarding common early critters:
+上面那些关于常见前期小动物的例子里：
 
-* A hatch becomes more likely to lay stone hatch eggs when fed sedimentary rock.
+* 喂好吃哈奇吃沉积岩，它下石壳哈奇蛋的几率会变高。
 
-  + You can find sedimentary rock in the slime biome. (Try to avoid unnecessarily digging up slimelung-infested tiles. Check the germ overlay: icon in top right or press F9.)
-* A drecko becomes more likely to lay glossy drecko eggs when fed mealwood.
+  + 沉积岩能在菌泥生态里找到。（尽量别去挖那些没必要挖的、带粘液肺的格。看病菌概览：右上角的图标，或者按 F9。）
+* 喂毛鳞壁虎吃米虱木，它下滑鳞壁虎蛋的几率会变高。
 
-Smooth Hatch
+光滑哈奇
 
-## EGGS, INCUBATORS AND INCUBATION TIMES
+## 蛋、孵化器与孵化时间
 
 ![ONI-incubator1.png](assets/ONI-incubator1-057d5c38ff.png)
 
-Incubator with egg. The egg has the Lullabied buff, and is at 91% incubation. (The green circle in the bottom left shows the incubation percentage.)
+装着蛋的孵化器。这颗蛋带有“摇篮曲”增益，孵化度 91%。（左下角的绿圈显示孵化百分比。）
 
-It takes a while for an egg to hatch. During this time, the egg is listed as incubating.
+蛋孵出来是要花时间的。这段时间里，蛋的状态是孵化中。
 
-You can select an egg to see how far along it is; its incubation percentage is listed under condition. You can also see how quickly (or slowly) its incubation percentage goes up - how many percent per cycle.
+选中一颗蛋就能看到它孵到哪一步了；它的孵化百分比在“状况”栏里。你也能看到它的孵化百分比涨得多快（或多慢）——每周期涨百分之几。
 
-You can speed up the incubation process considerably with the help of an Incubator. An egg in an incubator can be sung to (by a dupe with the ranching skill). This will give the egg a "Lullabied" buff that raises its incubation percentage significantly for that cycle.
+借助孵化器可以大大加快孵化过程。孵化器里的蛋可以由（有养殖技能的）复制人唱歌给它听。这会给蛋一个“摇篮曲”增益，在当周期内大幅提高它的孵化百分比。
 
-I'm not sure if the percentages differ between critters (I don't think they do), but at least for hatches and dreckos:
+我不确定不同小动物的百分比是不是一样的（我觉得是一样的），但至少对好吃哈奇和毛鳞壁虎来说：
 
-* A lullabied egg will get a +20% incubation, compared with just 5% incubation per cycle for an egg without the lullabied buff.
+* 听过摇篮曲的蛋会获得 +20% 孵化度，而没这个增益的蛋每周期只有 5% 孵化度。
 
-Meaning, where a normal egg will take 20 cycles to hatch, an egg with a constant lullabied buff will hatch in just 5 cycles.
+也就是说，一颗普通蛋要 20 个周期才孵出来，而一颗一直挂着摇篮曲增益的蛋只要 5 个周期。
 
-The buff lasts one cycle, so to maximize how quickly an egg hatches they need to be lullabied every cycle. You can see if an egg has the lullabied buff by mousing over it. It will have a bullet point that says incubating, and if lullabied it will have a second bullet point that says lullabied.
+这个增益持续一个周期，所以想让蛋孵得最快，就得每个周期都给它唱摇篮曲。把鼠标移到蛋上就能看出它有没有摇篮曲增益。它下面会有一条“孵化中”，如果听着摇篮曲，还会有第二条“摇篮曲”。
 
-That was the good news. The bad news is that the incubator is a power-hungry little thing: it requires 240W. But there is good news with the bad: the incubator only needs to be powered while a dupe lullabies the egg. After that you can power it down and the buff will still remain. Then, once you need to lullaby it again, you will once again need to (briefly) power up the incubator.
+以上是好消息。坏消息是孵化器是个很能吃电的小东西：需要 240W。不过坏消息里也有好消息：只在复制人给蛋唱摇篮曲的时候才需要给孵化器通电。之后你可以把电断掉，增益依然保留。再等到需要给它唱歌的时候，你又得（短暂地）给孵化器通上电。
 
-What this means is that you can save a lot of power by just turning the incubator on long enough to have a dupe lullaby it, and then turn off the incubator again. The buff lasts for a cycle, after which you again turn on the incubator long enough for a dupe to sing to it again.
+这就是说，你只要把孵化器开够让复制人唱完摇篮曲，然后关掉，就能省下大量电力。增益持续一个周期，之后你再开一次孵化器，够复制人再唱一遍就行。
 
-You can use some simple automation to turn incubators on and off. For instance by building a Signal Switch (found under Automation) and using automation wire to connect it to the incubator's automation port. Then you can simply flip the switch to turn the incubator on and off. Automation is covered [later in the guide](getting-started-with-automation.md).
+你可以用一些简单的自动化来开关孵化器。比如建一个信号开关（在自动化分类下），再用信号线连到孵化器的自动化接口上。然后你只要拨一下开关就能开关孵化器。自动化在[指南后面](getting-started-with-automation.md)有讲。
 
-Or, if automation seems intimidating, you can just use the Disconnect tool (bottom right, looks like a pair of scissors) to disconnect the incubator's power wire, then reconnect it when you want to power it again.
+或者，如果自动化让你发怵，你也可以用断开工具（右下角，长得像一把剪刀）把孵化器的电线拆掉，想通电的时候再接上。
 
-If you want to save on refined metal you can use the same incubator to lullaby multiple eggs. Removing and replace eggs in the incubator as necessary.
+如果你想省点精炼金属，可以让同一个孵化器给多颗蛋唱摇篮曲。需要的时候把蛋拿出来换一换就行。
 
-Incubation
+孵化
 
-## USING PIPS TO PLANT STUFF
+## 用树鼠种东西
 
-One of the bonus features of ranching is being able to use a nifty feature pips have: planting wild plants.
+养殖的附加好处之一，是能用上树鼠的一个妙处：种野生的植物。
 
-Just like tame and wild critters differ, dupe-planted (or "domesticated") plants and wild plants are also different. Wild plants grow more slowly, but don't require any fertilizing.
+就像温顺小动物和野生小动物不同，复制人种的（也就是“驯化”的）植物和野生植物也不一样。野生植物长得慢，但不需要施肥。
 
-Pips
+树鼠
 
 ![Pip.webp](assets/Pip-a87f1c9eaa.png)
 
-Pip
+树鼠
 
-For instance, a domesticated mealwood takes three cycles to grow. During those three cycles it requires 10kg of dirt each cycle. A wild mealwood plant takes a lot longer to grow - 12 cycles. But it doesn't require any dirt.
+比如，一棵驯化的米虱木要三个周期长成。这三个周期里它每周期需要 10kg 泥土。一棵野生米虱木要长得多——12 个周期。但它不需要任何泥土。
 
-Pips are unique in that they will pick up seeds and plant them. If a dupe plants a seed the resulting plant will be domesticated. But a seed planted by a pip will grow a wild plant.
+树鼠的独特之处在于它会捡起种子去种。如果是复制人种的种子，长出来的植物就是驯化的。但树鼠种下的种子会长成野生植物。
 
-(As long as the pip doesn't plant the seed in a farm tile or hydroponic tile. Such plants are considered domesticated even when planted by a pip.)
+（前提是树鼠别把种子种在土培砖或液培砖里。那种情况下，就算是树鼠种的也算驯化。）
 
-This means you can use pips to create farms of wild plants; slower growing but which won't require any fertilizing. (The conditions for the plant - air pressure, temperature, etc. - still need to be met.)
+也就是说你可以用树鼠搞野生植物农场；长得慢，但不用施任何肥。（植物所需的条件——气压、温度等等——还是得满足。）
 
 ![PipSleetWheatFarm.png](assets/PipSleetWheatFarm-a7452367bf.png)
 
-Natural sleet wheat farm. Creating lots of natural tiles and getting your pips to plant lots of seeds is a hassle. But the result is free resources.
+天然冰霜小麦农场。造一堆天然格、再让树鼠去种一堆种子是挺麻烦的。但结果是白拿的资源。
 
-Pips follow specific rules regarding planting. These rules have been clearly and concisely documented in a post by Nakomaru on Klei's forums. It's a wonderful guide and is what I turn to whenever I need to remember how the heck pip planting works again.
+树鼠种植有一些具体的规则。这些规则被 Nakomaru 在 Klei 论坛的一篇帖子里讲得又清楚又简洁。那是一篇很棒的指南，我每次忘了树鼠种植到底是怎么运作的时候，就回去翻它。
 
-See: [Pip Planting: Everything You Need to Know](https://forums.kleientertainment.com/forums/topic/110299-pip-planting-everything-you-need-to-know/)
+参见：[树鼠种植：你需要知道的一切](https://forums.kleientertainment.com/forums/topic/110299-pip-planting-everything-you-need-to-know/)
 
-There are useful tools available online for planning farms. I use (and recommend) Oni Assistant and Professor Oakshell's Lab.
+网上有一些规划农场的好用工具。我用（也推荐）Oni Assistant 和 Professor Oakshell's Lab。
 
-* Oni Assistant: oni-assistant.com
-* Professor Oakshell's Lab: zari.rtk0.net/ProfessorOakshell/index.html
+* Oni Assistant：oni-assistant.com
+* Professor Oakshell's Lab：zari.rtk0.net/ProfessorOakshell/index.html
 
-Both sites have calculators for working out how much of various resources (like plants and critters) you need in order to produce your target amount of calories per cycle.
+这两个网站都有计算器，能算出为了每周期产出你想要的卡路里，你大约需要多少各种资源（比如植物和小动物）。
 
-Both calculators have a lot of options, but don't worry - you can figure them out. Let's take a closer look at [The Oni-assistant food calculator](https://oni-assistant.com/tools/foodcalculator)
+这两个计算器选项都很多，但别担心——你搞得定的。咱们细看一下 [Oni-assistant 食物计算器](https://oni-assistant.com/tools/foodcalculator)
 
-There are a lot of options in the food calculator. The basics are:
+食物计算器里选项很多。基本的是这些：
 
-* Input how many dupes you have
+* 输入你有多少复制人
 
-  + There are two separate inputs for this: one for how many "standard" dupes you have and one for how many you have with the "bottomless stomach" trait.
-* Choose what you will be feeding your dupes
-* Select whether the plants are are wild (otherwise they are considered domesticated)
+  + 这里有两个分开的输入框：一个填你有多少“标准”复制人，一个填你有多少带“无底洞之胃”特质的复制人。
+* 选择你打算喂复制人吃什么
+* 选择这些植物是不是野生的（不选就当作驯化）
 
-  + (The option for "Dupe harvest" means if dupes will harvest them. Otherwise plants auto-harvest themselves after - if I remember correctly - 4 cycles.)
+  + （“复制人收获”这个选项的意思是复制人会不会去收它们。不然植物会在——如果我没记错的话——4 个周期后自己收获。）
 
-Then the site will calculate how many of each plant (or other food-related resource) you need. (Professor Oakshell's Lab works in a very similar way.)
+接着网站就会算出每种植物（或其他食物相关资源）你需要多少。（Professor Oakshell's Lab 的用法非常类似。）
 
-The pip planting guide and oni-assistant or Professor Oakshell's Lab are a great combo when planning (and planting) natural farms.
+在规划（和种植）天然农场的时候，树鼠种植指南加上 oni-assistant 或 Professor Oakshell's Lab 是绝佳组合。
 
-(Regarding creating natural tiles, if and when you need  to do that. I use 10kg of algae per tile. Set a storage bin to algae and 10 kg. Then deconstruct the storage bin and remove all but the algae. Then I have a glass forge output hot glass on the tile.)
+（关于造天然格，万一你需要的话。我每格用 10kg 藻类。把一个存储箱设成存藻类、10 kg。然后拆掉存储箱，除了藻类之外全清掉。再让玻璃熔炉往那一格上倒热玻璃。）
 
-That's about it - time to get ranching!
+差不多就这些了——该去养殖了！
 
-Finally, in case you're hesitant to get started, I'll go over some options for basic ranching setups.
+最后，万一你还迟疑着不敢上手，我再讲几个基础养殖布局的方案。
 
-## EXAMPLE RANCH: HATCHES
+## 养殖区示例：好吃哈奇
 
-Where to put buildings is a personal preference - I tend to place them so that I can fit some decor items around the grooming station.
+建筑放哪儿是个人喜好——我一般会让梳理站周围留出地方，好塞点装饰物。
 
-Hatch ex.
+好吃哈奇示例
 
 ![BasicRanch1.png](assets/BasicRanch1-9aa7192628.png)
 
-Basic hatch ranch. (The arrow on the right of the grooming station is an older version of the Critter Drop-Off.)
+基础好吃哈奇养殖区。（梳理站右边那个箭头是老版本的小动物放生点。）
 
-An auto-sweeper is in no way a necessity, but it will save you some time - dupes fill the storage bin and the auto-sweeper fills the critter feeder.
+自动清扫器完全不是必需品，但它能省你点时间——复制人把存储箱装满，自动清扫器再把小动物喂食器装满。
 
-When I get around to decor, I will add metal statues in the one-tile spaces to the right and left of the grooming station and two paintings above it, to the left of the auto-sweeper.
+等我腾出手搞装饰，我会在梳理站左右各一格的空位放金属雕像，上面挂两幅画，放在自动清扫器的左边。
 
-Once I get glass or diamond I will swap the walls for windows to let the decor shine out to the fire pole and ladder. (This isn't at all necessary. But, rebel that I am, I do it anyway.)
+等搞到玻璃或钻石，我会把墙换成窗户，让装饰度透到消防滑杆和梯子那边。（这完全没必要。但我这人就是叛逆，偏要这么干。）
 
 ![BasicRanch2.png](assets/BasicRanch2-02812e6f33.png)
 
 ![Building_Conveyor_Receptacle.webp](assets/Building_Conveyor_Receptacle-79d9930425.png)
 
-Conveyor receptacle
+运输存放器
 
-You can add some more automation by adding a second auto-sweeper and some conveyor loaders. (In the picture above, both auto-sweepers can reach both conveyor loaders.)
+你可以再加一台自动清扫器和几个运输装载器，多做点自动化。（上面那张图里，两台自动清扫器都够得到两个运输装载器。）
 
-The conveyor loaders can send your meat to your kitchen, egg shells to your rock crusher, coal to your coal generators, the "wrong" kinds of eggs (morphs) to wherever you want them, etc.
+运输装载器可以把你的肉送去厨房、蛋壳送去碎石机、煤炭送去煤炭发电机、“种类不对”的蛋（变种）送去你想送的地方，等等。
 
-(If you want to automate the ranch further - not covered in this guide - you can also send your critter eggs to an evolution chamber or hatchery.)
+（想把养殖区自动化得更彻底——本指南不涉及——你还可以把蛋送去演化室或者孵化场。）
 
-This isn't pictured above, but you can save even more dupe time by having whatever you feed your critters be sent along a conveyor rail to a conveyor receptacle in your ranch. Then your auto-sweeper can fill your critter feeder from the receptacle.
+上面图里没有，但你还能更省复制人的时间：让你喂给小动物的东西沿着运输轨道送进养殖区里的运输存放器。然后自动清扫器就能从存放器里把小动物喂食器填满。
 
-This can save time particularly if you have many ranches - you can have dupes fill one storage bin that then feeds a conveyor loader that sends material to many ranches, supplying food to all the critter feeders in them.
+如果你有很多养殖区，这尤其省时间——你可以让复制人只装满一个存储箱，再由运输装载器把材料送往多个养殖区，给里面所有的小动物喂食器供货。
 
 ![Hatchery1.png](assets/Hatchery1-8206c2004d.png)
 
-Moar meat! This picture is from an achievement run. One of the achievements ("Carnivoire") requires eating 400K calories of meat during the first 100 cycles. The setup in the picture is used first to fill hatch ranches and then (gruesomely enough) to quickly hatch meat for dinner.
+更多肉！这张图来自一次成就挑战。其中一个成就（“肉食主义者”）要求在前 100 个周期里吃掉 40 万千卡的肉。图里这套东西先是用来把好吃哈奇养殖区填满，然后就（相当血腥地）用来快速孵肉上桌。
 
-The tricky part about ranching is automating keeping your ranches at a steady, optimal critter amount per ranch. I almost never bother with this, as it's mainly important when you are ranching for meat (or eggs).
+养殖里比较麻烦的一环，是自动化地把每个养殖区的小动物数量稳定维持在最优水平。我几乎从来不管这个，因为它主要是在你为了肉（或蛋）而养殖时才重要。
 
-I tend to ranch for the materials provided by critters (like reed fiber or plastic). So I just let my ranches overfill. Critters get the "cramped" debuff, but only once I already have a full ranch. Which is good enough for me.
+我养殖一般是为了小动物给的材料（比如芦苇纤维或塑料）。所以我干脆让养殖区超员。小动物会吃“狭窄”减益，但那是在养殖区已经满了之后才发生的。对我来说够用了。
 
-## EXAMPLE RANCH: DRECKOS
+## 养殖区示例：毛鳞壁虎
 
-There are two kinds of dreckos: standard dreckos (which are white) and glossy dreckos (which are blue).
+毛鳞壁虎有两种：普通毛鳞壁虎（白色的）和滑鳞壁虎（蓝色的）。
 
-Both kinds of drecko are useful. Dreckos drop reed fiber when sheared, glossy dreckos drop plastic.
+两种毛鳞壁虎都有用。毛鳞壁虎被修剪时掉芦苇纤维，滑鳞壁虎掉塑料。
 
-Morphing dreckos into glossy dreckos is done by feeding them mealwood. This topic, including pictures of a basic ranch for morphing dreckos into glossy dreckos, is covered [later in the quide](low-tech-plastic-drecko-ranching.md).
+要让毛鳞壁虎变成滑鳞壁虎，得喂它们米虱木。这个话题，包括一个把毛鳞壁虎变成滑鳞壁虎的基础养殖区图，在[指南后面](low-tech-plastic-drecko-ranching.md)有讲。
 
-Drecko ex.
+毛鳞壁虎示例
 
 ![GlossyDrecko01.png](assets/GlossyDrecko01-99641fac33.png)
 
 ![ONI-glossydrecko1.png](assets/ONI-glossydrecko1-9ba77861cc.png)
 
-Plastic ranch. Various stages in my standard setup for plastic ranches. The little castle in the top middle is a Critter Condo. It isn't essential, but boosts critter happiness.
+塑料养殖区。我标准塑料养殖区布局的各个阶段。上方中间那个小城堡是小动物公寓。它不算必需，但能提升小动物的幸福度。
 
 ![Balm_Lily.webp](assets/Balm_Lily-e3d9c2c9f2.png)
 
-Balm lily
+芳香百合
 
-White dreckos can eat Balm Lily.
+白色毛鳞壁虎能吃芳香百合。
 
-Balm lily is a very low-maintenance food source. It needs to be in chlorine to grow, but doesn't consume any chlorine. The downside is that it has a rather high temperature requirement: between +35C and +85C.
+芳香百合是极低维护的食物来源。它得长在氯气里，但不消耗氯气。缺点是温度要求挺高：要在 +35C 到 +85C 之间。
 
-By building a drecko ranch using balm lily as food, you can create an infinite supply of meat, reed fiber, egg shells and phosphorite.
+用芳香百合当食物建一个毛鳞壁虎养殖区，你就能得到肉、芦苇纤维、蛋壳和磷矿的无限供应。
 
-Dreckos need hydrogen for their scales to regrow after being sheared. So if you build such a ranch, it's a good idea to have hydrogen above (for scale regrowth) and chlorine below (for the balm lilies to grow).
+毛鳞壁虎被修剪后，鳞片要重新长出来需要氢气。所以如果你建这种养殖区，最好上面放氢气（让鳞片长回来）、下面放氯气（让芳香百合生长）。
 
-It is also a good idea to have anyone entering the ranch wear a kind of protective clothing called an atmo suit. That way they will be able to breathe even when surrounded by chlorine. Also, the carbon dioxide dupes exhale would mess with the chlorine. With an atmo suit, that carbon dioxide is stored in the suit and then dumped outside the ranch. ([Atmo suit basics](atmo-suit-basics.md) are covered later in the guide.)
+同样建议让进养殖区的人都穿上一种叫气压服的防护服。这样就算被氯气包围他们也能呼吸。而且复制人呼出的二氧化碳会搅乱氯气。穿上气压服，那些二氧化碳就存在衣服里，然后被排到养殖区外面。（[气压服基础](atmo-suit-basics.md)在指南后面有讲。）
 
-I use transport tubes for my balm lily drecko ranches. They can be quite heavy power users. Another option would be to use [liquid locks](liquid-lock-basics.md) by the ranch entrances. (And a door to keep the dreckos in.)
+我的芳香百合毛鳞壁虎养殖区用运载管道。那玩意儿挺费电的。另一个选择是在养殖区入口用[液体锁](liquid-lock-basics.md)。（再加一扇门把毛鳞壁虎关在里面。）
 
 ![Dreckoranch2.png](assets/Dreckoranch2-deb16cc4e0.png)
 
-Heating. Usually you will build cooling loops. For this, you'll actually need a heating loop. A thermo sensor makes the liquid tepidizer kick in to make sure the balm lilies stay happy.
+加热。通常你建的都是冷却回路。而这里你恰恰需要一个加热回路。一个温度传感器会让液体加热器启动，确保芳香百合过得舒坦。
 
 ![Dreckoranch1b.png](assets/Dreckoranch1b-e622e4f05f.png)
 
-Free stuff! This setup only uses power and dupe time. It is a bit of a bother to build, but once done you will have an endless supply of free goodies.
+白拿的东西！这套布局只消耗电力和复制人的时间。建起来有点烦，但一旦建好，你就有源源不断的免费好东西。
 
-And, finally: an option to be aware of is that you don't need to tame your dreckos for their scales to grow. Wild dreckos eat less than tame ones, so you can get by with less food. However, their scales then also take longer to grow.
+最后：有个选择你得知道——你其实不必驯化毛鳞壁虎，它们的鳞片照样会长。野生毛鳞壁虎比温顺的吃得少，所以少备点食物也能过。不过它们的鳞片长得也更慢。
 
-Getting hold of a significant amount of wild glossy dreckos requires a bit of doing, but regular dreckos are common. Dreckos as well as drecko eggs also have a chance of appearing as care packages from the printing pod.
+搞到数量可观的野生滑鳞壁虎得费点功夫，但普通毛鳞壁虎很常见。毛鳞壁虎和毛鳞壁虎蛋也有机会作为打印舱的补给包裹出现。
 
-Spoiler(ish) alert. To get hold of more wild glossy dreckos, you can activate a machine you will come across during your exploration, called the Critter Flux-o-Matic.
+剧透（算是）警告。想搞到更多野生滑鳞壁虎，你可以启动一台你在探索途中会遇到的机器，叫小动物衍变器。
 
-You activate the Flux-o-Matic by having five critters pass through it. (You deliver the critters to the room, they pass through the machine on their own.) Once the Flux-o-Matic is active, any regular dreckos that pass through will morph into glossy dreckos.
+让小动物衍变器启动的办法是让五只小动物穿过它。（你把小动物送进房间，它们会自己走过机器。）一旦衍变器启动，任何穿过它的普通毛鳞壁虎都会变成滑鳞壁虎。
 
-\*) "Old-timer reminiscing" alert
+\*) “老玩家忆当年”警告
 
-Regarding why ranching used to be a necessity... Back in the day, egg shells were the only way to get lime. Lime is needed for steel, which in turn is needed to make bunker doors and tiles - the only tiles that can withstand meteor showers.
+说说为什么以前养殖是必需品……当年，蛋壳是获取石灰的唯一途径。石灰是造钢需要的，而钢又是造地堡门和地堡砖需要的——那是唯一能扛住流星雨的砖。
 
-The reason that mattered was that the second you started a new game, meteors would start pummeling their way through the surface, slowly digging their way down to your base.
+这事之所以要紧，是因为你一开新档，流星就开始往地表猛砸，慢慢往你的基地挖下来。
 
-So every new game began with a race against time to get enough lime to make enough steel to save your base - and the biomes and resources above it - from destruction.
+所以每个新档一开始都是跟时间赛跑：抢到足够的石灰，造出足够的钢，把你的基地——还有基地上方的生态和资源——从毁灭中救下来。
 
-(I would say "Fun times," but they weren't really. I considered it the most tedious part of starting a new game. But, like with how slimelung used to actually be dangerous, the Ticking Clock of Meteor Doom served the important purpose of giving Oxygen Not Included old-timers the opportunity for some "When I was your age..." moaning and groaning.)
+（我本想说“多美好的时光”，但其实一点也不美好。我觉得那是开新档最枯燥的部分。不过，就像当年粘液肺真的会致命一样，“流星末日倒计时”也起到了一个重要作用：给《缺氧》的老玩家们一个“我像你这么大的时候……”的哀嚎机会。）
 
-Old-timer-alert
+老玩家警告
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/ranching-basics](https://www.guidesnotincluded.com/ranching-basics) ([Wayback Machine snapshot](https://web.archive.org/web/20250826150351id_/https://www.guidesnotincluded.com/ranching-basics)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/ranching-basics](https://www.guidesnotincluded.com/ranching-basics)（[Wayback Machine 快照](https://web.archive.org/web/20250826150351id_/https://www.guidesnotincluded.com/ranching-basics)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

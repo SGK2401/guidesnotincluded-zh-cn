@@ -1,6 +1,6 @@
 ---
-title: "Oil well with liquid lock"
-description: "Oil well with liquid lock"
+title: "带液体锁的油井"
+description: "带液体锁的油井"
 source_url: https://www.guidesnotincluded.com/oil-well-with-liquid-lock
 archived: 2025-08-18
 archive_snapshot: https://web.archive.org/web/20250818133850id_/https://www.guidesnotincluded.com/oil-well-with-liquid-lock
@@ -9,18 +9,18 @@ image: assets/GNI_OilWell_liquidlock-6afc649ef8.png
 
 ![GNI_OilWell_liquidlock.png](assets/GNI_OilWell_liquidlock-6afc649ef8.png)
 
-Oil well with liquid lock
+带液体锁的油井
 
-This design uses the oil produced by the oil to well maintain a liquid lock. The excess oil pours out to whatever storage  (or other) solution you implement. (You can add a liquid lock on the right if needed.)
+这个设计利用油井自己产出的原油来维持液体锁。多余的原油会流到你设计好的任何储存（或其他）方案里。（如果有需要，你可以在右边再加一道液体锁。）
 
-The oil (and natural gas) surrounding the oil well helps keep it cool, and minimizes the risk of water flashing to steam during the venting process.
+油井周围的原油（和天然气）有助于给它降温，并尽量降低喷发过程中水闪蒸成蒸汽的风险。
 
-Atmo sensor: above 20 000
+气压传感器：高于 20 000
 
-Design by Francis John
+设计：Francis John
 
-Source: "Oil Well : Tutorial nuggets : Oxygen not included", by Francis John. Available at: <https://youtu.be/a3UUx3hdg-Y?list=PLS-hAL3jgjOt7qpH-JZ1d5hJcjfoAZOnk&t=266>, accessed 12 August, 2020
+来源：Francis John 的《Oil Well : Tutorial nuggets : Oxygen not included》，可访问：<https://youtu.be/a3UUx3hdg-Y?list=PLS-hAL3jgjOt7qpH-JZ1d5hJcjfoAZOnk&t=266>，访问日期：2020 年 8 月 12 日
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/oil-well-with-liquid-lock](https://www.guidesnotincluded.com/oil-well-with-liquid-lock) ([Wayback Machine snapshot](https://web.archive.org/web/20250818133850id_/https://www.guidesnotincluded.com/oil-well-with-liquid-lock)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/oil-well-with-liquid-lock](https://www.guidesnotincluded.com/oil-well-with-liquid-lock)（[Wayback Machine 快照](https://web.archive.org/web/20250818133850id_/https://www.guidesnotincluded.com/oil-well-with-liquid-lock)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

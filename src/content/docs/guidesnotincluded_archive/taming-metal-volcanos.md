@@ -1,171 +1,171 @@
 ---
-title: "Metal volcano basics"
-description: "Tapping into metal volcanos for their resources can be done in many different ways."
+title: "金属火山基础"
+description: "开采金属火山来获取资源，有很多种不同的做法。"
 source_url: https://www.guidesnotincluded.com/taming-metal-volcanos
 archived: 2025-08-06
 archive_snapshot: https://web.archive.org/web/20250806081011id_/https://www.guidesnotincluded.com/taming-metal-volcanos
 ---
 
-## Introduction
+## 简介
 
-Tapping into metal volcanos for their resources can be done in many different ways.
+开采金属火山、拿走它的资源，有很多种不同的做法。
 
-This guide is for a fairly basic approach that is easy to build, uses very little automation and will work for any metal volcanos you find on your starting asteroid.
+这篇指南讲的是一个相当基础的方案：好建、几乎用不到自动化，而且对你在起始小行星上碰到的任何金属火山都能用。
 
-However, this design does require [steel](getting-steel.md) and [plastic](getting-oil-petroleum-and-plastic.md) for a [cooling loop](thermo-aquatuner-steam-turbine-cooling-loop.md). And also a fair bit of power, depending on how much you want to cool down the volcano output.
+不过，这个设计确实需要[钢](getting-steel.md)和[塑料](getting-oil-petroleum-and-plastic.md)来做一套[冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)。另外还得有相当可观的电力，具体多少取决于你想把火山喷出来的东西冷却到什么程度。
 
 ![ONI-MetalVolcano1.png](assets/ONI-MetalVolcano1-c84845b889.avif)
 
-## Know your metals
+## 认识你的金属
 
-There are a bunch of different metal volcanos you might come across on your starting asteroid.
+你在起始小行星上可能会碰到好几种不同的金属火山。
 
-* In the base game you can have copper, gold and iron volcanos
-* The DLC adds cobalt and aluminium volcanos
+* 在本体游戏里，你会有铜火山、金火山和铁火山
+* DLC 又加上了钴火山和铝火山
 
-(The DLC  also adds two volcanos, Tungsten and Niobium, that won't spawn on your starting asteroid.)
+（DLC 还加了两种火山——钨火山和铌火山——它们不会在你的起始小行星上生成。）
 
-Metal volcanos output refined metal. So where you would need to refine iron ore to get iron, an iron volcano will output iron directly. The same goes for the other volcanos.
+金属火山喷出的是精炼金属。所以，本来你需要把铁矿精炼才能得到铁，而铁火山会直接喷出铁。其他火山也是一样的道理。
 
-## Hot, hot, hot!
+## 热，热，热！
 
-You could just dig out a volcano and then get access to the metal. But that would cause what might be described as "some issues" with heat.
+你当然可以直接把一座火山挖开，然后就能拿到金属了。但这么做会在温度上引发一些……大概可以形容为“麻烦”的东西。
 
-Volcanos spit out metal that is so hot that it is in liquid form. The exact temperature varies between volcanos, but can be close to +3000C (Niobium and Tungsten are even hotter). Click on a volcano to see the exact temperature.
+火山喷出的金属热到处于液态。具体温度每座火山都不一样，但可能接近 +3000C（铌火山和钨火山还更热）。点一下火山就能看到确切的温度。
 
-Cooling metal volcano output can be grouped into two stages or goals.
+冷却金属火山的产物可以分成两个阶段或两个目标。
 
-The first goal is to cool the output enough that it solidifies. Meaning a dupe or an auto-sweeper can actually pick up the metal. (A dupe in an atmo suit can handle very hot materials without getting scalded.)
+第一个目标是把喷出的东西冷却到足够凝固，也就是说复制人或者自动清扫器能真的把它捡起来。（穿着气压服的复制人可以处理非常烫的材料，不会被烫伤。）
 
-The second goal is optional, but something I tend to do: to cool the output futher. I usually cool it down to (roughly) the temperature I keep my base at (+25C).
+第二个目标是可选的，但我一般会做：把产物再冷却得更彻底一点。我通常会把它冷却到（大致上）我维持基地所用的温度（+25C）。
 
-## Before you start: The key tile
+## 开工之前：关键格
 
 ![ONI-MetalVolcano2.png](assets/ONI-MetalVolcano2-505f76c3fb.avif)
 
-The key tile is the one that is two steps in and two steps up from the bottom left. All other tiles are safe to dig out - even after Gossman is done, the gold volcano won't erupt.
+关键格就是左下角往里两格、往上两格的那一格。其他所有格都可以放心挖掉——就算 Gossman 已经把活儿干完了，金火山也不会喷发。
 
-There is one tile on any geyser or volcano that decides whether it is considered uncovered and can erupt.
+任何间歇泉或火山上都有一格决定它算不算“被挖开”、能不能喷发。
 
-This tile is also the tile from which the erupting contents "spawn," or pour out. To make things a bit more tricky, it is also the tile you need to dig out to be able to analyze the geyser or volcano.
+这一格同时也是喷发物“生成”、或者说涌出来的那一格。更麻烦的是，它还是你为了能分析间歇泉或火山而必须挖掉的那一格。
 
-In the case of volcanos and geysers that have a neutronium foundation that is four tiles wide (which is the most common kind), the key tile is:
+对于底部有 4 格宽中子质底座的火山的间歇泉（这是最常见的一种），关键格是：
 
-* two tiles in from the bottom left and two tiles up
+* 从左下角往里两格，再往上两格
 
-You can dig out all other tiles of a geyser or volcano and it will still not be able to erupt.
+你可以把间歇泉或火山的其他所有格都挖掉，它依然不会喷发。
 
-If you accidentally dig up that tile and need to cover it up again, you can:
+如果你不小心把那一格挖掉了、需要再把它盖回去，你可以：
 
-* build a tempshift plate out of coal on that tile
+* 在那一格上用煤炭建一块变温板
 
-When the volcano erupts, the tempshift plate will solidify into coal and the volcano will stop erupting.
+火山喷发时，变温板会凝固成煤炭，火山就会停止喷发。
 
-## Building the thing
+## 开始盖东西
 
-When I come across a geyser that is covered, I dig out three tiles: two tiles on the side (the bottom one and one tile up from the bottom) and one tile further in along the bottom. This will show you what kind of geyser it is without activating it. (for some of them, just digging out two tiles on the side is enough.)
+当我碰到一个还没挖开的间歇泉时，我会挖掉三格：侧面两格（最下面那一格，以及从下面往上数的一格），再沿着底部往里挖一格。这样你就能看出它是什么间歇泉，而不会把它激活。（对其中一些来说，侧面只挖两格就够了。）
 
-Having uncovered a metal volcano you want to harness, first comes the issue of timing. Even without having uncovered the key tile of a volcano you can see if it is dormant or active. Volcanos cycle between the two states.
+挖开了一座你想利用的金属火山之后，第一个问题是时机。就算你还没挖掉火山的关键格，你也能看出它是休眠还是活跃。火山就在这两种状态之间循环。
 
-Dormant means it is just sitting there. Active means it will periodically erupt with molten metal. The exact length of each state varies, but tends to be several dozen cycles. You can find out the exact lengths by analyzing the volcano. However, to analyze the volcano, you need to dig out the key tile.
+休眠意味着它就那么待着。活跃意味着它会周期性地喷出熔融金属。每种状态的确切时长各不相同，但往往是几十个周期。分析火山就能知道确切的时长。不过，要分析火山，你得先挖掉关键格。
 
-Digging out the key tile when you know a volcano has just gone dormant is safe. Doing it when you don't know how long it has been dormant is exciting. Digging out the key tile when a volcano is active is something I wouldn't recommend. (It can be done if you for some reason have to do it - the water will take a while to turn to steam from the volcano output, which gives you a little time.)
+当你确定一座火山刚刚进入休眠时，挖掉关键格是安全的。在你不知道它已经休眠了多久的时候挖，就很刺激了。火山活跃时去挖关键格，这事我不推荐。（如果因为某些原因你非挖不可，那也能做——火山喷出的东西要过一会儿才能把水烧成蒸汽，这能给你一点时间。）
 
-Note: you can do a fair bit of the building without uncovering the key tile and activating the volcano.
+注意：有相当一部分建造工作，可以在不挖开关键格、不激活火山的情况下完成。
 
-When building the steam room - the room with the volcano, don't enclose it completely. Add a (temporary) [liquid lock](liquid-lock-basics.md) leading in to the steam chamber. This will be necessary to create a vacuum in the room.
+在建蒸汽室——也就是装火山的那间屋子——的时候，别把它完全封死。加一道通向蒸汽室的（临时）[液体锁](liquid-lock-basics.md)。要在这间屋子里造出真空，这道锁是必需的。
 
-There are various things that need doing in the volcano/steam room. Try to forget as few of them as possible:
+在火山／蒸汽室里有一堆事要做。尽量少忘几件：
 
-* Analyze the volcano
-* Add 2.000-3.000 kg of water (so there is a few hundred kg per tile on the floor)
-* Pump out the gases
-* Build your various bits and bobs: automation, steam turbine output, power wires, etc.
+* 分析火山
+* 加 2.000-3.000 kg 的水（这样地面上每格有几百 kg）
+* 把气体抽走
+* 建好你那些零零碎碎的东西：自动化、蒸汽涡轮机的输出、电线等等。
 
-Then delete any temporary stuff that was there for the building phase. and sweep up the debris on the floor (if you want to - the auto-sweeper can also take care of it). Once everything is ready and the volcano is analyzed, you are ready to seal up the chamber.
+然后把建造阶段用的临时东西全拆掉。再把地上的碎屑扫掉（如果你想扫的话——自动清扫器也能处理）。等一切就绪、火山也分析完了，你就可以把屋子封起来了。
 
-Note: before sealing it up, go over all the important overlays one by one. Plumbing, automation, power, conveyor. (Whenever I end up forgetting something, it's usually the liquid output from the steam turbine.)
+注意：封起来之前，把几个重要的概览一个一个过一遍。管路、自动化、电力、运输。（每次我忘东西，忘的通常都是蒸汽涡轮机的液体输出。）
 
-For the rest of the build, I'll just include some overlays. My metal volcano build has changed over time and will probably continue to do so. This is what I have recently started using.
+至于建造的其余部分，我就直接放几张概览图。我的金属火山建造方案这些年在变，以后大概还会继续变。这是我最近开始用的版本。
 
-As with all of my builds, my main concern is that it works (and that it looks nice enough). I'll add some comments at the end about how you obviously don't have to build it like this at all, and throw in a link to a much more compact build by Luma plays.
+和我所有的建造方案一样，我最在意的是它能用（以及看起来还算好看）。最后我会补几句，说明你显然完全不必照这样建，还会丢一个 Luma plays 那套紧凑得多的方案的链接。
 
 ![ONI-MetalVolcano3.png](assets/ONI-MetalVolcano3-90bc21c5be.avif)
 
-This design has three sections:
+这个设计分三段：
 
-In the middle is the steam chamber that does the initial cooling down of the volcano output. It has an auto-sweeper to move metal out of the room and two steam turbines on top.
+中间是蒸汽室，负责对火山喷出的东西做初步冷却。里面有一台自动清扫器把金属搬出房间，上面有两台蒸汽涡轮机。
 
-(On a gold volcano you should be able to get by with just one steam turbine, but I use two anyway. Officially that is because I like my volcano tamers having a unified look across the map. But really it's because my brain is full of 80s pop song lyrics so I can't remember which volcanos need one and which need two.)
+（在金火山上，一台蒸汽涡轮机应该就够了，但我还是用两台。官方的说法是我喜欢我的火山驯化装置在全图上看起来统一。但真正的原因是我脑子里塞满了 80 年代流行歌曲的歌词，记不住哪种火山要一台、哪种要两台。）
 
-On the bottom is the cooling loop for the metal output. Metal will come out of the volcano room at a temperature of at least 125C. (The exact temperature will depend on your automation setup.) The bottom section cools the metal down further. (You can decide how cool you want it - the main limitation is power. More cooling = more power.)
+底部是给金属产物用的冷却回路。金属从火山室里出来时温度至少有 125C。（确切温度取决于你的自动化设置。）底部这一段会把金属进一步冷却。（冷到多凉由你决定——主要的限制是电力。冷却越多 = 电力越多。）
 
-On the top is the cooling loop used to cool the steam turbines and the cooling chamber on the bottom.
+顶部是给蒸汽涡轮机和底部冷却室降温用的冷却回路。
 
 ![ONI-MetalVolcano4.png](assets/ONI-MetalVolcano4-3dc2391c22.avif)
 
-The plumbing overlay. There are three separate pipe sections. The steam turbine on the top has a pipe that feeds its output water back into the tank.
+管路概览。这里有三段独立的管道。顶部那台蒸汽涡轮机有一根管道，把它的输出水送回水箱。
 
-The two steam turbines in the middle have a pipe that feeds their output back into the steam chamber.
+中间两台蒸汽涡轮机有一根管道，把它们的输出送回蒸汽室。
 
-The thermo aquatuner on the top right chills the cooling loop that runs past the steam turbines and the cooling chamber for the output metals.
+右上角的液温调节器给流过蒸汽涡轮机和金属产物冷却室的冷却回路降温。
 
 ![ONI-MetalVolcano5.png](assets/ONI-MetalVolcano5-49ceab49a6.avif)
 
-The power overlay. I connect the steam turbines to my power grid. A large power transformer supplies power to the build.
+电力概览。我把蒸汽涡轮机接进电网。一台大型变压器给这套建造方案供电。
 
 ![ONI-MetalVolcano6.png](assets/ONI-MetalVolcano6-161af5e777.avif)
 
-The conveyor overlay. A conveyor shutoff (top right in the steam room) is used to control the output flow.
+运输概览。一个轨道截断器（蒸汽室右上角）用来控制产物流出的节奏。
 
-(The conveyor belt from the bottom left is from a nearby metal volcano, sending its output in for some extra cooling and to get it on the same conveyor rail.)
+（左下角那条运输轨道来自附近的另一座金属火山，把它的产物送进来多冷却一下，顺便并到同一条运输轨道上。）
 
-Note: some volcanos output metal that is hot enough to melt even steel conveyor belts. Gold is such a volcano. Avoid running the conveyor belt through the middle tile of the volcano (the tile it erupts from). The top tiles, as in the picture above, are all safe.
+注意：有些火山喷出的金属热到连钢制的运输轨道都能熔化。金火山就是其中之一。别让运输轨道穿过火山中间那一格（它喷发的那一格）。像上图那样走顶部的格子都是安全的。
 
-(You can make the conveyor rail in the steam room longer to improve temperature transfer from your metal.)
+（你可以把蒸汽室里的运输轨道做长一些，改善金属的传热效果。）
 
 ![ONI-MetalVolcano7.png](assets/ONI-MetalVolcano7-1b4c0c5c1f.avif)
 
-The automation overlay. The tricky bit to get just right is the automation for when to send out the metal on the conveyor belt. I have started using a timer sensor for this.
+自动化概览。最需要调得刚刚好的，是决定什么时候把金属从运输轨道上放出去的那套自动化。我开始改用时间传感器来做这件事。
 
-You can set how long of a red signal you want and how long of a green signal. They will then keep alternating forever. On this volcano I use the settings: green 10, red 190.
+你可以设置想要多长的红信号和多长的绿信号。然后它们就会一直交替下去。在这座火山上我用的设置是：绿 10，红 190。
 
-The optimal setting would be a green signal that is as long as it takes for the entire length of the conveyor rail to change contents - the "cool" metal out and new, hot metal in. How long a green signal that translates to will depend on how long your rail is. (For a rail the length in the pictures above that seems to be about a setting of 10 for green.)
+最理想的设置是让绿信号的时长刚好够整条运输轨道换一遍内容——冷金属出去，新的热金属进来。绿信号该设多长，取决于你的轨道有多长。（对上图那种长度的轨道来说，绿信号似乎设到 10 左右就行。）
 
-Then for the red, you want that signal to be long enough that the metal on the conveyor belt cools down to 125C or close to it. (At under 125C the steam turbine will stop working and no additional cooling will take place.)
+然后是红信号，你要让它的时长足够长，好让运输轨道上的金属冷却到 125C 或者接近它。（低于 125C，蒸汽涡轮机就会停止工作，也就不会再继续冷却了。）
 
-The temperature of the metal on your rails will decrease more slowly as you near the +125C lower limit. You can mouseover the metal on your rail to see the temperature change in action. That way you can optimize the setting for the red signal. Most of the extra heat will probably be gone in 150 ticks. To extract near all of the extra heat, try a setting closer to 200.
+随着温度接近 +125C 这个下限，轨道上金属的降温会越来越慢。你可以把鼠标停在轨道上的金属上，看温度实时变化。这样你就能把红信号的设置调到最优。大部分多余的热量大概在 150 个刻内就会散掉。想把几乎全部多余的热量都抽走，可以试试调到 200 左右。
 
-There are other ways to automate this. I used to use a conveyor rail thermo sensor, so the metal would stay in the steam chamber until it was 130C or so: cool enough to no longer be useful. There is a problem with that approach, and I don't know if it's a bug or a feature. (Meaning, something that will be fixed or not).
+还有别的自动化做法。我以前用运输轨道温度传感器，让金属一直待在蒸汽室里，直到降到 130C 左右：凉到已经没什么用了。这种做法的有个问题，我不知道这算 bug 还是特性。（意思就是，不知道以后会不会修。）
 
-The autosweeper can pick up miniscule amounts of metal. It can then feed a miniscule amount onto the conveyor rail. Very small amounts of metal on a conveyor rail don't seem to change temperature. So whenever you get one of those packets with just a tiny amount, it clogs up the system. As it doesn't cool down (or maybe does, but veeeeery slowly), the sensor remains on red as the conveyor belt content is still too hot.
+自动清扫器能捡起极少量金属。然后它能把极少量金属送进运输轨道。运输轨道上极少量的金属似乎不会变温。所以每当你碰到一包只有一丁点儿的货，它就会把系统堵住。因为它不降温（也许降，但非常非常慢），传感器就一直是红色，因为轨道上的东西还是太烫。
 
-If you use that system for automating, it is a good idea to add some kind of automation that will let a packet pass every now and then, regardless of its temperature. That way you can let through the occasional mini-packets that would otherwise clog the system.
+如果你用这套系统做自动化，最好再加一套自动化，让包裹每隔一段时间就能无视温度通过一次。这样你就能放过偶尔出现的迷你包裹，否则它们会把系统堵死。
 
-And now for something completely different.
+接下来换个完全不同的东西。
 
-## Or: Build something completely different
+## 或者：建点完全不一样的东西
 
 ![LumaPlaysMetalVolcanoTamer.png](assets/LumaPlaysMetalVolcanoTamer-1d0e3f0c54.avif)
 
-There are lots of great designs. Here's a tiny metal volcano tamer by Luma plays. (I haven't tried it myself, but you can check his [YouTube channel](https://www.youtube.com/watch?v=H7vY71geaPo) for an introduction.)
+好的设计有很多。这是 Luma plays 做的一个超小型金属火山驯化装置。（我自己还没试过，但你可以去他的 [YouTube 频道](https://www.youtube.com/watch?v=H7vY71geaPo)看介绍。）
 
-There are many ways to tame metal volcanos. My approach is very basic. It's a good "My first volcano tamer" kind of build because it's easy to understand what each part does.
+驯化金属火山的办法有很多。我的做法非常基础。它很适合当作“我的第一个火山驯化装置”，因为每个部分是干什么的都很容易看懂。
 
-If or when you want to switch to a more optimized build, there are lots of designs you can check out. Or you can just throw caution to the wind and start doing some experimenting of your own!
+如果你以后想换成更优化的方案，有很多设计可以去看。或者你也可以干脆不管不顾，自己动手做起实验来！
 
-For instance, one thing that might be of interest is that it is possible to let steam turbines cool themselves. A steam turbine outputs water that is +95C. The max temperature a steam turbine will function at is +100C. So there is a slim window there; a few degrees you can use for cooling.
+比如说，有一件事可能挺有意思：蒸汽涡轮机是能给自己降温的。蒸汽涡轮机输出的水是 +95C。蒸汽涡轮机能工作的最高温度是 +100C。所以这里有一个很窄的窗口，有几度可以拿来当冷却用。
 
-The design I presented here uses power to cool down the steam turbines. I usually keep them at a habitable temperature - around 25-30 degrees. This is another one of those areas where I waste lots of power because I prefer things a certain way. If you use self-cooling you can save lots of power.
+我在这里给出的设计是用电力给蒸汽涡轮机降温的。我一般把它们维持在宜居的温度——大概 25-30 度。这也是我浪费大量电力的地方之一，因为我就喜欢东西按某种方式来。如果你用自冷却，能省下很多电力。
 
-Another thing to be aware of is the issue of the amount of steam turbines to use over a volcano. The minimum amount there depends on if the steam turbines are self-cooling and on what kind of volcano it is.
+另一件要注意的事，是一座火山上该用多少台蒸汽涡轮机。这个最低数量取决于蒸汽涡轮机是否自冷却，以及火山是哪一种。
 
-With a cooling loop for your steam turbines, you can get by with one or two steam turbines, depending on the volcano. (I tend to not bother too much with optimizing steam turbine amounts.)
+如果给蒸汽涡轮机配了冷却回路，那么视火山不同，用一两台就够了。（我一般不太费心去优化蒸汽涡轮机的数量。）
 
-And speaking of getting by with fewer steam turbines...
+说到用更少的蒸汽涡轮机凑合……
 
-For an example of a (much) smaller metal volcano tamer, have a look at [Luma plays' design](https://www.youtube.com/watch?v=H7vY71geaPo), which is 9x9 tiles and only uses one(!) steam turbine regardless of volcano type (except Niobium). However, that build is a bit trickier to put together and requires some additional materials.
+想看一个（小得多的）金属火山驯化装置的例子，可以看看 [Luma plays 的设计](https://www.youtube.com/watch?v=H7vY71geaPo)，它占 9x9 格，而且不论火山是什么类型（铌火山除外）都只用一台（！）蒸汽涡轮机。不过那套方案搭起来要麻烦一些，还需要一些额外的材料。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/taming-metal-volcanos](https://www.guidesnotincluded.com/taming-metal-volcanos) ([Wayback Machine snapshot](https://web.archive.org/web/20250806081011id_/https://www.guidesnotincluded.com/taming-metal-volcanos)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/taming-metal-volcanos](https://www.guidesnotincluded.com/taming-metal-volcanos)（[Wayback Machine 快照](https://web.archive.org/web/20250806081011id_/https://www.guidesnotincluded.com/taming-metal-volcanos)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

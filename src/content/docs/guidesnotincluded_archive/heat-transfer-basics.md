@@ -1,27 +1,27 @@
 ---
-title: "Temperature transfer basics"
-description: "I didn't pay anywhere near enough attention during physics class at school to understand the true nitty-gritty of this stuff. I'll cover some basics, the wiki\u2026"
+title: "温度传递基础"
+description: "我上学时物理课听得远远不够认真，搞不懂这东西真正的细枝末节。我只讲一些基础，更深入的内容维基\u2026"
 source_url: https://www.guidesnotincluded.com/heat-transfer-basics
 archived: 2025-08-11
 archive_snapshot: https://web.archive.org/web/20250811145919id_/https://www.guidesnotincluded.com/heat-transfer-basics
 ---
 
-## Disclaimer
+## 免责声明
 
-I didn't pay anywhere near enough attention during physics class at school to understand the true nitty-gritty of this stuff. I'll cover some basics, the wiki and forums have more in-depth coverage.
+我上学时物理课听得远远不够认真，搞不懂这东西真正的细枝末节。我只讲一些基础，更深入的内容维基和论坛上有。
 
-## Introduction
+## 引言
 
-The basic idea is simple enough: when things come into contact, their temperatures affect one another. The colder thing gets hotter, the hotter thing gets colder.
+基本思路很简单：东西一接触，它们的温度就会互相影响。冷的那件会变热，热的那件会变冷。
 
-There are two additional things to consider that affect this exchange of temperature:
+还有两件额外的事会影响这种温度交换：
 
-* There are specific kinds of tiles and pipes that are intended to increase or decrease temperature transfer.
-* All materials in the game (sandstone, copper, etc.) have properties that affect this temperature transfer.
+* 有些特定种类的砖块和管道，专门用来增强或减弱温度传递。
+* 游戏里所有材料（砂岩、铜等等）都有影响温度传递的属性。
 
-We'll start by looking at different kinds of tiles intended to maximize or minimize temperature transfer.
+我们先来看看那些专门用来最大化或最小化温度传递的砖块。
 
-## Insulated tiles
+## 隔热砖
 
 ![Building_Insulated_Liquid_Pipe.webp](assets/Building_Insulated_Liquid_Pipe-bd27c4ad41.avif)
 
@@ -29,33 +29,33 @@ We'll start by looking at different kinds of tiles intended to maximize or minim
 
 ![Building_Insulated_Tile.webp](assets/Building_Insulated_Tile-79495c0972.avif)
 
-If you want to minimize temperature transfer between tiles you can use insulated versions of whatever you are building.
+如果你想尽量减少砖块之间的温度传递，就用你要建的东西的隔热版本。
 
-There are:
+有这些：
 
-* insulated liquid pipes
-* insulated gas pipes
-* insulated tiles
+* 隔热液体管道
+* 隔热气体管道
+* 隔热砖
 
-If you will be pumping hot liquid or gas through an area that you don't want to heat up, it's a good idea to use insulated pipes.
+如果你要抽送高温液体或气体，经过一片你不想加热的区域，那最好用隔热管道。
 
-If you have a hot biome next to your base, you can minimize temperature transfer by building a wall of insulated tiles between the hot biome and your base.
+如果你基地旁边有个高温生态，你可以在高温生态和基地之间砌一堵隔热砖墙，把温度传递降到最低。
 
-Note: about Abyssalite
+注意：关于深渊晶石
 
-Biomes are separated by abyssalite - they are those purple (naturally occurring) tiles. Abyssalite is a superb insulator. If you have abyssalite between your base and a hot (or cold) biome then you don't need to worry about temperature transfer.
+生态之间是由深渊晶石隔开的——就是那些紫色的（天然生成的）砖块。深渊晶石是极好的隔热体。如果你的基地和某个高温（或低温）生态之间有深渊晶石隔着，那你就不用操心温度传递了。
 
-But keep in mind that when your starting area is placed in the game, it will most likely be placed over some of these abyssalite tiles. This will delete a section of the abyssalite and enable temperature transfer between biomes.
+但记住，游戏放置你的初始区域时，多半会把它压在这些深渊晶石砖块上。这会删掉一段深渊晶石，让生态之间的温度传递变成可能。
 
 ![ONI-guide-TempTransfer3.png](assets/ONI-guide-TempTransfer3-d2867ec9f5.avif)
 
 ![ONI-guide-TempTransfer4.png](assets/ONI-guide-TempTransfer4-4d30c7e5e3.avif)
 
-Magma above, an ice biome below. (Temperature overlay on the right.) They are separated with a combination of insulated tiles and naturally occurring abyssalite tiles.
+上面是岩浆，下面是冰冻生态。（右边是温度概览。）它们之间由隔热砖和天然生成的深渊晶石砖块共同隔开。
 
-(This is getting ahead of things, but a note on magma. As one might expect, it's rather warm: over +1400C. Magma will melt most materials, but won't melt obsidian. So anything that will come in contact with magma, make out of obsidian.) (Also, always create a vacuum before dealing with magma.)
+（这话说得有点超前了，但关于岩浆还是提一句。如你所料，它相当热：超过 +1400C。岩浆会熔化大部分材料，但化不了黑曜石。所以任何会接触到岩浆的东西，都用黑曜石来造。）（还有，处理岩浆之前一定要先造出真空。）
 
-## Radiant pipes and metal tiles
+## 导热管道与金属砖
 
 ![Building_Radiant_Liquid_Pipe.webp](assets/Building_Radiant_Liquid_Pipe-dcf3ff9306.avif)
 
@@ -63,78 +63,78 @@ Magma above, an ice biome below. (Temperature overlay on the right.) They are se
 
 ![Building_Metal_Tile.webp](assets/Building_Metal_Tile-c2964ccbbc.avif)
 
-Sometimes you will want to maximize temperature transfer. In such cases you'll want to use radiant pipes or metal tiles.
+有时候你会想最大化温度传递。这种时候你就该用导热管道或金属砖。
 
-There are:
+有这些：
 
-* radiant liquid pipes
-* radiant gas pipes
-* metal tiles
+* 导热液体管道
+* 导热气体管道
+* 金属砖
 
-Some examples: cooling down oxygen coming out of a SPOM, maximizing temperature transfer between two areas that are separated by a wall, and a cooling loop running through your base (where you might want radiant pipes to maximize the cooling in a certain area, like around a machine that produces a lot of heat).
+一些例子：给 SPOM 出来的氧气降温；最大化被一堵墙隔开的两个区域之间的温度传递；还有一条穿过你基地的冷却回路（这种时候你可能想在某些区域用导热管道，把冷却最大化，比如一台产热很多的机器周围）。
 
-## Tempshift plates
+## 变温板
 
-Tempshift plates improve temperature transfer between the tile itself and the tiles surrounding it, including diagonal tiles.
+变温板能改善砖块自身与周围砖块之间的温度传递，斜对角相邻的砖块也算。
 
 ![Building_Tempshift_Plate.webp](assets/Building_Tempshift_Plate-1f8d1a4c8c.avif)
 
-## Material properties that affect temperature transfer
+## 影响温度传递的材料属性
 
 ![ONI-guide-AETNOverflow.png](assets/ONI-guide-AETNOverflow-7a47ccf7c2.avif)
 
-An overflow mechanism (gas bridge) used to send excess hydrogen into the AETN room to improve the transfer of its chill.
+一个溢流机制（气体管桥），用来把多余的氢气送进 AETN 房间，增强它冷量的传递。
 
 ![ONI-guide-TempTransfer2.png](assets/ONI-guide-TempTransfer2-9b0077bdd3.avif)
 
 ![ONI-guide-TempTransfer1.png](assets/ONI-guide-TempTransfer1-33dcb3974f.avif)
 
-Metal tiles used as a temperature transfer helper in cooling. A [cooling loop](thermo-aquatuner-steam-turbine-cooling-loop.md) cools the water in the radiant pipes. The radiant pipes cool the metal tiles. The metal tiles cool the metal volcano output as it is sent along the conveyor rail.
+金属砖被当作冷却中的传热助手。一条[冷却回路](thermo-aquatuner-steam-turbine-cooling-loop.md)给导热管道里的水降温。导热管道给金属砖降温。金属砖再给经过运输轨道送出的金属火山产物降温。
 
-The first step in dealing with heat is thinking about when you want insulated, radiant, or normal tiles. When you are comfortable enough with them, the next step is to also think about what material you build those tiles out of.
+应对热量的第一步，是想清楚你什么时候该用隔热砖、导热砖还是普通砖。等你对它们足够熟练了，下一步就是再想想这些砖块用什么材料来造。
 
-Materials in Oxygen Not Included have two properties that will affect how their temperature interacts with the temperature around them: thermal conductivity and specific heat capacity.
+《缺氧》里的材料有两个属性会影响它自身的温度与周围温度的互动：热导率和比热容。
 
-To see the thermal conductivity and specific heat capacity of something, click on it. Then click on the "Properties" tab.
+想看某个东西的热导率和比热容，就点选它。然后点“属性”标签。
 
-Thermal conductivity is a measure of how quickly or effectively it can exchange temperature with its surroundings.
+热导率衡量的是它和周围环境交换温度有多快、多有效。
 
-Specific heat capacity is a measure of how much heat it can "store."
+比热容衡量的是它能“储存”多少热量。
 
-So thermal conductivity is a measure of how quickly it will heat up or cool down, and specific heat capacity is a measure of how much heat or chill it can store.
+所以热导率衡量的是它升温或降温有多快，比热容衡量的是它能储存多少热量或冷量。
 
-Of these two, thermal conductivity is usually the more important one to consider. (When designing for temperature transfer, I think of good thermal conductivity as an important aspect and a good specific heat capacity as a nice bonus.)
+这两者当中，热导率通常更需要考虑。（设计传热的时候，我会把良好的热导率看成一个重要方面，把好的比热容看成锦上添花。）
 
-Just like (for instance) a radiant pipe will have better temperature transfer than a normal pipe, a pipe made out of a material with a high thermal conductivity will have better temperature transfer than one built from a material with a low thermal conductivity.
+就像（比如说）导热管的传热会比普通管道好一样，用高热导率材料造的管道，传热也会比用低热导率材料造的管道好。
 
-So the rule of thumb is:
+所以经验法则是：
 
-* to increase temperature transfer, use a material with a higher thermal conductivity number.
-* (and also the other way around: lower thermal conductivity for less temperature transfer)
+* 想增强温度传递，就用热导率数值更高的材料。
+* （反过来也一样：想要更少的温度传递，就用更低的热导率）
 
-A list of the thermal conductivity of different materials can be found [on the wiki](https://oxygennotincluded.fandom.com/wiki/Thermal_Conductivity). Some general early-game guidelines:
+各种材料的热导率一览可以在[维基上](https://oxygennotincluded.fandom.com/wiki/Thermal_Conductivity)找到。一些早期游戏的大致原则：
 
-Of the minerals you will commonly come across:
+在你常遇到的矿物里：
 
-* granite is good for increasing temperature transfer
-* igneous rock is good for decreasing it
+* 花岗岩适合增强温度传递
+* 火成岩适合减弱它
 
-So for instance:
+所以比如说：
 
-If you want to improve temperature transfer in a cooling loop but don't want to use up your metal on making the whole loop out of radiant pipes, you can choose a regular material with a higher thermal conductivity. Granite is a popular choice for this.
+如果你想改善冷却回路里的温度传递，又不想把金属全花在给整条回路造导热管上，那你可以选一种热导率更高的普通材料。花岗岩是这方面的热门选择。
 
-If you want to make your insulated pipes or tiles as effective insulators as possible, a popular choice among the common starting materials is igneous rock.
+如果你想让隔热管道或隔热砖尽可能绝缘，常见初始材料里的热门选择是火成岩。
 
-For things that can get very hot, which early(ish) game would include a pitcher pump in the oil biome and pipes coming out of a glass forge, use ceramic. (Ceramic is made with a Kiln, built under Refinement.)
+对于那些会变得非常热的东西——早期（偏早）游戏里包括油质生态里的手压泵，以及从玻璃熔炉出来的管道——用陶瓷。（陶瓷用窑炉制作，在精炼分类下。）
 
-Of the various metals you may have access to early on, aluminium is likely to have the best thermal conductivity. (But copper or iron will usually work fine, too.)
+在你早期能拿到的各种金属里，铝的热导率大概是最好的。（不过铜或铁通常也够用。）
 
-A vacuum (meaning there are no gases) is the best insulator.
+真空（也就是没有气体）是最好的隔热体。
 
-Gases differ in their ability to aid temperature transfer. For example, hydrogen has a much better thermal conductivity than oxygen. To improve temperature transfer in an area, you can fill it with hydrogen. One example of when you might do this is filling an Anti Entropy Thermo-Nullifier room with hydrogen.
+不同气体帮助温度传递的能力也不一样。比如氢气的热导率就比氧气好得多。想改善某个区域的温度传递，你可以把它灌满氢气。一个例子就是给反熵热量中和器的房间灌氢气。
 
-Metal tiles are an excellent way to improve temperature transfer. If, for instance, you want to cool down (or heat up) the contents of a conveyor rail, then you can have it run through a section of metal tile. And then also run a cold (or hot) liquid through those same tiles, using radiant pipes. The metal tiles then greatly aid the temperature transfer between the two.
+金属砖是改善温度传递的绝佳手段。比如你想给运输轨道上的东西降温（或升温），就可以让它经过一段金属砖。然后再用导热管道，让一股冷（或热）液体流过同样的这些砖块。金属砖会大大帮助两者之间的温度传递。
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/heat-transfer-basics](https://www.guidesnotincluded.com/heat-transfer-basics) ([Wayback Machine snapshot](https://web.archive.org/web/20250811145919id_/https://www.guidesnotincluded.com/heat-transfer-basics)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/heat-transfer-basics](https://www.guidesnotincluded.com/heat-transfer-basics)（[Wayback Machine 快照](https://web.archive.org/web/20250811145919id_/https://www.guidesnotincluded.com/heat-transfer-basics)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*

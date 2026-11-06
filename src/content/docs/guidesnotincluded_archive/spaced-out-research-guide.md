@@ -1,120 +1,120 @@
 ---
-title: "Spaced Out research"
-description: "There is a bunch of useful stuff in the research tree that is locked behind the third and fourth kinds of research. (The first two kinds are covered earlier in\u2026"
+title: "《眼冒金星！》研究"
+description: "科技树里有一堆有用的东西，锁在第三和第四种研究后面。（前两种研究在指南前面……"
 source_url: https://www.guidesnotincluded.com/spaced-out-research-guide
 archived: 2025-07-20
 archive_snapshot: https://web.archive.org/web/20250720063052id_/https://www.guidesnotincluded.com/spaced-out-research-guide
 image: assets/ONI-guide-RadboltGeneratorSetup-9b98844404.png
 ---
 
-## Introduction
+## 引言
 
-There is a bunch of useful stuff in the research tree that is locked behind the third and fourth kinds of research. (The first two kinds are covered [earlier in this guide](the-very-early-game.md).)
+科技树里有一堆有用的东西，锁在第三和第四种研究后面。（前两种研究在[指南前面](the-very-early-game.md)讲过。）
 
-For the third kind of research you will need Data Banks, which in turn means you will have to send a dupe (and some plastic) into orbit. (Don't worry - you get the dupe back.) For the fourth kind of research you will need to generate radbolts.
+第三种研究需要数据磁盘，这又意味着你得把复制人（还有一些塑料）送上轨道。（别担心——复制人回得来。）第四种研究则需要产生辐射粒子。
 
-You will probably need the fourth kind of research before the third kind, so let's be confusing and look at them in reverse order.
+你多半会在需要第三种研究之前先需要第四种，所以咱们乱着来，倒着讲。
 
-## Applied Sciences Research (the one with the radbolts)
+## 应用科学研究（就是那个用辐射粒子的）
 
 ![Building_Materials_Study_Terminal.webp](assets/Building_Materials_Study_Terminal-b7ffe744d0.png)
 
-Materials Study Terminal. Aim radbolts at the circle on the left.
+材料研究终端。把辐射粒子打向左边那个圆圈。
 
 ![Building_Manual_Radbolt_Generator.webp](assets/Building_Manual_Radbolt_Generator-6a11796876.png)
 
-Manual Radbolt Generator
+人力辐射粒子发生器
 
 ![Building_Radbolt_Generator.webp](assets/Building_Radbolt_Generator-8e3768df47.png)
 
-Radbolt Generator
+辐射粒子发生器
 
-Spaced Out introduces radiation into the game. You can see radiation levels with the radiation overlay (the radiation image top right).
+《眼冒金星！》把辐射引入了游戏。你可以用辐射概览（右上角那个辐射图标）查看辐射水平。
 
-The fourth kind of research is called Applied Sciences Research. It's the one with the orange icon in the research tree.
+第四种研究叫应用科学研究。就是科技树里那个橙色图标的。
 
-The way you conduct applied sciences research is by shooting radbolts into a Materials Study Terminal (a kind of research station). This generates the points used for research. The research is then conducted on the materials study terminal (the same one you shoot the radbolts into).
+做应用科学研究的方式，是把辐射粒子射进材料研究终端（一种研究站）。这样会产生用于研究的点数。然后研究就在材料研究终端上进行（就是你射辐射粒子的那台）。
 
-There are two ways to generate radbolts:
+产生辐射粒子有两种办法：
 
-* A Manual Radbolt Generator uses Uranium Ore and dupe labour to generate radbolts
-* A Radbolt Generator gathers radiation from its surroundings to generate radbolts
+* 人力辐射粒子发生器用铀矿和复制人的劳动力来产生辐射粒子
+* 辐射粒子发生器从周围环境收集辐射来产生辐射粒子
 
-Note: both generators let you decide what direction you want them to shoot the radbolts.
+注意：两种发生器都能让你决定往哪个方向发射辐射粒子。
 
-Another note: shooting radbolts into a materials study terminal is a good thing. Shooting them into a dupe is a bad thing. So make sure to check the direction thing mentioned in the previous note.
+再注意：把辐射粒子射进材料研究终端是好事。射进复制人身上是坏事。所以记得检查上一条说的方向那事儿。
 
-* A radbolt shot from the radbolt generator will be worth (or contain) 50 radbolt points
-* A radbolt shot from the manual generator will be worth (or contain) 5 radbolt points
+* 辐射粒子发生器射出的一个辐射粒子值（或包含）50 点辐射粒子
+* 人力发生器射出的一个辐射粒子值（或包含）5 点辐射粒子
 
-The materials study terminal can store 100 points worth of radiation. If the materials study terminal is full and you shoot more radbolts at it, they will spin around a bit in the terminal and then continue on in the direction they were heading when entering the machine.
+材料研究终端能储存相当于 100 点的辐射。如果材料研究终端满了，你还往里射辐射粒子，它们会在终端里转几圈，然后沿着进机器时的方向继续飞。
 
-Note: A radbolts rad value decreases slightly as it travels, so the actual value you get out of one radbolt depends on how far it has to travel to get to the research terminal.
+注意：辐射粒子的辐射值会随着飞行略微衰减，所以一个辐射粒子实际能给你多少，取决于它要飞多远才能到研究终端。
 
-Another note: according to the [wiki](https://oxygennotincluded.fandom.com/wiki/Manual_Radbolt_Generator) you can also use enriched uranium ore for the manual radbolt generator, which would generate a radbolt worth 25 rabdolt points.
+再注意：根据[维基](https://oxygennotincluded.fandom.com/wiki/Manual_Radbolt_Generator)，人力辐射粒子发生器也可以用浓缩铀，这样产生的一个辐射粒子值 25 点辐射粒子。
 
-One way to keep a researching dupe out of harms way when firing radbolts into a materials study terminal is to fire them at an angle. For instance by placing your radbolt generator below and to the left of your materials study terminal. (You can also research a tile that lets radbolts pass through it, making it possible to shoot them from beneath the terminal.)
+往材料研究终端射辐射粒子时，想让做研究的复制人避开危险，一个办法是斜着射。比如把辐射粒子发生器放在材料研究终端的左下方。（你也可以研究一种能让辐射粒子穿过的砖，这样就可以从终端下方往上射。）
 
 ![ONI-guide-ManualRadboltSetup.png](assets/ONI-guide-ManualRadboltSetup-a641ec5d9f.png)
 
-Diagonal setup. Radbolts won't hit the dupe doing research. (But be mindful of what you have above and to the right of the terminal.)
+斜角布置。辐射粒子不会打到做研究的复制人。（但要注意终端上方和右边有什么。）
 
-If you are using a manual radbolt generator then you will need Uranium Ore to generate radbolts. (Some maps have it, if yours doesn't you can check the planet you can teleport to.)
+如果你用人力辐射粒子发生器，那就需要铀矿来产生辐射粒子。（有些地图有，你的地图要是没有，可以看看能传送过去的行星。）
 
-Digging up a few tiles of uranium ore is enough if you just want to get some of the early things researched. Once dug up, uranium ore is rad-free and fine for dupes to handle. (And even before you dig it up it only emits small amounts of radiation.)
+如果你只是想研究一些早期的东西，挖几格铀矿就够了。挖出来之后，铀矿就不带辐射了，复制人碰它没问题。（而且就算没挖出来，它放出的辐射也很少。）
 
-You can of course research lots of stuff with the manual radbolt generator if you want, it just ties up a dupe and uses uranium ore. I usually do lots of the early research on the manual generator (partly because the more advanced setup needs a lot of power and partly because setting it up takes a while and I'm lazy.) I switch over the the radbolt generator at the latest when research starts requiring hundreds of points per unlock.
+当然，你想用人力辐射粒子发生器研究一大堆东西也行，只是会占住一个复制人，还费铀矿。我早期的研究大多是用人力发生器做的（一部分是因为更高级的布置很费电，一部分是因为布置起来要花时间，而我懒。）最晚到研究开始需要每次解锁几百点的时候，我就会换成辐射粒子发生器。
 
-If you will be using a radbolt generator (not the manual one) then you need to place it in an area with a lot of rads. Or, more likely, you will place a lot of rads around your radbolt generator - commonly with the help of one or several Wheezeworts.
+如果你要用辐射粒子发生器（不是人力那个），那得把它放在辐射很多的地方。或者更可能的是，你会把大量辐射源摆在辐射粒子发生器周围——通常靠一株或几株冰息萝卜。
 
 ![ONI-guide-RadboltGeneratorSetup.png](assets/ONI-guide-RadboltGeneratorSetup-9b98844404.png)
 
-Wheezewort and radbolt generator. More wheezeworts produce more radiation. So stick in some extras if you have them.
+冰息萝卜和辐射粒子发生器。冰息萝卜越多，产生的辐射越多。所以手头有多余的就多塞几株。
 
 ![ONI-guide-Wheezewort-setup.png](assets/ONI-guide-Wheezewort-setup-d9a0a0a10e.png)
 
-I use us a design like this. (Note: Oops - the auto-sweeper can't reach the wheezewort on the bottom. So if you use something like this, modify it a bit. Have a second auto-sweeper below and place the phosphorite storage bin so both auto-sweepers can reach it. Or have a way for dupes to fertilize the bottom wheezewort. Or move the auto-sweeper to below the farm tiles.)
+我用的是这样的设计。（注意：哎呀——自动清扫器够不到最下面那株冰息萝卜。所以你要是用类似的东西，稍微改一下。在下面再放一台自动清扫器，把装磷矿的存储箱放到两台清扫器都够得到的地方。或者想办法让复制人能给最下面那株施肥。或者把清扫器移到土培砖下面。）
 
-Wheezeworts need to be fertilized with phosphorite. You can find it in the hot, purple (aka caustic) biome. Also, Dreckos and [Glossy Dreckos](low-tech-plastic-drecko-ranching.md) drop phosphorite.
+冰息萝卜需要用磷矿施肥。你可以在炎热、紫色（也就是腐蚀）的生态里找到磷矿。另外，毛鳞壁虎和[滑鳞壁虎](low-tech-plastic-drecko-ranching.md)也会掉磷矿。
 
-Wheezeworts produce a lot of radiation. A lot of Wheezeworts produce a lot of a lot of radiation. You can save your dupes a bunch of radiation exposure by setting up a storage bin and an auto-sweeper so the auto-sweeper handles the fertilization. (I need to check this but I think phosphorite is under "agriculture" in the storage bin selection list.)
+冰息萝卜会产生大量辐射。很多冰息萝卜会产生大量大量的辐射。你可以摆一个存储箱加一台自动清扫器，让清扫器负责施肥，这样能让复制人少受一堆辐射。（这点我得再确认一下，不过我记得磷矿在存储箱的筛选列表里属于"农业"。）
 
-When planning your layout, keep in mind that it is the lower, green part of the radbolt generator that collects rads. Also, particularly if you are manually fertilizing the wheezeworts, make sure dupes can't be hit by radbolts.
+规划布局的时候记住，收集辐射的是辐射粒子发生器下面那个绿色的部分。另外，特别是你手动给冰息萝卜施肥的时候，要确保复制人不会被辐射粒子打到。
 
-A radbolt generator will generate 1/10th of the rads in its surroundings. (So 1000 rads per cycle would generate 100 radbolt points per cycle.)
+辐射粒子发生器会产生周围辐射量的十分之一。（所以每周期 1000 辐射会产生每周期 100 点辐射粒子。）
 
-A final note: The radbolt generator is a power-hungry little thing (480W). If there are brownouts - if you run out of power - it begins losing its radiation charge. So put some thought into power and how you will make sure you have a steady supply when setting up this research build.
+最后一点：辐射粒子发生器是个很耗电的小东西（480W）。如果出现电压不足——也就是断电——它就会开始流失辐射充能。所以布置这套研究装置时，多想想电力，以及怎么保证供电稳定。
 
-(And, if all of this seems a bit much to deal with, you can always use the manual generator until you feel ready to go for a wheezewort setup.)
+（还有，如果这一切看起来有点太麻烦了，你完全可以一直用人力发生器，等你觉得准备好了再去搞冰息萝卜的方案。）
 
-## Interstellar Research (the one with the data banks)
+## 星际研究（就是那个用数据磁盘的）
 
 ![Building_Virtual_Planetarium.webp](assets/Building_Virtual_Planetarium-ea6d04181a.png)
 
-Virtual Planetarium
+虚拟天象仪
 
 ![Data_Bank.webp](assets/Data_Bank-6298e77327.png)
 
-Data Bank
+数据磁盘
 
 ![Building_Orbital_Microlab.webp](assets/Building_Orbital_Microlab-7f602c9e40.png)
 
-Orbital Collection Lab
+轨道数据收集实验仪
 
-Interstellar research is conducted in a Virtual Planetarium using Data Banks.
+星际研究是在虚拟天象仪里用数据磁盘进行的。
 
-You will come across some data banks on your map. Whenever you find a structure of any kind, click on it and see if you can examine it. Often you can, and it will result in some data banks. Analyzing geysers and the like also gives some data banks.
+你会在自己的地图上碰到一些数据磁盘。每当你发现任何类型的建筑结构，点一下它，看看能不能研究它。通常都能，然后就能拿到一些数据磁盘。分析间歇泉之类的东西也会给一些数据磁盘。
 
-The data banks you come across won't be anywhere near enough to unlock the entire research tree. To get additional data banks you will need an Orbital Collection Lab.
+你碰到的那些数据磁盘远远不够解锁整棵科技树。要获得更多数据磁盘，你需要一台轨道数据收集实验仪。
 
-The orbital collection lab uses dupe labour and plastic to generate data banks. However, you can only operate orbital collection labs when in space. Blasting off and heading one tile in any direction is enough.
+轨道数据收集实验仪用复制人的劳动力和塑料来生产数据磁盘。不过，你只能在太空里操作轨道数据收集实验仪。起飞后往任意方向飞一格就够了。
 
-([Getting to space](getting-to-space-dlc.md) is covered later in the guide.)
+（[飞向太空](getting-to-space-dlc.md)在指南后面讲。）
 
-Use of the orbital collection lab is affected by the machinery skill. But its use is not locked behind any particular skill - any dupe can use it.
+轨道数据收集实验仪的使用受机械技能影响。但使用它不受任何特定技能限制——任何复制人都能用。
 
-To unlock the entire research tree you will need a lot of plastic - upwards of 10K. So give some thought to your plastic production. (Later in this guide we'll cover the low-tech option of [ranching Glossy Dreckos](low-tech-plastic-drecko-ranching.md) and also [refining petroleum](getting-oil-petroleum-and-plastic.md).)
+要解锁整棵科技树，你需要大量塑料——一万以上。所以想想你的塑料生产。（本指南后面会讲低科技方案[养殖滑鳞壁虎](low-tech-plastic-drecko-ranching.md)，还有[精炼石油](getting-oil-petroleum-and-plastic.md)。）
 
 ---
 
-*Archived from [https://www.guidesnotincluded.com/spaced-out-research-guide](https://www.guidesnotincluded.com/spaced-out-research-guide) ([Wayback Machine snapshot](https://web.archive.org/web/20250720063052id_/https://www.guidesnotincluded.com/spaced-out-research-guide)). Original work © Some Random Finn / guidesnotincluded.com, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Reformatted from HTML to Markdown for this non-commercial community archive — see [Attribution & licensing](attribution.md).*
+*归档自 [https://www.guidesnotincluded.com/spaced-out-research-guide](https://www.guidesnotincluded.com/spaced-out-research-guide)（[Wayback Machine 快照](https://web.archive.org/web/20250720063052id_/https://www.guidesnotincluded.com/spaced-out-research-guide)）。原创作品 © Some Random Finn / guidesnotincluded.com，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。本非商业社区档案馆将该页由 HTML 重新排版为 Markdown，并由社区翻译为简体中文——见[署名与许可](attribution.md)。*
